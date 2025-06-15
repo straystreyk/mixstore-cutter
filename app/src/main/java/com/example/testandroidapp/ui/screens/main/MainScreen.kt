@@ -1,6 +1,5 @@
 package com.example.testandroidapp.ui.screens.main
 
-import androidx.compose.foundation.BorderStroke
 import androidx.compose.foundation.clickable
 import androidx.compose.foundation.layout.Column
 import androidx.compose.foundation.layout.Spacer
@@ -61,6 +60,7 @@ fun MainScreen(navController: NavController) {
                     colors = CardDefaults.cardColors(
                         containerColor = MaterialTheme.colorScheme.onPrimary,
                     ),
+                    onClick = { navController.navigate("user/${user.id}") },
                     modifier = Modifier
                         .fillMaxWidth()
                         .height(100.dp)
