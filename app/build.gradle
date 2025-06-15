@@ -38,6 +38,9 @@ android {
 }
 
 dependencies {
+    implementation libs.coil.network.okhttp
+    implementation libs.coil.network.ktor3
+    implementation libs.coil.compose
     implementation libs.androidx.ui
     implementation libs.retrofit
     implementation libs.retrofit2.converter.gson

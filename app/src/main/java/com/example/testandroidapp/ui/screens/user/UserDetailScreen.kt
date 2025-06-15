@@ -16,11 +16,16 @@ import androidx.compose.runtime.rememberCoroutineScope
 import androidx.compose.runtime.setValue
 import androidx.compose.ui.Alignment
 import androidx.compose.ui.Modifier
+import androidx.compose.ui.graphics.Color
+import androidx.compose.ui.text.LinkAnnotation
+import androidx.compose.ui.text.SpanStyle
+import androidx.compose.ui.text.TextLinkStyles
+import androidx.compose.ui.text.buildAnnotatedString
+import androidx.compose.ui.text.withLink
 import androidx.compose.ui.unit.dp
 import androidx.navigation.NavController
 import com.example.testandroidapp.data.model.UserDto
 import com.example.testandroidapp.data.repository.UserRepository
-import kotlinx.coroutines.delay
 import kotlinx.coroutines.launch
 
 @Composable
@@ -63,6 +68,17 @@ fun UserDetailScreen(
             user != null -> {
                 Text("Имя: ${user?.name}", style = MaterialTheme.typography.headlineSmall)
                 Text("Email: ${user?.email}", style = MaterialTheme.typography.bodyMedium)
+                Text(buildAnnotatedString {
+                    append("Website: ")
+                    withLink(
+                        LinkAnnotation.Url(
+                            "https://tskanyan.ru",
+                            TextLinkStyles(style = SpanStyle(color = Color.Blue))
+                        )
+                    ) {
+                        append(user?.website)
+                    }
+                }, style = MaterialTheme.typography.bodyMedium)
             }
 
             else -> {
