@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Creator: CorelDRAW X8 -->
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="40mm" height="60mm" version="1.1" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
+viewBox="0 0 4000 6000"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <style type="text/css">
+   <![CDATA[
+    .str1 {stroke:#222222;stroke-width:20}
+    .str0 {stroke:#222222;stroke-width:10}
+    .fil0 {fill:none}
+   ]]>
+  </style>
+ </defs>
+ <g id="图层_x0020_1">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <g id="_2822980553600">
+   <path class="fil0 str0" d="M878 5172l1955 0c159,0 289,-130 289,-289l0 -3944c0,-159 -130,-289 -289,-289l-1610 0c-159,0 -289,130 -289,289l0 3944c0,159 130,289 289,289 159,0 316,85 316,178"/>
+   <path class="fil0 str0" d="M1947 824c0,-27 -44,-37 -58,-37 -14,0 -26,11 -26,25l0 0c0,14 12,26 26,26l278 0c14,0 25,-12 25,-26l0 0c0,-14 -11,-25 -25,-25l-278 0"/>
+   <path class="fil0 str0" d="M2524 830c0,-39 -36,-56 -56,-56 -19,0 -36,16 -36,36l0 0c0,20 17,36 36,36l82 0c20,0 36,-16 36,-36l0 0c0,-20 -16,-36 -36,-36l-82 0"/>
+   <path class="fil0 str0" d="M2716 823c0,-11 4,-56 28,-56 25,0 44,20 44,44 0,24 -19,44 -44,44 -24,0 -44,-20 -44,-44 0,-24 20,-44 44,-44"/>
+  </g>
+  <path class="fil0 str1" d="M-2899 6339l0 -5831c0,-480 -399,-873 -887,-873l-12103 0c-488,0 -888,393 -888,873l0 4865c0,481 400,874 888,874l12103 0c488,0 887,-393 887,-874 0,-480 246,-739 427,-739"/>
+  <path class="fil0 str1" d="M-16334 3194c-85,0 -117,137 -117,181 0,43 36,79 79,79l0 0c44,0 80,-36 80,-79l0 -865c0,-43 -36,-79 -80,-79l0 0c-43,0 -79,36 -79,79l0 865"/>
+  <path class="fil0 str1" d="M-16315 1396c-123,0 -175,114 -175,175 0,61 50,111 112,111l0 0c61,0 111,-50 111,-111l0 -256c0,-61 -50,-111 -111,-111l0 0c-62,0 -112,50 -112,111l0 256"/>
+  <path class="fil0 str1" d="M-16338 801c-34,0 -174,-14 -174,-90 0,-75 61,-136 137,-136 75,0 137,61 137,136 0,76 -62,137 -137,137 -76,0 -137,-61 -137,-137"/>
+ </g>
+</svg>

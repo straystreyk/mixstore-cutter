@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Creator: CorelDRAW 2020 (64-Bit) -->
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="40mm" height="60mm" version="1.1" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
+viewBox="0 0 4000 6000"
+ xmlns:xlink="http://www.w3.org/1999/xlink"
+ xmlns:xodm="http://www.corel.com/coreldraw/odm/2003">
+ <defs>
+  <style type="text/css">
+   <![CDATA[
+    .str0 {stroke:#332C2B;stroke-width:20;stroke-miterlimit:22.9256}
+    .str1 {stroke:#332C2B;stroke-width:7.62;stroke-miterlimit:22.9256}
+    .fil0 {fill:none}
+   ]]>
+  </style>
+   <clipPath id="id0">
+    <rect x="-101962.48" y="-17128.87" width="25486" height="17220.93"/>
+   </clipPath>
+ </defs>
+ <g id="图层_x0020_1">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <g style="clip-path:url(#id0)">
+   <image x="-101962.48" y="-17128.87" width="25486" height="17220.93" xlink:href="WIZE 3761 3G—(背膜)_Images\WIZE 3761 3G—(背膜)_ImgID1.png"/>
+  </g>
+  <rect class="fil0 str0" x="-99641.35" y="-14712.38" width="21700.01" height="13597"/>
+  <rect class="fil0 str0" x="-99517.79" y="-14632.95" width="21449.69" height="13390.18" rx="704.84" ry="307.83"/>
+  <circle class="fil0 str0" cx="-88765.33" cy="-14028.92" r="337.19"/>
+  <rect class="fil0 str1" x="8058.48" y="-1645.17" width="21449.69" height="13390.18" rx="704.84" ry="307.83"/>
+  <circle class="fil0 str1" cx="18810.94" cy="-1041.14" r="337.19"/>
+  <g id="_1572418012096">
+   <rect class="fil0 str1" x="143.4" y="1850.79" width="3700" height="2309.76" rx="121.58" ry="53.1"/>
+   <circle class="fil0 str1" cx="1998.16" cy="1954.98" r="58.16"/>
+  </g>
+ </g>
+</svg>

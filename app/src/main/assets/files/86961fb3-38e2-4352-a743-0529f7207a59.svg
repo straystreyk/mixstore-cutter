@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Creator: CorelDRAW 2021 (64-Bit) -->
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="40mm" height="60mm" version="1.1" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
+viewBox="0 0 4000 6000"
+ xmlns:xlink="http://www.w3.org/1999/xlink"
+ xmlns:xodm="http://www.corel.com/coreldraw/odm/2003">
+ <defs>
+  <style type="text/css">
+   <![CDATA[
+    .str0 {stroke:black;stroke-width:20;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:22.9256}
+    .fil0 {fill:none}
+   ]]>
+  </style>
+ </defs>
+ <g id="图层_x0020_1">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <rect class="fil0 str0" transform="matrix(0.718467 0.000148454 -0.000185641 0.902976 -86103.5 -6851.76)" width="9747.3" height="17538.62" rx="968.79" ry="968.79"/>
+  <path class="fil0 str0" d="M-27659.66 5120l0 -7099.42c0,-384.99 -315.01,-700 -700,-700l-14186.12 0c-385,0 -700,315 -700,700l0 5642.91c0,385 315,700 700,700l14186.12 0c385,0 700,-315 700,-700 0,-385 289.2,-609.62 846.86,-609.62"/>
+  <path class="fil0 str0" d="M-42864.18 852.72c0,-116.8 94.68,-211.48 211.47,-211.48 116.8,0 211.48,94.68 211.48,211.48 0,116.79 -94.68,211.47 -211.48,211.47 -116.79,0 -211.47,-94.68 -211.47,-211.47z"/>
+  <circle class="fil0 str0" cx="-82729.61" cy="-3218.8" r="617.54"/>
+  <rect class="fil0 str0" x="-85811.62" y="-6233.51" width="1070.05" height="2743.12" rx="5000" ry="5028.22"/>
+  <circle class="fil0 str0" cx="-85276.49" cy="-2873.02" r="227.99"/>
+  <g id="_2573730721968">
+   <path class="fil0 str0" d="M878.04 5113.46l2030.51 0c110.11,0 200.2,-90.1 200.2,-200.21l0 -4057.37c0,-110.12 -90.09,-200.21 -200.2,-200.21l-1613.93 0c-110.11,0 -200.21,90.09 -200.21,200.21l0 4057.37c0,110.12 90.1,200.21 200.21,200.21 110.11,0 174.36,82.71 174.36,242.21"/>
+   <path class="fil0 str0" d="M2098.53 764.81c33.4,0 60.48,27.08 60.48,60.48 0,33.41 -27.08,60.49 -60.48,60.49 -33.4,0 -60.48,-27.08 -60.48,-60.49 0,-33.4 27.08,-60.48 60.48,-60.48z"/>
+  </g>
+ </g>
+</svg>

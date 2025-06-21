@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Creator: CorelDRAW 2020 (64-Bit) -->
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="40mm" height="60mm" version="1.1" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
+viewBox="0 0 4000 6000"
+ xmlns:xlink="http://www.w3.org/1999/xlink"
+ xmlns:xodm="http://www.corel.com/coreldraw/odm/2003">
+ <defs>
+  <style type="text/css">
+   <![CDATA[
+    .str0 {stroke:#E72D28;stroke-width:20;stroke-miterlimit:22.9256}
+    .str1 {stroke:#222222;stroke-width:20;stroke-miterlimit:22.9256}
+    .fil0 {fill:none}
+   ]]>
+  </style>
+   <clipPath id="id0">
+    <rect x="-101968.84" y="-14729.55" width="40489.42" height="27186.68"/>
+   </clipPath>
+ </defs>
+ <g id="图层_x0020_1">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <g style="clip-path:url(#id0)">
+   <image x="-101968.84" y="-14729.55" width="40489.42" height="27186.68" xlink:href="Vivobook 15 pro-11i（前膜全屏）_Images\Vivobook 15 pro-11i（前膜全屏）_ImgID1.png"/>
+  </g>
+  <rect class="fil0 str0" x="-98907.68" y="-11798.21" width="34300" height="19300" rx="218.68" ry="150"/>
+  <path class="fil0 str1" d="M-22503.02 21013.13l19164.03 0c82.5,0 150,-67.5 150,-150l0 -34000c0,-82.51 -67.49,-150 -150,-150l-18999.99 0c-82.51,0 -150.01,67.49 -150.01,150l0 34000c0,82.51 67.5,150 150.01,150 82.51,0 249.21,8.32 326.6,59.91"/>
+  <path class="fil0 str1" d="M672.44 5347.48l2621.4 0c11.28,0 20.51,-9.24 20.51,-20.52l0 -4650.77c0,-11.29 -9.23,-20.52 -20.51,-20.52l-2598.96 0c-11.28,0 -20.52,9.23 -20.52,20.52l0 4650.77c0,11.28 9.24,20.52 20.52,20.52 11.29,0 34.09,1.13 44.68,8.19"/>
+ </g>
+</svg>

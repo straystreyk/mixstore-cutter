@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Creator: CorelDRAW -->
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="40mm" height="60mm" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
+viewBox="0 0 40 60"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <style type="text/css">
+   <![CDATA[
+    .str0 {stroke:#1F1A17;stroke-width:0.194}
+    .str1 {stroke:#1F1A17;stroke-width:0.2}
+    .fil1 {fill:none}
+    .fil0 {fill:none;fill-rule:nonzero}
+   ]]>
+  </style>
+ </defs>
+ <g id="图层_x0020_13">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <polyline class="fil0 str0" points="23.2035,16.3382 23.2035,16.4264 23.1766,16.4264 23.1967,16.4264 "/>
+  <path class="fil0 str0" d="M23.1967 16.4264c-0.1255,0.7857 -0.8106,1.3655 -1.6136,1.3636 -0.9123,-0.001 -1.6435,-0.7312 -1.6425,-1.6425 0,-0.9094 0.7321,-1.6415 1.6425,-1.6425 0.9783,-0.0019 1.743,0.8538 1.629,1.8207 -0.0058,0.0508 -0.0115,0.092 -0.0288,0.2089"/>
+  <path class="fil0 str0" d="M33.1522 51.1816c-0.001,1.3033 -1.1087,2.5069 -2.48,2.6966"/>
+  <polyline class="fil0 str0" points="30.6722,53.8782 30.1988,53.8954 12.9682,53.9031 "/>
+  <path class="fil0 str0" d="M12.9682 53.9031c-0.2462,-0.0057 -0.319,-0.0144 -0.5529,-0.0661 -1.0991,-0.2415 -1.9472,-1.0876 -2.2011,-2.1973 -0.0594,-0.2568 -0.0613,-0.2808 -0.0613,-0.7197"/>
+  <line class="fil0 str0" x1="10.1529" y1="50.92" x2="10.1701" y2= "9.3754" />
+  <path class="fil0 str0" d="M10.1701 9.3754c0.1869,-1.3157 1.3521,-2.4177 2.6142,-2.4723"/>
+  <line class="fil0 str0" x1="12.7843" y1="6.9031" x2="30.6712" y2= "6.9175" />
+  <path class="fil0 str0" d="M30.6712 6.9175c1.0052,0.1351 1.8945,0.8135 2.2663,1.7297 0.1323,0.3248 0.2128,0.6401 0.2214,0.8595"/>
+  <polyline class="fil0 str0" points="33.1589,9.5067 33.18,50.9287 33.157,51.2382 33.1522,51.379 "/>
+ </g>
+ <g id="图层_x0020_14">
+  <metadata id="CorelCorpID_1Corel-Layer"/>
+  <ellipse class="fil1 str1" cx="12.9869" cy="12.5301" rx="1.2511" ry="1.2358"/>
+  <ellipse class="fil1 str1" cx="12.9869" cy="9.6269" rx="1.2511" ry="1.2358"/>
+  <ellipse class="fil1 str1" cx="12.9774" cy="14.8845" rx="0.5794" ry="0.5668"/>
+ </g>
+</svg>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Creator: CorelDRAW 2020 (64-Bit) -->
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="40mm" height="60mm" version="1.1" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
+viewBox="0 0 4000 6000"
+ xmlns:xlink="http://www.w3.org/1999/xlink"
+ xmlns:xodm="http://www.corel.com/coreldraw/odm/2003">
+ <defs>
+  <style type="text/css">
+   <![CDATA[
+    .str1 {stroke:#332C2B;stroke-width:20;stroke-miterlimit:22.9256}
+    .str0 {stroke:#E62129;stroke-width:20;stroke-miterlimit:22.9256}
+    .fil0 {fill:none}
+   ]]>
+  </style>
+   <clipPath id="id0">
+    <rect x="-48310.18" y="-9338.92" width="11024.96" height="19362.77"/>
+   </clipPath>
+ </defs>
+ <g id="图层_x0020_1">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <g style="clip-path:url(#id0)">
+   <image transform="matrix(3.06552E-14 -1.13873 1.15748 3.01586E-14 -48310.2 10023.8)" x="0" y="0" width="17003.88" height="9525" xlink:href="DriveSmart 65 -11i（前膜）_Images\DriveSmart 65 -11i（前膜）_ImgID1.png"/>
+  </g>
+  <rect class="fil0 str0" x="-47692.37" y="-8196.05" width="9900" height="17300"/>
+  <rect class="fil0 str0" x="-47258.83" y="-7787.31" width="8900" height="16345.98" rx="100" ry="115.96"/>
+  <path class="fil0 str1" d="M-4385.68 6443.91l0 -8781.35c0,-55 -45.01,-100.01 -100,-100.01l-16145.99 0c-54.99,0 -99.99,45 -99.99,100.01l0 8699.99c0,55.01 45,100 99.99,100l16145.99 0c55,0 100,-44.99 100,-100 0,-55.01 7.27,-119.22 36.38,-160.56"/>
+  <path class="fil0 str1" d="M721.54 5340.09l2519.32 0c15.78,0 28.69,-12.91 28.69,-28.69l0 -4632.18c0,-15.78 -12.91,-28.69 -28.69,-28.69l-2495.98 0c-15.78,0 -28.69,12.91 -28.69,28.69l0 4632.18c0,15.78 12.91,28.69 28.69,28.69 15.78,0 34.2,2.09 46.06,10.44"/>
+ </g>
+</svg>

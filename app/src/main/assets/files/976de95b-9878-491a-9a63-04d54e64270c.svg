@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Creator: CorelDRAW -->
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="40mm" height="60mm" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
+viewBox="0 0 40 60"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <style type="text/css">
+   <![CDATA[
+    .str0 {stroke:#1F1A17;stroke-width:0.194}
+    .str1 {stroke:#1F1A17;stroke-width:0.2}
+    .fil1 {fill:none}
+    .fil0 {fill:none;fill-rule:nonzero}
+   ]]>
+  </style>
+ </defs>
+ <g id="图层_x0020_1">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <g id="_216276936">
+   <line id="_216277776" class="fil0 str0" x1="29.2634" y1="53.5001" x2="10.7786" y2= "53.4976" />
+   <path id="_216279024" class="fil0 str0" d="M10.7786 53.4976c-0.1936,-0.0184 -0.3638,-0.1284 -0.5391,-0.3496 -0.0693,-0.0866 -0.0815,-0.1651 -0.0826,-0.5157"/>
+   <line id="_274386664" class="fil0 str0" x1="10.1569" y1="52.6323" x2="10.0438" y2= "13.8626" />
+   <path id="_273827976" class="fil0 str0" d="M10.0438 13.8626c-0.0163,-5.5922 0.001,-6.4248 0.1417,-6.8956 0.0316,-0.105 0.107,-0.1957 0.3016,-0.3619 0.104,-0.0886 0.1825,-0.1049 0.5259,-0.1049"/>
+   <line id="_274512256" class="fil0 str0" x1="11.013" y1="6.5002" x2="29.3364" y2= "6.5002" />
+   <path id="_273735344" class="fil0 str0" d="M29.3364 6.5002c0.2008,0.0142 0.2864,0.0693 0.5218,0.3312 0.0887,0.0989 0.104,0.1763 0.1029,0.5371"/>
+   <line id="_274386184" class="fil0 str0" x1="29.9611" y1="7.3685" x2="29.8776" y2= "41.7926" />
+   <path id="_274382008" class="fil0 str0" d="M29.8776 41.7926c-0.0091,3.723 0.0672,7.4547 0.0672,11.174 0,0.326 -0.4232,0.5287 -0.6975,0.5335"/>
+   <rect id="_274381672" class="fil1 str1" x="18.2123" y="7.16465" width="3.70941" height="0.646952" rx="1.1197" ry="1.1197"/>
+   <circle id="_273735104" class="fil1 str1" cx="27.1703" cy="7.52588" r="0.517786"/>
+  </g>
+ </g>
+</svg>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Creator: CorelDRAW 2020 (64-Bit) -->
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="40mm" height="60mm" version="1.1" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
+viewBox="0 0 4000 6000"
+ xmlns:xlink="http://www.w3.org/1999/xlink"
+ xmlns:xodm="http://www.corel.com/coreldraw/odm/2003">
+ <defs>
+  <style type="text/css">
+   <![CDATA[
+    .str1 {stroke:#332C2B;stroke-width:20;stroke-miterlimit:22.9256}
+    .str2 {stroke:#332C2B;stroke-width:20;stroke-miterlimit:22.9256}
+    .str0 {stroke:#E62129;stroke-width:20;stroke-miterlimit:22.9256}
+    .fil0 {fill:none}
+   ]]>
+  </style>
+   <clipPath id="id0">
+    <rect x="-58683.55" y="-5280.37" width="15684.77" height="15822.37"/>
+   </clipPath>
+ </defs>
+ <g id="图层_x0020_1">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <g style="clip-path:url(#id0)">
+   <image x="-58683.55" y="-5280.37" width="15684.77" height="15822.37" xlink:href="13 -11i（UV）_Images\13 -11i（UV）_ImgID1.png"/>
+  </g>
+  <rect class="fil0 str0" x="-58396.06" y="-4999.91" width="7150" height="15280"/>
+  <path class="fil0 str0" d="M-57346.04 -4902l1465.06 0c42.48,0 69.54,33.77 91.17,33.77l1950 0c21.63,0 54.64,-33.77 88.85,-33.77l1454.88 0c522.5,0 950,427.52 950,949.99l0 13133.04c0,522.49 -427.5,950 -950,950l-5049.96 0c-522.5,0 -950,-427.51 -950,-950l0 -13133.04c0,-522.49 427.5,-949.99 950,-949.99z"/>
+  <circle class="fil0 str1" cx="-54818.19" cy="-4373.77" r="208.16"/>
+  <path class="fil0 str2" d="M-5693.12 5584.57l0 -5400.65c0,-514.98 -424.67,-936.34 -943.67,-936.34l-13045.66 0c-518.99,0 -943.66,421.35 -943.66,936.34 0,1664.04 0,3313.24 0,4977.32 0,514.99 424.65,936.34 943.66,936.34l13045.66 0c519.01,0 943.67,-421.35 943.67,-936.34 0,-514.99 72.46,-659.22 116.12,-719.41"/>
+  <path class="fil0 str2" d="M1083.95 5319.4l1686.69 0c160.83,0 292.42,-132.63 292.42,-294.72l0 -4074.3c0,-162.08 -131.59,-294.71 -292.42,-294.71 -519.7,0 -1034.77,0 -1554.48,0 -160.83,0 -292.42,132.62 -292.42,294.71l0 4074.3c0,162.1 131.59,294.72 292.42,294.72 160.84,0 205.89,22.63 224.68,36.27"/>
+ </g>
+</svg>

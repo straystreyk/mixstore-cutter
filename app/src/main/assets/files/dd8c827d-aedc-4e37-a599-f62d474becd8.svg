@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Creator: CorelDRAW 2020 (64-Bit) -->
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="40mm" height="60mm" version="1.1" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
+viewBox="0 0 4000 6000"
+ xmlns:xlink="http://www.w3.org/1999/xlink"
+ xmlns:xodm="http://www.corel.com/coreldraw/odm/2003">
+ <defs>
+  <style type="text/css">
+   <![CDATA[
+    .str1 {stroke:#332C2B;stroke-width:20;stroke-miterlimit:22.9256}
+    .str2 {stroke:#332C2B;stroke-width:20;stroke-miterlimit:22.9256}
+    .str0 {stroke:#E62129;stroke-width:20;stroke-miterlimit:22.9256}
+    .fil0 {fill:none}
+   ]]>
+  </style>
+   <clipPath id="id0">
+    <rect x="-54375.87" y="-5345.72" width="14299.42" height="17436.08"/>
+   </clipPath>
+ </defs>
+ <g id="图层_x0020_1">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <g style="clip-path:url(#id0)">
+   <image x="-54375.87" y="-5345.72" width="14299.42" height="17436.08" xlink:href="GT Neo 3T -11i（防爆膜）_Images\GT Neo 3T -11i（防爆膜）_ImgID1.png"/>
+  </g>
+  <rect class="fil0 str0" x="-47914.39" y="-4824.08" width="7580" height="16290"/>
+  <rect class="fil0 str0" x="-47634.01" y="-4472.18" width="7019.24" height="15465.7" rx="600" ry="656.27"/>
+  <circle class="fil0 str1" cx="-46988.8" cy="-4017.66" r="201.09"/>
+  <path class="fil0 str2" d="M-3626.52 6017.82l0 -6258.45c0,-329.99 -270.01,-600 -600,-600l-14265.7 0c-330,0 -600,270 -600,600l0 5819.24c0,330.01 270,600 600,600l14265.7 0c330,0 600,-269.99 600,-600 0,-330.01 32.42,-557.9 86.66,-650.51"/>
+  <path class="fil0 str2" d="M981.37 5329.48l1891.33 0c99.73,0 181.33,-81.6 181.33,-181.32l0 -4311.17c0,-99.72 -81.6,-181.32 -181.33,-181.32l-1758.6 0c-99.73,0 -181.33,81.6 -181.33,181.32l0 4311.17c0,99.73 81.6,181.32 181.33,181.32 99.73,0 168.6,9.8 196.59,26.19"/>
+ </g>
+</svg>

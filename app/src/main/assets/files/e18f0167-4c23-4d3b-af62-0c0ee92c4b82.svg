@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Creator: CorelDRAW X8 -->
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="40mm" height="60mm" version="1.1" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
+viewBox="0 0 4000 6000"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <style type="text/css">
+   <![CDATA[
+    .str0 {stroke:#332C2B;stroke-width:19.4}
+    .fil0 {fill:none;fill-rule:nonzero}
+   ]]>
+  </style>
+ </defs>
+ <g id="图层_x0020_1">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <g id="_2149997220512">
+   <line class="fil0 str0" x1="3075" y1="5348" x2="1087" y2= "5348" />
+   <path class="fil0 str0" d="M1087 5348c-43,-1 -64,-7 -93,-27 -35,-24 -63,-64 -71,-99"/>
+   <line class="fil0 str0" x1="923" y1="5222" x2="917" y2= "841" />
+   <path class="fil0 str0" d="M917 841c1,-25 2,-33 5,-38"/>
+   <polyline class="fil0 str0" points="922,803 923,803 924,804 "/>
+   <path class="fil0 str0" d="M924 804c2,-53 24,-92 70,-125 31,-22 51,-27 100,-28"/>
+   <line class="fil0 str0" x1="1094" y1="651" x2="1659" y2= "653" />
+   <path class="fil0 str0" d="M1659 653c38,1 45,2 49,7 4,5 6,15 6,33"/>
+   <line class="fil0 str0" x1="1714" y1="693" x2="1715" y2= "732" />
+   <path class="fil0 str0" d="M1715 732c2,35 19,58 46,62 29,4 242,8 463,8 188,0 255,-1 291,-4 36,-4 51,-10 63,-29 9,-14 10,-18 10,-54"/>
+   <line class="fil0 str0" x1="2588" y1="715" x2="2588" y2= "694" />
+   <path class="fil0 str0" d="M2588 694c0,-44 0,-44 104,-44"/>
+   <line class="fil0 str0" x1="2692" y1="650" x2="2703" y2= "650" />
+   <path class="fil0 str0" d="M2703 650c272,0 275,0 319,38 27,22 47,53 58,88 2,9 3,36 3,147"/>
+   <line class="fil0 str0" x1="3083" y1="923" x2="3079" y2= "5221" />
+   <path class="fil0 str0" d="M3079 5221c0,25 -29,71 -60,94 -21,16 -45,26 -73,31"/>
+   <polyline class="fil0 str0" points="2946,5346 2929,5348 2924,5349 2921,5350 "/>
+  </g>
+ </g>
+</svg>

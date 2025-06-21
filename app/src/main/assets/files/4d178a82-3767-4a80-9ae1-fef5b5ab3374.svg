@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Creator: CorelDRAW 2021 (64-Bit) -->
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="40mm" height="60mm" version="1.1" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
+viewBox="0 0 4000 6000"
+ xmlns:xlink="http://www.w3.org/1999/xlink"
+ xmlns:xodm="http://www.corel.com/coreldraw/odm/2003">
+ <defs>
+  <style type="text/css">
+   <![CDATA[
+    .str0 {stroke:black;stroke-width:16.93;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10}
+    .str1 {stroke:#373435;stroke-width:20;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:22.9256}
+    .fil0 {fill:none}
+   ]]>
+  </style>
+ </defs>
+ <g id="图层_x0020_1">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <g id="_2786924462704">
+   <path class="fil0 str0" d="M875.91 5046.44l1953.96 0c105.47,-8.11 166.5,-70.46 174.51,-174.51l0 -3666.7c-8.07,-104.85 -69.57,-166.43 -174.51,-174.5l-447.23 0c-95.14,7.33 -33.02,91.36 -118.08,105.54l-535.01 0c-85.27,-13.13 -24.6,-98.26 -119.12,-105.54l-453.51 0c-104.93,8.08 -166.44,69.65 -174.5,174.5l0 3666.7c8.06,104.85 69.58,166.44 174.5,174.51 104.93,8.06 187.83,20.42 187.83,106.76"/>
+   <circle class="fil0 str1" cx="1258.29" cy="724.56" r="68.89"/>
+   <circle class="fil0 str1" cx="2675.22" cy="724.56" r="68.89"/>
+   <circle class="fil0 str1" cx="867.48" cy="5286.77" r="68.89"/>
+   <circle class="fil0 str1" cx="867.48" cy="5286.77" r="68.89"/>
+   <circle class="fil0 str1" cx="3119.32" cy="5286.77" r="68.89"/>
+  </g>
+  <path class="fil0 str0" d="M-13784.67 6910.66l0 -7374.01c-30.59,-398 -265.88,-628.34 -658.55,-658.56l-13837.65 0c-395.7,30.45 -628.09,262.54 -658.56,658.56l0 1687.81c27.66,359.03 344.77,124.62 398.29,445.61l0 2019.06c-49.53,321.81 -370.81,92.83 -398.29,449.56l0 1711.47c30.48,395.99 262.87,628.14 658.56,658.55l13837.65 0c395.66,-30.41 628.11,-262.57 658.55,-658.55 30.44,-395.98 77.09,-708.85 402.9,-708.85"/>
+  <circle class="fil0 str1" transform="matrix(2.51846E-14 -0.950918 0.950918 2.51846E-14 -30094.9 5467.63)" r="273.42"/>
+  <circle class="fil0 str1" transform="matrix(2.51846E-14 -0.950918 0.950918 2.51846E-14 -30094.9 120.29)" r="273.42"/>
+  <circle class="fil0 str1" transform="matrix(2.51846E-14 -0.950918 0.950918 2.51846E-14 -12877.7 6942.49)" r="273.42"/>
+  <circle class="fil0 str1" transform="matrix(2.51846E-14 -0.950918 0.950918 2.51846E-14 -12877.7 6942.49)" r="273.42"/>
+  <circle class="fil0 str1" transform="matrix(2.51846E-14 -0.950918 0.950918 2.51846E-14 -12877.7 -1555.68)" r="273.42"/>
+ </g>
+</svg>

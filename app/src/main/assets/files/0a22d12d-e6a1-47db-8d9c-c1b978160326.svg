@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Creator: CorelDRAW 2020 (64-Bit) -->
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="40mm" height="60mm" version="1.1" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
+viewBox="0 0 4000 6000"
+ xmlns:xlink="http://www.w3.org/1999/xlink"
+ xmlns:xodm="http://www.corel.com/coreldraw/odm/2003">
+ <defs>
+  <style type="text/css">
+   <![CDATA[
+    .str1 {stroke:#332C2B;stroke-width:20;stroke-miterlimit:22.9256}
+    .str0 {stroke:#E62129;stroke-width:20;stroke-miterlimit:22.9256}
+    .fil0 {fill:none}
+   ]]>
+  </style>
+   <clipPath id="id0">
+    <rect x="-104317.78" y="-29064.03" width="37377.87" height="28052.37"/>
+   </clipPath>
+ </defs>
+ <g id="图层_x0020_1">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <g style="clip-path:url(#id0)">
+   <image x="-104317.78" y="-29064.03" width="37377.87" height="28052.37" xlink:href="MacBook Pro 16（A2485 M1） -11i（背膜）_Images\MacBook Pro 16（A2485 M1） -11i（背膜）_ImgID1.png"/>
+  </g>
+  <rect class="fil0 str0" x="-103280.75" y="-27618.78" width="35600" height="24800"/>
+  <rect class="fil0 str0" x="-103280.75" y="-27618.78" width="35600" height="24800"/>
+  <rect class="fil0 str0" x="-103109.44" y="-27499.44" width="35257.38" height="24561.32" rx="1033.91" ry="1100"/>
+  <path class="fil0 str1" d="M-34055.7 11934.91l22832.3 0c604.99,0 1099.99,-495 1099.99,-1099.99l0 -33057.4c0,-605 -494.99,-1099.99 -1099.99,-1099.99l-22361.34 0c-605,0 -1099.99,494.99 -1099.99,1099.99l0 33057.4c0,605 494.99,1099.99 1099.99,1099.99 605,0 916.66,118.45 1025.14,215.02"/>
+  <path class="fil0 str1" d="M449.59 5327.18l3025.22 0c80.16,0 145.74,-65.59 145.74,-145.75l0 -4380.01c0,-80.17 -65.58,-145.75 -145.74,-145.75l-2962.82 0c-80.16,0 -145.74,65.58 -145.74,145.75l0 4380.01c0,80.17 65.58,145.75 145.74,145.75 80.16,0 121.46,15.69 135.83,28.49"/>
+ </g>
+</svg>

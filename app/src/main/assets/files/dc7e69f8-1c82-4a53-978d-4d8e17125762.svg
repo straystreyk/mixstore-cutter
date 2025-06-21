@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Creator: CorelDRAW 2020 (64-Bit) -->
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="40mm" height="60mm" version="1.1" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
+viewBox="0 0 4000 6000"
+ xmlns:xlink="http://www.w3.org/1999/xlink"
+ xmlns:xodm="http://www.corel.com/coreldraw/odm/2003">
+ <defs>
+  <style type="text/css">
+   <![CDATA[
+    .str1 {stroke:#332C2B;stroke-width:20;stroke-miterlimit:22.9256}
+    .str0 {stroke:#E62129;stroke-width:20;stroke-miterlimit:22.9256}
+    .fil0 {fill:none}
+   ]]>
+  </style>
+   <clipPath id="id0">
+    <rect x="-81308.58" y="-9820.44" width="36110.43" height="23745.51"/>
+   </clipPath>
+ </defs>
+ <g id="图层_x0020_1">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <g style="clip-path:url(#id0)">
+   <image x="-81308.58" y="-9820.44" width="36110.42" height="23745.52" xlink:href="RedmiBook Air 13 -11i（前膜全屏）_Images\RedmiBook Air 13 -11i（前膜全屏）_ImgID1.png"/>
+  </g>
+  <rect class="fil0 str0" x="-77835.82" y="-8539.64" width="29750" height="21200"/>
+  <rect class="fil0 str0" x="-77259.76" y="-7976.08" width="28597.88" height="17941.66" rx="161.94" ry="150"/>
+  <path class="fil0 str1" d="M-20773.93 17495.02l17772.64 0c82.48,0 150,-67.52 150,-150l0 -28297.88c0,-82.5 -67.5,-150 -150,-150l-17641.66 0c-82.5,0 -150,67.5 -150,150l0 28297.88c0,82.5 67.5,150 150,150 82.5,0 149.01,17.64 194.98,46.41"/>
+  <path class="fil0 str1" d="M524.04 5342.92l2916.17 0c13.53,0 24.61,-11.08 24.61,-24.62l0 -4643.16c0,-13.53 -11.08,-24.61 -24.61,-24.61l-2894.68 0c-13.53,0 -24.61,11.08 -24.61,24.61l0 4643.16c0,13.54 11.08,24.62 24.61,24.62 13.54,0 24.45,2.89 31.99,7.61"/>
+ </g>
+</svg>

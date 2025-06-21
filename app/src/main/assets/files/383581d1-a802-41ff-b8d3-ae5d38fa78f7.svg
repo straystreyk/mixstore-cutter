@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Creator: CorelDRAW X8 -->
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="40mm" height="60mm" version="1.1" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
+viewBox="0 0 4000 6000"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <style type="text/css">
+   <![CDATA[
+    .str0 {stroke:#332C2B;stroke-width:19.4}
+    .fil0 {fill:none;fill-rule:nonzero}
+   ]]>
+  </style>
+ </defs>
+ <g id="图层_x0020_1">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <g id="_2148697671280">
+   <g>
+    <line class="fil0 str0" x1="3024" y1="650" x2="3024" y2= "678" />
+    <line class="fil0 str0" x1="1096" y1="5312" x2="1096" y2= "5321" />
+    <path class="fil0 str0" d="M1096 5321c5,-1 8,-4 9,-9"/>
+    <line class="fil0 str0" x1="1105" y1="5312" x2="1426" y2= "5312" />
+    <path class="fil0 str0" d="M1426 5312c0,-2 -1,-4 -2,-6"/>
+    <line class="fil0 str0" x1="1424" y1="5306" x2="1430" y2= "5299" />
+    <path class="fil0 str0" d="M1430 5299c37,-42 37,-42 67,-44"/>
+    <line class="fil0 str0" x1="1497" y1="5255" x2="1502" y2= "5255" />
+    <path class="fil0 str0" d="M1502 5255c112,-5 472,-10 723,-10 219,0 302,3 314,13"/>
+    <line class="fil0 str0" x1="2539" y1="5258" x2="2554" y2= "5269" />
+    <path class="fil0 str0" d="M2554 5269c6,5 10,10 16,17"/>
+    <polyline class="fil0 str0" points="2570,5286 2596,5318 2598,5317 2599,5313 2599,5312 2757,5313 "/>
+    <path class="fil0 str0" d="M2757 5313c97,0 110,-1 146,-17 59,-25 100,-73 118,-138"/>
+    <line class="fil0 str0" x1="3021" y1="5158" x2="3034" y2= "1637" />
+    <path class="fil0 str0" d="M3034 1637c3,-789 3,-791 -14,-831 -33,-91 -91,-141 -172,-149 -16,-1 -40,-2 -89,-1"/>
+    <polyline class="fil0 str0" points="2759,656 2582,656 2582,657 "/>
+    <path class="fil0 str0" d="M2582 657c0,2 1,3 1,4"/>
+    <polyline class="fil0 str0" points="2583,661 2584,662 2579,668 "/>
+    <path class="fil0 str0" d="M2579 668c-39,43 -39,43 -70,45"/>
+    <line class="fil0 str0" x1="2509" y1="713" x2="2505" y2= "713" />
+    <path class="fil0 str0" d="M2505 713c-108,5 -480,10 -729,10 -214,0 -296,-3 -308,-13 -24,-18 -25,-19 -56,-60"/>
+    <polyline class="fil0 str0" points="1412,650 1409,656 1253,656 "/>
+    <path class="fil0 str0" d="M1253 656c-100,-1 -115,1 -149,16 -58,25 -96,69 -117,134 -4,11 -4,16 -4,60"/>
+    <line class="fil0 str0" x1="983" y1="866" x2="967" y2= "3256" />
+    <path class="fil0 str0" d="M967 3256c-2,277 -3,522 -3,736 0,721 6,1100 16,1151 9,44 42,97 77,125 34,28 62,38 123,44"/>
+    <line class="fil0 str0" x1="1180" y1="5312" x2="1200" y2= "5316" />
+    <path class="fil0 str0" d="M1200 5316c16,4 25,10 49,34"/>
+    <line class="fil0 str0" x1="1493" y1="736" x2="1499" y2= "742" />
+    <path class="fil0 str0" d="M1499 742c2,-4 2,-5 2,-9 -2,-2 -3,-4 -5,-5"/>
+    <polyline class="fil0 str0" points="1496,728 1491,728 1490,721 1489,721 1488,722 1487,722 1484,716 1484,717 1483,717 1481,719 1475,716 "/>
+    <path class="fil0 str0" d="M1475 716c0,0 0,1 0,3"/>
+    <polyline class="fil0 str0" points="1475,719 1468,717 1468,716 1468,721 1461,722 1461,724 1462,725 1458,728 1458,729 1460,731 1456,737 "/>
+    <path class="fil0 str0" d="M1456 737c1,0 2,0 3,1"/>
+    <polyline class="fil0 str0" points="1459,738 1458,744 1457,744 1461,744 1462,750 1464,750 1465,750 1465,750 1469,755 1471,753 1471,753 1476,756 1477,755 1477,753 1477,753 1484,755 1484,751 1491,750 1491,748 1490,748 1490,747 1496,743 1496,743 "/>
+    <path class="fil0 str0" d="M1496 743c-2,-1 -2,-1 -4,-2"/>
+    <polyline class="fil0 str0" points="1492,741 1492,741 1493,741 1496,735 "/>
+    <path class="fil0 str0" d="M1496 735c-1,-1 -2,-1 -4,-1 0,0 0,0 0,0"/>
+    <polyline class="fil0 str0" points="1492,734 1494,734 1495,728 1491,728 1490,721 "/>
+    <path class="fil0 str0" d="M2695 736c-4,-26 -19,-42 -42,-42 -24,0 -42,19 -42,42 0,24 18,42 42,42 24,0 41,-16 41,-41 0,-7 -1,-12 -3,-26"/>
+   </g>
+  </g>
+ </g>
+</svg>

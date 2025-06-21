@@ -12,15 +12,13 @@ import androidx.compose.material3.CardDefaults
 import androidx.compose.material3.MaterialTheme
 import androidx.compose.material3.Text
 import androidx.compose.runtime.Composable
-import androidx.compose.runtime.remember
 import androidx.compose.ui.Alignment
 import androidx.compose.ui.Modifier
-import androidx.compose.ui.draw.clip
-import androidx.compose.ui.graphics.Color
-import androidx.compose.ui.graphics.painter.ColorPainter
-import androidx.compose.ui.layout.ContentScale
+import androidx.compose.ui.platform.LocalContext
 import androidx.compose.ui.unit.dp
 import coil3.compose.AsyncImage
+import coil3.request.ImageRequest
+import coil3.request.crossfade
 
 @Composable
 fun CategoryCard(
@@ -29,6 +27,7 @@ fun CategoryCard(
     onClick: () -> Unit,
     modifier: Modifier = Modifier
 ) {
+    val context = LocalContext.current
     Card(
         modifier = modifier,
         elevation = CardDefaults.cardElevation(4.dp),
@@ -42,13 +41,13 @@ fun CategoryCard(
             verticalAlignment = Alignment.CenterVertically
         ) {
             AsyncImage(
-                model = img,
+                model = ImageRequest.Builder(context)
+                    .data(img)
+                    .crossfade(true)
+                    .build(),
                 contentDescription = "Изображение категории",
-                contentScale = ContentScale.Fit, // Лучше для производительности
-                placeholder = remember { ColorPainter(Color.LightGray) },
                 modifier = Modifier
-                    .weight(1f) // Занимает 50% ширины
-                    .clip(RoundedCornerShape(4.dp))
+                    .width(40.dp)
             )
 
             Spacer(modifier = Modifier.width(8.dp))

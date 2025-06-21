@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Creator: CorelDRAW X8 -->
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="40mm" height="60mm" version="1.1" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
+viewBox="0 0 4000 6000"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <style type="text/css">
+   <![CDATA[
+    .str0 {stroke:#332C2B;stroke-width:10}
+    .fil0 {fill:none}
+   ]]>
+  </style>
+ </defs>
+ <g id="图层_x0020_1">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <g id="_1472977007696">
+   <rect class="fil0 str0" x="892" y="650" width="2216" height="4700" rx="268" ry="290"/>
+   <path class="fil0 str0" d="M1853 2126c10,-18 20,-33 20,-87l0 -1105c0,-50 -40,-90 -90,-90l-486 0c-50,0 -90,40 -90,90l0 1242c0,49 40,90 90,90l486 0c50,0 90,-41 90,-90l0 -137"/>
+   <path class="fil0 str0" d="M1855 1851l-612 0 0 325c0,30 24,54 54,54l486 0c30,0 55,-24 55,-54l0 -325 -14 0"/>
+   <path class="fil0 str0" d="M1823 880l-526 0c-30,0 -54,24 -54,54l0 827c0,30 24,54 54,54l486 0c30,0 55,-24 55,-54l0 -827c0,-30 -25,-54 -55,-54l-10 0"/>
+   <path class="fil0 str0" d="M1385 1650c1,12 11,23 32,24 76,0 137,-61 137,-137 0,-75 -61,-136 -137,-136 -76,0 -137,61 -137,136 0,76 61,137 137,137"/>
+   <path class="fil0 str0" d="M1385 1235c1,12 11,23 32,24 76,0 137,-61 137,-137 0,-75 -61,-136 -137,-136 -76,0 -137,61 -137,136 0,76 61,137 137,137"/>
+   <path class="fil0 str0" d="M1695 1613c0,8 7,16 22,17 51,0 92,-42 92,-93 0,-50 -41,-92 -92,-92 -51,0 -93,42 -93,92 0,51 42,93 93,93"/>
+   <circle class="fil0 str0" cx="1605" cy="1400" r="30"/>
+   <circle class="fil0 str0" cx="1540" cy="1400" r="22"/>
+   <path class="fil0 str0" d="M1732 1199c14,-8 32,-26 32,-54l0 -139c0,-8 -6,-15 -14,-15l-72 0c-8,0 -15,7 -15,15l0 232c0,9 7,15 15,15l72 0c8,0 14,-6 14,-15l0 -93"/>
+   <path class="fil0 str0" d="M1483 2123c18,-5 39,-23 39,-47l0 -155c0,-10 -8,-18 -18,-18l-173 0c-10,0 -18,8 -18,18l0 244c0,10 8,18 18,18l173 0c10,0 18,-8 18,-18l0 -89"/>
+  </g>
+ </g>
+</svg>

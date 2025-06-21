@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Creator: CorelDRAW 2020 (64-Bit) -->
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="40mm" height="60mm" version="1.1" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
+viewBox="0 0 4000 6000"
+ xmlns:xlink="http://www.w3.org/1999/xlink"
+ xmlns:xodm="http://www.corel.com/coreldraw/odm/2003">
+ <defs>
+  <style type="text/css">
+   <![CDATA[
+    .str1 {stroke:#332C2B;stroke-width:20;stroke-miterlimit:22.9256}
+    .str0 {stroke:#E72D28;stroke-width:20;stroke-miterlimit:22.9256}
+    .fil0 {fill:none}
+   ]]>
+  </style>
+   <clipPath id="id0">
+    <rect x="-97673.65" y="-11364.21" width="35205.4" height="24893.76"/>
+   </clipPath>
+ </defs>
+ <g id="图层_x0020_1">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <g style="clip-path:url(#id0)">
+   <image x="-97673.65" y="-11364.21" width="35205.4" height="24893.76" xlink:href="T470P-11i（前膜全屏）_Images\T470P-11i（前膜全屏）_ImgID1.png"/>
+  </g>
+  <rect class="fil0 str0" x="-95774.58" y="-8738.71" width="30700" height="17200" rx="109.64" ry="100"/>
+  <path class="fil0 str1" d="M-4793.75 17472.48l0 -30655.38c0,-54.9 -44.88,-99.84 -99.71,-99.84l-16950.58 0c-54.84,0 -99.71,44.93 -99.71,99.84l0 30450.32c0,54.91 44.87,99.84 99.71,99.84l16950.58 0c54.84,0 99.71,-44.93 99.71,-99.84 0,-54.91 0.99,-233.74 64.49,-324.36"/>
+  <path class="fil0 str1" d="M3298.37 5350.53l0 -4684.74c0,-8.39 -6.86,-15.26 -15.24,-15.26l-2590.38 0c-8.38,0 -15.24,6.87 -15.24,15.26l0 4653.4c0,8.39 6.86,15.26 15.24,15.26l2590.38 0c8.38,0 15.24,-6.87 15.24,-15.26 0,-8.39 0.15,-35.72 9.85,-49.57"/>
+ </g>
+</svg>

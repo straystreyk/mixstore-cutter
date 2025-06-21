@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Creator: CorelDRAW 2020 (64-Bit) -->
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="40mm" height="60mm" version="1.1" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
+viewBox="0 0 4000 6000"
+ xmlns:xlink="http://www.w3.org/1999/xlink"
+ xmlns:xodm="http://www.corel.com/coreldraw/odm/2003">
+ <defs>
+  <style type="text/css">
+   <![CDATA[
+    .str0 {stroke:#332C2B;stroke-width:20;stroke-miterlimit:22.9256}
+    .fil0 {fill:none}
+   ]]>
+  </style>
+   <clipPath id="id0">
+    <rect x="-28129.32" y="-24787.73" width="14665.68" height="16347.59"/>
+   </clipPath>
+ </defs>
+ <g id="图层_x0020_1">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <g style="clip-path:url(#id0)">
+   <image x="-28129.32" y="-24787.73" width="14665.68" height="16347.59" xlink:href="i98—(背膜)_Images\i98—(背膜)_ImgID1.png"/>
+  </g>
+  <rect class="fil0 str0" x="-22045.82" y="-24525.23" width="7700.01" height="15960"/>
+  <rect class="fil0 str0" x="-21937.28" y="-24387.91" width="7516.39" height="15720.79" rx="860.01" ry="959.33"/>
+  <circle class="fil0 str0" cx="-19406.99" cy="-23884.08" r="166.23"/>
+  <circle class="fil0 str0" cx="-16987.21" cy="-23893.76" r="131.19"/>
+  <rect class="fil0 str0" x="-18703.37" y="-23954.4" width="1032.69" height="145.51" rx="159.56" ry="132.46"/>
+  <rect class="fil0 str0" x="-27538.03" y="-24525.23" width="7700.01" height="15960"/>
+  <rect class="fil0 str0" x="-27412.17" y="-24413.39" width="7447.02" height="15705.26" rx="749.99" ry="843.56"/>
+  <rect class="fil0 str0" x="-24379.34" y="-23106.6" width="1336.1" height="3897.12" rx="740" ry="944.02"/>
+  <rect class="fil0 str0" transform="matrix(8.73562E-14 -3.29838 3.7099 9.82549E-14 9250.99 6789.62)" width="2257.78" height="4233.34" rx="227.38" ry="227.38"/>
+  <rect class="fil0 str0" transform="matrix(1.9477E-14 -0.73541 0.938168 2.48469E-14 10557.8 3756.79)" width="1816.81" height="4153.97" rx="1006.24" ry="1006.24"/>
+  <g id="_2721079833744">
+   <rect class="fil0 str0" x="879.08" y="655.67" width="2228.62" height="4700" rx="224.44" ry="252.45"/>
+   <rect class="fil0 str0" x="1786.69" y="1046.74" width="399.85" height="1166.26" rx="221.45" ry="282.51"/>
+  </g>
+ </g>
+</svg>

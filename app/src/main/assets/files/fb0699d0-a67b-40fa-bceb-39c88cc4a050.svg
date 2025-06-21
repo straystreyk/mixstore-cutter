@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Creator: CorelDRAW -->
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="40mm" height="60mm" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
+viewBox="0 0 40 60"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <style type="text/css">
+   <![CDATA[
+    .str0 {stroke:#1F1A17;stroke-width:0.194}
+    .str1 {stroke:#1F1A17;stroke-width:0.2}
+    .fil0 {fill:none}
+   ]]>
+  </style>
+ </defs>
+ <g id="图层_x0020_1">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <g id="_214042304">
+   <line id="_48524144" class="fil0 str0" x1="29.5372" y1="53.4959" x2="10.5104" y2= "53.4943" />
+   <path id="_48524120" class="fil0 str0" d="M10.5104 53.4943c-0.6746,-0.025 -1.132,-0.2878 -1.4802,-0.8522 -0.1195,-0.1934 -0.1923,-0.3879 -0.2048,-0.5461"/>
+   <line id="_238345200" class="fil0 str0" x1="8.8254" y1="52.096" x2="8.7674" y2= "8.3261" />
+   <path id="_48524048" class="fil0 str0" d="M8.7674 8.3261c0.0352,-0.6917 0.2594,-1.1389 0.7623,-1.5132 0.2309,-0.1729 0.479,-0.2799 0.6906,-0.297 6.0632,-0.0193 4.5477,-0.017 10.6097,-0.0136"/>
+   <line id="_238344912" class="fil0 str0" x1="20.83" y1="6.5023" x2="29.6738" y2= "6.508" />
+   <path id="_238344864" class="fil0 str0" d="M29.6738 6.508c0.5427,0.0159 1.0263,0.3242 1.3574,0.8658 0.1809,0.2959 0.2025,0.3937 0.2014,0.9546"/>
+   <line id="_238344528" class="fil0 str0" x1="31.2326" y1="8.3284" x2="31.2087" y2= "52.1597" />
+   <path id="_238344144" class="fil0 str0" d="M31.2087 52.1597c-0.0069,0.2868 -0.3573,0.8067 -0.7009,1.0422 -0.2719,0.1855 -0.4722,0.2446 -1.0115,0.2981"/>
+   <rect id="_238349928" class="fil0 str1" x="18.128" y="7.5653" width="3.9624" height="1.0542" rx="0.5271" ry="0.5271"/>
+   <circle id="_238344096" class="fil0 str1" cx="16.324" cy="8.0997" r="0.5093"/>
+   <circle id="_237815072" class="fil0 str1" cx="23.7487" cy="8.1614" r="0.5351"/>
+  </g>
+ </g>
+</svg>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Creator: CorelDRAW 2020 (64-Bit) -->
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="40mm" height="60mm" version="1.1" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
+viewBox="0 0 4000 6000"
+ xmlns:xlink="http://www.w3.org/1999/xlink"
+ xmlns:xodm="http://www.corel.com/coreldraw/odm/2003">
+ <defs>
+  <style type="text/css">
+   <![CDATA[
+    .str0 {stroke:#E72D28;stroke-width:20;stroke-miterlimit:22.9256}
+    .str1 {stroke:#222222;stroke-width:20;stroke-miterlimit:22.9256}
+    .fil0 {fill:none}
+   ]]>
+  </style>
+   <clipPath id="id0">
+    <rect x="-36579.65" y="-5431.18" width="8261.3" height="16501.48"/>
+   </clipPath>
+ </defs>
+ <g id="图层_x0020_1">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <g style="clip-path:url(#id0)">
+   <image x="-36579.65" y="-5431.18" width="8261.3" height="16501.48" xlink:href="IQOO Neo6-11i（防爆膜）_Images\IQOO Neo6-11i（防爆膜）_ImgID1.png"/>
+  </g>
+  <rect class="fil0 str0" x="-36264.2" y="-5329.69" width="7616" height="16300"/>
+  <rect class="fil0 str0" x="-35976.47" y="-5059.82" width="7040.54" height="15535.47" rx="500" ry="662.94"/>
+  <path class="fil0 str1" d="M-2536.55 6503.73l0 -6500.91c0,-274.99 -225.01,-500 -500,-500l-14535.47 0c-275,0 -500,225 -500,500l0 6040.54c0,275 225,500 500,500l14535.47 0c275,0 500,-225 500,-500 0,-275 26.5,-1180.99 275.96,-1325.02"/>
+  <path class="fil0 str1" d="M958.77 5273.64l1932.41 0c81.75,0 148.63,-66.89 148.63,-148.63l0 -4320.71c0,-81.75 -66.88,-148.63 -148.63,-148.63l-1795.56 0c-81.75,0 -148.63,66.88 -148.63,148.63l0 4320.71c0,81.75 66.88,148.63 148.63,148.63 81.74,0 351.05,7.88 393.86,82.03"/>
+ </g>
+</svg>

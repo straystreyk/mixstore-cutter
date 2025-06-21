@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Creator: CorelDRAW 2020 (64-Bit) -->
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="40mm" height="60mm" version="1.1" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
+viewBox="0 0 4000 6000"
+ xmlns:xlink="http://www.w3.org/1999/xlink"
+ xmlns:xodm="http://www.corel.com/coreldraw/odm/2003">
+ <defs>
+  <style type="text/css">
+   <![CDATA[
+    .str0 {stroke:#332C2B;stroke-width:20;stroke-miterlimit:22.9256}
+    .str1 {stroke:#332C2B;stroke-width:7.62;stroke-miterlimit:22.9256}
+    .fil0 {fill:none}
+   ]]>
+  </style>
+   <clipPath id="id0">
+    <rect x="-12877.64" y="-6736.54" width="7246.92" height="14999.46"/>
+   </clipPath>
+ </defs>
+ <g id="图层_x0020_1">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <g style="clip-path:url(#id0)">
+   <image x="-12877.64" y="-6736.54" width="7246.92" height="14999.46" xlink:href="UP MAX—(背膜)_Images\UP MAX—(背膜)_ImgID1.png"/>
+  </g>
+  <rect class="fil0 str0" x="-11967.68" y="-6103.89" width="5630" height="13900"/>
+  <rect class="fil0 str0" x="-11880.71" y="-6028.95" width="5450.45" height="13709.85" rx="940.01" ry="1384.07"/>
+  <rect class="fil0 str0" x="-11168.12" y="-4658.05" width="4031.6" height="1032.42" rx="674.66" ry="622.88"/>
+  <path class="fil0 str1" d="M19370.2 5570.55l0 -4470.01c0,-516.98 -422.99,-940.01 -940,-940.01l-11829.85 0c-517.01,0 -940,423.01 -940,940.01l0 3570.43c0,517 422.99,940.01 940,940.01l11829.85 0c517.01,0 940,-423.01 940,-940.01 0,-154.52 -15.45,-345.89 167.11,-345.89"/>
+  <rect class="fil0 str1" transform="matrix(2.94567E-14 -1.11222 1.02685 2.71958E-14 7031.25 4898.39)" width="3624.81" height="1005.42" rx="606.59" ry="606.59"/>
+  <path class="fil0 str1" d="M1381.39 655.67l1224.02 0c177.25,0 322.25,145.01 322.25,322.25l0 4055.5c0,177.24 -145,322.25 -322.25,322.25l-1224.02 0c-177.24,0 -322.25,-145.01 -322.25,-322.25l0 -4055.5c0,-177.24 145.01,-322.25 322.25,-322.25zm99.01 469.97l1028.18 0c97.34,0 176.97,79.63 176.97,176.96l0 0.01c0,97.33 -79.63,176.96 -176.97,176.96l-1028.18 0c-97.34,0 -176.97,-79.63 -176.97,-176.96l0 -0.01c0,-97.33 79.63,-176.96 176.97,-176.96z"/>
+ </g>
+</svg>

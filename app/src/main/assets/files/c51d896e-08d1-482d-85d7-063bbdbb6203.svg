@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Creator: CorelDRAW 2020 (64-Bit) -->
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="40mm" height="60mm" version="1.1" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
+viewBox="0 0 4000 6000"
+ xmlns:xlink="http://www.w3.org/1999/xlink"
+ xmlns:xodm="http://www.corel.com/coreldraw/odm/2003">
+ <defs>
+  <style type="text/css">
+   <![CDATA[
+    .str2 {stroke:#332C2B;stroke-width:20;stroke-miterlimit:22.9256}
+    .str0 {stroke:#E62129;stroke-width:20;stroke-miterlimit:22.9256}
+    .str1 {stroke:#E62129;stroke-width:20;stroke-miterlimit:22.9256}
+    .fil0 {fill:none}
+   ]]>
+  </style>
+   <clipPath id="id0">
+    <rect x="-38403.98" y="-5448.18" width="7771.76" height="16097.39"/>
+   </clipPath>
+   <clipPath id="id1">
+    <rect x="-74836.2" y="-12839.72" width="15345.82" height="31679.44"/>
+   </clipPath>
+ </defs>
+ <g id="图层_x0020_1">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <g style="clip-path:url(#id0)">
+   <image x="-38403.98" y="-5448.18" width="7771.76" height="16097.38" xlink:href="Galaxy A9 Pro (2019) -11i（前膜带壳）_Images\Galaxy A9 Pro (2019) -11i（前膜带壳）_ImgID1.png"/>
+  </g>
+  <g style="clip-path:url(#id1)">
+   <image x="-74836.2" y="-12839.72" width="15345.82" height="31679.44" xlink:href="Galaxy A9 Pro (2019) -11i（前膜带壳）_Images\Galaxy A9 Pro (2019) -11i（前膜带壳）_ImgID2.png"/>
+  </g>
+  <rect class="fil0 str0" x="-38268.93" y="-5294.16" width="7490" height="15840"/>
+  <path class="fil0 str0" d="M-37259.05 -5097.04l2034.03 0c45.98,0 92.64,35.44 120.29,35.44l1204.53 0c27.65,0 65.38,-35.44 105.08,-35.44l2006.31 0c440,0 800,360.01 800,800l0 13881.73c0,440.01 -360,800 -800,800l-5470.24 0c-440,0 -800,-359.99 -800,-800l0 -13881.73c0,-439.99 360,-800 800,-800z"/>
+  <path class="fil0 str1" d="M-37553.98 -4276.08c-84.67,-104.51 -47.49,-408.13 136.27,-408.13 183.76,0 332.72,148.96 332.72,332.72 0,183.76 -148.96,332.72 -332.72,332.72 -183.76,0 -332.72,-148.96 -332.72,-332.72 0,-183.76 148.96,-332.72 332.72,-332.72"/>
+  <path class="fil0 str2" d="M-7592.64 5805.99l0 -5795.01c0,-433.76 -357.68,-788.68 -794.84,-788.68l-13792.03 0c-437.15,0 -794.84,354.91 -794.84,788.68 0,1806.73 0,3585.27 0,5392.84 0,433.77 357.69,788.68 794.84,788.68l13792.03 0c437.17,0 794.84,-354.91 794.84,-788.68 0,-433.77 63.64,-660.65 127.15,-781.04"/>
+  <path class="fil0 str2" d="M-22203.4 5737.45c-104.51,84.67 -408.13,47.49 -408.13,-136.27 0,-183.76 148.96,-332.72 332.72,-332.72 183.76,0 332.72,148.96 332.72,332.72 0,183.76 -148.96,332.72 -332.72,332.72 -183.76,0 -332.72,-148.96 -332.72,-332.72"/>
+  <g id="_2542277478640">
+   <path class="fil0 str2" d="M1054.36 5317.14l1756.2 0c131.45,0 239.01,-108.4 239.01,-240.88l0 -4179.71c0,-132.48 -107.56,-240.88 -239.01,-240.88 -547.54,0 -1086.53,0 -1634.32,0 -131.45,0 -239.01,108.4 -239.01,240.88l0 4179.71c0,132.48 107.56,240.88 239.01,240.88 131.46,0 200.21,19.28 236.7,38.53"/>
+   <path class="fil0 str2" d="M1075.13 889.31c-25.66,-31.67 -14.39,-123.69 41.3,-123.69 55.69,0 100.83,45.15 100.83,100.84 0,55.68 -45.14,100.83 -100.83,100.83 -55.69,0 -100.83,-45.15 -100.83,-100.83 0,-55.69 45.14,-100.84 100.83,-100.84"/>
+  </g>
+ </g>
+</svg>

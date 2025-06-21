@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Creator: CorelDRAW 2020 (64-Bit) -->
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="40mm" height="60mm" version="1.1" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
+viewBox="0 0 4000 6000"
+ xmlns:xlink="http://www.w3.org/1999/xlink"
+ xmlns:xodm="http://www.corel.com/coreldraw/odm/2003">
+ <defs>
+  <style type="text/css">
+   <![CDATA[
+    .str1 {stroke:#332C2B;stroke-width:20;stroke-miterlimit:22.9256}
+    .str0 {stroke:#E62129;stroke-width:20;stroke-miterlimit:22.9256}
+    .fil0 {fill:none}
+   ]]>
+  </style>
+   <clipPath id="id0">
+    <rect x="-39754.55" y="-4680.24" width="8680.93" height="16551.92"/>
+   </clipPath>
+ </defs>
+ <g id="图层_x0020_1">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <g style="clip-path:url(#id0)">
+   <image x="-39754.55" y="-4680.24" width="8680.93" height="16551.92" xlink:href="S6 -11i（防爆膜）_Images\S6 -11i（防爆膜）_ImgID1.png"/>
+  </g>
+  <rect class="fil0 str0" x="-39273.01" y="-4476.77" width="7466" height="16116"/>
+  <path class="fil0 str1" d="M-5584.89 5536.93l0 -5922.5c0,-357.49 -292.5,-650 -650,-650l-13839.75 0c-357.47,0 -649.99,292.5 -649.99,650l0 2192.28c0,117.62 13.08,213.88 130.88,248.83 170.77,50.67 302.61,165.45 302.61,340.98 0,175.53 -138.78,286.27 -296.66,325.1 -150.71,37.07 -136.83,197.36 -136.83,285.21l0 2164.97c0,357.51 292.5,650.01 649.99,650.01l13839.75 0c357.51,0 650,-292.5 650,-650.01 0,-357.51 48.95,-550.66 103.19,-655.17"/>
+  <path class="fil0 str1" d="M1023.53 5318.71l1826.1 0c110.23,0 200.42,-90.18 200.42,-200.41l0 -4267.25c0,-110.22 -90.19,-200.41 -200.42,-200.41l-675.95 0c-36.27,0 -65.95,4.03 -76.72,40.35 -15.63,52.65 -51.02,93.31 -105.14,93.31 -54.12,0 -88.26,-42.79 -100.24,-91.47 -11.43,-46.47 -60.85,-42.19 -87.94,-42.19l-667.53 0c-110.23,0 -200.42,90.18 -200.42,200.41l0 4267.25c0,110.23 90.19,200.41 200.42,200.41 110.23,0 169.79,15.1 202.01,31.82"/>
+ </g>
+</svg>

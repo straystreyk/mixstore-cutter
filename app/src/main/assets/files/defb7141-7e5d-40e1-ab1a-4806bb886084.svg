@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Creator: CorelDRAW X8 -->
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="40mm" height="60mm" version="1.1" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
+viewBox="0 0 4000 6000"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <style type="text/css">
+   <![CDATA[
+    .str0 {stroke:#332C2B;stroke-width:19.4}
+    .fil0 {fill:none;fill-rule:nonzero}
+   ]]>
+  </style>
+ </defs>
+ <g id="图层_x0020_1">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <g id="_2173116369168">
+   <g>
+    <line class="fil0 str0" x1="948" y1="5350" x2="948" y2= "5320" />
+    <line class="fil0 str0" x1="3020" y1="725" x2="3020" y2= "716" />
+    <path class="fil0 str0" d="M3020 716c-6,1 -8,4 -10,9"/>
+    <line class="fil0 str0" x1="3010" y1="725" x2="1127" y2= "725" />
+    <path class="fil0 str0" d="M1127 725c-47,1 -73,9 -103,32 -35,26 -67,74 -75,113"/>
+    <line class="fil0 str0" x1="949" y1="870" x2="942" y2= "5146" />
+    <path class="fil0 str0" d="M942 5146c6,117 77,193 186,197"/>
+    <polyline class="fil0 str0" points="1128,5343 1645,5342 1643,5339 1643,5338 1641,5336 "/>
+    <path class="fil0 str0" d="M1641 5336c11,-13 18,-15 46,-15"/>
+    <line class="fil0 str0" x1="1687" y1="5321" x2="2237" y2= "5326" />
+    <path class="fil0 str0" d="M2237 5326c47,0 63,0 82,-3 2,0 3,0 4,0 11,0 14,2 32,27"/>
+    <polyline class="fil0 str0" points="2355,5350 2357,5348 2358,5345 2359,5342 2756,5344 "/>
+    <path class="fil0 str0" d="M2756 5344c140,0 150,-1 184,-17 48,-22 86,-69 102,-127"/>
+    <line class="fil0 str0" x1="3042" y1="5200" x2="3050" y2= "4376" />
+    <path class="fil0 str0" d="M3050 4376c5,-448 7,-896 7,-1344"/>
+    <line class="fil0 str0" x1="3057" y1="3032" x2="3058" y2= "1689" />
+    <path class="fil0 str0" d="M3058 1689c0,-783 -1,-787 -17,-826 -32,-90 -74,-125 -163,-138 -3,0 -6,0 -8,-1 -36,-6 -48,-15 -106,-74"/>
+   </g>
+  </g>
+ </g>
+</svg>

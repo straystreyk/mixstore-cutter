@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Creator: CorelDRAW 2020 (64-Bit) -->
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="40mm" height="60mm" version="1.1" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
+viewBox="0 0 4000 6000"
+ xmlns:xlink="http://www.w3.org/1999/xlink"
+ xmlns:xodm="http://www.corel.com/coreldraw/odm/2003">
+ <defs>
+  <style type="text/css">
+   <![CDATA[
+    .str1 {stroke:#332C2B;stroke-width:20;stroke-miterlimit:22.9256}
+    .str2 {stroke:#332C2B;stroke-width:20;stroke-miterlimit:22.9256}
+    .str0 {stroke:#E62129;stroke-width:20;stroke-miterlimit:22.9256}
+    .fil0 {fill:none}
+   ]]>
+  </style>
+   <clipPath id="id0">
+    <rect x="-72309.76" y="-6743.31" width="27959.25" height="37659.42"/>
+   </clipPath>
+ </defs>
+ <g id="图层_x0020_1">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <g style="clip-path:url(#id0)">
+   <image x="-72309.76" y="-6743.31" width="27959.25" height="37659.42" xlink:href="Pad Pro 2021 -11i（前膜带壳）_Images\Pad Pro 2021 -11i（前膜带壳）_ImgID1.png"/>
+  </g>
+  <rect class="fil0 str0" x="-71651.31" y="-6177.4" width="26430" height="17140"/>
+  <path class="fil0 str0" d="M-70637.38 -5971.03l11001.19 0 0 270.38c0,110 90,200 200,200l2034.78 0c110,0 200,-90 200,-200l0 -270.38 10966.18 0c440.01,0 800,360 800,800l0 15084.95c0,440 -359.99,800 -800,800l-24402.15 0c-440.01,0 -800,-360 -800,-800l0 -15084.95c0,-440 359.99,-800 800,-800z"/>
+  <rect class="fil0 str0" x="-71651.31" y="13185.94" width="26430" height="17140"/>
+  <path class="fil0 str0" d="M-70577.11 13359.4l24281.61 0c439.99,0 800,360 800,800l0 15199.49c0,440 -360.01,800 -800,800l-24281.61 0c-439.99,0 -799.99,-360 -799.99,-800l0 -11832.61 744.05 0c55,0 100.01,-45 100.01,-100l0 -2360.86c0,-55 -45.01,-100 -100.01,-100l-744.05 0 0 -806.02c0,-440 360,-800 799.99,-800z"/>
+  <rect class="fil0 str1" x="-48639.96" y="14343.29" width="2600.86" height="1449.92" rx="851.5" ry="800"/>
+  <circle class="fil0 str1" cx="-49538.35" cy="15060.31" r="235.48"/>
+  <path class="fil0 str2" d="M-20908.09 16338.47l15604.37 0c437.35,0 795.21,-358.61 795.21,-796.92l0 -24308.25c0,-438.32 -357.85,-796.92 -795.21,-796.92l-14994.49 0c-437.36,0 -795.21,358.6 -795.21,796.92l0 10923.98 268.76 0c109.34,0 198.8,89.66 198.8,199.23l0 2026.95c0,109.58 -89.46,199.23 -198.8,199.23l-268.76 0 0 10958.86c0,438.32 357.85,796.92 795.21,796.92 437.36,0 810,53.96 1005.8,141.27"/>
+  <path class="fil0 str2" d="M545.48 5323.9l2803 0c79.08,0 143.78,-64.7 143.78,-143.78l0 -4385.81c0,-79.08 -64.7,-143.78 -143.78,-143.78l-2711.22 0c-79.08,0 -143.79,64.7 -143.79,143.78l0 1970.96 48.6 0c19.77,0 35.95,16.17 35.95,35.94l0 365.71c0,19.77 -16.18,35.95 -35.95,35.95l-48.6 0 0 1977.25c0,79.08 64.71,143.78 143.79,143.78 79.08,0 126.35,8.56 151.56,26.63"/>
+ </g>
+</svg>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Creator: CorelDRAW X8 -->
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="40mm" height="60mm" version="1.1" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
+viewBox="0 0 4000 6000"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <style type="text/css">
+   <![CDATA[
+    .str0 {stroke:#332C2B;stroke-width:20}
+    .fil0 {fill:none}
+   ]]>
+  </style>
+ </defs>
+ <g id="图层_x0020_1">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <g id="_2353181044880">
+   <path class="fil0 str0" d="M1175 5242c-133,0 -242,-111 -242,-246l0 -4100c0,-135 109,-246 242,-246l1722 0c134,0 243,111 243,246l0 4100c0,135 -109,246 -243,246l-2037 0"/>
+   <path class="fil0 str0" d="M1921 5058c0,-72 15,-267 126,-267 111,0 201,90 201,201 0,111 -90,201 -201,201 -111,0 -201,-90 -201,-201 0,-111 90,-201 201,-201"/>
+   <path class="fil0 str0" d="M1169 5248c0,0 176,6 176,102"/>
+   <rect class="fil0 str0" x="1505" y="733" width="167.417" height="99.5798" rx="2062" ry="1972"/>
+   <rect class="fil0 str0" x="1811" y="732" width="430.93" height="93.9261" rx="198" ry="197"/>
+   <path class="fil0 str0" d="M2731 787c-29,0 -95,7 -95,-28 0,-36 29,-65 65,-65 0,0 103,24 125,29 19,4 37,16 37,36 0,20 -15,33 -37,37 -21,4 -125,27 -125,27 -36,0 -65,-29 -65,-64"/>
+  </g>
+  <path class="fil0 str0" d="M-1760 5674c0,407 -337,739 -748,739l-12474 0c-411,0 -748,-332 -748,-739l0 -5238c0,-406 337,-739 748,-739l12474 0c411,0 748,333 748,739l0 6198"/>
+  <path class="fil0 str0" d="M-2320 3405c-218,0 -810,-45 -810,-382 0,-338 273,-611 611,-611 337,0 611,273 611,611 0,337 -274,611 -611,611 -338,0 -611,-274 -611,-611"/>
+  <path class="fil0 str0" d="M-1741 5694c0,0 19,-537 310,-537"/>
+  <rect class="fil0 str0" transform="matrix(2.53645E-14 -0.957711 0.916004 2.42599E-14 -15476.5 4672.03)" width="532" height="331" rx="6550" ry="6550"/>
+  <rect class="fil0 str0" transform="matrix(2.66185E-14 -1.00506 1 2.64845E-14 -15481.7 3740.69)" width="1304" height="286" rx="600" ry="600"/>
+  <path class="fil0 str0" d="M-15313 942c0,87 22,287 -86,287 -108,0 -196,-87 -196,-196 0,0 73,-314 86,-381 13,-58 50,-111 112,-111 61,0 100,44 111,111 13,65 83,381 83,381 0,109 -88,196 -196,196"/>
+ </g>
+</svg>

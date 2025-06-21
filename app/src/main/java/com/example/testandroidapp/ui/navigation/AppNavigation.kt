@@ -34,8 +34,9 @@ import androidx.navigation.compose.composable
 import androidx.navigation.compose.currentBackStackEntryAsState
 import androidx.navigation.compose.rememberNavController
 import androidx.navigation.navArgument
-import com.example.testandroidapp.ui.screens.category.CategoryScreen
+import com.example.testandroidapp.ui.screens.device.DeviceScreen
 import com.example.testandroidapp.ui.screens.main.MainScreen
+import com.example.testandroidapp.ui.screens.vendor.VendorScreen
 
 const val defaultTitle = "MixCutter"
 
@@ -110,9 +111,7 @@ fun AppNavigation() {
                 startDestination = "catalog",
                 modifier = Modifier.padding(padding)
             ) {
-                composable(
-                    "catalog"
-                ) {
+                composable("catalog") {
                     MainScreen()
                 }
                 composable(
@@ -124,7 +123,18 @@ fun AppNavigation() {
                     )
                 ) { navBackStackEntry ->
                     val categoryId = navBackStackEntry.arguments?.getString("categoryId")
-                    CategoryScreen(categoryId)
+                    VendorScreen(categoryId)
+                }
+                composable(
+                    "catalog/{categoryId}/{vendorId}",
+                    arguments = listOf(
+                        navArgument("categoryId") { type = NavType.StringType },
+                        navArgument("vendorId") { type = NavType.StringType }
+                    )
+                ) { navBackStackEntry ->
+                    val categoryId = navBackStackEntry.arguments?.getString("categoryId")
+                    val vendorId = navBackStackEntry.arguments?.getString("vendorId")
+                    DeviceScreen(categoryId, vendorId)
                 }
             }
         }

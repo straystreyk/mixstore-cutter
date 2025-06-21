@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Creator: CorelDRAW -->
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="40mm" height="60mm" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
+viewBox="0 0 40 60"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <style type="text/css">
+   <![CDATA[
+    .str0 {stroke:#1F1A17;stroke-width:0.194}
+    .str1 {stroke:#1F1A17;stroke-width:0.2}
+    .fil1 {fill:none}
+    .fil0 {fill:none;fill-rule:nonzero}
+   ]]>
+  </style>
+ </defs>
+ <g id="图层_x0020_2">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <g id="_203567008">
+   <line id="_142017896" class="fil0 str0" x1="30.7379" y1="9.1392" x2="30.7257" y2= "51.0922" />
+   <path id="_203562280" class="fil0 str0" d="M30.7257 51.0922c-0.066,1.2309 -1.1831,2.3555 -2.3725,2.3895 -6.942,0.0213 -5.2068,0.0192 -12.1487,0.017"/>
+   <line id="_203563648" class="fil0 str0" x1="16.2045" y1="53.4987" x2="11.8223" y2= "53.4966" />
+   <path id="_203242736" class="fil0 str0" d="M11.8223 53.4966c-0.4308,-0.0181 -0.6053,-0.0564 -0.9702,-0.2096 -0.8756,-0.366 -1.4267,-1.0841 -1.581,-2.0586"/>
+   <line id="_142019792" class="fil0 str0" x1="9.2711" y1="51.2284" x2="9.2615" y2= "8.865" />
+   <path id="_203562952" class="fil0 str0" d="M9.2615 8.865c0.0521,-1.1862 1.1799,-2.3097 2.3747,-2.365"/>
+   <line id="_47592232" class="fil0 str0" x1="11.6362" y1="6.5" x2="28.4883" y2= "6.5128" />
+   <path id="_203563504" class="fil0 str0" d="M28.4883 6.5128c1.2277,0.1393 2.1459,1.1511 2.2395,2.4703 0.0032,0.0543 0.0075,0.1096 0.0106,0.1639"/>
+   <circle id="_203562520" class="fil1 str1" cx="14.1166" cy="7.76176" r="0.513014"/>
+   <rect id="_47593360" class="fil1 str1" x="18.4455" y="7.41247" width="3.09531" height="0.692513" rx="1.1481" ry="1.1481"/>
+   <circle id="_203242640" class="fil1 str1" cx="26.092" cy="7.79339" r="0.596581"/>
+  </g>
+ </g>
+</svg>

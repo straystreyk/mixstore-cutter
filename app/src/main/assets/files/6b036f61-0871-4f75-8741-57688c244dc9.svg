@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Creator: CorelDRAW X8 -->
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="40mm" height="60mm" version="1.1" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
+viewBox="0 0 4000 6000"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <style type="text/css">
+   <![CDATA[
+    .str0 {stroke:#332C2B;stroke-width:10;stroke-linecap:round;stroke-linejoin:round}
+    .fil0 {fill:none;fill-rule:nonzero}
+   ]]>
+  </style>
+ </defs>
+ <g id="图层_x0020_1">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <g id="_2965538212816">
+   <g>
+    <line class="fil0 str0" x1="3148" y1="659" x2="3148" y2= "693" />
+    <polyline class="fil0 str0" points="3148,3005 3148,3016 3154,3014 3159,3008 3159,3000 3154,2994 3148,2993 "/>
+    <path class="fil0 str0" d="M3148 2993c0,-755 0,-1509 0,-2264 -4,-54 -20,-68 -81,-71"/>
+    <line class="fil0 str0" x1="3067" y1="658" x2="2665" y2= "653" />
+    <path class="fil0 str0" d="M2665 653c-223,-3 -446,-4 -670,-3"/>
+    <line class="fil0 str0" x1="1995" y1="650" x2="933" y2= "655" />
+    <path class="fil0 str0" d="M933 655c-75,6 -87,18 -90,85"/>
+    <line class="fil0 str0" x1="843" y1="740" x2="842" y2= "4443" />
+    <path class="fil0 str0" d="M842 4443c-1,784 0,857 6,871 12,26 29,34 76,36"/>
+    <line class="fil0 str0" x1="924" y1="5350" x2="3100" y2= "5346" />
+    <path class="fil0 str0" d="M3100 5346c32,-2 46,-24 48,-77"/>
+    <line class="fil0 str0" x1="3148" y1="5269" x2="3148" y2= "2959" />
+    <line class="fil0 str0" x1="1119" y1="1238" x2="1119" y2= "1226" />
+    <path class="fil0 str0" d="M1119 1226c7,0 10,3 12,9 30,-6 48,-28 48,-58 0,-33 -27,-60 -61,-60 -34,0 -61,27 -61,61 0,32 25,59 56,59 11,0 23,-2 42,-7"/>
+    <polyline class="fil0 str0" points="1114,1049 1126,1046 1126,1047 "/>
+    <path class="fil0 str0" d="M1126 1047c83,-6 146,-73 146,-156 0,-88 -71,-158 -159,-158 -88,0 -158,70 -158,158 0,86 70,158 154,158 12,0 21,-1 49,-5"/>
+   </g>
+  </g>
+ </g>
+</svg>

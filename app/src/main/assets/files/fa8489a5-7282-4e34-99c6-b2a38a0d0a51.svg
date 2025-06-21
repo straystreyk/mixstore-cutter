@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Creator: CorelDRAW 2020 (64-Bit) -->
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="40mm" height="60mm" version="1.1" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
+viewBox="0 0 4000 6000"
+ xmlns:xlink="http://www.w3.org/1999/xlink"
+ xmlns:xodm="http://www.corel.com/coreldraw/odm/2003">
+ <defs>
+  <style type="text/css">
+   <![CDATA[
+    .str0 {stroke:#332C2B;stroke-width:20;stroke-miterlimit:22.9256}
+    .fil0 {fill:none}
+   ]]>
+  </style>
+   <clipPath id="id0">
+    <rect x="-56062.21" y="-8998.55" width="20851.3" height="14234.6"/>
+   </clipPath>
+ </defs>
+ <g id="图层_x0020_1">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <g style="clip-path:url(#id0)">
+   <image x="-56062.21" y="-8998.55" width="20851.3" height="14234.6" xlink:href="Kid Pad 3G -11i（前膜全屏）_Images\Kid Pad 3G -11i（前膜全屏）_ImgID1.png"/>
+  </g>
+  <rect class="fil0 str0" x="-55628.69" y="-8471.22" width="20000" height="18000"/>
+  <rect class="fil0 str0" x="-53388.96" y="-6894.3" width="15520.56" height="8693.06" rx="195.28" ry="150"/>
+  <path class="fil0 str0" d="M-19595.86 6751.77l15401.81 0c82.49,0 150,-67.51 150,-150l0 -8393.06c0,-82.5 -67.5,-150 -150,-150l-15220.56 0c-82.5,0 -150,67.5 -150,150l0 8393.06c0,82.5 67.5,150 150,150 82.5,0 163.65,19.97 211.94,64.29"/>
+  <path class="fil0 str0" d="M3296.75 5350.53l0 -4654.67c0,-24.93 -20.41,-45.33 -45.34,-45.33l-2536.51 0c-24.93,0 -45.33,20.4 -45.33,45.33l0 4599.89c0,24.93 20.4,45.33 45.33,45.33l2536.51 0c24.94,0 45.34,-20.4 45.34,-45.33 0,-24.93 6.03,-49.46 19.43,-64.05"/>
+ </g>
+</svg>

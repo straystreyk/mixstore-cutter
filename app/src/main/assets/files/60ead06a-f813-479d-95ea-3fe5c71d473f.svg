@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Creator: CorelDRAW -->
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="40mm" height="60mm" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
+viewBox="0 0 40 60"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <style type="text/css">
+   <![CDATA[
+    .str1 {stroke:#1F1A17;stroke-width:0.194}
+    .str0 {stroke:#1F1A17;stroke-width:0.2}
+    .fil0 {fill:none}
+    .fil1 {fill:none;fill-rule:nonzero}
+   ]]>
+  </style>
+ </defs>
+ <g id="图层_x0020_1">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <g id="_120332168">
+   <rect id="_86465608" class="fil0 str0" x="17.0344" y="49.8203" width="5.7967" height="2.32022" rx="1.1449" ry="1.1449"/>
+   <rect id="_118888720" class="fil0 str0" x="18.1537" y="7.59242" width="3.62807" height="1.19659" rx="0.5904" ry="0.5904"/>
+  </g>
+ </g>
+ <g id="图层_x0020_2">
+  <metadata id="CorelCorpID_1Corel-Layer"/>
+  <line class="fil1 str1" x1="21.3987" y1="53.1648" x2="28.4357" y2= "53.1567" />
+  <path class="fil1 str1" d="M28.4357 53.1567c1.2457,-0.0385 2.132,-0.7321 2.4776,-1.9382 0.0303,-0.1074 0.0362,-0.2102 0.0374,-0.6795"/>
+  <polyline class="fil1 str1" points="30.9507,50.539 31.0021,8.8193 30.9985,8.7493 "/>
+  <path class="fil1 str1" d="M30.9985 8.7493c-0.0186,-0.4273 -0.0186,-0.4273 -0.1623,-0.8197"/>
+  <line class="fil1 str1" x1="30.8362" y1="7.9296" x2="30.8129" y2= "7.8654" />
+  <path class="fil1 str1" d="M30.8129 7.8654c-0.2931,-0.8032 -0.9061,-1.359 -1.7689,-1.6042 -0.2639,-0.0747 -0.6935,-0.0771 -9.0417,-0.062"/>
+  <line class="fil1 str1" x1="20.0023" y1="6.1992" x2="11.5784" y2= "6.2144" />
+  <path class="fil1 str1" d="M11.5784 6.2144c-0.5896,0.0152 -0.7298,0.0398 -1.0684,0.1869 -0.7379,0.3222 -1.2248,0.8979 -1.4734,1.7419 -0.0328,0.1087 -0.0387,0.2196 -0.0387,0.6784"/>
+  <line class="fil1 str1" x1="8.9979" y1="8.8216" x2="9.0272" y2= "51.1449" />
+  <path class="fil1 str1" d="M9.0272 51.1449c0.014,0.3398 0.3479,0.9714 0.6935,1.3159 0.4589,0.4565 0.822,0.6095 1.7327,0.7285 4.0561,0.0117 5.8893,-0.021 9.9453,-0.0245"/>
+ </g>
+</svg>

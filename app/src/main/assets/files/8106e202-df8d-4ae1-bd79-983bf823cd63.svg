@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Creator: CorelDRAW X8 -->
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="40mm" height="60mm" version="1.1" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
+viewBox="0 0 4000 6000"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <style type="text/css">
+   <![CDATA[
+    .str0 {stroke:#332C2B;stroke-width:19.4}
+    .fil0 {fill:none;fill-rule:nonzero}
+   ]]>
+  </style>
+ </defs>
+ <g id="图层_x0020_1">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <g id="_3108711196992">
+   <line class="fil0 str0" x1="1094" y1="5348" x2="2152" y2= "5350" />
+   <path class="fil0 str0" d="M2152 5350c704,1 752,0 780,-6 82,-20 142,-78 168,-161 3,-10 4,-20 4,-64"/>
+   <line class="fil0 str0" x1="3104" y1="5119" x2="3113" y2= "2999" />
+   <path class="fil0 str0" d="M3113 2999c4,-1120 4,-840 0,-1960 0,-161 -4,-201 -22,-248 -27,-67 -80,-114 -156,-136 -14,-4 -23,-5 -66,-5"/>
+   <line class="fil0 str0" x1="2869" y1="650" x2="1124" y2= "650" />
+   <path class="fil0 str0" d="M1124 650c-60,2 -74,4 -106,17 -63,28 -108,78 -130,149 -3,10 -4,21 -4,64"/>
+   <line class="fil0 str0" x1="884" y1="880" x2="888" y2= "5180" />
+   <path class="fil0 str0" d="M888 5180c5,30 35,80 63,107 41,38 49,43 134,59 7,1 14,2 22,3"/>
+   <line class="fil0 str0" x1="1988" y1="881" x2="1995" y2= "889" />
+   <path class="fil0 str0" d="M1995 889c2,-2 3,-4 4,-8 18,0 36,0 54,0 27,0 36,1 42,5 7,5 9,12 13,32"/>
+   <polyline class="fil0 str0" points="2108,918 2107,918 2107,919 2106,925 2106,924 2103,924 2104,924 "/>
+   <path class="fil0 str0" d="M2104 924c-6,13 -14,17 -44,17 -6,0 -12,0 -21,-1"/>
+   <line class="fil0 str0" x1="2039" y1="940" x2="1923" y2= "936" />
+   <path class="fil0 str0" d="M1923 936c-9,0 -16,1 -28,2 -2,0 -3,0 -4,0 -12,0 -17,-7 -20,-34"/>
+   <polyline class="fil0 str0" points="1871,904 1872,904 1873,904 1872,898 1873,898 1874,898 "/>
+   <path class="fil0 str0" d="M1874 898c10,-17 18,-18 84,-18 26,0 51,0 62,1"/>
+  </g>
+ </g>
+</svg>

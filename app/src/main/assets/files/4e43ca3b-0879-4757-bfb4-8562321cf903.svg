@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Creator: CorelDRAW 2020 (64-Bit) -->
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="40mm" height="60mm" version="1.1" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
+viewBox="0 0 4000 6000"
+ xmlns:xlink="http://www.w3.org/1999/xlink"
+ xmlns:xodm="http://www.corel.com/coreldraw/odm/2003">
+ <defs>
+  <style type="text/css">
+   <![CDATA[
+    .str0 {stroke:#332C2B;stroke-width:20;stroke-miterlimit:22.9256}
+    .fil0 {fill:none}
+   ]]>
+  </style>
+   <clipPath id="id0">
+    <rect x="-80400.3" y="-10136.53" width="25379.32" height="17107.85"/>
+   </clipPath>
+ </defs>
+ <g id="图层_x0020_1">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <g style="clip-path:url(#id0)">
+   <image x="-80400.3" y="-10136.53" width="25379.32" height="17107.85" xlink:href="Q20 -11i（前膜全屏）_Images\Q20 -11i（前膜全屏）_ImgID1.png"/>
+  </g>
+  <rect class="fil0 str0" x="-79879.11" y="-9735.41" width="24400" height="16340"/>
+  <rect class="fil0 str0" x="-79631.38" y="-9333.25" width="23904.54" height="15448.3" rx="781.79" ry="850"/>
+  <path class="fil0 str0" d="M-25215.07 14449.5l14236.47 0c467.48,0 849.99,-382.51 849.99,-850.01l0 -22204.53c0,-467.5 -382.5,-850 -849.99,-850l-13748.31 0c-467.5,0 -850,382.5 -850,850l0 22204.53c0,467.51 382.5,850.01 850,850.01 467.5,0 708.3,84.61 893.51,186.48"/>
+  <path class="fil0 str0" d="M556.53 5314.15l2777.44 0c91.2,0 165.83,-74.63 165.83,-165.83l0 -4331.96c0,-91.21 -74.62,-165.83 -165.83,-165.83l-2682.2 0c-91.21,0 -165.83,74.62 -165.83,165.83l0 4331.96c0,91.21 74.62,165.83 165.83,165.83 91.21,0 138.18,16.51 174.32,36.38"/>
+ </g>
+</svg>

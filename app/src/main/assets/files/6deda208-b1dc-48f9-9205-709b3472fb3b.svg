@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Creator: CorelDRAW -->
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="40mm" height="60mm" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
+viewBox="0 0 40 60"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <style type="text/css">
+   <![CDATA[
+    .str0 {stroke:#1F1A17;stroke-width:0.194}
+    .str1 {stroke:#1F1A17;stroke-width:0.2}
+    .fil1 {fill:none}
+    .fil0 {fill:none;fill-rule:nonzero}
+   ]]>
+  </style>
+ </defs>
+ <g id="图层_x0020_1">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <g id="_284289672">
+   <path id="_245568968" class="fil0 str0" d="M12.2287 18.0981c0.0051,-0.4094 0.394,-0.7585 0.8452,-0.7585 0.4828,0 0.8666,0.3848 0.8656,0.8687 -0.001,0.4767 -0.3909,0.8667 -0.8656,0.8656 -0.4726,0 -0.8646,-0.3817 -0.8646,-0.8421 0,-0.0695 0.0071,-0.1307 0.0336,-0.3144"/>
+   <path id="_284499376" class="fil0 str0" d="M12.2144 15.1326c0.0673,-0.5563 0.3787,-0.8667 0.8728,-0.8667 0.4808,0 0.8615,0.3828 0.8615,0.8667 0,0.4839 -0.3807,0.8677 -0.8615,0.8677 -0.4982,0 -0.8636,-0.3716 -0.8636,-0.8769 0,-0.0684 0.001,-0.0755 0.0193,-0.2664"/>
+   <path id="_284289000" class="fil0 str0" d="M12.2144 11.8405c0.0673,-0.5563 0.3787,-0.8657 0.8728,-0.8657 0.4808,0 0.8615,0.3818 0.8615,0.8657 0,0.4849 -0.3807,0.8677 -0.8615,0.8677 -0.4982,0 -0.8636,-0.3706 -0.8636,-0.8769 0,-0.0674 0.001,-0.0745 0.0193,-0.2654"/>
+   <line id="_183526960" class="fil0 str0" x1="15.6208" y1="12.2825" x2="15.7229" y2= "12.2896" />
+   <path id="_46981000" class="fil0 str0" d="M15.7229 12.2896c0,-0.0633 -0.0296,-0.1 -0.0868,-0.1092 0.0225,-0.295 0.3001,-0.5298 0.6268,-0.5298 0.3624,0.001 0.6503,0.2889 0.6503,0.6503 0,0.3532 -0.2971,0.6492 -0.6503,0.6502 -0.3665,0 -0.6625,-0.3032 -0.6441,-0.6604 0.002,-0.0501 0.0173,-0.1654 0.0316,-0.2399"/>
+   <rect id="_284495512" class="fil1 str1" x="9.2857" y="8.7311" width="21.4286" height="42.5379" rx="2.7372" ry="2.7372"/>
+   <rect id="_245569856" class="fil1 str1" x="11.8079" y="10.6206" width="2.5527" height="8.763" rx="1.2763" ry="1.2763"/>
+   <rect id="_244979544" class="fil1 str1" x="11.2555" y="10.0682" width="3.5867" height="9.9064" rx="1.7933" ry="1.7933"/>
+  </g>
+ </g>
+</svg>

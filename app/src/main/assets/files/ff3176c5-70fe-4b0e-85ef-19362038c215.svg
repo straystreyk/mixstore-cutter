@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Creator: CorelDRAW 2020 (64-Bit) -->
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="40mm" height="60mm" version="1.1" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
+viewBox="0 0 4000 6000"
+ xmlns:xlink="http://www.w3.org/1999/xlink"
+ xmlns:xodm="http://www.corel.com/coreldraw/odm/2003">
+ <defs>
+  <style type="text/css">
+   <![CDATA[
+    .str0 {stroke:#E72D28;stroke-width:20;stroke-miterlimit:22.9256}
+    .str1 {stroke:#222222;stroke-width:20;stroke-miterlimit:22.9256}
+    .fil0 {fill:none}
+   ]]>
+  </style>
+   <clipPath id="id0">
+    <rect x="-40138.3" y="-7780.15" width="17394.75" height="17677.14"/>
+   </clipPath>
+ </defs>
+ <g id="图层_x0020_1">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <g style="clip-path:url(#id0)">
+   <image x="-40138.3" y="-7780.15" width="17394.75" height="17677.14" xlink:href="Edge 5G UW (2021)-11i（前膜全屏）_Images\Edge 5G UW (2021)-11i（前膜全屏）_ImgID1.png"/>
+  </g>
+  <rect class="fil0 str0" x="-39917.7" y="-7271.68" width="7560" height="16900"/>
+  <path class="fil0 str1" d="M-2098.46 6506.41l0 -6411.55c0,-384.98 -315.02,-700 -700,-700l-15151.89 0c-385,0 -700,315 -700,700l0 5951.18c0,385 315,700 700,700l15151.89 0c385,0 700,-315 700,-700 0,-385 74.12,-853.62 227.58,-1104.98"/>
+  <path class="fil0 str1" d="M-18185.16 3049.81c0,127.86 103.65,231.51 231.51,231.51 127.86,0 231.51,-103.65 231.51,-231.51 0,-127.86 -103.65,-231.51 -231.51,-231.51 -127.86,0 -231.51,103.65 -231.51,231.51 0,127.86 133.62,171.48 170.67,167.51"/>
+  <g id="_2241214235520">
+   <path class="fil0 str1" d="M1030.44 5286.78l1795.91 0c107.83,0 196.07,-88.24 196.07,-196.07l0 -4244.11c0,-107.84 -88.23,-196.07 -196.07,-196.07l-1666.96 0c-107.84,0 -196.07,88.23 -196.07,196.07l0 4244.11c0,107.84 88.23,196.07 196.07,196.07 107.84,0 239.11,20.76 309.51,63.75"/>
+   <path class="fil0 str1" d="M1998.65 780.83c-35.81,0 -64.85,29.03 -64.85,64.85 0,35.81 29.04,64.84 64.85,64.84 35.82,0 64.85,-29.03 64.85,-64.84 0,-35.82 -29.03,-64.85 -64.85,-64.85 -35.81,0 -48.03,37.43 -46.92,47.81"/>
+  </g>
+ </g>
+</svg>

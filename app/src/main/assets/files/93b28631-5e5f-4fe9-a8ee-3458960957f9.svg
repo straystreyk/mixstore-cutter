@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Creator: CorelDRAW X8 -->
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="40mm" height="60mm" version="1.1" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
+viewBox="0 0 4000 6000"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <style type="text/css">
+   <![CDATA[
+    .str0 {stroke:#332C2B;stroke-width:30}
+    .fil0 {fill:none;fill-rule:nonzero}
+   ]]>
+  </style>
+ </defs>
+ <g id="图层_x0020_1">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <g id="_1875325523984">
+   <line class="fil0 str0" x1="900" y1="5339" x2="900" y2= "5350" />
+   <path class="fil0 str0" d="M900 5350c8,0 11,-3 12,-11"/>
+   <line class="fil0 str0" x1="912" y1="5339" x2="2859" y2= "5339" />
+   <path class="fil0 str0" d="M2859 5339c115,-3 200,-69 232,-180 2,-10 3,-12 3,-65 4,-699 6,-1399 6,-2098"/>
+   <polyline class="fil0 str0" points="3100,2996 3099,898 3099,892 "/>
+   <path class="fil0 str0" d="M3099 892c-2,-42 -2,-42 -16,-79"/>
+   <line class="fil0 str0" x1="3083" y1="813" x2="3081" y2= "808" />
+   <path class="fil0 str0" d="M3081 808c-28,-76 -88,-130 -167,-150"/>
+   <line class="fil0 str0" x1="2914" y1="658" x2="2909" y2= "656" />
+   <path class="fil0 str0" d="M2909 656c-9,-3 -9,-3 -294,-4"/>
+   <line class="fil0 str0" x1="2615" y1="652" x2="2126" y2= "652" />
+   <path class="fil0 str0" d="M2126 652c-33,1 -42,3 -48,11 -6,6 -6,11 -6,50 0,3 0,7 0,11 0,47 -20,71 -56,71 -34,0 -56,-23 -57,-60"/>
+   <polyline class="fil0 str0" points="1959,735 1959,701 1960,686 "/>
+   <path class="fil0 str0" d="M1960 686c3,-36 3,-36 -253,-36"/>
+   <line class="fil0 str0" x1="1707" y1="650" x2="1603" y2= "650" />
+   <path class="fil0 str0" d="M1603 650c-226,0 -441,2 -464,4 -52,5 -115,40 -150,84 -25,32 -49,83 -51,110"/>
+   <polyline class="fil0 str0" points="938,848 937,898 940,5149 "/>
+   <path class="fil0 str0" d="M940 5149c2,32 33,91 65,123 46,45 87,62 175,68"/>
+  </g>
+ </g>
+</svg>

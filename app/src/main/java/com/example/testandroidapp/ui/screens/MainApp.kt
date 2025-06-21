@@ -7,14 +7,18 @@ import androidx.compose.runtime.Composable
 import androidx.compose.runtime.CompositionLocalProvider
 import androidx.compose.runtime.LaunchedEffect
 import androidx.compose.runtime.compositionLocalOf
+import androidx.compose.runtime.getValue
 import androidx.compose.runtime.mutableStateOf
 import androidx.compose.runtime.remember
+import androidx.compose.runtime.setValue
 import androidx.compose.ui.Alignment
 import androidx.compose.ui.Modifier
 import androidx.compose.ui.platform.LocalContext
 import com.example.testandroidapp.data.model.Category
 import com.example.testandroidapp.data.repository.CatalogRepository
 import com.example.testandroidapp.ui.navigation.AppNavigation
+import kotlinx.coroutines.Dispatchers
+import kotlinx.coroutines.withContext
 
 val LocalCatalogData = compositionLocalOf<List<Category>> { emptyList() }
 
@@ -22,21 +26,23 @@ val LocalCatalogData = compositionLocalOf<List<Category>> { emptyList() }
 @Composable
 fun PokrikApp() {
     val context = LocalContext.current // Получаем контекст здесь
-    val isLoading = remember { mutableStateOf(true) }
-    val catalogData = remember { mutableStateOf<List<Category>>(emptyList()) }
+    var isLoading by remember { mutableStateOf(true) }
+    var catalogData by remember { mutableStateOf<List<Category>>(emptyList()) }
 
     LaunchedEffect(Unit) {
-        val data = CatalogRepository.loadCatalogFromAssets(context, "db.json")
-        catalogData.value = data
-        isLoading.value = false
+        withContext(Dispatchers.IO) {
+            val data = CatalogRepository.loadCatalogFromAssets(context, "db.json")
+            catalogData = data
+            isLoading = false
+        }
     }
 
 
     CompositionLocalProvider(
-        LocalCatalogData provides catalogData.value
+        LocalCatalogData provides catalogData
     ) {
         when {
-            isLoading.value -> {
+            isLoading -> {
                 Box(
                     modifier = Modifier.fillMaxSize(),
                     contentAlignment = Alignment.Center
@@ -45,7 +51,7 @@ fun PokrikApp() {
                 }
             }
 
-            !isLoading.value -> {
+            catalogData.isNotEmpty() -> {
                 AppNavigation()
             }
         }

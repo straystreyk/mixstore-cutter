@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Creator: CorelDRAW 2020 (64-Bit) -->
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="40mm" height="60mm" version="1.1" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
+viewBox="0 0 4000 6000"
+ xmlns:xlink="http://www.w3.org/1999/xlink"
+ xmlns:xodm="http://www.corel.com/coreldraw/odm/2003">
+ <defs>
+  <style type="text/css">
+   <![CDATA[
+    .str1 {stroke:#332C2B;stroke-width:20;stroke-miterlimit:22.9256}
+    .str0 {stroke:#E62129;stroke-width:20;stroke-miterlimit:22.9256}
+    .fil0 {fill:none}
+   ]]>
+  </style>
+   <clipPath id="id0">
+    <rect x="-54902.52" y="-3351.38" width="14933.41" height="16151.88"/>
+   </clipPath>
+ </defs>
+ <g id="图层_x0020_1">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <g style="clip-path:url(#id0)">
+   <image x="-54902.52" y="-3351.38" width="14933.41" height="16151.88" xlink:href="Wildfire E1 plus -11i（前膜全屏）_Images\Wildfire E1 plus -11i（前膜全屏）_ImgID1.png"/>
+  </g>
+  <rect class="fil0 str0" x="-47717.37" y="-3092.32" width="7500" height="15750"/>
+  <path class="fil0 str0" d="M-46663.61 -2825.09l1733.84 0c92.95,-0.52 155.4,98.81 208.91,98.81l452.18 0 0 332.42c0,169.17 138.4,307.57 307.57,307.57l0.02 0c169.17,0 307.57,-138.4 307.57,-307.57l0 -332.42 471.2 0c53.51,0 110.67,-98.81 190.39,-98.81l1720.81 0c467.51,0 850.01,382.5 850.01,850.01l0 13534.94c0,467.5 -382.5,850 -850.01,850l-5392.49 0c-467.51,0 -850,-382.5 -850,-850l0 -13534.94c0,-467.51 382.49,-850.01 850,-850.01z"/>
+  <path class="fil0 str1" d="M-3734.6 6689.51l0 -5839.64c0,-467.5 -382.51,-850.01 -850,-850.01l-13534.94 0c-467.51,0 -850.01,382.5 -850.01,850.01l0 1720.81c0,79.72 98.81,136.88 98.81,190.39l0 471.2 332.42 0c169.17,0 307.57,138.4 307.57,307.57l0 0.02c0,169.17 -138.4,307.57 -307.57,307.57l-332.42 0 0 452.18c0,53.51 -99.33,115.96 -98.81,208.91l0 1733.84c0,467.51 382.5,850 850.01,850l13534.94 0c467.5,0 850,-382.49 850,-850 0,-467.51 55.41,-599.77 132.15,-709.57"/>
+  <path class="fil0 str1" d="M1031.47 5310.12l1786.04 0c142.98,0 259.97,-116.99 259.97,-259.97l0 -4139.63c0,-142.99 -116.98,-259.98 -259.97,-259.98l-526.31 0c-24.38,0 -41.86,30.23 -58.23,30.23l-144.11 0 0 101.67c0,51.74 -42.33,94.07 -94.07,94.07l-0.01 0c-51.74,0 -94.07,-42.33 -94.07,-94.07l0 -101.67 -138.3 0c-16.36,0 -35.46,-30.38 -63.89,-30.23l-530.29 0c-142.99,0 -259.97,116.99 -259.97,259.98l0 4139.63c0,142.99 116.98,259.97 259.97,259.97 142.98,0 183.43,16.95 217.02,40.42"/>
+ </g>
+</svg>

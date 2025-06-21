@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Creator: CorelDRAW 2020 (64-Bit) -->
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="40mm" height="60mm" version="1.1" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
+viewBox="0 0 4000 6000"
+ xmlns:xlink="http://www.w3.org/1999/xlink"
+ xmlns:xodm="http://www.corel.com/coreldraw/odm/2003">
+ <defs>
+  <style type="text/css">
+   <![CDATA[
+    .str1 {stroke:#332C2B;stroke-width:20;stroke-miterlimit:22.9256}
+    .str0 {stroke:#E62129;stroke-width:20;stroke-miterlimit:22.9256}
+    .fil0 {fill:none}
+   ]]>
+  </style>
+   <clipPath id="id0">
+    <rect x="-68754.59" y="-9193.76" width="27239.72" height="25726.39"/>
+   </clipPath>
+ </defs>
+ <g id="图层_x0020_1">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <g style="clip-path:url(#id0)">
+   <image x="-68754.59" y="-9193.76" width="27239.73" height="25726.39" xlink:href="Ultra Tab -11i（前膜带壳）_Images\Ultra Tab -11i（前膜带壳）_ImgID1.png"/>
+  </g>
+  <rect class="fil0 str0" x="-58318.68" y="-8799.68" width="15730" height="24760"/>
+  <path class="fil0 str0" d="M-57471.41 -8590.65l14035.46 0c302.51,0 550.01,247.5 550.01,549.99l0 23210.07c0,302.49 -247.5,550 -550.01,550l-14035.46 0c-302.51,0 -550.01,-247.51 -550.01,-550l0 -10520.21 278.93 0c110,0 200,-90 200,-200l0 -965.26c0,-110 -90,-200 -200,-200l-278.93 0 0 -11324.6c0,-302.49 247.5,-549.99 550.01,-549.99z"/>
+  <path class="fil0 str1" d="M-26520.38 15669.43l14322.42 0c300.5,0 546.38,-246.5 546.38,-547.74l0 -23114.63c0,-301.25 -245.87,-547.73 -546.38,-547.73l-13942.74 0c-300.51,0 -546.38,246.48 -546.38,547.73l0 11278.03 277.09 0c109.27,0 198.68,89.63 198.68,199.18l0 961.29c0,109.55 -89.41,199.18 -198.68,199.18l-277.09 0 0 10476.95c0,301.25 245.87,547.74 546.38,547.74 300.51,0 630.11,34.07 811.35,109.48"/>
+  <path class="fil0 str1" d="M565.04 5329.4l2778.51 0c58.22,0 105.85,-47.63 105.85,-105.85l0 -4467.17c0,-58.21 -47.63,-105.85 -105.85,-105.85l-2701.36 0c-58.22,0 -105.85,47.64 -105.85,105.85l0 2179.61 53.68 0c21.17,0 38.49,17.32 38.49,38.5l0 185.78c0,21.17 -17.32,38.49 -38.49,38.49l-53.68 0 0 2024.79c0,58.22 47.63,105.85 105.85,105.85 58.23,0 115.94,7.13 141.14,21.13"/>
+ </g>
+</svg>

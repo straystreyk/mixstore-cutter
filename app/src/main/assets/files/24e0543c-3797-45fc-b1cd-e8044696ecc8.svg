@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Creator: CorelDRAW 2020 (64-Bit) -->
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="40mm" height="60mm" version="1.1" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
+viewBox="0 0 4000 6000"
+ xmlns:xlink="http://www.w3.org/1999/xlink"
+ xmlns:xodm="http://www.corel.com/coreldraw/odm/2003">
+ <defs>
+  <style type="text/css">
+   <![CDATA[
+    .str1 {stroke:#332C2B;stroke-width:20;stroke-miterlimit:22.9256}
+    .str0 {stroke:#E62129;stroke-width:20;stroke-miterlimit:22.9256}
+    .fil0 {fill:none}
+   ]]>
+  </style>
+   <clipPath id="id0">
+    <rect x="-130058.91" y="-12772.71" width="47362.01" height="32557.27"/>
+   </clipPath>
+ </defs>
+ <g id="图层_x0020_1">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <g style="clip-path:url(#id0)">
+   <image x="-130058.91" y="-12772.71" width="47362.01" height="32557.27" xlink:href="Inspiron 灵越 15 5000（5570） -11i（前膜全屏）_Images\Inspiron 灵越 15 5000（5570） -11i（前膜全屏）_ImgID1.png"/>
+  </g>
+  <rect class="fil0 str0" x="-125677.39" y="-11093.95" width="38000" height="25800"/>
+  <rect class="fil0 str0" x="-123849.33" y="-8860.28" width="34343.88" height="19336.54" rx="180.17" ry="150"/>
+  <path class="fil0 str1" d="M-25111.96 20332.82l19164.86 0c82.49,0 150,-67.51 150,-150l0 -34043.88c0,-82.5 -67.5,-150 -150,-150l-19036.54 0c-82.5,0 -150,67.5 -150,150l0 34043.88c0,82.5 67.5,150 150,150 82.5,0 160.61,20.68 210.22,57.06"/>
+  <path class="fil0 str1" d="M675.44 5347.87l2618.39 0c11.27,0 20.49,-9.22 20.49,-20.49l0 -4651.22c0,-11.27 -9.22,-20.49 -20.49,-20.49l-2600.86 0c-11.27,0 -20.49,9.22 -20.49,20.49l0 4651.22c0,11.27 9.22,20.49 20.49,20.49 11.28,0 21.95,2.83 28.72,7.8"/>
+ </g>
+</svg>

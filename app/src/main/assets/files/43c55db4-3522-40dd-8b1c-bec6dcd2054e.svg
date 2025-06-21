@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Creator: CorelDRAW 2020 (64-Bit) -->
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="40mm" height="60mm" version="1.1" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
+viewBox="0 0 4000 6000"
+ xmlns:xlink="http://www.w3.org/1999/xlink"
+ xmlns:xodm="http://www.corel.com/coreldraw/odm/2003">
+ <defs>
+  <style type="text/css">
+   <![CDATA[
+    .str1 {stroke:#373435;stroke-width:20;stroke-miterlimit:22.9256}
+    .str0 {stroke:#373435;stroke-width:16.93;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10}
+    .fil0 {fill:none}
+   ]]>
+  </style>
+ </defs>
+ <g id="圖層_x0020_1">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <path class="fil0 str0" d="M-15458.06 5973.56l-1.34 -6864.72c-30.54,-396.87 -266.48,-627.66 -662.05,-658.07l-13835.45 0c-395.56,30.41 -631.51,261.2 -662.05,658.07l0 1688.8c16.6,124.43 53.1,174.95 162.54,233.9 127.97,25.58 225.14,57.4 237.86,210.1l0 2021.8c-9.45,113.48 -70.71,171.31 -178.39,198.22 -145.08,29.01 -203.95,105.39 -222.01,249.75l0 1708.63c30.64,398.17 263.85,631.43 662.05,662.03l13835.45 0c377.97,-29.05 607.29,-240.68 655.81,-602.61 2.59,-19.36 56.06,-595.18 402.69,-728.82"/>
+  <circle class="fil0 str1" transform="matrix(1.6244E-14 -0.613338 0.613338 1.6244E-14 -14549.3 6511.36)" r="423.91"/>
+  <circle class="fil0 str1" transform="matrix(1.6244E-14 -0.613338 0.613338 1.6244E-14 -14553.6 -1983.33)" r="423.91"/>
+  <circle class="fil0 str1" transform="matrix(1.6244E-14 -0.613338 0.613338 1.6244E-14 -31772.6 -508.61)" r="423.91"/>
+  <circle class="fil0 str1" transform="matrix(1.6244E-14 -0.613338 0.613338 1.6244E-14 -31772.6 4839.26)" r="423.91"/>
+  <path class="fil0 str0" d="M1013.12 5082.64l1831.83 -0.36c105.9,-8.15 167.49,-71.11 175.6,-176.66l0 -3691.95c-8.11,-105.55 -69.7,-168.51 -175.6,-176.66l-450.65 0c-33.21,4.43 -46.69,14.17 -62.42,43.37 -6.82,34.15 -15.31,60.08 -56.06,63.47l-539.51 0c-30.28,-2.52 -45.72,-18.87 -52.9,-47.6 -7.74,-38.71 -28.12,-54.42 -66.64,-59.24l-455.94 0c-106.26,8.17 -168.5,70.4 -176.67,176.66l0 3691.95c7.76,100.86 64.23,162.05 160.81,175 5.17,0.69 158.82,14.96 194.48,107.45"/>
+  <circle class="fil0 str1" cx="869.61" cy="5325.14" r="69.38"/>
+  <circle class="fil0 str1" cx="3136.39" cy="5324" r="69.38"/>
+  <circle class="fil0 str1" cx="2742.87" cy="729.17" r="69.38"/>
+  <circle class="fil0 str1" cx="1315.8" cy="729.17" r="69.38"/>
+ </g>
+</svg>

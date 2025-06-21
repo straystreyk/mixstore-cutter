@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Creator: CorelDRAW -->
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="40mm" height="60mm" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
+viewBox="0 0 40 60"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <style type="text/css">
+   <![CDATA[
+    .str0 {stroke:#1F1A17;stroke-width:0.194}
+    .str1 {stroke:#1F1A17;stroke-width:0.2}
+    .fil1 {fill:none}
+    .fil0 {fill:none;fill-rule:nonzero}
+   ]]>
+  </style>
+ </defs>
+ <g id="图层_x0020_1">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <g id="_274510344">
+   <polyline id="_274510464" class="fil0 str0" points="13.4582,16.9308 13.4582,16.8343 13.4475,16.8373 "/>
+   <line id="_274510512" class="fil0 str0" x1="13.3822" y1="16.9864" x2="13.4514" y2= "17.0204" />
+   <path id="_274510008" class="fil0 str0" d="M13.4514 17.0204c-0.0604,0.4814 -0.3293,0.7211 -0.8087,0.7201 -0.4512,0 -0.8165,-0.3664 -0.8156,-0.8185 0,-0.4599 0.3586,-0.8194 0.8175,-0.8194 0.456,0 0.8165,0.3556 0.8165,0.8068 0,0.0614 -0.0058,0.1247 -0.0233,0.2767"/>
+   <path id="_274510536" class="fil0 str0" d="M13.541 13.8791c-0.038,0.5457 -0.3946,0.9013 -0.9032,0.9013 -0.5018,0 -0.8964,-0.3965 -0.8964,-0.9013 0,-0.5028 0.3975,-0.9012 0.8993,-0.9012 0.4969,0 0.8955,0.3965 0.8955,0.8915 0,0.0643 -0.0049,0.1228 -0.0225,0.2855"/>
+   <path id="_274509912" class="fil0 str0" d="M13.541 10.8265c-0.0389,0.5427 -0.3956,0.8964 -0.9042,0.8964 -0.5018,0 -0.8954,-0.3966 -0.8954,-0.9013 0,-0.5028 0.3956,-0.8984 0.9013,-0.8984 0.4988,0 0.8935,0.3927 0.8935,0.8916 0,0.0643 -0.0049,0.1266 -0.0225,0.2816"/>
+   <rect id="_273411208" class="fil1 str1" x="9.5038" y="7.8544" width="20.9924" height="44.2912" rx="3.6463" ry="3.6463"/>
+   <rect id="_274506648" class="fil1 str1" x="11.3962" y="9.71" width="2.5146" height="8.2296" rx="1.2573" ry="1.2573"/>
+   <rect id="_274507704" class="fil1 str1" x="10.9771" y="9.1004" width="3.5814" height="9.1821" rx="1.7907" ry="1.7907"/>
+  </g>
+ </g>
+</svg>

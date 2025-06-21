@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Creator: CorelDRAW 2020 (64-Bit) -->
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="40mm" height="60mm" version="1.1" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
+viewBox="0 0 4000 6000"
+ xmlns:xlink="http://www.w3.org/1999/xlink"
+ xmlns:xodm="http://www.corel.com/coreldraw/odm/2003">
+ <defs>
+  <style type="text/css">
+   <![CDATA[
+    .str0 {stroke:#E72D28;stroke-width:20;stroke-miterlimit:22.9256}
+    .str1 {stroke:#222222;stroke-width:20;stroke-miterlimit:22.9256}
+    .fil0 {fill:none}
+   ]]>
+  </style>
+   <clipPath id="id0">
+    <rect x="-30215.71" y="-4753.37" width="8668.76" height="17593.41"/>
+   </clipPath>
+   <clipPath id="id1">
+    <rect x="-46015.01" y="-6648.47" width="9278.04" height="19296.94"/>
+   </clipPath>
+ </defs>
+ <g id="图层_x0020_1">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <g style="clip-path:url(#id0)">
+   <image x="-30215.71" y="-4753.37" width="8668.76" height="17593.42" xlink:href="红魔6S Pro-11i（前膜全屏）_Images\红魔6S Pro-11i（前膜全屏）_ImgID1.png"/>
+  </g>
+  <g style="clip-path:url(#id1)">
+   <image x="-46015.01" y="-6648.47" width="9278.04" height="19296.94" xlink:href="红魔6S Pro-11i（前膜全屏）_Images\红魔6S Pro-11i（前膜全屏）_ImgID2.png"/>
+  </g>
+  <rect class="fil0 str0" x="-29839.63" y="-4331.05" width="7719" height="16986"/>
+  <path class="fil0 str1" d="M-2413.6 6503.43l0 -6229.96c0,-439.99 -360,-800 -800,-800l-15094.19 0c-439.98,0 -800,360 -800,800l0 390.6 204.7 0c101.49,0 184.54,83.04 184.54,184.54l0 0.02c0,101.5 -83.06,184.54 -184.54,184.54l-204.7 0 0 738.46c0,70.56 128.62,149.98 128.62,217.56l0 2346.87c0,67.58 -128.62,134.14 -128.62,233.14l0 1500.31c0,440 360,800 800,800l15094.19 0c440.01,0 800,-360 800,-800 0,-440 46.64,-783.77 188.2,-995.43"/>
+  <path class="fil0 str1" d="M1065.27 5298.14l1734.4 0c122.49,0 222.72,-100.23 222.72,-222.72l0 -4202.17c0,-122.49 -100.23,-222.72 -222.72,-222.72l-108.74 0 0 56.99c0,28.25 -23.12,51.37 -51.38,51.37l0 0c-28.26,0 -51.38,-23.12 -51.38,-51.37l0 -56.99 -205.58 0c-19.65,0 -41.76,35.81 -60.57,35.81l-653.36 0c-18.82,0 -37.35,-35.81 -64.91,-35.81l-417.68 0c-122.49,0 -222.72,100.22 -222.72,222.72l0 4202.17c0,122.5 100.23,222.72 222.72,222.72 122.5,0 218.2,12.98 277.13,52.39"/>
+ </g>
+</svg>

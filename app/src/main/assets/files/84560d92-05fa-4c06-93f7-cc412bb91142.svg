@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Creator: CorelDRAW 2020 (64-Bit) -->
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="40mm" height="60mm" version="1.1" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
+viewBox="0 0 4000 6000"
+ xmlns:xlink="http://www.w3.org/1999/xlink"
+ xmlns:xodm="http://www.corel.com/coreldraw/odm/2003">
+ <defs>
+  <style type="text/css">
+   <![CDATA[
+    .str0 {stroke:#332C2B;stroke-width:20;stroke-miterlimit:22.9256}
+    .fil0 {fill:none}
+   ]]>
+  </style>
+   <clipPath id="id0">
+    <rect x="-67366.79" y="-6831.83" width="22392.68" height="21367.3"/>
+   </clipPath>
+ </defs>
+ <g id="图层_x0020_1">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <g style="clip-path:url(#id0)">
+   <image x="-67366.79" y="-6831.83" width="22392.68" height="21367.31" xlink:href="Avengers -11i（前膜全屏）_Images\Avengers -11i（前膜全屏）_ImgID1.png"/>
+  </g>
+  <rect class="fil0 str0" x="-66897.51" y="-6372.17" width="21500" height="14300"/>
+  <rect class="fil0 str0" x="-64673.89" y="-4213.16" width="17052.76" height="9895.09" rx="203.24" ry="150"/>
+  <path class="fil0 str0" d="M-21805.37 7112.75l16913.5 0c82.49,0 150,-67.52 150,-150l0 -9595.09c0,-82.5 -67.5,-150 -150,-150l-16752.76 0c-82.5,0 -150,67.5 -150,150l0 9595.09c0,82.49 67.5,150 150,150 82.5,0 168.18,23.81 209.19,70.78"/>
+  <path class="fil0 str0" d="M3345.88 5350.53l0 -4658.68c0,-22.72 -18.59,-41.32 -41.31,-41.32l-2642.9 0c-22.72,0 -41.31,18.59 -41.31,41.32l0 4614.41c0,22.72 18.59,41.31 41.31,41.31l2642.9 0c22.72,0 41.31,-18.59 41.31,-41.31 0,-22.73 6.56,-46.33 19.5,-57.62"/>
+ </g>
+</svg>

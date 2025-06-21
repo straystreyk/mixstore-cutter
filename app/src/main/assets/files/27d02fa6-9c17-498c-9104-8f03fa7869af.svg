@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Creator: CorelDRAW 2020 (64-Bit) -->
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="40mm" height="60mm" version="1.1" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
+viewBox="0 0 4000 6000"
+ xmlns:xlink="http://www.w3.org/1999/xlink"
+ xmlns:xodm="http://www.corel.com/coreldraw/odm/2003">
+ <defs>
+  <style type="text/css">
+   <![CDATA[
+    .str2 {stroke:#332C2B;stroke-width:20;stroke-miterlimit:22.9256}
+    .str1 {stroke:#E62129;stroke-width:20;stroke-miterlimit:22.9256}
+    .str0 {stroke:#E62129;stroke-width:20;stroke-miterlimit:22.9256}
+    .fil0 {fill:none}
+   ]]>
+  </style>
+   <clipPath id="id0">
+    <rect x="-49278.95" y="-9192.08" width="8040.23" height="17181.87"/>
+   </clipPath>
+ </defs>
+ <g id="图层_x0020_1">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <g style="clip-path:url(#id0)">
+   <image x="-49278.95" y="-9192.08" width="8040.23" height="17181.87" xlink:href="Galaxy S21 Ultra 5G -11i（前膜全屏）2_Images\Galaxy S21 Ultra 5G -11i（前膜全屏）2_ImgID1.png"/>
+  </g>
+  <rect class="fil0 str0" x="-49021.5" y="-8936.27" width="7560" height="16510"/>
+  <rect class="fil0 str0" x="-48931.52" y="-8790.5" width="7380.04" height="16221.46" rx="698.41" ry="775.85"/>
+  <path class="fil0 str1" d="M-45367.31 -8382.36c-14.56,-72.76 7.6,-179.26 112.45,-179.26 104.85,0 189.84,84.99 189.84,189.84 0,104.85 -84.99,189.84 -189.84,189.84 -104.85,0 -189.84,-84.99 -189.84,-189.84 0,-104.85 84.99,-189.84 189.84,-189.84"/>
+  <path class="fil0 str2" d="M-7959.47 5668.46l0 -6380.09c0,-384.13 -314.3,-698.42 -698.41,-698.42l-14824.64 0c-384.13,0 -698.41,314.28 -698.41,698.42l0 5983.21c0,384.13 314.28,698.41 698.41,698.41l14824.64 0c384.12,0 698.41,-314.28 698.41,-698.41 0,-384.13 41.73,-550.44 77.45,-625.85"/>
+  <path class="fil0 str2" d="M-23772.8 2405.79c-72.76,14.56 -179.26,-7.6 -179.26,-112.45 0,-104.85 84.99,-189.84 189.84,-189.84 104.85,0 189.84,84.99 189.84,189.84 0,104.85 -84.99,189.84 -189.84,189.84 -104.85,0 -189.84,-84.99 -189.84,-189.84"/>
+  <g id="_2311834831856">
+   <path class="fil0 str2" d="M1015.76 5328.19l1839.78 0c110.77,0 201.4,-90.63 201.4,-201.39l0 -4274.88c0,-110.76 -90.63,-201.39 -201.4,-201.39l-1725.34 0c-110.77,0 -201.4,90.63 -201.4,201.39l0 4274.88c0,110.77 90.63,201.39 201.4,201.39 110.77,0 158.73,12.04 180.47,22.34"/>
+   <path class="fil0 str2" d="M1956.59 768.22c-4.2,-20.98 2.19,-51.69 32.42,-51.69 30.24,0 54.75,24.5 54.75,54.74 0,30.23 -24.51,54.74 -54.75,54.74 -30.23,0 -54.74,-24.51 -54.74,-54.74 0,-30.24 24.51,-54.74 54.74,-54.74"/>
+  </g>
+ </g>
+</svg>

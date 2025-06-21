@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Creator: CorelDRAW 2020 (64-Bit) -->
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="40mm" height="60mm" version="1.1" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
+viewBox="0 0 4000 6000"
+ xmlns:xlink="http://www.w3.org/1999/xlink"
+ xmlns:xodm="http://www.corel.com/coreldraw/odm/2003">
+ <defs>
+  <style type="text/css">
+   <![CDATA[
+    .str1 {stroke:#332C2B;stroke-width:20;stroke-miterlimit:22.9256}
+    .str0 {stroke:#FFF000;stroke-width:20;stroke-miterlimit:22.9256}
+    .fil0 {fill:none}
+   ]]>
+  </style>
+   <clipPath id="id0">
+    <rect x="-33670.98" y="-4999.05" width="9202.74" height="15883.24"/>
+   </clipPath>
+ </defs>
+ <g id="图层_x0020_1">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <g style="clip-path:url(#id0)">
+   <image x="-33670.98" y="-4999.05" width="9202.74" height="15883.24" xlink:href="Dolphin CT60 -11i（前膜）_Images\Dolphin CT60 -11i（前膜）_ImgID1.png"/>
+  </g>
+  <rect class="fil0 str0" x="-32450.74" y="-3534.23" width="6600.01" height="13200" rx="941.34" ry="1024.33"/>
+  <path class="fil0 str1" d="M-2877.47 5807.98l0 -5147.31c0,-517.73 -423.6,-941.32 -941.33,-941.32l-11317.35 0c-517.73,0 -941.32,423.58 -941.32,941.32l0 4717.36c0,517.74 423.59,941.32 941.32,941.32l11317.35 0c517.74,0 941.33,-423.58 941.33,-941.32 0,-517.74 26.71,-667.54 75.22,-807.55"/>
+  <path class="fil0 str1" d="M1006.11 5329.04l1822.36 0c183.3,0 333.27,-149.97 333.27,-333.27l0 -4006.83c0,-183.3 -149.97,-333.27 -333.27,-333.27l-1670.14 0c-183.3,0 -333.27,149.97 -333.27,333.27l0 4006.83c0,183.3 149.97,333.27 333.27,333.27 183.3,0 236.33,9.46 285.9,26.63"/>
+ </g>
+</svg>

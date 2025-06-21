@@ -12,9 +12,14 @@ object CatalogRepository {
      * @param fileName Имя файла в assets (по умолчанию "db.json")
      * @return Список категорий или пустой список в случае ошибки
      */
+    fun loadFile(context: Context, fileName: String): String {
+        val jsonString = context.assets.open(fileName).bufferedReader().use { it.readText() }
+        return jsonString
+    }
+
     fun loadCatalogFromAssets(context: Context, fileName: String): List<Category> {
         try {
-            val jsonString = context.assets.open(fileName).bufferedReader().use { it.readText() }
+            val jsonString = loadFile(context, fileName)
             val type = object : TypeToken<List<Category>>() {}.type
             return Gson().fromJson(jsonString, type) ?: emptyList()
         } catch (e: Exception) {

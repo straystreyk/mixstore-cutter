@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Creator: CorelDRAW 2020 (64-Bit) -->
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="40mm" height="60mm" version="1.1" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
+viewBox="0 0 4000 6000"
+ xmlns:xlink="http://www.w3.org/1999/xlink"
+ xmlns:xodm="http://www.corel.com/coreldraw/odm/2003">
+ <defs>
+  <style type="text/css">
+   <![CDATA[
+    .str1 {stroke:#332C2B;stroke-width:20;stroke-miterlimit:22.9256}
+    .str0 {stroke:#E62129;stroke-width:20;stroke-miterlimit:22.9256}
+    .fil0 {fill:none}
+   ]]>
+  </style>
+   <clipPath id="id0">
+    <rect x="-45484.14" y="-5725.12" width="17801.34" height="17106.66"/>
+   </clipPath>
+ </defs>
+ <g id="图层_x0020_1">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <g style="clip-path:url(#id0)">
+   <image x="-45484.14" y="-5725.12" width="17801.34" height="17106.66" xlink:href="9i 5G -11i（防爆膜）_Images\9i 5G -11i（防爆膜）_ImgID1.png"/>
+  </g>
+  <rect class="fil0 str0" x="-37396.37" y="-5299.57" width="7510" height="16440"/>
+  <path class="fil0 str0" d="M-36433.75 -4854.33l2075.7 0c70.71,0 167.22,24.16 277.47,106.83 110.25,82.67 250.32,260.73 436.01,260.73 185.69,0 342.86,-168.68 458.62,-262.37 115.76,-93.69 218.94,-105.04 329.28,-105.04l2011.86 0c329.99,0 599.99,270.03 599.99,600.01l0 14093.02c0,330 -270,600 -599.99,600l-5593.11 0c-329.96,0 -600,-270 -600,-600l0 -14091.91c0,-303.83 180.07,-601.27 604.17,-601.27z"/>
+  <path class="fil0 str1" d="M-5223.03 6003.6l0 -5965.75c0,-329.98 -270.01,-599.99 -600,-599.99l-14093.02 0c-329.98,0 -600.01,270 -600.01,599.99l0 2011.86c0,110.34 11.35,213.52 105.04,329.28 93.69,115.76 262.37,272.93 262.37,458.62 0,185.69 -178.06,325.76 -260.73,436.01 -82.67,110.25 -106.83,206.76 -106.83,277.47l0 2075.7c0,424.1 297.44,604.17 601.27,604.17l14091.91 0c330,0 600,-270.04 600,-600 0,-329.96 51.23,-520.44 84.3,-605.32"/>
+  <path class="fil0 str1" d="M1024.76 5329.9l1823.39 0c100.85,0 183.38,-82.52 183.38,-183.38l0 -4307.42c0,-100.85 -82.52,-183.38 -183.38,-183.38l-614.91 0c-33.73,0 -65.26,3.46 -100.64,32.1 -35.39,28.64 -83.42,80.19 -140.18,80.19 -56.75,0 -99.56,-54.42 -133.26,-79.69 -33.7,-25.27 -63.2,-32.65 -84.81,-32.65l-634.42 0c-129.62,0 -184.66,90.91 -184.66,183.77l0 4307.08c0,100.86 82.54,183.38 183.39,183.38 100.85,0 159.06,15.66 185.01,25.77"/>
+ </g>
+</svg>

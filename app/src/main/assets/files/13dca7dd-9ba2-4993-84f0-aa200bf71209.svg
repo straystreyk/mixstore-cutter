@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Creator: CorelDRAW 2020 (64-Bit) -->
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="40mm" height="60mm" version="1.1" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
+viewBox="0 0 4000 6000"
+ xmlns:xlink="http://www.w3.org/1999/xlink"
+ xmlns:xodm="http://www.corel.com/coreldraw/odm/2003">
+ <defs>
+  <style type="text/css">
+   <![CDATA[
+    .str1 {stroke:#332C2B;stroke-width:20;stroke-miterlimit:22.9256}
+    .str0 {stroke:#E72D28;stroke-width:20;stroke-miterlimit:22.9256}
+    .str2 {stroke:#222222;stroke-width:7.62;stroke-miterlimit:22.9256}
+    .fil0 {fill:none}
+   ]]>
+  </style>
+   <clipPath id="id0">
+    <rect x="-28015.87" y="-5554.06" width="8219.25" height="16219"/>
+   </clipPath>
+ </defs>
+ <g id="图层_x0020_1">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <g style="clip-path:url(#id0)">
+   <image x="-28015.87" y="-5554.06" width="8219.25" height="16219.01" xlink:href="Galaxy S22 Plus-11i（防爆-磨砂）_Images\Galaxy S22 Plus-11i（防爆-磨砂）_ImgID1.png"/>
+  </g>
+  <rect class="fil0 str0" x="-27648.46" y="-5249.93" width="7580" height="15740"/>
+  <rect class="fil0 str0" x="-27350.33" y="-4941.25" width="6983.74" height="15111.04" rx="650" ry="767.84"/>
+  <circle class="fil0 str1" cx="-23867.13" cy="-4607.17" r="210.56"/>
+  <path class="fil0 str2" d="M-1682.14 6360.34l0 -6120.29c0,-357.49 -292.51,-650.01 -650,-650.01l-13811.04 0c-357.5,0 -650,292.51 -650,650.01l0 5683.73c0,357.5 292.5,650 650,650l13811.04 0c357.5,0 650,-292.5 650,-650 0,-357.5 90.47,-607.3 174.26,-772.66"/>
+  <path class="fil0 str2" d="M-16669.66 3090.59c0,116.29 94.27,210.56 210.56,210.56 116.29,0 210.56,-94.27 210.56,-210.56 0,-116.29 -94.27,-210.56 -210.56,-210.56 -116.29,0 -210.56,94.27 -210.56,210.56 0,116.29 101.42,154.48 133.39,157.79"/>
+  <g id="_2717350666384">
+   <path class="fil0 str2" d="M985.33 5302.09l1881.9 0c109.92,0 199.87,-89.94 199.87,-199.87l0 -4246.68c0,-109.93 -89.94,-199.87 -199.87,-199.87l-1747.66 0c-109.93,0 -199.87,89.94 -199.87,199.87l0 4246.68c0,109.93 89.94,199.87 199.87,199.87 109.92,0 186.73,27.82 237.58,53.58"/>
+   <path class="fil0 str2" d="M1990.73 693.65c-35.76,0 -64.74,28.99 -64.74,64.74 0,35.76 28.98,64.75 64.74,64.75 35.76,0 64.75,-28.99 64.75,-64.75 0,-35.75 -28.99,-64.74 -64.75,-64.74 -35.76,0 -47.5,31.19 -48.52,41.02"/>
+  </g>
+ </g>
+</svg>

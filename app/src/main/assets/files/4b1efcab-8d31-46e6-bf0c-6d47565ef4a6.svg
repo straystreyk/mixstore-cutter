@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Creator: CorelDRAW X8 -->
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="40mm" height="60mm" version="1.1" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
+viewBox="0 0 4000 6000"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <style type="text/css">
+   <![CDATA[
+    .str0 {stroke:#332C2B;stroke-width:19.4}
+    .fil0 {fill:none;fill-rule:nonzero}
+   ]]>
+  </style>
+ </defs>
+ <g id="图层_x0020_1">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <g id="_1746934669952">
+   <g>
+    <line class="fil0 str0" x1="3051" y1="652" x2="3051" y2= "683" />
+    <line class="fil0 str0" x1="1054" y1="5307" x2="1054" y2= "5317" />
+    <path class="fil0 str0" d="M1054 5317c5,-2 8,-5 10,-10"/>
+    <line class="fil0 str0" x1="1064" y1="5307" x2="2838" y2= "5308" />
+    <path class="fil0 str0" d="M2838 5308c103,-3 182,-64 211,-165 2,-9 3,-16 3,-61"/>
+    <line class="fil0 str0" x1="3052" y1="5082" x2="3057" y2= "877" />
+    <path class="fil0 str0" d="M3057 877c-4,-76 -29,-131 -82,-176 -28,-24 -61,-40 -95,-46 -19,-4 -81,-5 -229,-5 -283,0 -364,1 -407,3 -44,2 -62,7 -91,25 -28,17 -43,32 -68,72 -5,9 -10,16 -15,21 -18,20 -44,31 -72,31 -27,0 -53,-11 -71,-31"/>
+    <line class="fil0 str0" x1="1927" y1="771" x2="1897" y2= "728" />
+    <path class="fil0 str0" d="M1897 728c-28,-40 -70,-66 -119,-74 -15,-3 -94,-3 -250,-3"/>
+    <line class="fil0 str0" x1="1528" y1="651" x2="1156" y2= "652" />
+    <path class="fil0 str0" d="M1156 652c-41,2 -58,6 -84,17 -62,28 -104,78 -125,148 -4,13 -4,11 -3,274"/>
+    <line class="fil0 str0" x1="944" y1="1091" x2="947" y2= "5141" />
+    <path class="fil0 str0" d="M947 5141c5,29 32,78 59,104 37,37 80,56 136,61"/>
+    <line class="fil0 str0" x1="1142" y1="5306" x2="1176" y2= "5310" />
+    <path class="fil0 str0" d="M1176 5310c21,4 32,11 62,40"/>
+   </g>
+  </g>
+ </g>
+</svg>

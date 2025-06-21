@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Creator: CorelDRAW 2020 (64-Bit) -->
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="40mm" height="60mm" version="1.1" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
+viewBox="0 0 4000 6000"
+ xmlns:xlink="http://www.w3.org/1999/xlink"
+ xmlns:xodm="http://www.corel.com/coreldraw/odm/2003">
+ <defs>
+  <style type="text/css">
+   <![CDATA[
+    .str0 {stroke:#332C2B;stroke-width:20;stroke-miterlimit:22.9256}
+    .fil0 {fill:none}
+   ]]>
+  </style>
+   <clipPath id="id0">
+    <rect x="-40969.09" y="-12739.07" width="22908.79" height="22865.88"/>
+   </clipPath>
+ </defs>
+ <g id="图层_x0020_1">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <g style="clip-path:url(#id0)">
+   <image x="-40969.09" y="-12739.07" width="22908.79" height="22865.88" xlink:href="Galaxy Folder2 -11i（背膜）_Images\Galaxy Folder2 -11i（背膜）_ImgID1.png"/>
+  </g>
+  <rect class="fil0 str0" x="-38932.39" y="-2418.64" width="6020" height="12200"/>
+  <path class="fil0 str0" d="M-38418.03 -1233.89l4991.3 0c220,0 400,180 400,400l0 9763.65c0,385 -315,700 -700.01,700l-4391.29 0c-385,0 -700,-315 -700,-700l0 -9763.65c0,-220 180,-400 400,-400z"/>
+  <path class="fil0 str0" d="M-2292.89 5894.73l0 -4989.25c0,-385 -315.01,-700.01 -700,-700.01l-9763.65 0c-220,0 -400,180 -400,400l0 4991.3c0,220 180,400 400,400l9763.65 0c385,0 700,-315 700,-700 0,-385 70.05,-810.84 236.74,-986.79"/>
+  <path class="fil0 str0" d="M810.03 5250.29l2112.49 0c163.02,0 296.4,-133.37 296.4,-296.38l0 -4134.01c0,-93.15 -76.22,-169.37 -169.37,-169.37l-2113.36 0c-93.15,0 -169.37,76.22 -169.37,169.37l0 4134.01c0,163.01 133.38,296.38 296.39,296.38 163.01,0 343.32,29.66 417.82,100.24"/>
+ </g>
+</svg>

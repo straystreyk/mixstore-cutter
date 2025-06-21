@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Creator: CorelDRAW 2020 (64-Bit) -->
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="40mm" height="60mm" version="1.1" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
+viewBox="0 0 4000 6000"
+ xmlns:xlink="http://www.w3.org/1999/xlink"
+ xmlns:xodm="http://www.corel.com/coreldraw/odm/2003">
+ <defs>
+  <style type="text/css">
+   <![CDATA[
+    .str1 {stroke:#332C2B;stroke-width:20;stroke-miterlimit:22.9256}
+    .str2 {stroke:#332C2B;stroke-width:20;stroke-miterlimit:22.9256}
+    .str0 {stroke:#E62129;stroke-width:20;stroke-miterlimit:22.9256}
+    .fil0 {fill:none}
+   ]]>
+  </style>
+   <clipPath id="id0">
+    <rect x="-58074.12" y="-10591.78" width="22462.75" height="25809.08"/>
+   </clipPath>
+ </defs>
+ <g id="图层_x0020_1">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <g style="clip-path:url(#id0)">
+   <image x="-58074.12" y="-10591.78" width="22462.75" height="25809.08" xlink:href="iPad (2022) -11i（背膜）_Images\iPad (2022) -11i（背膜）_ImgID1.png"/>
+  </g>
+  <rect class="fil0 str0" x="-57905.41" y="-10082.28" width="17950" height="24860"/>
+  <rect class="fil0 str0" x="-57833.23" y="-10018.88" width="17805.64" height="24733.2" rx="1598.49" ry="1549.02"/>
+  <circle class="fil0 str1" cx="-56420" cy="-8575.81" r="640.29"/>
+  <circle class="fil0 str1" cx="-56417.61" cy="-7102.16" r="143.9"/>
+  <path class="fil0 str2" d="M-20690.77 14714.33l15204 0c879.15,0 1598.47,-719.32 1598.47,-1598.48l0 -21536.25c0,-879.17 -719.31,-1598.47 -1598.47,-1598.47l-14608.69 0c-879.16,0 -1598.48,719.3 -1598.48,1598.47l0 21536.25c0,879.17 719.32,1598.48 1598.48,1598.48 879.16,0 1053.38,149.99 1144.66,230.68"/>
+  <path class="fil0 str2" d="M-20280.71 -9216.1c-353.62,0 -640.29,286.67 -640.29,640.29 0,353.62 286.67,640.29 640.29,640.29 353.62,0 640.29,-286.67 640.29,-640.29 0,-353.62 -286.67,-640.29 -640.29,-640.29 -353.62,0 -306.36,290.33 -306.36,315.47"/>
+  <path class="fil0 str2" d="M-20278.32 -7246.06c-79.47,0 -143.9,64.43 -143.9,143.9 0,79.47 64.43,143.9 143.9,143.9 79.47,0 143.9,-64.43 143.9,-143.9 0,-79.47 -64.43,-143.9 -143.9,-143.9 -79.47,0 -74.24,76.33 -73.9,84.76"/>
+  <g id="_1678715984912">
+   <path class="fil0 str2" d="M506.12 5312.24l2862.48 0c165.52,0 300.95,-135.43 300.95,-300.95l0 -4054.67c0,-165.53 -135.43,-300.95 -300.95,-300.95l-2750.4 0c-165.52,0 -300.95,135.42 -300.95,300.95l0 4054.67c0,165.52 135.43,300.95 300.95,300.95 165.52,0 198.32,28.24 215.51,43.43"/>
+   <path class="fil0 str2" d="M583.32 806.81c-66.58,0 -120.55,53.97 -120.55,120.55 0,66.57 53.97,120.55 120.55,120.55 66.58,0 120.55,-53.98 120.55,-120.55 0,-66.58 -53.97,-120.55 -120.55,-120.55 -66.58,0 -57.68,54.66 -57.68,59.39"/>
+   <path class="fil0 str2" d="M583.77 1177.71c-14.96,0 -27.09,12.13 -27.09,27.09 0,14.97 12.13,27.1 27.09,27.1 14.96,0 27.09,-12.13 27.09,-27.1 0,-14.96 -12.13,-27.09 -27.09,-27.09 -14.96,0 -13.98,14.37 -13.91,15.96"/>
+  </g>
+ </g>
+</svg>

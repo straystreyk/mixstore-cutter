@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Creator: CorelDRAW X8 -->
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="40mm" height="60mm" version="1.1" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
+viewBox="0 0 4000 6000"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <style type="text/css">
+   <![CDATA[
+    .str0 {stroke:#222222;stroke-width:10}
+    .fil0 {fill:none}
+   ]]>
+  </style>
+ </defs>
+ <g id="图层_x0020_1">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <g id="_1847146992192">
+   <rect class="fil0 str0" x="941" y="650" width="2117" height="4700" rx="246" ry="389"/>
+   <circle class="fil0 str0" cx="1312" cy="1753" r="71"/>
+   <rect class="fil0 str0" x="1116" y="833" width="735" height="772" rx="165" ry="165"/>
+   <rect class="fil0 str0" x="1151" y="866" width="662" height="704" rx="148" ry="150"/>
+   <circle class="fil0 str0" cx="1316" cy="1050" r="125"/>
+   <circle class="fil0 str0" cx="1648" cy="1050" r="125"/>
+   <circle class="fil0 str0" cx="1316" cy="1396" r="125"/>
+   <circle class="fil0 str0" cx="1648" cy="1396" r="125"/>
+  </g>
+  <path class="fil0 str0" d="M-3696 6832l0 -6348c0,-451 -369,-821 -820,-821l-14059 0c-452,0 -821,370 -821,821l0 5432c0,451 369,820 821,820l14059 0c451,0 820,-369 820,-820 0,-452 299,-941 537,-941"/>
+  <path class="fil0 str0" d="M-15668 5667c-55,0 -280,-38 -280,-168 0,-131 106,-237 236,-237 131,0 237,106 237,237 0,130 -106,236 -237,236 -130,0 -236,-106 -236,-236"/>
+  <rect class="fil0 str0" transform="matrix(2.64845E-14 -1 1 2.64845E-14 -18783.9 6152.02)" width="2454" height="2580" rx="550" ry="550"/>
+  <rect class="fil0 str0" transform="matrix(2.3879E-14 -0.901619 0.911513 2.4141E-14 -18674.8 6036.32)" width="2454" height="2580" rx="550" ry="550"/>
+  <path class="fil0 str0" d="M-18010 5804c-105,0 -468,-89 -468,-319 0,-231 187,-418 417,-418 231,0 418,187 418,418 0,230 -187,417 -418,417 -230,0 -417,-187 -417,-417"/>
+  <path class="fil0 str0" d="M-17952 4653c-92,0 -526,-45 -526,-276 0,-231 187,-418 417,-418 231,0 418,187 418,418 0,231 -187,418 -418,418 -230,0 -417,-187 -417,-418"/>
+  <path class="fil0 str0" d="M-16798 5742c-48,0 -523,-27 -523,-257 0,-231 187,-418 418,-418 231,0 418,187 418,418 0,230 -187,417 -418,417 -231,0 -418,-187 -418,-417"/>
+  <path class="fil0 str0" d="M-16853 4680c-77,0 -468,-72 -468,-303 0,-231 187,-418 418,-418 231,0 418,187 418,418 0,231 -187,418 -418,418 -231,0 -418,-187 -418,-418"/>
+ </g>
+</svg>

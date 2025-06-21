@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Creator: CorelDRAW X8 -->
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="40mm" height="60mm" version="1.1" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
+viewBox="0 0 4000 6000"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <style type="text/css">
+   <![CDATA[
+    .str1 {stroke:#E62129;stroke-width:20}
+    .str2 {stroke:#332C2B;stroke-width:7.62}
+    .str0 {stroke:#E62129;stroke-width:7.62}
+    .fil0 {fill:none}
+   ]]>
+  </style>
+   <clipPath id="id0">
+    <rect x="-48794" y="6522" width="9885" height="16849"/>
+   </clipPath>
+ </defs>
+ <g id="图层_x0020_1">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <g style="clip-path:url(#id0)">
+   <image x="-48794" y="6522" width="9885" height="16849" xlink:href="17712-armor x7 — 12G （前屏全膜）-3e508346-8869-4185-96de-ba52e968fc00_Images\17712-armor x7 — 12G （前屏全膜）-3e508346-8869-4185-96de-ba52e968fc00_ImgID1.png"/>
+  </g>
+  <rect class="fil0 str0" x="-47784" y="7367" width="7890" height="15000"/>
+  <path class="fil0 str0" d="M-46566 7837c1771,0 3541,0 5312,0 146,0 285,55 393,163 124,124 247,247 371,371 115,115 146,251 146,445 0,4016 0,8032 0,12048 0,281 -36,389 -181,535 -102,101 -204,203 -306,305 -178,178 -230,193 -494,193 -1680,0 -3360,0 -5040,0 -271,0 -322,-33 -515,-226 -92,-92 -185,-185 -278,-278 -142,-142 -176,-191 -176,-436 0,-4107 0,-8213 0,-12320 0,-77 9,-128 62,-182 191,-191 382,-382 574,-573 28,-28 86,-45 132,-45z"/>
+  <rect class="fil0 str1" x="-44529" y="8189" width="1380" height="260" rx="110" ry="130"/>
+  <circle class="fil0 str1" cx="-42739" cy="8319" r="175"/>
+  <circle class="fil0 str1" cx="-42178" cy="8319" r="175"/>
+  <path class="fil0 str2" d="M896 5350c569,0 1387,0 1956,0 90,0 108,-5 168,-66 35,-34 69,-69 104,-103 49,-49 61,-86 61,-181 0,-1362 0,-2656 0,-4018 0,-66 -10,-112 -49,-151 -42,-42 -84,-84 -126,-126 -37,-36 -84,-55 -133,-55 -601,0 -1201,0 -1802,0 -16,0 -35,6 -45,15 -65,65 -129,130 -194,195 -18,18 -21,35 -21,61 0,1393 0,2718 0,4110 0,83 11,100 59,148 32,31 63,63 95,94 65,66 82,77 174,77 0,0 9,0 9,0m658 -4615l380 0c24,0 44,20 44,44l0 0c0,25 -20,45 -44,45l-380 0c-24,0 -44,-20 -44,-45l0 0c0,-24 20,-44 44,-44zm563 -15c33,0 59,27 59,59 0,33 -26,60 -59,60 -33,0 -59,-27 -59,-60 0,-32 26,-59 59,-59zm190 0c33,0 59,27 59,59 0,33 -26,60 -59,60 -33,0 -59,-27 -59,-60 0,-32 26,-59 59,-59z"/>
+ </g>
+</svg>

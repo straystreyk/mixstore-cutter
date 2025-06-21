@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Creator: CorelDRAW X8 -->
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="40mm" height="60mm" version="1.1" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
+viewBox="0 0 4000 6000"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <style type="text/css">
+   <![CDATA[
+    .str1 {stroke:#332C2B;stroke-width:20}
+    .str0 {stroke:#332C2B;stroke-width:10}
+    .fil0 {fill:none}
+   ]]>
+  </style>
+   <clipPath id="id0">
+    <rect x="-103547" y="-7965" width="29294" height="20686"/>
+   </clipPath>
+ </defs>
+ <g id="图层_x0020_1">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <g style="clip-path:url(#id0)">
+   <image transform="matrix(-0.00999947 0.99995 -0.99995 -0.00999947 -74253.3 -7674.22)" x="0" y="0" width="20396" height="29091" xlink:href="Oukitel WP2 —11i（前膜全屏）_Images\Oukitel WP2 —11i（前膜全屏）_ImgID1.png"/>
+  </g>
+  <g id="_2559767046736">
+   <path class="fil0 str0" d="M1091 5350l-206 -122 0 -4475 172 -103 1903 0 191 103 0 4475 -191 121c-619,0 -1491,1 -2111,1"/>
+   <path class="fil0 str0" d="M1708 740c15,-19 -7,-63 -17,-62 -33,0 -60,27 -60,60 0,33 27,60 60,60 33,0 60,-27 60,-60 0,-33 -27,-60 -60,-60"/>
+   <path class="fil0 str0" d="M2293 687l76 0c29,0 52,23 52,52l0 0c0,29 -23,53 -52,53l-76 0c-29,0 -53,-24 -53,-53l0 0c0,-29 24,-52 53,-52 0,0 3,0 3,0 62,-1 64,42 65,47"/>
+  </g>
+  <g id="_2559767038352">
+   <path class="fil0 str1" d="M-921 6127l-404 682 -14840 0 -340 -571 0 -6311 340 -631 14840 0 400 631c0,2053 4,4946 4,7000"/>
+   <path class="fil0 str1" d="M-16208 4078c-63,-50 -206,25 -205,59 0,110 89,199 199,199 110,0 199,-90 199,-200 0,-109 -89,-199 -199,-199 -110,0 -199,90 -199,199"/>
+   <path class="fil0 str1" d="M-16384 2139l0 -250c0,-96 79,-175 175,-175l0 0c97,0 176,79 176,175l0 250c0,97 -79,176 -176,176l0 0c-96,0 -175,-79 -175,-176 0,0 0,-9 0,-10 0,-205 140,-213 158,-213"/>
+  </g>
+ </g>
+</svg>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Creator: CorelDRAW 2020 (64-Bit) -->
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="40mm" height="60mm" version="1.1" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
+viewBox="0 0 4000 6000"
+ xmlns:xlink="http://www.w3.org/1999/xlink"
+ xmlns:xodm="http://www.corel.com/coreldraw/odm/2003">
+ <defs>
+  <style type="text/css">
+   <![CDATA[
+    .str1 {stroke:#332C2B;stroke-width:20;stroke-miterlimit:22.9256}
+    .str0 {stroke:#E62129;stroke-width:20;stroke-miterlimit:22.9256}
+    .fil0 {fill:none}
+   ]]>
+  </style>
+   <clipPath id="id0">
+    <rect x="-58074.12" y="-10591.78" width="22462.75" height="25809.08"/>
+   </clipPath>
+ </defs>
+ <g id="图层_x0020_1">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <g style="clip-path:url(#id0)">
+   <image x="-58074.12" y="-10591.78" width="22462.75" height="25809.08" xlink:href="iPad (2022) -11i（前膜带壳）_Images\iPad (2022) -11i（前膜带壳）_ImgID1.png"/>
+  </g>
+  <rect class="fil0 str0" x="-53950.15" y="-10082.28" width="17950" height="24860"/>
+  <rect class="fil0 str0" x="-53796.3" y="-9928.82" width="17642.3" height="24588.86" rx="1450" ry="1409.86"/>
+  <path class="fil0 str1" d="M-20059.72 14610.07l15560.98 0c792.96,0 1441.77,-649.87 1441.77,-1444.12l0 -21600.67c0,-794.26 -648.8,-1444.11 -1441.77,-1444.11l-14658.75 0c-792.97,0 -1441.78,649.85 -1441.78,1444.11l0 21600.67c0,794.26 648.81,1444.12 1441.78,1444.12 792.97,0 1357.2,215.43 1579.45,450.9"/>
+  <path class="fil0 str1" d="M487.13 5293.44l2897.58 0c150.58,0 273.79,-123.21 273.79,-273.79l0 -4095.33c0,-150.59 -123.21,-273.79 -273.79,-273.79l-2783.67 0c-150.59,0 -273.8,123.2 -273.8,273.79l0 4095.33c0,150.58 123.21,273.79 273.8,273.79 150.58,0 184.98,33.61 202.47,57.09"/>
+ </g>
+</svg>

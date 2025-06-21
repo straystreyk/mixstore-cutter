@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Creator: CorelDRAW -->
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="40mm" height="60mm" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
+viewBox="0 0 40 60"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <style type="text/css">
+   <![CDATA[
+    .str0 {stroke:#1F1A17;stroke-width:0.194}
+    .fil0 {fill:none;fill-rule:nonzero}
+   ]]>
+  </style>
+ </defs>
+ <g id="图层_x0020_1">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <line class="fil0 str0" x1="27.6391" y1="53.9436" x2="9.962" y2= "53.9262" />
+  <path class="fil0 str0" d="M9.962 53.9262c-1.2506,-0.0662 -2.4077,-1.2038 -2.4403,-2.3968"/>
+  <line class="fil0 str0" x1="7.5217" y1="51.5294" x2="7.4717" y2= "9.724" />
+  <path class="fil0 str0" d="M7.4717 9.724c0.0663,-1.3636 0.7942,-2.3317 2.0155,-2.6815 0.302,-0.0859 0.9919,-0.0989 5.2424,-0.0989 1.4331,0 1.7199,0.0065 1.8622,0.0435 0.1424,0.0358 0.1674,0.1097 0.1663,0.478"/>
+  <line class="fil0 str0" x1="16.7581" y1="7.4651" x2="16.757" y2= "7.6933" />
+  <path class="fil0 str0" d="M16.757 7.6933c-0.0022,0.5302 -0.0022,0.5302 1.6504,0.5291"/>
+  <line class="fil0 str0" x1="18.4074" y1="8.2224" x2="18.6638" y2= "8.2224" />
+  <path class="fil0 str0" d="M18.6638 8.2224c1.3201,0 1.6873,-0.013 1.8709,-0.0619 0.1826,-0.05 0.2282,-0.1489 0.2304,-0.5042 0,-0.0119 0,-0.0228 0,-0.0336 0,-0.5683 0.0076,-0.5943 0.1901,-0.6443 0.0771,-0.0218 0.7931,-0.0283 2.2871,-0.0218"/>
+  <line class="fil0 str0" x1="23.2423" y1="6.9566" x2="27.6937" y2= "6.9751" />
+  <path class="fil0 str0" d="M27.6937 6.9751c1.1995,0.138 2.2567,1.231 2.3077,2.3871"/>
+  <polyline class="fil0 str0" points="30.0014,9.3622 29.9602,51.1687 29.9873,51.5794 "/>
+  <path class="fil0 str0" d="M29.9873 51.5794c0,0.0108 0.0011,0.0228 0.0011,0.0348 0,0.6279 -0.5585,1.5091 -1.2158,1.9198 -0.3944,0.2455 -0.6019,0.3075 -1.3809,0.4096"/>
+ </g>
+</svg>

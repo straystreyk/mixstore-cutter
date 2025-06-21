@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Creator: CorelDRAW 2020 (64-Bit) -->
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="40mm" height="60mm" version="1.1" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
+viewBox="0 0 4000 6000"
+ xmlns:xlink="http://www.w3.org/1999/xlink"
+ xmlns:xodm="http://www.corel.com/coreldraw/odm/2003">
+ <defs>
+  <style type="text/css">
+   <![CDATA[
+    .str1 {stroke:#332C2B;stroke-width:20;stroke-miterlimit:22.9256}
+    .str2 {stroke:#332C2B;stroke-width:20;stroke-miterlimit:22.9256}
+    .str0 {stroke:#E62129;stroke-width:20;stroke-miterlimit:22.9256}
+    .fil0 {fill:none}
+   ]]>
+  </style>
+   <clipPath id="id0">
+    <rect x="-46606.26" y="-5948.89" width="19408.41" height="17666.64"/>
+   </clipPath>
+ </defs>
+ <g id="图层_x0020_1">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <g style="clip-path:url(#id0)">
+   <image x="-46606.26" y="-5948.89" width="19408.41" height="17666.64" xlink:href="Xperia Pro -11i（前膜带壳）_Images\Xperia Pro -11i（前膜带壳）_ImgID1.png"/>
+  </g>
+  <rect class="fil0 str0" x="-44727.56" y="-5576.29" width="7620" height="17020"/>
+  <path class="fil0 str0" d="M-43701.12 -5137.08l1284.5 0 0 240.28c0,123.69 101.18,224.86 224.85,224.86l0 0c123.69,0 224.87,-101.17 224.87,-224.86l0 -240.28 157.36 0c105.25,0 151.25,149.9 232.26,149.9l1305.94 0c81.01,0 142.18,-149.9 263.25,-149.9l1851.21 0c328.88,0 597.97,270.01 597.97,599.99l0 14843.45c0,330 -269.09,600 -597.97,600l-5544.24 0c-328.88,0 -597.97,-270 -597.97,-600l0 -14843.45c0,-330 269.09,-599.99 597.97,-599.99z"/>
+  <rect class="fil0 str0" x="-36642.47" y="-5576.29" width="7620" height="17020"/>
+  <rect class="fil0 str0" x="-36282.2" y="-5184.7" width="6923.29" height="16362.72" rx="700" ry="782.15"/>
+  <rect class="fil0 str1" x="-35709.31" y="-4368.79" width="1468.43" height="4458.89" rx="800" ry="840.87"/>
+  <circle class="fil0 str1" cx="-35307.8" cy="-4628.72" r="246.14"/>
+  <circle class="fil0 str1" cx="-34639" cy="-4628.72" r="246.14"/>
+  <path class="fil0 str2" d="M-2474.19 5988.26l0 -5795.38c0,-323.99 -268.33,-589.1 -596.26,-589.1l-14750.89 0c-327.92,0 -596.25,265.1 -596.25,589.1l0 1823.75c0,119.27 148.97,179.54 148.97,259.35l0 1286.56c0,79.81 -148.97,125.13 -148.97,228.82l0 155.02 238.78 0c122.92,0 223.46,99.68 223.46,221.54l0 0c0,121.83 -100.54,221.51 -223.46,221.51l-238.78 0 0 1265.45c0,324 268.31,589.1 596.25,589.1l14750.89 0c327.94,0 596.26,-265.1 596.26,-589.1 0,-324 33.51,-455.24 78.49,-534.62"/>
+  <path class="fil0 str2" d="M1061.71 5310.29l1735.95 0c95.42,0 173.49,-78.34 173.49,-174.08l0 -4306.47c0,-95.73 -78.07,-174.07 -173.49,-174.07l-537.08 0c-35.13,0 -52.87,43.49 -76.38,43.49l-378.88 0c-23.51,0 -36.85,-43.49 -67.39,-43.49l-45.65 0 0 69.71c0,35.89 -29.36,65.24 -65.24,65.24l0 0c-35.88,0 -65.24,-29.35 -65.24,-65.24l0 -69.71 -372.66 0c-95.42,0 -173.49,78.33 -173.49,174.07l0 4306.47c0,95.74 78.07,174.08 173.49,174.08 95.41,0 184.99,8.53 221.45,45.38"/>
+ </g>
+</svg>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Creator: CorelDRAW 2020 (64-Bit) -->
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="40mm" height="60mm" version="1.1" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
+viewBox="0 0 4000 6000"
+ xmlns:xlink="http://www.w3.org/1999/xlink"
+ xmlns:xodm="http://www.corel.com/coreldraw/odm/2003">
+ <defs>
+  <style type="text/css">
+   <![CDATA[
+    .str1 {stroke:#332C2B;stroke-width:20;stroke-miterlimit:22.9256}
+    .str0 {stroke:#E62129;stroke-width:20;stroke-miterlimit:22.9256}
+    .fil0 {fill:none}
+   ]]>
+  </style>
+   <clipPath id="id0">
+    <rect x="-95933.11" y="-10635.48" width="32373.27" height="25755.55"/>
+   </clipPath>
+ </defs>
+ <g id="图层_x0020_1">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <g style="clip-path:url(#id0)">
+   <image x="-95933.11" y="-10635.48" width="32373.27" height="25755.55" xlink:href="联想小新por 13.3  -11i（前膜全屏）_Images\联想小新por 13.3  -11i（前膜全屏）_ImgID1.png"/>
+  </g>
+  <rect class="fil0 str0" x="-95280.68" y="-9945.44" width="31240" height="22140"/>
+  <rect class="fil0 str0" x="-94801.02" y="-9192.85" width="30280.68" height="19112.04" rx="102.61" ry="99.99"/>
+  <path class="fil0 str1" d="M-25228.41 18382.18l19031.78 0c54.97,0 99.99,-45.02 99.99,-100.01l0 -30080.68c0,-54.99 -45,-99.99 -99.99,-99.99l-18912.05 0c-55,0 -100,45 -100,99.99l0 30080.68c0,55.01 45,100.01 100,100.01 55,0 184.88,8.26 239.78,73.09"/>
+  <path class="fil0 str1" d="M511.68 5339.21l2946.9 0c8.51,0 15.48,-6.97 15.48,-15.48l0 -4657.72c0,-8.51 -6.97,-15.48 -15.48,-15.48l-2928.36 0c-8.52,0 -15.49,6.97 -15.49,15.48l0 4657.72c0,8.52 6.97,15.48 15.49,15.48 8.51,0 28.63,1.28 37.13,11.32"/>
+ </g>
+</svg>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Creator: CorelDRAW 2020 (64-Bit) -->
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="40mm" height="60mm" version="1.1" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
+viewBox="0 0 4000 6000"
+ xmlns:xlink="http://www.w3.org/1999/xlink"
+ xmlns:xodm="http://www.corel.com/coreldraw/odm/2003">
+ <defs>
+  <style type="text/css">
+   <![CDATA[
+    .str2 {stroke:#332C2B;stroke-width:20;stroke-miterlimit:22.9256}
+    .str0 {stroke:#E62129;stroke-width:20;stroke-miterlimit:22.9256}
+    .str1 {stroke:#E62129;stroke-width:20;stroke-miterlimit:22.9256}
+    .fil0 {fill:none}
+   ]]>
+  </style>
+   <clipPath id="id0">
+    <rect x="-49548.96" y="-6555.52" width="14037.91" height="16873.28"/>
+   </clipPath>
+ </defs>
+ <g id="图层_x0020_1">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <g style="clip-path:url(#id0)">
+   <image x="-49548.96" y="-6555.52" width="14037.91" height="16873.28" xlink:href="80 GT -11i（前膜带壳）_Images\80 GT -11i（前膜带壳）_ImgID1.png"/>
+  </g>
+  <rect class="fil0 str0" x="-43518.63" y="-6204.57" width="7530" height="16250"/>
+  <path class="fil0 str0" d="M-42818.51 -6014.07l1747.28 0c42.54,0 59.76,39.95 86.62,39.95l2502.97 0c26.86,0 42.76,-39.95 88.61,-39.95l1704.29 0c302.49,0 549.99,247.51 549.99,550.01l0 14756.72c0,302.51 -247.5,550.01 -549.99,550.01l-6129.77 0c-302.49,0 -550,-247.5 -550,-550.01l0 -14756.72c0,-302.51 247.51,-550.01 550,-550.01z"/>
+  <circle class="fil0 str1" cx="-39733.39" cy="-5519.33" r="146.18"/>
+  <path class="fil0 str2" d="M-2914.67 6190.31l0 -6287.11c0,-298.3 -245.95,-542.39 -546.54,-542.39l-14663.62 0c-300.59,0 -546.54,244.08 -546.54,542.39 0,2021.52 0,4023.32 0,6045.01 0,298.31 245.94,542.4 546.54,542.4l14663.62 0c300.6,0 546.54,-244.09 546.54,-542.4 0,-298.31 37.77,-397.77 75.47,-469.87"/>
+  <path class="fil0 str2" d="M-18372.83 2905.47c0,80.73 65.45,146.18 146.18,146.18 80.73,0 146.18,-65.45 146.18,-146.18 0,-80.73 -65.45,-146.18 -146.18,-146.18 -80.73,0 -146.18,65.45 -146.18,146.18 0,80.73 93.24,108.4 115.73,108.4"/>
+  <g id="_2062588571968">
+   <path class="fil0 str2" d="M1024.26 5333.26l1866.41 0c88.56,0 161.02,-73.01 161.02,-162.24l0 -4353.1c0,-89.24 -72.46,-162.25 -161.02,-162.25 -600.11,0 -1194.37,0 -1794.54,0 -88.56,0 -161.02,73.01 -161.02,162.25l0 4353.1c0,89.23 72.46,162.24 161.02,162.24 88.56,0 118.08,11.22 139.49,22.41"/>
+   <path class="fil0 str2" d="M1999.41 744.29c-23.97,0 -43.4,19.43 -43.4,43.4 0,23.97 19.43,43.4 43.4,43.4 23.96,0 43.39,-19.43 43.39,-43.4 0,-23.97 -19.43,-43.4 -43.39,-43.4 -23.97,0 -32.18,27.68 -32.18,34.36"/>
+  </g>
+ </g>
+</svg>

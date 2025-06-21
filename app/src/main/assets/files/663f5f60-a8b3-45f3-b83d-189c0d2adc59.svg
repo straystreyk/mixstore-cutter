@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Creator: CorelDRAW 2020 (64-Bit) -->
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="40mm" height="60mm" version="1.1" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
+viewBox="0 0 4000 6000"
+ xmlns:xlink="http://www.w3.org/1999/xlink"
+ xmlns:xodm="http://www.corel.com/coreldraw/odm/2003">
+ <defs>
+  <style type="text/css">
+   <![CDATA[
+    .str0 {stroke:#332C2B;stroke-width:20;stroke-miterlimit:22.9256}
+    .fil0 {fill:none}
+   ]]>
+  </style>
+   <clipPath id="id0">
+    <rect x="-53584.22" y="-8397.15" width="14608.46" height="17560.27"/>
+   </clipPath>
+ </defs>
+ <g id="图层_x0020_1">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <g style="clip-path:url(#id0)">
+   <image x="-53584.22" y="-8397.15" width="14608.46" height="17560.27" xlink:href="Axon 30S -11i（前膜带壳）_Images\Axon 30S -11i（前膜带壳）_ImgID1.png"/>
+  </g>
+  <rect class="fil0 str0" x="-47052.33" y="-8161.42" width="7780" height="17020"/>
+  <path class="fil0 str0" d="M-46099.92 -7992.08l1852.11 0c38.66,0 42.04,44.36 69.8,44.36l2094.52 0c27.76,0 48.02,-44.36 82.71,-44.36l1776.04 0c440,0 800,359.99 800,799.99l0 15081.4c0,440 -360,800 -800,800l-5875.18 0c-440,0 -800,-360 -800,-800l0 -15081.4c0,-440 360,-799.99 800,-799.99z"/>
+  <path class="fil0 str0" d="M-9180 4640.7l0 -6275.5c0,-434.11 -357.86,-789.3 -795.21,-789.3l-14991 0c-437.36,0 -795.2,355.19 -795.2,789.3 0,1945.2 0,3853.02 0,5796.6 0,434.11 357.84,789.3 795.2,789.3l14991 0c437.36,0 795.21,-355.19 795.21,-789.3 0,-434.11 27.97,-756.78 178.78,-989.62"/>
+  <path class="fil0 str0" d="M1046.34 5305.53l1759.82 0c121.74,0 221.34,-100.35 221.34,-222.99l0 -4203.88c0,-122.64 -99.6,-222.99 -221.34,-222.99 -545.49,0 -1080.49,0 -1625.52,0 -121.74,0 -221.34,100.35 -221.34,222.99l0 4203.88c0,122.64 99.6,222.99 221.34,222.99 121.74,0 212.22,7.85 277.52,50.14"/>
+ </g>
+</svg>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Creator: CorelDRAW 2020 (64-Bit) -->
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="40mm" height="60mm" version="1.1" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
+viewBox="0 0 4000 6000"
+ xmlns:xlink="http://www.w3.org/1999/xlink"
+ xmlns:xodm="http://www.corel.com/coreldraw/odm/2003">
+ <defs>
+  <style type="text/css">
+   <![CDATA[
+    .str1 {stroke:#332C2B;stroke-width:20;stroke-miterlimit:22.9256}
+    .str0 {stroke:#332C2B;stroke-width:20;stroke-miterlimit:22.9256}
+    .fil0 {fill:none}
+   ]]>
+  </style>
+ </defs>
+ <g id="图层_x0020_1">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <g id="_2334120523104">
+   <g>
+    <path class="fil0 str0" d="M939.31 2921l0 1778.01c0,162.6 167.02,321.73 330.2,321.73l1430.86 0c93.53,0 194.28,-47.24 247.73,-107.87 53.63,-60.84 99.4,-145.06 99.4,-256.2l0 -1676.4c0,-160.82 -75.86,-284.49 -204.63,-345.7 -42.77,-20.33 -89.95,-35.3 -150.97,-35.3l-1413.93 0c-129.96,0 -246.19,90.03 -301.32,189.75 -18.69,33.82 -37.34,83.53 -37.34,131.98z"/>
+    <path class="fil0 str0" d="M939.31 1388.53l0 787.41c0,275.19 179.84,389.46 440.26,389.46l1202.26 0c150.82,0 245,-23.37 324.08,-99.25 75.82,-72.76 116.19,-161.91 116.19,-307.15l0 -762c0,-257.49 -149.76,-406.4 -406.4,-406.4l-1269.99 0c-136,0 -224.54,34.77 -294.47,103.47 -71.09,69.85 -111.93,155.46 -111.93,294.46z"/>
+   </g>
+   <path class="fil0 str1" d="M1981.55 1111.25c377.01,0 682.63,305.62 682.63,682.63 0,377.01 -305.62,682.63 -682.63,682.63 -377.01,0 -682.63,-305.62 -682.63,-682.63 0,-377.01 305.62,-682.63 682.63,-682.63z"/>
+   <path class="fil0 str1" d="M2320.25 4455.46l-921.08 0.13c-164.99,0.01 -300,-135 -300,-300l0 -1119.8c0,-165 135,-300 300,-300l1171.38 0c165,0 300,135 300,300l0 1119.8c0,147.85 -112.66,279.62 -260.58,297.23l0 207.14c0,79.67 -65.18,144.85 -144.85,144.85l-0.02 0c-79.67,0 -144.85,-65.18 -144.85,-144.85l0 -204.5z"/>
+  </g>
+ </g>
+</svg>

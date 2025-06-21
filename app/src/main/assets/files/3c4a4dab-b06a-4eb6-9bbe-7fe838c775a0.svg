@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Creator: CorelDRAW X8 -->
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="40mm" height="60mm" version="1.1" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
+viewBox="0 0 4000 6000"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <style type="text/css">
+   <![CDATA[
+    .str1 {stroke:#332C2B;stroke-width:20}
+    .str0 {stroke:#332C2B;stroke-width:10}
+    .fil0 {fill:none}
+   ]]>
+  </style>
+ </defs>
+ <g id="图层_x0020_1">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <g id="_2177922327104">
+   <path class="fil0 str0" d="M3479 5350l0 -4510c0,-105 -85,-190 -190,-190l-2686 0c-105,0 -190,85 -190,190l0 4303c0,104 85,190 190,190l2686 0c105,0 190,-86 190,-190 0,-104 52,-206 108,-206"/>
+   <path class="fil0 str0" d="M3434 3001c-58,0 -80,67 -80,94 0,27 22,50 49,50l0 0c27,0 50,-23 50,-50l0 -212c0,-27 -23,-50 -50,-50l0 0c-27,0 -49,23 -49,50l0 212"/>
+   <path class="fil0 str0" d="M479 3130c-9,0 -43,-3 -43,-23 0,-21 16,-37 36,-37 20,0 37,16 37,37 0,20 -17,36 -37,36 -20,0 -36,-16 -36,-36"/>
+   <path class="fil0 str0" d="M488 2780c-28,0 -46,30 -46,47 0,16 13,30 30,30l0 0c17,0 30,-14 30,-30l0 -59c0,-16 -13,-30 -30,-30l0 0c-17,0 -30,14 -30,30l0 59"/>
+  </g>
+  <path class="fil0 str1" d="M-1967 16121l0 -23649c0,-547 -447,-994 -993,-994l-14088 0c-546,0 -994,447 -994,994l0 22565c0,546 448,993 994,993l14088 0c546,0 993,-447 993,-993 0,-547 277,-1084 568,-1084"/>
+  <path class="fil0 str1" d="M-2204 3807c-301,0 -416,351 -416,493 0,142 116,258 258,258l0 0c142,0 258,-116 258,-258l0 -1116c0,-142 -116,-258 -258,-258l0 0c-142,0 -258,116 -258,258l0 1116"/>
+  <path class="fil0 str1" d="M-17695 4481c-48,0 -228,-17 -228,-123 0,-106 86,-192 192,-192 106,0 192,86 192,192 0,106 -86,192 -192,192 -106,0 -192,-86 -192,-192"/>
+  <path class="fil0 str1" d="M-17649 2645c-145,0 -241,161 -241,247 0,87 71,158 158,158l0 0c86,0 157,-71 157,-158l0 -307c0,-86 -71,-157 -157,-157l0 0c-87,0 -158,71 -158,157l0 307"/>
+ </g>
+</svg>

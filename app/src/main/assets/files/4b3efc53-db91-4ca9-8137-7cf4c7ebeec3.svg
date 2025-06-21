@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Creator: CorelDRAW -->
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="40mm" height="60mm" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
+viewBox="0 0 40 60"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <style type="text/css">
+   <![CDATA[
+    .str0 {stroke:#1F1A17;stroke-width:0.194}
+    .str1 {stroke:#1F1A17;stroke-width:0.2}
+    .fil1 {fill:none}
+    .fil0 {fill:none;fill-rule:nonzero}
+   ]]>
+  </style>
+ </defs>
+ <g id="图层_x0020_1">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <g id="_216279432">
+   <line id="_274381672" class="fil0 str0" x1="15.2567" y1="9.8316" x2="15.2505" y2= "9.8269" />
+   <line id="_46558376" class="fil0 str0" x1="32.3863" y1="53.4892" x2="7.7471" y2= "53.5" />
+   <path id="_46555880" class="fil0 str0" d="M7.7471 53.5c-0.2373,-0.022 -0.2577,-0.0691 -0.2702,-0.6443"/>
+   <line id="_273731864" class="fil0 str0" x1="7.4769" y1="52.8557" x2="7.3527" y2= "20.7589" />
+   <path id="_273734720" class="fil0 str0" d="M7.3527 20.7589c-0.033,-8.3723 0.0063,-11.8607 0.1352,-12.2772 0.3095,-0.9978 0.9443,-1.6467 1.8589,-1.9029 0.2954,-0.0833 0.9554,-0.088 10.6712,-0.0707"/>
+   <line id="_216276504" class="fil0 str0" x1="20.018" y1="6.5081" x2="29.9868" y2= "6.527" />
+   <path id="_274508704" class="fil0 str0" d="M29.9868 6.527c0.6914,0.0141 0.8454,0.0377 1.1769,0.1838 0.6836,0.3001 1.3059,1.0434 1.4598,1.7442 0.0299,0.1352 0.0362,0.462 0.0346,1.804"/>
+   <line id="_46558232" class="fil0 str0" x1="32.6581" y1="10.259" x2="32.6173" y2= "53.2124" />
+   <path id="_216277224" class="fil0 str0" d="M32.6173 53.2124c0,0.187 -0.0629,0.2593 -0.2436,0.2782"/>
+   <circle id="_216276936" class="fil1 str1" cx="14.4011" cy="9.68714" r="0.911126"/>
+   <rect id="_274382536" class="fil1 str1" x="16.2265" y="8.88986" width="10.8048" height="1.45949" rx="1.6383" ry="1.6383"/>
+  </g>
+ </g>
+</svg>

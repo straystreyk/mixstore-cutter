@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Creator: CorelDRAW 2020 (64-Bit) -->
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="40mm" height="60mm" version="1.1" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
+viewBox="0 0 4000 6000"
+ xmlns:xlink="http://www.w3.org/1999/xlink"
+ xmlns:xodm="http://www.corel.com/coreldraw/odm/2003">
+ <defs>
+  <style type="text/css">
+   <![CDATA[
+    .str2 {stroke:#332C2B;stroke-width:20;stroke-miterlimit:22.9256}
+    .str3 {stroke:#332C2B;stroke-width:20;stroke-miterlimit:22.9256}
+    .str1 {stroke:#E62129;stroke-width:20;stroke-miterlimit:22.9256}
+    .str0 {stroke:#E62129;stroke-width:20;stroke-miterlimit:22.9256}
+    .fil0 {fill:none}
+   ]]>
+  </style>
+   <clipPath id="id0">
+    <rect x="-84559.91" y="-11705.15" width="25402.11" height="34871"/>
+   </clipPath>
+ </defs>
+ <g id="图层_x0020_1">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <g style="clip-path:url(#id0)">
+   <image x="-84559.91" y="-11705.15" width="25402.11" height="34871" xlink:href="Galaxy Note 10.1 (2014) -11i（背膜）_Images\Galaxy Note 10.1 (2014) -11i（背膜）_ImgID1.png"/>
+  </g>
+  <rect class="fil0 str0" x="-83923.9" y="-11356.49" width="24310" height="17140"/>
+  <rect class="fil0 str1" x="-83687.81" y="-11091.91" width="23837.82" height="16583.97" rx="699.83" ry="800"/>
+  <rect class="fil0 str1" x="-74784.71" y="-10619.69" width="1150.95" height="420.69" rx="3000" ry="3000"/>
+  <rect class="fil0 str1" x="-72657.29" y="4581.97" width="1803.81" height="691.88" rx="4701.71" ry="4933.89"/>
+  <rect class="fil0 str0" x="-83923.9" y="5845.76" width="24310" height="17140"/>
+  <path class="fil0 str0" d="M-82721.38 6009.8l21904.96 0c550,0 1000,450 1000,1000.01l0 14767.5c0,550 -450,1000 -1000,1000l-21904.96 0c-550,0 -1000,-450 -1000,-1000l0 -14411.99 221.21 0c165.01,0 300.01,-135 300.01,-300l0 -244.02c0,-165 -135,-300 -300.01,-300l-92.85 0c171.88,-304.62 498.75,-511.5 871.64,-511.5z"/>
+  <rect class="fil0 str2" x="-72288.15" y="6302.23" width="1120.6" height="1901.12" rx="400" ry="411.67"/>
+  <path class="fil0 str3" d="M-7633.68 14471.35l0 -22518.79c0,-549.99 -450.01,-1000 -1000,-1000l-14767.5 0c-550.01,0 -1000.01,450 -1000.01,1000l0 21904.96c0,372.89 206.88,699.76 511.5,871.64l0 -92.85c0,-165.01 135,-300.01 300,-300.01l244.02 0c165,0 300,135 300,300.01l0 221.21 14411.99 0c550,0 1000,-450 1000,-1000 0,-550 66.24,-858.52 177.36,-1049.02"/>
+  <path class="fil0 str3" d="M-24108.76 3024.29c0,220 180,400 400,400l1101.12 0c220,0 400,-180 400,-400l0 -320.6c0,-220 -180,-400 -400,-400l-1101.12 0c-220,0 -400,180 -400,400l0 320.6c0,0 7.97,-375.89 127.04,-447.33"/>
+  <g id="_2866104047008">
+   <path class="fil0 str3" d="M3624.31 5279.74l0 -4427.46c0,-108.13 -88.48,-196.61 -196.61,-196.61l-2903.47 0c-108.13,0 -196.61,88.48 -196.61,196.61l0 4306.78c0,73.31 40.68,137.58 100.57,171.37l0 -18.25c0,-32.45 26.54,-58.99 58.98,-58.99l47.98 0c32.44,0 58.98,26.54 58.98,58.99l0 43.49 2833.57 0c108.13,0 196.61,-88.48 196.61,-196.61 0,-108.14 13.02,-168.8 34.87,-206.25"/>
+   <path class="fil0 str3" d="M385.12 3029.12c0,43.25 35.39,78.64 78.64,78.64l216.49 0c43.26,0 78.65,-35.39 78.65,-78.64l0 -63.04c0,-43.25 -35.39,-78.64 -78.65,-78.64l-216.49 0c-43.25,0 -78.64,35.39 -78.64,78.64l0 63.04c0,0 1.56,-73.91 24.97,-87.95"/>
+  </g>
+ </g>
+</svg>

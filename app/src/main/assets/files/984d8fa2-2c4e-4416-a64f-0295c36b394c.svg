@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Creator: CorelDRAW X8 -->
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="40mm" height="60mm" version="1.1" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
+viewBox="0 0 4000 6000"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <style type="text/css">
+   <![CDATA[
+    .str0 {stroke:#332C2B;stroke-width:20}
+    .str1 {stroke:#332C2B;stroke-width:10}
+    .fil0 {fill:none}
+   ]]>
+  </style>
+   <clipPath id="id0">
+    <rect x="-111793" y="14024" width="29603" height="21132"/>
+   </clipPath>
+ </defs>
+ <g id="图层_x0020_1">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <g style="clip-path:url(#id0)">
+   <image transform="matrix(-0.025521 -0.999674 0.999674 -0.025521 -111272 35156)" x="0" y="0" width="20396" height="29091" xlink:href="Lenovo K5 Play—11i（背贴）_Images\Lenovo K5 Play—11i（背贴）_ImgID1.png"/>
+  </g>
+  <path class="fil0 str0" d="M-423 5122c-157,61 -315,128 -315,439 0,3 0,10 0,10 0,440 -360,800 -800,800l-13299 0c-440,0 -800,-360 -800,-800l0 -5290c0,-440 360,-800 800,-800l13299 0c440,0 800,360 800,800l0 6190"/>
+  <path class="fil0 str0" d="M-12127 2768c-382,-230 -979,-14 -977,162 0,399 323,723 722,723 399,0 723,-324 723,-723 0,-399 -324,-722 -723,-722 -399,0 -722,323 -722,722"/>
+  <path class="fil0 str0" d="M-15182 5317l0 -1508c0,-320 262,-583 583,-583l0 0c321,0 583,263 583,583l0 1508c0,320 -262,583 -583,583l0 0c-321,0 -583,-263 -583,-583 0,0 0,-7 0,-10 -3,-389 516,-832 857,-806"/>
+  <g id="_2073792014768">
+   <path class="fil0 str1" d="M1337 5350c-19,-49 -39,-98 -136,-97 -1,0 -3,0 -3,0 -136,0 -247,-112 -247,-247l0 -4109c0,-136 111,-247 247,-247l1635 0c136,0 247,111 247,247l0 4109c0,135 -111,247 -247,247l-1913 0"/>
+   <path class="fil0 str1" d="M2064 1734c71,-118 5,-302 -50,-302 -123,0 -223,100 -223,224 0,123 100,223 223,223 123,0 223,-100 223,-223 0,-124 -100,-224 -223,-224"/>
+   <path class="fil0 str1" d="M1277 790l466 0c99,0 180,82 180,181l0 0c0,99 -81,180 -180,180l-466 0c-99,0 -180,-81 -180,-180l0 0c0,-99 81,-181 180,-181 0,0 2,0 3,0 120,0 257,160 249,265"/>
+  </g>
+ </g>
+</svg>

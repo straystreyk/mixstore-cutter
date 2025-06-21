@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Creator: CorelDRAW 2020 (64-Bit) -->
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="40mm" height="60mm" version="1.1" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
+viewBox="0 0 4000 6000"
+ xmlns:xlink="http://www.w3.org/1999/xlink"
+ xmlns:xodm="http://www.corel.com/coreldraw/odm/2003">
+ <defs>
+  <style type="text/css">
+   <![CDATA[
+    .str2 {stroke:#332C2B;stroke-width:20;stroke-miterlimit:22.9256}
+    .str1 {stroke:#E62129;stroke-width:20;stroke-miterlimit:22.9256}
+    .str0 {stroke:#E62129;stroke-width:20;stroke-miterlimit:22.9256}
+    .fil0 {fill:none}
+   ]]>
+  </style>
+   <clipPath id="id0">
+    <rect x="-43453.21" y="-6783.98" width="14476.26" height="17978.6"/>
+   </clipPath>
+ </defs>
+ <g id="图层_x0020_1">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <g style="clip-path:url(#id0)">
+   <image x="-43453.21" y="-6783.98" width="14476.26" height="17978.6" xlink:href="Bison 2 Pro -11i（前膜全屏）_Images\Bison 2 Pro -11i（前膜全屏）_ImgID1.png"/>
+  </g>
+  <rect class="fil0 str0" x="-37559.06" y="-6324.8" width="8382" height="17207"/>
+  <path class="fil0 str0" d="M-36240.07 -5800.93l1318.08 0c86.83,0 130.79,82.14 184.39,82.14l2804.6 0c53.6,0 88.3,-82.14 174.47,-82.14l1262.49 0c440.01,0 800.01,360.02 800.01,800l0 14561.93c0,440 -360,800 -800.01,800l-5744.03 0c-440.01,0 -800.01,-360 -800.01,-800l0 -14561.93c0,-439.99 360,-800 800.01,-800z"/>
+  <circle class="fil0 str1" cx="-33351.02" cy="-4954.12" r="241.46"/>
+  <path class="fil0 str2" d="M-5169.14 6114.82l0 -6229.55c0,-440 -360.01,-800.01 -800,-800.01l-14561.93 0c-439.98,0 -800,360 -800,800.01l0 1262.49c0,86.17 82.14,120.87 82.14,174.47l0 2804.6c0,53.6 -82.14,97.56 -82.14,184.39l0 1318.08c0,440.01 360.01,800.01 800,800.01l14561.93 0c440,0 800,-360 800,-800.01 0,-440.01 56.22,-735.16 150.15,-930.95"/>
+  <path class="fil0 str2" d="M-20433 2836.41c-64.83,69.46 -292.72,37.19 -292.72,-96.16 0,-133.35 108.11,-241.46 241.46,-241.46 133.35,0 241.46,108.11 241.46,241.46 0,133.35 -108.11,241.46 -241.46,241.46 -133.35,0 -241.46,-108.11 -241.46,-241.46"/>
+  <g id="_2329224906688">
+   <path class="fil0 str2" d="M1025.46 5307.27l1794.92 0c126.78,0 230.51,-103.73 230.51,-230.51l0 -4195.73c0,-126.77 -103.73,-230.5 -230.51,-230.5l-363.76 0c-24.83,0 -34.83,23.67 -50.27,23.67l-808.09 0c-15.44,0 -28.11,-23.67 -53.13,-23.67l-379.77 0c-126.78,0 -230.51,103.73 -230.51,230.5l0 4195.73c0,126.78 103.73,230.51 230.51,230.51 126.78,0 211.82,16.2 268.23,43.26"/>
+   <path class="fil0 str2" d="M1970.07 909.29c-20.01,-18.68 -10.72,-84.34 27.71,-84.34 38.42,0 69.57,31.15 69.57,69.57 0,38.42 -31.15,69.57 -69.57,69.57 -38.43,0 -69.57,-31.15 -69.57,-69.57 0,-38.42 31.14,-69.57 69.57,-69.57"/>
+  </g>
+ </g>
+</svg>

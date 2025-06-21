@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Creator: CorelDRAW X8 -->
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="40mm" height="60mm" version="1.1" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
+viewBox="0 0 4000 6000"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <style type="text/css">
+   <![CDATA[
+    .str1 {stroke:#222222;stroke-width:20}
+    .str0 {stroke:#222222;stroke-width:10}
+    .fil0 {fill:none}
+   ]]>
+  </style>
+ </defs>
+ <g id="图层_x0020_1">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <g id="_2632409851312">
+   <rect class="fil0 str0" x="890" y="650" width="2219" height="4700" rx="257" ry="279"/>
+   <rect class="fil0 str0" x="1009" y="751" width="332" height="689" rx="196" ry="200"/>
+   <circle class="fil0 str0" cx="1177" cy="921" r="80"/>
+   <circle class="fil0 str0" cx="1177" cy="1286" r="80"/>
+   <rect class="fil0 str0" x="1038" y="777" width="275" height="635" rx="162" ry="185"/>
+   <rect class="fil0 str0" x="1798" y="4974" width="408.393" height="71.2142" rx="261" ry="261"/>
+  </g>
+  <g id="_2632409916752">
+   <path class="fil0 str1" d="M-2747 5003c-305,0 -572,754 -572,1188 0,433 -355,788 -789,788l-12830 0c-433,0 -788,-355 -788,-788l0 -5226c0,-434 355,-788 788,-788l12830 0c434,0 789,354 789,788l0 6234"/>
+   <rect class="fil0 str1" transform="matrix(2.64845E-14 -1 1.02324 2.71001E-14 -17416.7 6615.59)" width="1019" height="2064" rx="600" ry="600"/>
+   <path class="fil0 str1" d="M-16855 6272c-47,0 -284,-35 -284,-170 0,-136 110,-245 245,-245 135,0 244,109 244,245 0,135 -109,244 -244,244 -135,0 -245,-109 -245,-244"/>
+   <path class="fil0 str1" d="M-15725 6282c-36,0 -296,-45 -296,-180 0,-136 110,-245 245,-245 135,0 244,109 244,245 0,135 -109,244 -244,244 -135,0 -245,-109 -245,-244"/>
+   <rect class="fil0 str1" transform="matrix(2.18878E-14 -0.826435 0.943103 2.49777E-14 -17337.2 6527.19)" width="1019" height="2064" rx="600" ry="600"/>
+   <path class="fil0 str1" d="M-4300 3808c-123,0 -170,220 -170,280 0,60 49,109 109,109l0 0c60,0 109,-49 109,-109l0 -1034c0,-60 -49,-109 -109,-109l0 0c-60,0 -109,49 -109,109l0 1034"/>
+  </g>
+ </g>
+</svg>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Creator: CorelDRAW 2020 (64-Bit) -->
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="40mm" height="60mm" version="1.1" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
+viewBox="0 0 4000 6000"
+ xmlns:xlink="http://www.w3.org/1999/xlink"
+ xmlns:xodm="http://www.corel.com/coreldraw/odm/2003">
+ <defs>
+  <style type="text/css">
+   <![CDATA[
+    .str0 {stroke:#332C2B;stroke-width:20;stroke-miterlimit:22.9256}
+    .fil0 {fill:none}
+   ]]>
+  </style>
+   <clipPath id="id0">
+    <rect x="-58691.55" y="-7098.49" width="16677.22" height="16883.1"/>
+   </clipPath>
+ </defs>
+ <g id="图层_x0020_1">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <g style="clip-path:url(#id0)">
+   <image x="-58691.55" y="-7098.49" width="16677.22" height="16883.11" xlink:href="Axon 40 SE -11i（前膜带壳）_Images\Axon 40 SE -11i（前膜带壳）_ImgID1.png"/>
+  </g>
+  <rect class="fil0 str0" x="-58319.58" y="-6796.44" width="7580" height="16350"/>
+  <rect class="fil0 str0" x="-58130.8" y="-6603.3" width="7202.44" height="15891.77" rx="800" ry="786.46"/>
+  <circle class="fil0 str0" cx="-54519.19" cy="-6134.17" r="217.62"/>
+  <path class="fil0 str0" d="M-10918.02 4552.5l0 -5916.2c0,-433.88 -357.75,-788.89 -794.97,-788.89l-14201.86 0c-437.23,0 -794.97,355 -794.97,788.89l0 5524.62c0,433.89 357.74,788.89 794.97,788.89l14201.86 0c437.23,0 794.97,-355 794.97,-788.89 0,-433.89 33.32,-565.95 112.04,-655.91"/>
+  <path class="fil0 str0" d="M-26508.3 1388.22c0,120.19 97.43,217.62 217.62,217.62 120.19,0 217.62,-97.43 217.62,-217.62 0,-120.19 -97.43,-217.62 -217.62,-217.62 -120.19,0 -217.62,97.43 -217.62,217.62 0,120.19 124.34,151.41 169.98,156.04"/>
+  <g id="_2005886522688">
+   <path class="fil0 str0" d="M1058.47 5316.85l1756.93 0c129.19,0 234.9,-105.71 234.9,-234.9l0 -4196.52c0,-129.19 -105.71,-234.9 -234.9,-234.9l-1645.06 0c-129.19,0 -234.9,105.71 -234.9,234.9l0 4196.52c0,129.19 105.71,234.9 234.9,234.9 129.2,0 153.5,13.67 180.11,33.68"/>
+   <path class="fil0 str0" d="M1995.92 724.38c-35.29,0 -63.9,28.61 -63.9,63.9 0,35.29 28.61,63.9 63.9,63.9 35.29,0 63.9,-28.61 63.9,-63.9 0,-35.29 -28.61,-63.9 -63.9,-63.9 -35.29,0 -44.46,36.51 -45.82,49.91"/>
+  </g>
+ </g>
+</svg>

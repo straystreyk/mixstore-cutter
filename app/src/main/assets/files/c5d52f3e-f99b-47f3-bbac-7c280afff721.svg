@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Creator: CorelDRAW 2020 (64-Bit) -->
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="40mm" height="60mm" version="1.1" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
+viewBox="0 0 4000 6000"
+ xmlns:xlink="http://www.w3.org/1999/xlink"
+ xmlns:xodm="http://www.corel.com/coreldraw/odm/2003">
+ <defs>
+  <style type="text/css">
+   <![CDATA[
+    .str1 {stroke:#332C2B;stroke-width:20;stroke-miterlimit:22.9256}
+    .str0 {stroke:#E62129;stroke-width:20;stroke-miterlimit:22.9256}
+    .fil0 {fill:none}
+   ]]>
+  </style>
+   <clipPath id="id0">
+    <rect x="-52708.81" y="-6373.02" width="12585.92" height="16818.87"/>
+   </clipPath>
+ </defs>
+ <g id="图层_x0020_1">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <g style="clip-path:url(#id0)">
+   <image x="-52708.81" y="-6373.02" width="12585.92" height="16818.87" xlink:href="Blaze Nxt -11i（前膜带壳）_Images\Blaze Nxt -11i（前膜带壳）_ImgID1.png"/>
+  </g>
+  <rect class="fil0 str0" x="-48025.77" y="-6250.92" width="7630" height="16480"/>
+  <path class="fil0 str0" d="M-46977.97 -6002.84l2283.61 0c136.79,3.97 124.77,147.14 124.77,240.69 0,191.06 154.88,345.94 345.94,345.94 191.06,0 345.94,-154.88 345.94,-345.94 0,-93.55 -14.66,-240.69 122.13,-240.69l2312.03 0c467.5,0 850,382.53 850,850.01l0 14360.91c0,467.49 -382.5,849.99 -850,849.99l-5534.42 0c-467.51,0 -850,-382.5 -850,-849.99l0 -14360.91c0,-467.5 382.49,-850.01 850,-850.01z"/>
+  <path class="fil0 str1" d="M-9544.44 5402.17l0 -6034.69c0,-461.03 -380.13,-838.25 -844.7,-838.25l-14271.49 0c-464.57,0 -844.72,377.21 -844.72,838.25l0 2280.06c0,134.9 146.23,120.44 239.2,120.44 189.87,0 343.78,152.74 343.78,341.16 0,188.42 -153.91,341.16 -343.78,341.16 -92.97,0 -235.25,-11.85 -239.2,123.04l0 2252.04c0,461.05 380.13,838.25 844.72,838.25l14271.49 0c464.58,0 844.7,-377.2 844.7,-838.25 0,-461.05 45.02,-716.11 137.63,-849.73"/>
+  <path class="fil0 str1" d="M1067.03 5315l1729.5 0c135.77,0 246.86,-111.09 246.86,-246.86l0 -4170.75c0,-135.76 -111.08,-246.86 -246.86,-246.86l-671.46 0c-39.73,0 -35.47,42.73 -35.47,69.9 0,55.49 -44.99,100.47 -100.47,100.47 -55.49,0 -100.47,-44.98 -100.47,-100.47 0,-27.17 3.49,-68.75 -36.24,-69.9l-663.21 0c-135.78,0 -246.86,111.09 -246.86,246.86l0 4170.75c0,135.77 111.08,246.86 246.86,246.86 135.77,0 179.83,15.17 204.03,35.53"/>
+ </g>
+</svg>

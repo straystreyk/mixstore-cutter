@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Creator: CorelDRAW 2020 (64-Bit) -->
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="40mm" height="60mm" version="1.1" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
+viewBox="0 0 4000 6000"
+ xmlns:xlink="http://www.w3.org/1999/xlink"
+ xmlns:xodm="http://www.corel.com/coreldraw/odm/2003">
+ <defs>
+  <style type="text/css">
+   <![CDATA[
+    .str2 {stroke:#332C2B;stroke-width:20;stroke-miterlimit:22.9256}
+    .str1 {stroke:#E62129;stroke-width:20;stroke-miterlimit:22.9256}
+    .str0 {stroke:#E62129;stroke-width:20;stroke-miterlimit:22.9256}
+    .fil0 {fill:none}
+   ]]>
+  </style>
+   <clipPath id="id0">
+    <rect x="-50724.41" y="-5905.3" width="16776.35" height="17457.22"/>
+   </clipPath>
+ </defs>
+ <g id="图层_x0020_1">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <g style="clip-path:url(#id0)">
+   <image x="-50724.41" y="-5905.3" width="16776.35" height="17457.22" xlink:href="Rog Phone 2 -11i（背膜）_Images\Rog Phone 2 -11i（背膜）_ImgID1.png"/>
+  </g>
+  <rect class="fil0 str0" x="-41933.47" y="-5729.68" width="7760" height="17100"/>
+  <path class="fil0 str0" d="M-40938.2 -5570.92l5769.46 0c467.5,0 850.35,382.51 850,850l-1.32 1705.4 -1952.84 749.98 -574.63 844.79 1245.41 8755.47 1284.7 962.67 -1.32 2039.78c-0.29,467.48 -382.52,850 -850,850l-5769.46 0c-467.5,0 -850,-382.5 -850,-850l0 -15058.09c0,-467.5 382.5,-850 850,-850z"/>
+  <path class="fil0 str1" d="M-41014.39 -4132.09l2954.38 0 316.69 150 0 234.45 -491.31 800.88 -2496.65 0 -433.11 -287.59 0 -747.74c0,-82.5 67.5,-150 150,-150z"/>
+  <polygon class="fil0 str1" points="-36407.16,-1041.05 -36262.36,-1227.56 -34317.74,-1985.59 -34317.74,7987.28 -35378.13,7169.71 "/>
+  <path class="fil0 str2" d="M-4307.79 6201.95l0 -6116.07c0,-467.47 -382.53,-849.71 -850,-850l-2039.78 -1.32 -962.67 1284.7 -8755.47 1245.41 -844.79 -574.63 -749.98 -1952.84 -1705.4 -1.32c-467.49,-0.35 -850,382.5 -850,850l0 5769.46c0,467.5 382.5,850 850,850l15058.09 0c467.5,0 850,-382.5 850,-850 0,-467.5 88.17,-731.69 196.65,-845.46"/>
+  <path class="fil0 str2" d="M-19627.05 5931.53l0 -2954.38 150 -316.69 234.45 0 800.88 491.31 0 2496.65 -287.59 433.11 -747.74 0c-82.5,0 -150,-67.5 -150,-150z"/>
+  <polygon class="fil0 str2" points="-16536.01,1324.3 -16722.52,1179.5 -17480.55,-765.12 -7507.68,-765.12 -8325.25,295.27 "/>
+  <g id="_2754664650128">
+   <path class="fil0 str2" d="M1097.46 5301.16l1695.43 0c129.58,0 235.54,-106.04 235.62,-235.63l0.37 -565.44 -356.13 -266.87 -345.24 -2427.09 159.3 -234.18 541.34 -207.9 0.36 -472.75c0.1,-129.6 -106.03,-235.63 -235.62,-235.63l-1599.34 0c-129.6,0 -235.63,106.03 -235.63,235.63l0 4174.23c0,129.59 106.03,235.63 235.63,235.63 129.59,0 202.83,24.44 234.37,54.51"/>
+   <path class="fil0 str2" d="M1172.43 1054.53l818.97 0 87.79 41.58 0 64.99 -136.19 222.01 -692.09 0 -120.06 -79.72 0 -207.28c0,-22.87 18.71,-41.58 41.58,-41.58z"/>
+   <polygon class="fil0 str2" points="2449.59,1911.39 2489.73,1859.69 3028.79,1649.55 3028.79,4414.12 2734.84,4187.48 "/>
+  </g>
+ </g>
+</svg>

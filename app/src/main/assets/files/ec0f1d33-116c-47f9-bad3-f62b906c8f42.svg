@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Creator: CorelDRAW 2020 (64-Bit) -->
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="40mm" height="60mm" version="1.1" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
+viewBox="0 0 4000 6000"
+ xmlns:xlink="http://www.w3.org/1999/xlink"
+ xmlns:xodm="http://www.corel.com/coreldraw/odm/2003">
+ <defs>
+  <style type="text/css">
+   <![CDATA[
+    .str0 {stroke:#332C2B;stroke-width:20;stroke-miterlimit:22.9256}
+    .str1 {stroke:#332C2B;stroke-width:20;stroke-miterlimit:22.9256}
+    .fil0 {fill:none}
+   ]]>
+  </style>
+   <clipPath id="id0">
+    <rect x="-37077.6" y="-4156.61" width="12081.1" height="15047.32"/>
+   </clipPath>
+ </defs>
+ <g id="图层_x0020_1">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <g style="clip-path:url(#id0)">
+   <image x="-37077.6" y="-4156.61" width="12081.1" height="15047.32" xlink:href="5060L Basic -11i（背膜）_Images\5060L Basic -11i（背膜）_ImgID1.png"/>
+  </g>
+  <rect class="fil0 str0" x="-36871.35" y="-3742.51" width="7300" height="14120"/>
+  <rect class="fil0 str0" x="-36817.38" y="-3712.82" width="7192.06" height="14062.57" rx="1200" ry="1276.31"/>
+  <rect class="fil0 str0" x="-36414.08" y="-2906.22" width="2317.16" height="2415.54" rx="650" ry="626.14"/>
+  <path class="fil0 str1" d="M-2747.6 6208.26l0 -5601.7c0,-659.98 -540.01,-1200 -1199.99,-1200l-11662.58 0c-660,0 -1200,540.01 -1200,1200l0 4792.07c0,659.99 540,1199.99 1200,1199.99l11662.58 0c659.99,0 1199.99,-540 1199.99,-1199.99 0,-659.99 127.59,-872.29 214.91,-996.64"/>
+  <path class="fil0 str1" d="M-16003.57 5545.33c0,357.5 292.5,650 650,650l1115.54 0c357.5,0 650,-292.5 650,-650l0 -1017.16c0,-357.5 -292.5,-650 -650,-650l-1115.54 0c-357.5,0 -650,292.5 -650,650l0 1017.16c0,0 13.81,-636.43 152.72,-780.63"/>
+  <g id="_2918932979792">
+   <path class="fil0 str1" d="M938.13 5284.92l1844.02 0c217.26,0 395.03,-177.76 395.03,-395.02l0 -3839.2c0,-217.27 -177.77,-395.03 -395.03,-395.03l-1577.5 0c-217.26,0 -395.03,177.76 -395.03,395.03l0 3839.2c0,217.26 177.77,395.02 395.03,395.02 217.26,0 287.15,42.01 328.08,70.75"/>
+   <path class="fil0 str1" d="M1156.36 921.19c-117.69,0 -213.98,96.29 -213.98,213.98l0 367.22c0,117.69 96.29,213.98 213.98,213.98l334.84 0c117.68,0 213.97,-96.29 213.97,-213.98l0 -367.22c0,-117.69 -96.29,-213.98 -213.97,-213.98l-334.84 0c0,0 209.5,4.55 256.97,50.28"/>
+  </g>
+ </g>
+</svg>

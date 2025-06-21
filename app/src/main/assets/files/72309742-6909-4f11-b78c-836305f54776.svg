@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Creator: CorelDRAW -->
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="40mm" height="60mm" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
+viewBox="0 0 40 60"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <style type="text/css">
+   <![CDATA[
+    .str0 {stroke:#1F1A17;stroke-width:0.194}
+    .str1 {stroke:#1F1A17;stroke-width:0.2}
+    .fil1 {fill:none}
+    .fil0 {fill:none;fill-rule:nonzero}
+   ]]>
+  </style>
+ </defs>
+ <g id="图层_x0020_2">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <g id="_203242400">
+   <path id="_203242304" class="fil0 str0" d="M19.8968 52.3538c-0.5829,0.0048 -0.4375,-0.0018 -1.0204,-0.0007 -0.7535,0.0024 -0.8679,-0.0154 -1.1421,-0.1788 -0.3815,-0.2289 -0.6151,-0.6366 -0.6151,-1.0765 0,-0.7331 0.5257,-1.2279 1.3351,-1.2565 0.3172,-0.0119 0.8608,-0.019 1.4556,-0.019 1.2864,0 1.6857,0.0131 1.9861,0.0631 0.2993,0.0513 0.4304,0.1276 0.6509,0.3815 0.2003,0.2313 0.3124,0.5293 0.3124,0.8321 0,0.4423 -0.2587,0.8941 -0.6235,1.0872 -0.2826,0.1515 -0.4125,0.1693 -1.1957,0.1693 -0.5174,0 -0.8929,0.0052 -1.3459,-0.0055"/>
+   <line id="_203241368" class="fil0 str0" x1="31.4709" y1="9.4221" x2="31.4653" y2= "50.7199" />
+   <path id="_203562808" class="fil0 str0" d="M31.4653 50.7199c-0.0727,1.3698 -1.1731,2.5381 -2.5762,2.7372"/>
+   <line id="_203563408" class="fil0 str0" x1="28.8891" y1="53.4571" x2="11.621" y2= "53.5" />
+   <path id="_203563000" class="fil0 str0" d="M11.621 53.5c-1.6606,-0.0501 -2.9207,-1.1349 -3.0864,-2.6597"/>
+   <line id="_203563192" class="fil0 str0" x1="8.5346" y1="50.8403" x2="8.5286" y2= "9.224" />
+   <path id="_140910704" class="fil0 str0" d="M8.5286 9.224c0.0548,-1.3101 1.2172,-2.5321 2.5786,-2.7097"/>
+   <polyline id="_47592712" class="fil0 str0" points="11.1072,6.5143 11.534,6.5 28.8891,6.5143 "/>
+   <path id="_203562040" class="fil0 str0" d="M28.8891 6.5143c0.8882,0.0846 1.8359,0.7534 2.2567,1.5915 0.2098,0.4161 0.335,0.7684 0.325,1.4437"/>
+   <circle id="_142019264" class="fil1 str1" cx="16.2111" cy="8.02416" r="0.67819"/>
+   <rect id="_142018856" class="fil1 str1" x="17.6803" y="7.62615" width="4.67627" height="0.798289" rx="1.1811" ry="1.1811"/>
+   <circle id="_142598328" class="fil1 str1" cx="26.715" cy="8.02311" r="0.590971"/>
+  </g>
+ </g>
+</svg>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Creator: CorelDRAW -->
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="40mm" height="60mm" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
+viewBox="0 0 40 60"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <style type="text/css">
+   <![CDATA[
+    .str0 {stroke:#1F1A17;stroke-width:0.194}
+    .str1 {stroke:#1F1A17;stroke-width:0.2}
+    .fil1 {fill:none}
+    .fil0 {fill:none;fill-rule:nonzero}
+   ]]>
+  </style>
+ </defs>
+ <g id="图层_x0020_1">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <g id="_175609504">
+  </g>
+  <g id="_176134600">
+  </g>
+  <g id="_176136280">
+   <line id="_175609240" class="fil0 str0" x1="20.1295" y1="8.6488" x2="27.096" y2= "8.6203" />
+   <path id="_175609192" class="fil0 str0" d="M27.096 8.6203c1.0328,-0.0042 1.355,0.0042 1.5076,0.0421 0.6212,0.1538 1.1276,0.6675 1.3255,1.3455 0.0242,0.0811 0.0253,0.1011 0.0274,0.537"/>
+   <line id="_175610968" class="fil0 str0" x1="29.9565" y1="10.5449" x2="30.1471" y2= "42.3052" />
+   <path id="_175610728" class="fil0 str0" d="M30.1471 42.3052c0.0368,6.2074 0.0347,6.7496 -0.0264,7.3445 -0.0737,0.7243 -0.8169,1.5297 -1.5529,1.6834 -0.1431,0.0295 -0.3748,0.0327 -3.5901,0.0432 -1.6603,0.0063 -3.3216,0.0053 -4.9819,-0.001"/>
+   <line id="_175611136" class="fil0 str0" x1="19.9958" y1="51.3753" x2="11.9049" y2= "51.3416" />
+   <path id="_46699184" class="fil0 str0" d="M11.9049 51.3416c-0.5591,-0.0021 -0.6801,-0.019 -0.9191,-0.1295 -0.4991,-0.2295 -0.9434,-0.7507 -1.0592,-1.2424 -0.0168,-0.0715 -0.021,-0.1758 -0.021,-0.5106"/>
+   <line id="_46697792" class="fil0 str0" x1="9.9056" y1="49.4591" x2="9.9119" y2= "17.4324" />
+   <path id="_46697576" class="fil0 str0" d="M9.9119 17.4324c0.001,-5.8421 -0.0084,-6.7012 -0.08,-7.2497 -0.0021,-0.0189 -0.0032,-0.0337 -0.0032,-0.0453 0,-0.1821 0.18,-0.5874 0.3548,-0.7969 0.2906,-0.3496 0.8897,-0.6244 1.4171,-0.6496"/>
+   <line id="_46697192" class="fil0 str0" x1="11.4302" y1="8.6907" x2="20.2813" y2= "8.6412" />
+   <rect id="_176137000" class="fil1 str1" x="18.357" y="9.08576" width="3.2716" height="1.0977" rx="0.5488" ry="0.5488"/>
+   <circle id="_176261248" class="fil1 str1" cx="22.7424" cy="9.61546" r="0.5521"/>
+   <circle id="_176265424" class="fil1 str1" cx="25.5239" cy="9.61546" r="0.5521"/>
+  </g>
+ </g>
+</svg>

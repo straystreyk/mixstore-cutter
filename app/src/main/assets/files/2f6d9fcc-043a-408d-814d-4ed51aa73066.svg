@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Creator: CorelDRAW -->
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="40mm" height="60mm" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
+viewBox="0 0 40 60"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <style type="text/css">
+   <![CDATA[
+    .str0 {stroke:#1F1A17;stroke-width:0.194}
+    .fil0 {fill:none}
+   ]]>
+  </style>
+ </defs>
+ <g id="图层_x0020_9">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <path class="fil0 str0" d="M14.9731 6.0863c0.3726,0 0.6747,0.3053 0.6747,0.6817 0,0.3765 -0.3021,0.6818 -0.6747,0.6818 -0.3725,0 -0.6747,-0.3053 -0.6747,-0.6818 0,-0.3764 0.3022,-0.6817 0.6747,-0.6817z"/>
+  <path class="fil0 str0" d="M17.5926 6.0099l3.1086 0c0.2248,0 0.4087,0.2685 0.4087,0.5966l0 0c0,0.3281 -0.1839,0.5965 -0.4087,0.5965l-3.1086 0c-0.2248,0 -0.4087,-0.2684 -0.4087,-0.5965l0 0c0,-0.3281 0.1839,-0.5966 0.4087,-0.5966z"/>
+  <path class="fil0 str0" d="M17.7706 49.6496l3.3388 0c0.354,0 0.6435,0.277 0.6435,0.6157l0 0.555c0,0.3387 -0.2895,0.6157 -0.6435,0.6157l-3.3388 0c-0.354,0 -0.6434,-0.277 -0.6434,-0.6157l0 -0.555c0,-0.3387 0.2894,-0.6157 0.6434,-0.6157z"/>
+  <path class="fil0 str0" d="M9.6067 52.1158l19.1166 0.0093c0.3114,-0.0395 0.3672,-0.0512 0.4985,-0.1034 0.352,-0.1383 0.711,-0.5334 0.7866,-0.8645"/>
+  <path class="fil0 str0" d="M9.6067 52.1158c-0.4938,-0.0453 -1.0318,-0.5298 -1.1282,-1.0155"/>
+  <line class="fil0 str0" x1="8.4785" y1="51.1003" x2="8.3576" y2= "28.6177" />
+  <path class="fil0 str0" d="M8.3576 28.6177c-0.0255,-4.6976 -0.0371,-9.3952 -0.0337,-14.0938 0.0059,-5.763 0.0431,-8.0671 0.1383,-8.3529 0.1894,-0.5751 0.6553,-1.0062 1.1247,-1.0422"/>
+  <line class="fil0 str0" x1="9.5869" y1="5.1288" x2="28.5467" y2= "5.1253" />
+  <path class="fil0 str0" d="M28.5467 5.1253c0.5275,0 0.6507,0.0302 0.9063,0.2231 0.3334,0.2498 0.56,0.5902 0.5809,0.876"/>
+  <line class="fil0 str0" x1="30.0339" y1="6.2244" x2="30.0084" y2= "51.1572" />
+ </g>
+</svg>

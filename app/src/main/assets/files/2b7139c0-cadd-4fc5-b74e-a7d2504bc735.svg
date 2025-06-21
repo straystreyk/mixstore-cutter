@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Creator: CorelDRAW X8 -->
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="40mm" height="60mm" version="1.1" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
+viewBox="0 0 4000 6000"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <style type="text/css">
+   <![CDATA[
+    .str0 {stroke:#332C2B;stroke-width:20}
+    .fil0 {fill:none}
+   ]]>
+  </style>
+ </defs>
+ <g id="图层_x0020_1">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <g id="_2177381753520">
+   <path class="fil0 str0" d="M1164 5334c-176,0 -320,-128 -320,-304l0 -4059c0,-176 141,-303 317,-303 515,-38 1502,-5 1680,2 178,8 315,125 315,301l0 4059c0,176 -154,303 -330,307 -176,4 -1093,29 -1662,-3z"/>
+   <path class="fil0 str0" d="M2101 1594c-158,0 -321,-143 -321,-254 0,-111 91,-202 202,-202l26 0c111,0 202,91 202,202l0 375c0,111 -91,202 -202,202l-26 0c-111,0 -202,-91 -202,-202l0 -375"/>
+   <path class="fil0 str0" d="M1471 898c0,-6 6,-68 38,-68 32,0 58,26 58,58 0,32 -26,58 -58,58 -32,0 -58,-26 -58,-58 0,-32 26,-58 58,-58"/>
+   <path class="fil0 str0" d="M1832 2495c0,-29 42,-253 164,-253 123,0 223,99 223,222 0,123 -100,223 -223,223 -122,0 -222,-100 -222,-223 0,-123 100,-222 222,-222"/>
+  </g>
+  <path class="fil0 str0" d="M-4166 5770c0,522 -381,950 -904,950l-12060 0c-523,0 -901,-418 -901,-940 -112,-1531 -14,-4463 8,-4992 21,-530 370,-934 893,-934l12060 0c523,0 900,455 912,978 12,522 84,3248 -8,4938z"/>
+  <path class="fil0 str0" d="M-15279 2987c0,469 -425,952 -755,952 -330,0 -600,-270 -600,-600l0 -77c0,-330 270,-600 600,-600l1115 0c330,0 600,270 600,600l0 77c0,330 -270,600 -600,600l-1115 0"/>
+  <path class="fil0 str0" d="M-17346 4860c-19,0 -202,-19 -202,-114 0,-95 77,-172 171,-172 95,0 172,77 172,172 0,95 -77,172 -172,172 -94,0 -171,-77 -171,-172"/>
+  <path class="fil0 str0" d="M-12602 3786c-86,0 -753,-124 -753,-489 0,-365 296,-661 661,-661 365,0 661,296 661,661 0,365 -296,662 -661,662 -365,0 -661,-297 -661,-662"/>
+ </g>
+</svg>

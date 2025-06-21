@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Creator: CorelDRAW X8 -->
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="40mm" height="60mm" version="1.1" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
+viewBox="0 0 4000 6000"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <style type="text/css">
+   <![CDATA[
+    .str1 {stroke:#332C2B;stroke-width:20}
+    .str0 {stroke:#332C2B;stroke-width:10}
+    .fil0 {fill:none}
+   ]]>
+  </style>
+   <clipPath id="id0">
+    <rect x="-86599" y="1501" width="29455" height="20919"/>
+   </clipPath>
+ </defs>
+ <g id="图层_x0020_1">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <g style="clip-path:url(#id0)">
+   <image transform="matrix(0.018079 0.999837 -0.999837 0.018079 -57512.7 1501.15)" x="0" y="0" width="20396" height="29091" xlink:href="三星 J5 Prime（2016）—11i（前膜全屏）_Images\三星 J5 Prime（2016）—11i（前膜全屏）_ImgID1.png"/>
+  </g>
+  <path class="fil0 str0" d="M910 5255l701 0c0,0 127,11 100,-121 0,0 -2,-10 -6,-52 0,-74 60,-134 133,-134l350 0c74,0 134,60 134,133 -2,39 -7,54 -7,56 -27,127 88,118 88,118l454 0c128,0 233,-105 233,-233l0 -4138c0,-129 -105,-233 -233,-234l-285 0c0,0 -47,-2 -47,54l0 44c0,37 -30,67 -67,67l-655 0c-37,0 -67,-30 -67,-67l0 -44c0,-57 -56,-54 -56,-54l-145 0c0,0 -48,-1 -48,48l0 33c0,47 -38,85 -84,85 -47,0 -85,-38 -85,-85l0 -33c0,-47 -54,-48 -54,-48l-110 0c-129,0 -234,105 -234,234l0 4138c0,128 105,233 234,233 128,0 176,60 176,95"/>
+  <path class="fil0 str1" d="M-1981 6576l0 -2104c0,0 32,-381 -363,-299 0,0 -31,7 -158,18 -220,0 -401,-180 -401,-400l0 -1049c0,-220 180,-400 400,-400 117,4 162,18 168,19 381,81 354,-264 354,-264l0 -1360c0,-385 -315,-700 -700,-700l-12407 0c-385,0 -699,315 -700,700l-1 854c0,0 -7,141 161,141l133 0c110,0 200,90 200,200l0 1965c0,110 -90,200 -200,200l-133 0c-169,0 -161,167 -161,167l0 436c0,0 -4,143 143,143l100 0c140,0 255,114 255,254 0,140 -115,255 -255,255l-100 0c-141,0 -143,160 -143,160l0 332c0,385 316,700 701,700l12407 0c385,0 700,-315 700,-700 0,-385 178,-529 284,-529"/>
+ </g>
+</svg>

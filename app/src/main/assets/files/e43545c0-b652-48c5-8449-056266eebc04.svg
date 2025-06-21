@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Creator: CorelDRAW X8 -->
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="40mm" height="60mm" version="1.1" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
+viewBox="0 0 4000 6000"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <style type="text/css">
+   <![CDATA[
+    .str0 {stroke:black;stroke-width:30;stroke-linejoin:bevel}
+    .fil0 {fill:none}
+   ]]>
+  </style>
+ </defs>
+ <g id="图层_x0020_1">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <g id="_2338470133104">
+   <path class="fil0 str0" d="M2840 5350c63,0 123,-25 167,-69 45,-45 70,-105 70,-168"/>
+   <line class="fil0 str0" x1="3077" y1="5113" x2="3077" y2= "887" />
+   <path class="fil0 str0" d="M3077 887c0,-131 -106,-237 -237,-237"/>
+   <line class="fil0 str0" x1="2840" y1="650" x2="2281" y2= "650" />
+   <line class="fil0 str0" x1="2242" y1="663" x2="2095" y2= "663" />
+   <line class="fil0 str0" x1="1719" y1="650" x2="1160" y2= "650" />
+   <path class="fil0 str0" d="M1160 650c-63,0 -123,25 -167,69 -45,45 -70,105 -70,168"/>
+   <line class="fil0 str0" x1="923" y1="887" x2="923" y2= "5113" />
+   <path class="fil0 str0" d="M923 5113c0,63 25,123 70,168 44,44 104,69 167,69"/>
+   <line class="fil0 str0" x1="1160" y1="5350" x2="2840" y2= "5350" />
+   <path class="fil0 str0" d="M2281 650c-7,0 -14,2 -19,7"/>
+   <path class="fil0 str0" d="M2242 663c8,0 14,-2 20,-6"/>
+   <path class="fil0 str0" d="M1738 657c-5,-5 -12,-7 -19,-7"/>
+   <path class="fil0 str0" d="M1738 657c6,4 12,6 20,6"/>
+   <path class="fil0 str0" d="M1937 739c0,35 28,64 63,64 35,0 63,-29 63,-64"/>
+   <line class="fil0 str0" x1="2063" y1="739" x2="2063" y2= "695" />
+   <line class="fil0 str0" x1="1937" y1="739" x2="1937" y2= "695" />
+   <line class="fil0 str0" x1="1905" y1="663" x2="1758" y2= "663" />
+   <path class="fil0 str0" d="M1937 695c0,-8 -4,-17 -10,-22 -5,-6 -13,-10 -22,-10"/>
+   <path class="fil0 str0" d="M2095 663c-9,0 -17,4 -22,10 -6,5 -10,14 -10,22"/>
+  </g>
+ </g>
+</svg>

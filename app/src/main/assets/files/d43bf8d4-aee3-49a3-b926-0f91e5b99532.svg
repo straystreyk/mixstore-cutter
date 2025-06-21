@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Creator: CorelDRAW X8 -->
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="40mm" height="60mm" version="1.1" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
+viewBox="0 0 4000 6000"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <style type="text/css">
+   <![CDATA[
+    .str0 {stroke:#332C2B;stroke-width:20}
+    .fil0 {fill:none}
+   ]]>
+  </style>
+ </defs>
+ <g id="图层_x0020_1">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <g id="_2819883174752">
+   <path class="fil0 str0" d="M924 5239l1944 0c115,0 208,-94 208,-208l0 -4173c0,-114 -93,-208 -208,-208l-1712 0c-115,0 -208,94 -208,208l0 4173c0,114 93,208 208,208 115,0 200,76 200,111"/>
+   <path class="fil0 str0" d="M2112 1746c0,-89 -99,-206 -164,-206 -66,0 -119,53 -119,119l0 129c0,65 53,119 119,119l125 0c66,0 119,-54 119,-119l0 -129c0,-66 -53,-119 -119,-119l-125 0"/>
+   <path class="fil0 str0" d="M1403 1067c-142,0 -251,-83 -251,-170 0,-86 70,-158 157,-158l0 0c87,0 158,71 158,158l0 549c0,48 -22,92 -56,121 -34,29 -8,134 -6,143 0,35 -29,64 -64,64l-62 0c-35,0 -63,-29 -63,-64 14,-39 26,-114 -8,-143 -34,-29 -56,-73 -56,-121l0 -549"/>
+  </g>
+  <path class="fil0 str0" d="M-1519 6146l0 -6530c0,-385 -315,-700 -700,-700l-14014 0c-385,0 -700,315 -700,700l0 5749c0,385 315,700 700,700l14014 0c385,0 700,-315 700,-700 0,-385 252,-671 372,-671"/>
+  <path class="fil0 str0" d="M-13252 2156c-300,0 -693,330 -693,550 0,220 180,400 400,400l434 0c220,0 400,-180 400,-400l0 -421c0,-220 -180,-400 -400,-400l-434 0c-220,0 -400,180 -400,400l0 421"/>
+  <path class="fil0 str0" d="M-15532 4535c0,476 -278,844 -570,844 -291,0 -531,-237 -531,-529l0 0c0,-292 239,-530 531,-530l1843 0c162,0 308,74 406,189 98,115 451,27 481,21 118,0 214,96 214,213l0 209c0,117 -96,213 -214,213 -133,-48 -383,-89 -481,26 -98,115 -244,188 -406,188l-1843 0"/>
+ </g>
+</svg>

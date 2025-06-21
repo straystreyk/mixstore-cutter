@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Creator: CorelDRAW 2020 (64-Bit) -->
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="40mm" height="60mm" version="1.1" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
+viewBox="0 0 4000 6000"
+ xmlns:xlink="http://www.w3.org/1999/xlink"
+ xmlns:xodm="http://www.corel.com/coreldraw/odm/2003">
+ <defs>
+  <style type="text/css">
+   <![CDATA[
+    .str0 {stroke:#332C2B;stroke-width:20;stroke-miterlimit:22.9256}
+    .str1 {stroke:#332C2B;stroke-width:7.62;stroke-miterlimit:22.9256}
+    .fil0 {fill:none}
+   ]]>
+  </style>
+   <clipPath id="id0">
+    <rect x="-84190.4" y="-44834.99" width="40400.72" height="26978.97"/>
+   </clipPath>
+ </defs>
+ <g id="图层_x0020_1">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <g style="clip-path:url(#id0)">
+   <image x="-84190.4" y="-44834.99" width="40400.72" height="26978.97" xlink:href="MacBook Pro 14 —(前膜全屏)_Images\MacBook Pro 14 —(前膜全屏)_ImgID1.png"/>
+  </g>
+  <rect class="fil0 str0" x="-78922.43" y="-41328.23" width="31000" height="22000"/>
+  <rect class="fil0 str0" x="-78727.92" y="-41017.28" width="30608.03" height="20002.55" rx="413.66" ry="710.01"/>
+  <circle class="fil0 str0" cx="-63324.49" cy="-40505.72" r="220.48"/>
+  <g id="_1330710732480">
+   <rect class="fil0 str1" transform="matrix(6.29707E-15 0.237764 -0.4081 1.08083E-14 3843.4 174.791)" width="23812.52" height="9066.4" rx="321.82" ry="321.82"/>
+   <circle class="fil0 str1" transform="matrix(5.97453E-15 0.225585 -0.225585 5.97452E-15 3748.77 3024.06)" r="180.79"/>
+  </g>
+  <path class="fil0 str1" d="M49287.22 14549.11l0 -19583.59c0,-390.49 -319.5,-710.01 -710,-710.01l-29188.03 0c-390.49,0 -710,319.51 -710,710.01l0 19292.54 30608.03 0c0,0 -44.16,-489.49 189.56,-489.49"/>
+  <circle class="fil0 str1" cx="34082.62" cy="-5232.93" r="220.48"/>
+ </g>
+</svg>

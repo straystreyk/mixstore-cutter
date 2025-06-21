@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Creator: CorelDRAW X8 -->
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="40mm" height="60mm" version="1.1" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
+viewBox="0 0 4000 6000"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <style type="text/css">
+   <![CDATA[
+    .str1 {stroke:#332C2B;stroke-width:20}
+    .str0 {stroke:#E72D28;stroke-width:20}
+    .str2 {stroke:#222222;stroke-width:20}
+    .fil0 {fill:none}
+   ]]>
+  </style>
+   <clipPath id="id0">
+    <rect x="-116628" y="-17496" width="21162" height="21162"/>
+   </clipPath>
+ </defs>
+ <g id="图层_x0020_1">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <g style="clip-path:url(#id0)">
+   <image x="-116628" y="-17496" width="21162" height="21162" xlink:href="Brand Dexp Ursus B18 Front Full前膜全屏_Images\Brand Dexp Ursus B18 Front Full前膜全屏_ImgID1.png"/>
+  </g>
+  <rect class="fil0 str0" transform="matrix(3.84996E-14 -1.45366 0.589645 1.56165E-14 -112157 3610.44)" width="14446" height="20690"/>
+  <rect class="fil0 str0" transform="matrix(3.70092E-14 -1.4066 0.566818 1.51109E-14 -111885 3237.44)" width="14446" height="20690" rx="1256" ry="1256"/>
+  <circle class="fil0 str1" cx="-107770" cy="-16643" r="232"/>
+  <rect class="fil0 str1" x="-106719" y="-16805" width="1349" height="298" rx="10000" ry="10000"/>
+  <path class="fil0 str2" d="M-65938 4293l11655 0c561,0 1020,-459 1020,-1020l0 -18281c0,-561 -459,-1020 -1020,-1020l-9688 0c-561,0 -1020,459 -1020,1020l0 18281c0,561 459,1020 1020,1020 561,0 558,423 558,740"/>
+  <circle class="fil0 str1" cx="-60876" cy="-15588" r="232"/>
+  <rect class="fil0 str1" x="-59824" y="-15750" width="1349" height="298" rx="10000" ry="10000"/>
+  <g id="_2495801238096">
+   <path class="fil0 str2" d="M586 5185l2601 0c125,0 227,-103 227,-228l0 -4079c0,-126 -102,-228 -227,-228l-2162 0c-125,0 -228,102 -228,228l0 4079c0,125 103,228 228,228 125,0 124,94 124,165"/>
+   <circle class="fil0 str1" cx="1715" cy="748" r="52"/>
+   <rect class="fil0 str1" x="1950" y="712" width="301.13" height="66.4244" rx="2232" ry="2232"/>
+  </g>
+ </g>
+</svg>

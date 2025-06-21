@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Creator: CorelDRAW 2020 (64-Bit) -->
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="40mm" height="60mm" version="1.1" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
+viewBox="0 0 4000 6000"
+ xmlns:xlink="http://www.w3.org/1999/xlink"
+ xmlns:xodm="http://www.corel.com/coreldraw/odm/2003">
+ <defs>
+  <style type="text/css">
+   <![CDATA[
+    .str1 {stroke:#332C2B;stroke-width:20;stroke-miterlimit:22.9256}
+    .str2 {stroke:#332C2B;stroke-width:20;stroke-miterlimit:22.9256}
+    .str0 {stroke:#E72D28;stroke-width:20;stroke-miterlimit:22.9256}
+    .fil0 {fill:none}
+   ]]>
+  </style>
+   <clipPath id="id0">
+    <rect x="-40767.58" y="-6120.37" width="13634.2" height="17006.89"/>
+   </clipPath>
+ </defs>
+ <g id="图层_x0020_1">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <g style="clip-path:url(#id0)">
+   <image x="-40767.58" y="-6120.37" width="13634.2" height="17006.89" xlink:href="Poco X4 NFC -11i（背膜）_Images\Poco X4 NFC -11i（背膜）_ImgID1.png"/>
+  </g>
+  <rect class="fil0 str0" x="-40461.1" y="-5785.17" width="7620" height="16370"/>
+  <rect class="fil0 str0" x="-40396.57" y="-5746.81" width="7490.94" height="16292" rx="900" ry="888.44"/>
+  <rect class="fil0 str1" x="-40021.8" y="-5405.59" width="2851.4" height="4635.18" rx="599.06" ry="597.22"/>
+  <path class="fil0 str2" d="M-2325.46 5942.69l0 -6302.8c0,-494.98 -405.01,-899.99 -900,-899.99l-14492 0c-495,0 -900,405 -900,899.99l0 5690.94c0,495 405,900 900,900l14492 0c495,0 900,-405 900,-900 0,-495 83.05,-722.21 172.34,-831.35"/>
+  <path class="fil0 str2" d="M-18276.23 5257c0,329.49 269.57,599.06 599.06,599.06l3437.06 0c329.49,0 599.06,-269.57 599.06,-599.06l0 -1653.28c0,-329.49 -269.57,-599.06 -599.06,-599.06l-3437.06 0c-329.49,0 -599.06,269.57 -599.06,599.06l0 1653.28c0,0 18.24,-805.48 145.57,-982.42"/>
+  <g id="_2496485893392">
+   <path class="fil0 str2" d="M1172.53 655.67l1641.75 0c142.8,0 259.63,116.84 259.63,259.64l0 4180.72c0,142.8 -116.83,259.64 -259.63,259.64l-1641.75 0c-142.8,0 -259.64,-116.84 -259.64,-259.64l0 -4180.72c0,-142.8 116.84,-259.64 259.64,-259.64z"/>
+   <path class="fil0 str2" d="M1193.83 754.11l476.94 0c95.06,0 172.82,77.77 172.82,172.82l0 991.54c0,95.05 -77.76,172.82 -172.82,172.82l-476.94 0c-95.06,0 -172.82,-77.77 -172.82,-172.82l0 -991.54c0,-95.05 77.76,-172.82 172.82,-172.82z"/>
+  </g>
+ </g>
+</svg>

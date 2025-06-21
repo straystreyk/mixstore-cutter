@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Creator: CorelDRAW 2020 (64-Bit) -->
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="40mm" height="60mm" version="1.1" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
+viewBox="0 0 4000 6000"
+ xmlns:xlink="http://www.w3.org/1999/xlink"
+ xmlns:xodm="http://www.corel.com/coreldraw/odm/2003">
+ <defs>
+  <style type="text/css">
+   <![CDATA[
+    .str0 {stroke:#222222;stroke-width:20;stroke-miterlimit:22.9256}
+    .fil0 {fill:none}
+   ]]>
+  </style>
+   <clipPath id="id0">
+    <rect x="-41449.24" y="-6339.51" width="11669.82" height="16915.31"/>
+   </clipPath>
+ </defs>
+ <g id="图层_x0020_1">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <g style="clip-path:url(#id0)">
+   <image x="-41449.24" y="-6339.51" width="11669.81" height="16915.31" xlink:href="EDA50-11i（前膜全屏）_Images\EDA50-11i（前膜全屏）_ImgID1.png"/>
+  </g>
+  <path class="fil0 str0" d="M-1905.58 6435.85l0 -6005.35c0,-440 -360.01,-800 -800.01,-800l-12499.98 0c-440,0 -800.01,359.99 -800.01,800l0 2121.66c18.46,68.9 129.16,115.43 129.16,190.86l0 858.3c0,75.43 -109,136.81 -129.16,212.03l0 2117.14c0,440.01 360,800.01 800.01,800.01l12499.98 0c440.01,0 800.01,-360 800.01,-800.01 0,-440.01 62.96,-756.02 171.43,-949.16"/>
+  <path class="fil0 str0" d="M921.32 5299.21l1977.74 0c144.9,0 263.46,-118.56 263.46,-263.47l0 -4116.6c0,-144.91 -118.56,-263.47 -263.46,-263.47l-698.73 0c-22.69,6.08 -38.01,42.53 -62.85,42.53l-282.67 0c-24.84,0 -45.05,-35.89 -69.83,-42.53l-697.23 0c-144.91,0 -263.47,118.56 -263.47,263.47l0 4116.6c0,144.91 118.56,263.47 263.47,263.47 144.91,0 248.98,20.74 312.58,56.46"/>
+ </g>
+</svg>

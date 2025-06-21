@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Creator: CorelDRAW X8 -->
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="40mm" height="60mm" version="1.1" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
+viewBox="0 0 4000 6000"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <style type="text/css">
+   <![CDATA[
+    .str0 {stroke:#332C2B;stroke-width:19.4}
+    .fil0 {fill:none;fill-rule:nonzero}
+   ]]>
+  </style>
+ </defs>
+ <g id="图层_x0020_1">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <g id="_2175897029296">
+   <g>
+    <line class="fil0 str0" x1="3058" y1="651" x2="3058" y2= "682" />
+    <line class="fil0 str0" x1="932" y1="5233" x2="932" y2= "5242" />
+    <path class="fil0 str0" d="M932 5242c7,0 10,-3 11,-9 630,0 1260,0 1890,0 99,-3 167,-47 207,-136 12,-26 17,-47 18,-67"/>
+    <line class="fil0 str0" x1="3058" y1="5030" x2="3067" y2= "1852" />
+    <path class="fil0 str0" d="M3067 1852c2,-730 0,-991 -10,-1023 -28,-95 -97,-161 -181,-175"/>
+    <line class="fil0 str0" x1="2876" y1="654" x2="2871" y2= "653" />
+    <path class="fil0 str0" d="M2871 653c-7,-2 -7,-2 -218,-3"/>
+    <line class="fil0 str0" x1="2653" y1="650" x2="2547" y2= "650" />
+    <path class="fil0 str0" d="M2547 650c-242,0 -282,0 -307,4 -24,5 -35,13 -82,64 -34,37 -35,38 -49,51 -37,32 -69,47 -101,47 -41,0 -83,-26 -134,-82 -70,-79 -74,-82 -135,-82"/>
+    <line class="fil0 str0" x1="1739" y1="652" x2="1394" y2= "651" />
+    <path class="fil0 str0" d="M1394 651c-275,-1 -275,-1 -331,36 -52,34 -95,100 -100,151"/>
+    <polyline class="fil0 str0" points="963,838 962,885 966,5061 "/>
+    <path class="fil0 str0" d="M966 5061c4,31 33,82 61,110 34,34 79,55 130,62"/>
+    <polyline class="fil0 str0" points="1157,5233 1163,5233 1197,5238 1198,5239 "/>
+    <path class="fil0 str0" d="M1198 5239c37,11 62,46 80,111"/>
+   </g>
+  </g>
+ </g>
+</svg>

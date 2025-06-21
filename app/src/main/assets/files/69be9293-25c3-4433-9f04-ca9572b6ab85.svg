@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Creator: CorelDRAW 2020 (64-Bit) -->
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="40mm" height="60mm" version="1.1" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
+viewBox="0 0 4000 6000"
+ xmlns:xlink="http://www.w3.org/1999/xlink"
+ xmlns:xodm="http://www.corel.com/coreldraw/odm/2003">
+ <defs>
+  <style type="text/css">
+   <![CDATA[
+    .str0 {stroke:#E72D28;stroke-width:20;stroke-miterlimit:22.9256}
+    .str1 {stroke:#222222;stroke-width:20;stroke-miterlimit:22.9256}
+    .fil0 {fill:none}
+   ]]>
+  </style>
+   <clipPath id="id0">
+    <rect x="-55086.63" y="-11251.57" width="19250.93" height="28814.57"/>
+   </clipPath>
+ </defs>
+ <g id="图层_x0020_1">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <g style="clip-path:url(#id0)">
+   <image transform="matrix(3.09475E-14 1.16851 -1.16851 3.09475E-14 -35835.7 -11251.6)" x="0" y="0" width="24659.16" height="16474.72" xlink:href="Algiz 10X-11i（前膜全屏）_Images\Algiz 10X-11i（前膜全屏）_ImgID1.png"/>
+  </g>
+  <rect class="fil0 str0" x="-54451.03" y="-10675.69" width="17100" height="27500"/>
+  <rect class="fil0 str0" x="-53471.99" y="-9259.07" width="15118.26" height="22967.13" rx="100" ry="113.82"/>
+  <path class="fil0 str1" d="M-20764.72 13708.07l15119.34 0c54.99,0 100,-45.02 100,-100l0 -22767.14c0,-54.99 -45,-100 -100,-100l-14918.26 0c-55,0 -100,45.01 -100,100l0 22767.14c0,54.99 45,100 100,100 55,0 381.64,45.3 402.15,116.08"/>
+  <path class="fil0 str1" d="M443.98 5332.03l3078.47 0c11.2,0 20.37,-9.16 20.37,-20.36l0 -4635.64c0,-11.2 -9.17,-20.36 -20.37,-20.36l-3037.52 0c-11.2,0 -20.36,9.16 -20.36,20.36l0 4635.64c0,11.2 9.16,20.36 20.36,20.36 11.2,0 77.7,9.23 81.88,23.64"/>
+ </g>
+</svg>

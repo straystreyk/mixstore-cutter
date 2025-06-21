@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Creator: CorelDRAW X8 -->
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="40mm" height="60mm" version="1.1" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
+viewBox="0 0 4000 6000"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <style type="text/css">
+   <![CDATA[
+    .str0 {stroke:#332C2B;stroke-width:7.62}
+    .fil0 {fill:none}
+   ]]>
+  </style>
+ </defs>
+ <g id="图层_x0020_1">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <g id="_2366340698576">
+   <circle class="fil0 str0" cx="972" cy="845" r="30"/>
+   <circle class="fil0 str0" cx="972" cy="988" r="45"/>
+   <circle class="fil0 str0" cx="972" cy="1251" r="60"/>
+   <circle class="fil0 str0" cx="972" cy="1468" r="75"/>
+   <circle class="fil0 str0" cx="972" cy="1840" r="90"/>
+   <circle class="fil0 str0" cx="972" cy="2169" r="105"/>
+   <circle class="fil0 str0" cx="972" cy="2465" r="120"/>
+   <circle class="fil0 str0" cx="972" cy="2932" r="135"/>
+   <circle class="fil0 str0" cx="972" cy="3306" r="150"/>
+   <circle class="fil0 str0" cx="972" cy="3840" r="224"/>
+   <circle class="fil0 str0" cx="1585" cy="1099" r="299"/>
+   <circle class="fil0 str0" cx="2677" cy="1099" r="449"/>
+   <rect class="fil0 str0" x="1429" y="1773" width="29.9047" height="29.9047"/>
+   <rect class="fil0 str0" x="1573" y="1758" width="59.8094" height="59.8094"/>
+   <rect class="fil0 str0" x="1754" y="1743" width="89.7141" height="89.7141"/>
+   <rect class="fil0 str0" x="1938" y="1728" width="120" height="120"/>
+   <rect class="fil0 str0" x="2160" y="1713" width="150" height="150"/>
+   <rect class="fil0 str0" x="2406" y="1698" width="179" height="179"/>
+   <rect class="fil0 str0" x="2699" y="1683" width="209" height="209"/>
+   <rect class="fil0 str0" x="2684" y="1981" width="239" height="239"/>
+   <rect class="fil0 str0" x="2670" y="2334" width="269" height="269"/>
+   <rect class="fil0 str0" x="2655" y="2691" width="299" height="299"/>
+   <rect class="fil0 str0" x="2580" y="3209" width="449" height="449"/>
+   <rect class="fil0 str0" x="2505" y="3768" width="598" height="598"/>
+   <rect class="fil0 str0" x="2356" y="4453" width="897" height="897"/>
+  </g>
+  <circle class="fil0 str0" transform="matrix(1.53408E-15 -0.0579237 0.0579237 1.53408E-15 -17585.4 6443.84)" r="1726"/>
+  <circle class="fil0 str0" transform="matrix(2.30112E-15 -0.0868855 0.0868855 2.30112E-15 -17109.1 6443.84)" r="1726"/>
+  <circle class="fil0 str0" transform="matrix(3.06816E-15 -0.115847 0.115847 3.06816E-15 -16229.4 6443.84)" r="1726"/>
+  <circle class="fil0 str0" transform="matrix(3.8352E-15 -0.144809 0.144809 3.8352E-15 -15501.8 6443.84)" r="1726"/>
+  <circle class="fil0 str0" transform="matrix(4.60225E-15 -0.173771 0.173771 4.60225E-15 -14258.2 6443.84)" r="1726"/>
+  <circle class="fil0 str0" transform="matrix(5.36929E-15 -0.202733 0.202733 5.36929E-15 -13160.2 6443.84)" r="1726"/>
+  <circle class="fil0 str0" transform="matrix(6.13633E-15 -0.231695 0.231695 6.13633E-15 -12168 6443.84)" r="1726"/>
+  <circle class="fil0 str0" transform="matrix(6.90337E-15 -0.260657 0.260657 6.90337E-15 -10607 6443.84)" r="1726"/>
+  <circle class="fil0 str0" transform="matrix(7.67041E-15 -0.289618 0.289618 7.67041E-15 -9356.84 6443.84)" r="1726"/>
+  <circle class="fil0 str0" transform="matrix(1.15056E-14 -0.434428 0.434428 1.15056E-14 -7570.9 6443.84)" r="1726"/>
+  <circle class="fil0 str0" transform="matrix(1.53408E-14 -0.579237 0.579237 1.53408E-14 -16738.7 4393.3)" r="1726"/>
+  <circle class="fil0 str0" transform="matrix(2.30112E-14 -0.868855 0.868855 2.30112E-14 -16738.7 742.04)" r="1726"/>
+  <rect class="fil0 str0" transform="matrix(3.17774E-15 -0.119985 0.119985 3.17774E-15 -14483.5 4913.73)" width="833" height="833"/>
+  <rect class="fil0 str0" transform="matrix(6.35548E-15 -0.239969 0.239969 6.35548E-15 -14533.5 4434.56)" width="833" height="833"/>
+  <rect class="fil0 str0" transform="matrix(9.53321E-15 -0.359954 0.359954 9.53321E-15 -14583.5 3826.4)" width="833" height="833"/>
+  <rect class="fil0 str0" transform="matrix(1.2711E-14 -0.479939 0.479939 1.2711E-14 -14633.5 3211.64)" width="833" height="833"/>
+  <rect class="fil0 str0" transform="matrix(1.58887E-14 -0.599923 0.599923 1.58887E-14 -14683.5 2471.2)" width="833" height="833"/>
+  <rect class="fil0 str0" transform="matrix(1.90664E-14 -0.719908 0.719908 1.90664E-14 -14733.5 1648.08)" width="833" height="833"/>
+  <rect class="fil0 str0" transform="matrix(2.22442E-14 -0.839893 0.839893 2.22442E-14 -14783.5 666.19)" width="833" height="833"/>
+  <rect class="fil0 str0" transform="matrix(2.54219E-14 -0.959877 0.959877 2.54219E-14 -13788.4 716.19)" width="833" height="833"/>
+  <rect class="fil0 str0" transform="matrix(2.85996E-14 -1.07986 1.07986 2.85996E-14 -12608.1 766.19)" width="833" height="833"/>
+  <rect class="fil0 str0" transform="matrix(3.17774E-14 -1.19985 1.19985 3.17774E-14 -11414.5 816.19)" width="833" height="833"/>
+  <rect class="fil0 str0" transform="matrix(4.76661E-14 -1.79977 1.79977 4.76661E-14 -9680.14 1066.19)" width="833" height="833"/>
+  <rect class="fil0 str0" transform="matrix(6.35548E-14 -2.39969 2.39969 6.35548E-14 -7813.47 1316.19)" width="833" height="833"/>
+  <rect class="fil0 str0" transform="matrix(9.53322E-14 -3.59954 3.59954 9.53322E-14 -5522.11 1816.19)" width="833" height="833"/>
+ </g>
+</svg>

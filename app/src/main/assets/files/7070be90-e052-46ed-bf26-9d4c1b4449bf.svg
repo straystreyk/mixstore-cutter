@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Creator: CorelDRAW 2020 (64-Bit) -->
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="40mm" height="60mm" version="1.1" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
+viewBox="0 0 4000 6000"
+ xmlns:xlink="http://www.w3.org/1999/xlink"
+ xmlns:xodm="http://www.corel.com/coreldraw/odm/2003">
+ <defs>
+  <style type="text/css">
+   <![CDATA[
+    .str0 {stroke:#332C2B;stroke-width:7.62;stroke-miterlimit:22.9256}
+    .fil0 {fill:none}
+   ]]>
+  </style>
+ </defs>
+ <g id="图层_x0020_1">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <rect class="fil0 str0" transform="matrix(2.21855E-14 -0.837677 0.973466 2.57818E-14 7659.84 6728.26)" width="2037.29" height="3907.02" rx="267.32" ry="267.32"/>
+  <circle class="fil0 str0" transform="matrix(3.32173E-14 -1.25421 1.25421 3.32173E-14 8368.77 5862.85)" r="475.15"/>
+  <circle class="fil0 str0" transform="matrix(3.08384E-14 -1.16439 1.16439 3.08384E-14 9534.51 5862.77)" r="321.91"/>
+  <rect class="fil0 str0" transform="matrix(2.40938E-14 -0.909731 0.944299 2.50093E-14 10495.8 6480.18)" width="818" height="791.55" rx="127.64" ry="127.64"/>
+  <rect class="fil0 str0" transform="matrix(8.70946E-15 -0.328851 0.844015 2.23533E-14 10534.4 5516.55)" width="818" height="791.55" rx="617.94" ry="617.94"/>
+  <path class="fil0 str0" d="M23327.06 7057.95l0 -6443.32c0,-440 -360,-800.01 -800,-800.01l-14557.24 0c-440,0 -799.99,360 -799.99,800.01l0 5698.07c0,440 359.99,800 799.99,800l14557.24 0c440,0 800,-360 800,-800 0,-440 -66.2,-1010.19 308.63,-1010.19"/>
+  <g id="_1649053761968">
+   <rect class="fil0 str0" x="1043.76" y="798.21" width="496.43" height="1106.36" rx="65.14" ry="75.7"/>
+   <circle class="fil0 str0" cx="1295.51" cy="1004.43" r="173.35"/>
+   <circle class="fil0 str0" cx="1295.53" cy="1343.54" r="109.03"/>
+   <rect class="fil0 str0" x="1115.93" y="1623.18" width="216.47" height="217.43" rx="33.78" ry="35.06"/>
+   <rect class="fil0 str0" x="1396.24" y="1634.4" width="78.25" height="194.34" rx="59.11" ry="151.71"/>
+   <rect class="fil0 str0" x="931.93" y="655.67" width="2122.95" height="4700" rx="180.81" ry="515.21"/>
+  </g>
+ </g>
+</svg>

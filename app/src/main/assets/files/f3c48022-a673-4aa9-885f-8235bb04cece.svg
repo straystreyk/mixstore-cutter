@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Creator: CorelDRAW X8 -->
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="40mm" height="60mm" version="1.1" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
+viewBox="0 0 4000 6000"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <style type="text/css">
+   <![CDATA[
+    .str1 {stroke:#332C2B;stroke-width:20}
+    .str0 {stroke:#332C2B;stroke-width:10}
+    .fil0 {fill:none}
+   ]]>
+  </style>
+   <clipPath id="id0">
+    <rect x="-56194" y="-11645" width="20681" height="29291"/>
+   </clipPath>
+ </defs>
+ <g id="图层_x0020_1">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <g style="clip-path:url(#id0)">
+   <image transform="matrix(0.999952 0.00983926 -0.00983926 0.999952 -55907.3 -11645.4)" x="0" y="0" width="20396" height="29091" xlink:href="K9—12Q（防爆膜）_Images\K9—12Q（防爆膜）_ImgID1.png"/>
+  </g>
+  <g id="_1183245737360">
+   <path class="fil0 str0" d="M1663 755l562 0c37,0 67,30 67,67l0 0c0,37 -30,67 -67,67l-562 0c-37,0 -67,-30 -67,-67l0 0c0,-37 30,-67 67,-67 0,0 3,0 3,0 152,0 177,67 174,81"/>
+   <path class="fil0 str0" d="M876 5273l2018 0c126,0 230,-103 230,-230l0 -4163c0,-126 -104,-230 -230,-230l-1755 0c-126,0 -230,104 -230,230l0 4163c0,127 104,230 230,230 0,0 3,0 4,0 164,0 119,77 109,77"/>
+  </g>
+  <path class="fil0 str1" d="M-14789 4337l0 -1708c0,-113 92,-204 204,-204l0 0c112,0 204,91 204,204l0 1708c0,113 -92,204 -204,204l0 0c-112,0 -204,-91 -204,-204 0,0 0,-8 0,-10 -1,-460 202,-538 246,-529"/>
+  <path class="fil0 str1" d="M-1191 6581l0 -5867c0,-368 -308,-669 -685,-669l-12398 0c-377,0 -685,301 -685,669l0 5102c0,368 308,669 685,669l12398 0c377,0 685,-301 685,-669 0,0 0,-8 0,-9 -1,-479 228,-347 228,-318"/>
+ </g>
+</svg>

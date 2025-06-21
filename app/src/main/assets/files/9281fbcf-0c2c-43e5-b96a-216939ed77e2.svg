@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Creator: CorelDRAW -->
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="40mm" height="60mm" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
+viewBox="0 0 40 60"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <style type="text/css">
+   <![CDATA[
+    .str0 {stroke:#1F1A17;stroke-width:0.194}
+    .str1 {stroke:#1F1A17;stroke-width:0.2}
+    .fil1 {fill:none}
+    .fil0 {fill:none;fill-rule:nonzero}
+   ]]>
+  </style>
+ </defs>
+ <g id="图层_x0020_5">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <path class="fil0 str0" d="M30.5036 51.9885c-0.0011,0.4427 -0.5884,1.0186 -1.1451,1.1223"/>
+  <line class="fil0 str0" x1="30.5241" y1="7.3791" x2="30.5036" y2= "51.9885" />
+  <path class="fil0 str0" d="M22.2149 6.1555c3.8985,-0.0011 2.9241,-0.0046 6.8226,0.0227 0.4758,0.0172 0.5863,0.0478 0.8435,0.2334 0.3494,0.2516 0.6204,0.6591 0.6431,0.9675"/>
+  <line class="fil0 str0" x1="15.7826" y1="6.1578" x2="22.2149" y2= "6.1555" />
+  <path class="fil0 str0" d="M15.3205 6.7155c-0.0011,-0.5304 0.0114,-0.5452 0.4621,-0.5577"/>
+  <line class="fil0 str0" x1="15.3216" y1="7.4622" x2="15.3205" y2= "6.7155" />
+  <path class="fil0 str0" d="M13.8692 7.3267c-0.0022,0.5987 0.2505,0.9209 0.7194,0.9209 0.4268,0 0.7194,-0.313 0.733,-0.7854"/>
+  <line class="fil0 str0" x1="13.8703" y1="6.7429" x2="13.8692" y2= "7.3267" />
+  <path class="fil0 str0" d="M9.3834 15.6621c-0.0149,-4.1546 -0.0182,-3.1153 0.0193,-7.27 0.0206,-0.7216 0.0535,-0.9664 0.1742,-1.2953 0.1183,-0.3187 0.461,-0.6716 0.7945,-0.8149 0.2754,-0.1184 0.4814,-0.1344 1.7915,-0.1344 0.2153,0 0.4804,0.0012 0.7957,0.0046 0.609,0.0045 0.9129,0.2014 0.9117,0.5908"/>
+  <line class="fil0 str0" x1="9.5098" y1="52.0181" x2="9.3834" y2= "15.6621" />
+  <path class="fil0 str0" d="M10.7504 53.1381c-0.5452,-0.0456 -1.1223,-0.5669 -1.2406,-1.12"/>
+  <polyline class="fil0 str0" points="10.7504,53.1381 29.031,53.1475 29.2698,53.1256 29.329,53.1165 29.3585,53.1108 "/>
+ </g>
+ <g id="图层_x0020_6">
+  <metadata id="CorelCorpID_1Corel-Layer"/>
+  <rect class="fil1 str1" x="16.0618" y="6.98907" width="5.57856" height="1.12558" rx="0.5543" ry="0.5543"/>
+ </g>
+</svg>

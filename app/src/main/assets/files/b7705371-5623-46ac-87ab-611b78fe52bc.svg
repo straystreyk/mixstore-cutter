@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Creator: CorelDRAW X8 -->
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="40mm" height="60mm" version="1.1" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
+viewBox="0 0 4000 6000"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <style type="text/css">
+   <![CDATA[
+    .str0 {stroke:#332C2B;stroke-width:20}
+    .str1 {stroke:#332C2B;stroke-width:10}
+    .fil0 {fill:none}
+   ]]>
+  </style>
+   <clipPath id="id0">
+    <rect x="-69103" y="21504" width="29091" height="20396"/>
+   </clipPath>
+ </defs>
+ <g id="图层_x0020_1">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <g style="clip-path:url(#id0)">
+   <image transform="matrix(2.64845E-14 1 -1 2.64845E-14 -40011.6 21503.9)" x="0" y="0" width="20396" height="29091" xlink:href="Google Pixel 3A XL_Images\Google Pixel 3A XL_ImgID1.png"/>
+  </g>
+  <path class="fil0 str0" d="M-1782 6838l0 -6432c0,-440 -360,-800 -800,-800l-13961 0c-440,0 -800,360 -800,800l0 5552c0,440 360,800 800,800l13961 0c440,0 800,-359 800,-799 0,0 0,-9 0,-10 -1,-140 241,-348 252,-356"/>
+  <path class="fil0 str0" d="M-17039 3875l0 -1373c0,-64 52,-117 116,-117l0 0c64,0 117,53 117,117l0 1373c0,64 -53,116 -117,116l0 0c-64,0 -116,-52 -116,-116 0,0 0,-9 0,-10 -1,-148 150,-332 158,-343"/>
+  <path class="fil0 str0" d="M-16909 5452c-29,-20 -195,-37 -194,56 0,103 83,187 186,187 103,0 186,-84 186,-187 0,-103 -83,-186 -186,-186 -103,0 -186,83 -186,186"/>
+  <g id="_2562814232960">
+   <path class="fil0 str1" d="M925 5275l1912 0c131,0 238,-107 238,-238l0 -4149c0,-131 -107,-238 -238,-238l-1650 0c-131,0 -238,107 -238,238l0 4149c0,131 107,238 238,238 0,0 2,0 3,0 41,0 103,72 105,75"/>
+   <path class="fil0 str1" d="M1806 740l408 0c19,0 35,16 35,35l0 0c0,19 -16,34 -35,34l-408 0c-19,0 -35,-15 -35,-34l0 0c0,-19 16,-35 35,-35 0,0 3,0 3,0 44,0 99,45 102,47"/>
+   <path class="fil0 str1" d="M1337 779c6,-9 11,-58 -17,-58 -30,0 -55,25 -55,56 0,30 25,55 55,55 31,0 56,-25 56,-55 0,-31 -25,-56 -56,-56"/>
+  </g>
+ </g>
+</svg>

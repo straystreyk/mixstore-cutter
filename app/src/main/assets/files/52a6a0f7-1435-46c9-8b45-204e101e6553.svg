@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Creator: CorelDRAW -->
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="40mm" height="60mm" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
+viewBox="0 0 40 60"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <style type="text/css">
+   <![CDATA[
+    .str0 {stroke:#1F1A17;stroke-width:0.194}
+    .fil0 {fill:none;fill-rule:nonzero}
+   ]]>
+  </style>
+ </defs>
+ <g id="图层_x0020_1">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <g id="_257618160">
+   <line id="_259192584" class="fil0 str0" x1="28.2218" y1="51.9159" x2="12.1297" y2= "51.9179" />
+   <path id="_257623392" class="fil0 str0" d="M12.1297 51.9179c-0.9968,-0.0253 -1.73,-0.5959 -2.0067,-1.5583 -0.0243,-0.0859 -0.0253,-0.1061 -0.0263,-0.5666"/>
+   <line id="_258759192" class="fil0 str0" x1="10.0967" y1="49.793" x2="10.0209" y2= "11.0926" />
+   <path id="_210936048" class="fil0 str0" d="M10.0209 11.0926c0.0273,-1.3017 0.0798,-1.5734 0.401,-2.0673 0.3201,-0.4928 0.8827,-0.8483 1.422,-0.9008 0.2484,-0.0243 1.4926,-0.0425 2.8389,-0.0425 1.0644,0 1.933,0.0112 2.1764,0.0283"/>
+   <line id="_211776304" class="fil0 str0" x1="16.8592" y1="8.1103" x2="16.8955" y2= "8.1133" />
+   <path id="_47626064" class="fil0 str0" d="M16.8955 8.1133c0.1373,0.0102 0.1373,0.0102 0.3191,0.1768"/>
+   <polyline id="_257621664" class="fil0 str0" points="17.2146,8.2901 17.2621,8.3345 17.3378,8.383 "/>
+   <path id="_210939000" class="fil0 str0" d="M17.3378 8.383c0.1132,0.0384 1.2857,0.0687 2.6966,0.0687 1.4098,0 2.5874,-0.0303 2.7095,-0.0687 0.0435,-0.0142 0.0404,-0.0111 0.1909,-0.1495"/>
+   <line id="_258760656" class="fil0 str0" x1="22.9348" y1="8.2335" x2="22.95" y2= "8.2194" />
+   <path id="_258757176" class="fil0 str0" d="M22.95 8.2194c0.0656,-0.0606 0.0838,-0.0727 0.1181,-0.0848 0.1212,-0.0404 0.3454,-0.0445 2.3653,-0.0465 3.0611,-0.003 3.1287,0.004 3.6579,0.3595 0.4454,0.3 0.8443,0.907 0.8878,1.3533"/>
+   <line id="_258757800" class="fil0 str0" x1="29.9791" y1="9.8009" x2="29.9558" y2= "50.3394" />
+   <path id="_257622240" class="fil0 str0" d="M29.9558 50.3394c-0.0424,0.2737 -0.303,0.7382 -0.5524,0.9887 -0.3191,0.3201 -0.7201,0.513 -1.1816,0.5696"/>
+  </g>
+ </g>
+</svg>

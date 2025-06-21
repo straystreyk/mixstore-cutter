@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Creator: CorelDRAW -->
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="40mm" height="60mm" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
+viewBox="0 0 40 60"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <style type="text/css">
+   <![CDATA[
+    .str0 {stroke:#1F1A17;stroke-width:0.194}
+    .str1 {stroke:#1F1A17;stroke-width:0.2}
+    .fil0 {fill:none}
+   ]]>
+  </style>
+ </defs>
+ <g id="图层_x0020_1">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <path class="fil0 str0" d="M25.192 9.2212l-3.1486 0c-0.2697,0 -0.4902,0.2205 -0.4902,0.4902l0 0c0,0.2696 0.2205,0.4902 0.4902,0.4902l3.1486 0c0.2697,0 0.4902,-0.2206 0.4902,-0.4902l0 0c0,-0.2697 -0.2205,-0.4902 -0.4902,-0.4902z"/>
+  <path class="fil0 str0" d="M12.6762 54.4111c-1.104,-0.031 -1.8956,-0.6438 -2.1996,-1.7037 -0.0287,-0.0977 -0.0299,-0.1228 -0.0334,-0.6366 -0.0453,-7.0508 -0.0656,-14.1028 -0.0632,-21.1547"/>
+  <line class="fil0 str0" x1="10.38" y1="30.9161" x2="10.3907" y2= "9.7685" />
+  <path class="fil0 str0" d="M10.3907 9.7685c0.0346,-0.7499 0.2802,-1.3102 0.7714,-1.7573 0.267,-0.2444 0.5865,-0.4209 0.9573,-0.5294"/>
+  <line class="fil0 str0" x1="12.1194" y1="7.4818" x2="12.1635" y2= "7.4652" />
+  <path class="fil0 str0" d="M12.1635 7.4652c0.074,-0.0334 0.074,-0.0334 2.7589,-0.0382"/>
+  <line class="fil0 str0" x1="14.9224" y1="7.427" x2="16.2731" y2= "7.4246" />
+  <path class="fil0 str0" d="M16.2731 7.4246c8.1023,-0.0119 6.0768,-0.0131 14.179,0.0095 0.9729,0.0024 1.1684,0.0251 1.4951,0.1741 0.6533,0.298 1.0408,0.7439 1.29,1.4867 0.0441,0.13 0.0488,0.1955 0.0477,0.6772"/>
+  <line class="fil0 str0" x1="33.2849" y1="9.7721" x2="33.2515" y2= "52.6883" />
+  <path class="fil0 str0" d="M12.6762 54.4111l18.3767 0.0051c0.9455,-0.1434 1.1947,-0.2483 1.5941,-0.6477 0.2587,-0.2611 0.5604,-0.7988 0.6045,-1.0802"/>
+  <ellipse class="fil0 str1" cx="27.6357" cy="9.669" rx="0.6825" ry="0.6748"/>
+ </g>
+</svg>

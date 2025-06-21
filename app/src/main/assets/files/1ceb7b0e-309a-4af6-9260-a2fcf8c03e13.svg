@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Creator: CorelDRAW 2020 (64-Bit) -->
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="40mm" height="60mm" version="1.1" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
+viewBox="0 0 4000 6000"
+ xmlns:xlink="http://www.w3.org/1999/xlink"
+ xmlns:xodm="http://www.corel.com/coreldraw/odm/2003">
+ <defs>
+  <style type="text/css">
+   <![CDATA[
+    .str0 {stroke:#E72D28;stroke-width:20;stroke-miterlimit:22.9256}
+    .str1 {stroke:#222222;stroke-width:20;stroke-miterlimit:22.9256}
+    .fil0 {fill:none}
+   ]]>
+  </style>
+   <clipPath id="id0">
+    <rect x="-52719.88" y="-11773.88" width="21065.06" height="29623.53"/>
+   </clipPath>
+   <clipPath id="id1">
+    <rect x="-75639.36" y="-11556.32" width="20320" height="29108.41"/>
+   </clipPath>
+ </defs>
+ <g id="图层_x0020_1">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <g style="clip-path:url(#id0)">
+   <image transform="matrix(575.772 14.8765 -21.3106 824.793 -51968 -11773.9)" x="0" y="0" width="35.28" height="35.28" xlink:href="T Phone Pro-11i（前膜带壳）_Images\T Phone Pro-11i（前膜带壳）_ImgID1.png"/>
+  </g>
+  <g style="clip-path:url(#id1)">
+   <image x="-75639.36" y="-11556.33" width="20320" height="29108.4" xlink:href="T Phone Pro-11i（前膜带壳）_Images\T Phone Pro-11i（前膜带壳）_ImgID2.png"/>
+  </g>
+  <rect class="fil0 str0" x="-50272.49" y="-10323.38" width="7135.87" height="16570.84" rx="700" ry="753.05"/>
+  <path class="fil0 str1" d="M-2913.66 5972.21l0 -6007.41c0,-379.6 -313.11,-690.2 -695.77,-690.2l-15079.26 0c-382.67,0 -695.77,310.59 -695.77,690.2l0 5655.51c0,379.61 313.1,690.2 695.77,690.2l15079.26 0c382.67,0 695.77,-310.59 695.77,-690.2 0,-379.61 72.56,-765.53 178.39,-874.01"/>
+  <path class="fil0 str1" d="M1067.06 5289.4l1728.66 0c107.78,0 195.96,-88.18 195.96,-195.96l0 -4246.95c0,-107.78 -88.18,-195.96 -195.96,-195.96l-1605.71 0c-107.77,0 -195.96,88.18 -195.96,195.96l0 4246.95c0,107.78 88.19,195.96 195.96,195.96 107.78,0 188.89,16.69 242.21,61.13"/>
+ </g>
+</svg>

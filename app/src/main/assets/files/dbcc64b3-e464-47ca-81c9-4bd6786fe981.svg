@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Creator: CorelDRAW X8 -->
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="40mm" height="60mm" version="1.1" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
+viewBox="0 0 4000 6000"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <style type="text/css">
+   <![CDATA[
+    .str0 {stroke:#332C2B;stroke-width:19.4}
+    .fil0 {fill:none}
+   ]]>
+  </style>
+ </defs>
+ <g id="图层_x0020_1">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <line class="fil0 str0" x1="2018" y1="743" x2="2679" y2= "743" />
+  <path class="fil0 str0" d="M2679 743c44,5 79,44 79,90 0,41 -29,79 -67,88"/>
+  <line class="fil0 str0" x1="2691" y1="921" x2="1520" y2= "924" />
+  <path class="fil0 str0" d="M1520 924c-194,0 -194,0 -202,-3"/>
+  <line class="fil0 str0" x1="1318" y1="921" x2="1313" y2= "919" />
+  <path class="fil0 str0" d="M1313 919c-31,-10 -58,-50 -58,-86 0,-46 36,-86 80,-90"/>
+  <line class="fil0 str0" x1="1335" y1="743" x2="2042" y2= "743" />
+  <path class="fil0 str0" d="M2834 5350c-529,0 -1058,-1 -1587,-3 -197,0 -355,-123 -398,-310"/>
+  <line class="fil0 str0" x1="849" y1="5037" x2="848" y2= "5034" />
+  <path class="fil0 str0" d="M848 5034c-7,-31 -7,-31 -7,-91"/>
+  <line class="fil0 str0" x1="841" y1="4943" x2="831" y2= "1989" />
+  <path class="fil0 str0" d="M831 1989c-2,-602 -1,-799 4,-908 6,-110 18,-158 54,-223 64,-118 197,-202 324,-207"/>
+  <line class="fil0 str0" x1="1213" y1="651" x2="1920" y2= "650" />
+  <path class="fil0 str0" d="M1920 650c504,0 378,0 882,1 142,12 275,110 331,241 16,39 29,92 31,121"/>
+  <line class="fil0 str0" x1="3164" y1="1013" x2="3157" y2= "4179" />
+  <path class="fil0 str0" d="M3157 4179c-1,609 0,727 5,813 0,1 0,2 0,3 0,34 -21,103 -46,147 -65,116 -186,196 -314,206"/>
+  <line class="fil0 str0" x1="2802" y1="5348" x2="2752" y2= "5350" />
+ </g>
+</svg>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Creator: CorelDRAW X8 -->
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="40mm" height="60mm" version="1.1" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
+viewBox="0 0 4000 6000"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <style type="text/css">
+   <![CDATA[
+    .str0 {stroke:#222222;stroke-width:20}
+    .fil0 {fill:none}
+   ]]>
+  </style>
+ </defs>
+ <g id="图层_x0020_1">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <g id="_3060378763280">
+   <path class="fil0 str0" d="M911 5184l1897 0c155,0 281,-127 281,-281l0 -3973c0,-154 -126,-280 -281,-280l-1596 0c-154,0 -280,126 -280,280l0 3973c0,154 126,281 280,281 154,0 288,92 288,166"/>
+   <path class="fil0 str0" d="M1892 1936c0,-68 31,-249 143,-249 112,0 202,91 202,202 0,112 -90,202 -202,202 -112,0 -202,-90 -202,-202 0,-111 90,-202 202,-202"/>
+   <path class="fil0 str0" d="M1396 1005c0,-131 -95,-220 -180,-220 -85,0 -155,70 -155,155l0 0c0,85 70,154 155,154l298 0c85,0 154,-69 154,-154l0 0c0,-85 -69,-155 -154,-155l-298 0"/>
+   <path class="fil0 str0" d="M1783 951c0,-30 4,-91 46,-91 41,0 75,34 75,75 0,42 -34,75 -75,75 -42,0 -75,-33 -75,-75 0,-41 33,-75 75,-75"/>
+  </g>
+  <path class="fil0 str0" d="M-869 6491l0 -6089c0,-495 -405,-900 -900,-900l-12752 0c-495,0 -900,405 -900,900l0 5123c0,495 405,900 900,900l12752 0c495,0 900,-405 900,-900 0,-495 295,-925 534,-925"/>
+  <path class="fil0 str0" d="M-11294 3344c-216,0 -797,-102 -797,-460 0,-358 290,-648 648,-648 358,0 648,290 648,648 0,358 -290,648 -648,648 -358,0 -648,-290 -648,-648"/>
+  <path class="fil0 str0" d="M-14282 4936c-419,0 -706,306 -706,578 0,273 224,497 496,497l0 0c273,0 497,-224 497,-497l0 -956c0,-273 -224,-497 -497,-497l0 0c-272,0 -496,224 -496,497l0 956"/>
+  <path class="fil0 str0" d="M-14455 3694c-95,0 -291,-15 -291,-148 0,-133 107,-240 240,-240 133,0 241,107 241,240 0,133 -108,241 -241,241 -133,0 -240,-108 -240,-241"/>
+ </g>
+</svg>

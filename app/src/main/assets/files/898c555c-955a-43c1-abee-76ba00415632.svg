@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Creator: CorelDRAW X8 -->
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="40mm" height="60mm" version="1.1" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
+viewBox="0 0 4000 6000"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <style type="text/css">
+   <![CDATA[
+    .str1 {stroke:#332C2B;stroke-width:20}
+    .str0 {stroke:#332C2B;stroke-width:10}
+    .fil0 {fill:none}
+   ]]>
+  </style>
+   <clipPath id="id0">
+    <rect x="-71047" y="-6512" width="29313" height="20713"/>
+   </clipPath>
+ </defs>
+ <g id="图层_x0020_1">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <g style="clip-path:url(#id0)">
+   <image transform="matrix(-0.0109438 0.99994 -0.99994 -0.0109438 -41734.4 -6193.3)" x="0" y="0" width="20396" height="29091" xlink:href="UMIDIGI A5Pro—11i（前膜带壳）_Images\UMIDIGI A5Pro—11i（前膜带壳）_ImgID1.png"/>
+  </g>
+  <path class="fil0 str0" d="M908 5275l1939 0c135,0 245,-111 245,-246l0 -4134c0,-135 -110,-245 -245,-245l-454 0 -35 55 -251 0c0,0 -35,-2 -35,40l0 41c0,33 -27,60 -60,60l0 0c-33,0 -60,-27 -60,-60l0 -41c0,-42 -36,-40 -36,-40l-255 0 -32 -55 -451 0c-135,0 -245,110 -245,245l0 4134c0,135 110,246 245,246 0,0 2,0 3,0 82,-1 135,63 132,75"/>
+  <path class="fil0 str1" d="M-473 6658l0 -6322c0,-440 -360,-800 -800,-800l-13481 0c-440,0 -800,360 -800,800l0 1481 180 113 0 817c0,0 -8,117 128,117l137 0c107,0 194,87 194,194l0 0c0,107 -87,195 -194,195l-137 0c-136,0 -128,117 -128,117l0 834 -180 103 0 1471c0,440 360,800 800,800l13481 0c440,0 800,-360 800,-800 0,0 0,-8 0,-10 -1,-268 206,-440 246,-431"/>
+ </g>
+</svg>

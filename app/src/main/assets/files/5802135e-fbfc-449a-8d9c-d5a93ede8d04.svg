@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Creator: CorelDRAW -->
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="40mm" height="60mm" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
+viewBox="0 0 40 60"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <style type="text/css">
+   <![CDATA[
+    .str0 {stroke:#1F1A17;stroke-width:0.194}
+    .str1 {stroke:#1F1A17;stroke-width:0.2}
+    .fil1 {fill:none}
+    .fil0 {fill:none;fill-rule:nonzero}
+   ]]>
+  </style>
+ </defs>
+ <g id="图层_x0020_1">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <g id="_273411736">
+   <line id="_274506480" class="fil0 str0" x1="21.8422" y1="19.3215" x2="21.8134" y2= "19.2197" />
+   <path id="_274506456" class="fil0 str0" d="M21.8134 19.2197c-0.0329,0.0267 -0.039,0.0339 -0.0658,0.0658 0.0011,0.0432 0.0062,0.0638 0.0216,0.0946"/>
+   <line id="_274506168" class="fil0 str0" x1="21.7692" y1="19.3801" x2="21.835" y2= "19.4172" />
+   <path id="_274506096" class="fil0 str0" d="M21.835 19.4172c-0.1347,0.8721 -0.9019,1.521 -1.7987,1.52 -1.0192,-0.001 -1.8286,-0.8114 -1.8286,-1.8296 0,-1.0202 0.8125,-1.8337 1.8317,-1.8337 1.0078,0 1.8234,0.8135 1.8244,1.8193"/>
+   <line id="_274506072" class="fil0 str0" x1="21.8638" y1="19.0932" x2="21.8638" y2= "19.1241" />
+   <path id="_273982040" class="fil0 str0" d="M21.8638 19.1241c0,0.0586 0,0.0586 -0.0288,0.2869"/>
+   <line id="_273981824" class="fil0 str0" x1="21.835" y1="19.411" x2="21.8206" y2= "19.5262" />
+   <path id="_273981128" class="fil0 str0" d="M14.9547 11.0425c-0.0411,0.5945 -0.4391,0.9914 -0.9914,0.9925 -0.5543,0 -0.9966,-0.4412 -0.9966,-0.9945 0,-0.5523 0.4433,-0.9935 0.9966,-0.9925 0.5482,0 0.9863,0.4361 0.9863,0.9822 0,0.072 -0.0041,0.1224 -0.0237,0.3034"/>
+   <rect id="_227109312" class="fil1 str1" x="10.1418" y="9.1423" width="19.7163" height="41.7155"/>
+   <circle id="_226647672" class="fil1 str1" cx="11.5643" cy="10.987" r="0.7191"/>
+  </g>
+ </g>
+</svg>

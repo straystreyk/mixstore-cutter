@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Creator: CorelDRAW X8 -->
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="40mm" height="60mm" version="1.1" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
+viewBox="0 0 4000 6000"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <style type="text/css">
+   <![CDATA[
+    .str0 {stroke:#332C2B;stroke-width:10;stroke-linecap:round;stroke-linejoin:round}
+    .fil0 {fill:none;fill-rule:nonzero}
+   ]]>
+  </style>
+ </defs>
+ <g id="图层_x0020_1">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <g id="_2931074401488">
+   <g>
+    <line class="fil0 str0" x1="3079" y1="650" x2="3079" y2= "682" />
+    <line class="fil0 str0" x1="2007" y1="650" x2="2007" y2= "661" />
+    <path class="fil0 str0" d="M2007 661c-7,-1 -10,-4 -11,-11"/>
+    <line class="fil0 str0" x1="1996" y1="650" x2="1161" y2= "650" />
+    <path class="fil0 str0" d="M1161 650c-112,4 -194,68 -225,175 -2,9 -2,12 -2,63"/>
+    <line class="fil0 str0" x1="934" y1="888" x2="922" y2= "3985" />
+    <path class="fil0 str0" d="M922 3985c-3,754 0,1118 9,1172 8,45 44,106 81,138 45,39 85,52 157,52"/>
+    <line class="fil0 str0" x1="1169" y1="5347" x2="2002" y2= "5349" />
+    <path class="fil0 str0" d="M2002 5349c478,1 359,2 837,-1 59,-2 72,-4 103,-18 67,-29 111,-81 133,-156 4,-12 5,-37 4,-181"/>
+    <line class="fil0 str0" x1="3079" y1="4993" x2="3075" y2= "838" />
+    <path class="fil0 str0" d="M3075 838c0,-39 -36,-102 -78,-137 -43,-36 -84,-50 -153,-51"/>
+    <line class="fil0 str0" x1="2844" y1="650" x2="1964" y2= "650" />
+    <polyline class="fil0 str0" points="2007,1898 1996,1898 1998,1891 2003,1887 "/>
+    <path class="fil0 str0" d="M2003 1887c5,0 7,0 12,3"/>
+    <line class="fil0 str0" x1="2015" y1="1890" x2="2018" y2= "1896" />
+    <path class="fil0 str0" d="M2018 1896c33,-2 62,-35 62,-73 0,-42 -33,-75 -75,-75 -42,0 -76,33 -76,75 0,43 35,77 77,75 5,0 19,-2 27,-4"/>
+    <path class="fil0 str0" d="M2007 1680c35,-5 46,-8 65,-21 33,-22 52,-58 52,-98 0,-65 -52,-117 -117,-117 -66,0 -118,52 -118,118 0,65 51,117 115,117 9,0 12,-1 38,-3"/>
+    <path class="fil0 str0" d="M2007 1369c56,-7 86,-20 115,-49 30,-30 47,-72 47,-115 0,-91 -73,-165 -164,-165 -91,0 -163,73 -163,164 0,92 71,163 164,163 12,0 19,-1 45,-4"/>
+   </g>
+  </g>
+ </g>
+</svg>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Creator: CorelDRAW X8 -->
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="40mm" height="60mm" version="1.1" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
+viewBox="0 0 4000 6000"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <style type="text/css">
+   <![CDATA[
+    .str1 {stroke:#332C2B;stroke-width:20}
+    .str0 {stroke:#332C2B;stroke-width:10}
+    .fil0 {fill:none}
+   ]]>
+  </style>
+   <clipPath id="id0">
+    <rect x="-76441" y="-8563" width="29459" height="20924"/>
+   </clipPath>
+ </defs>
+ <g id="图层_x0020_1">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <g style="clip-path:url(#id0)">
+   <image transform="matrix(0.0182639 0.999833 -0.999833 0.0182639 -47354.6 -8562.72)" x="0" y="0" width="20396" height="29091" xlink:href="Lenovo K5 Play—11i（前膜全屏）_Images\Lenovo K5 Play—11i（前膜全屏）_ImgID1.png"/>
+  </g>
+  <g id="_2073672442864">
+   <path class="fil0 str0" d="M1342 5350c-19,-57 -70,-95 -129,-95 -1,0 -3,0 -3,0 -136,0 -246,-111 -246,-246l0 -4113c0,-135 110,-246 246,-246l1605 0c135,0 246,111 246,246l0 4113c0,135 -111,246 -246,246l-1876 0"/>
+   <path class="fil0 str0" d="M1865 731l280 0c26,0 48,21 48,48l0 0c0,26 -22,48 -48,48l-280 0c-26,0 -48,-22 -48,-48l0 0c0,-27 22,-48 48,-48 0,0 2,0 3,0 65,-1 133,30 139,53"/>
+  </g>
+  <path class="fil0 str1" d="M-160 5211c-186,64 -310,228 -310,421 0,4 0,10 0,10 0,440 -360,800 -800,800l-13372 0c-440,0 -800,-360 -800,-800l0 -5219c0,-440 360,-800 800,-800l13372 0c440,0 800,360 800,800l0 6099"/>
+  <path class="fil0 str1" d="M-15180 3510l0 -908c0,-86 70,-156 156,-156l0 0c87,0 157,70 157,156l0 908c0,86 -70,157 -157,157l0 0c-86,0 -156,-71 -156,-157 0,0 0,-7 0,-10 -1,-208 100,-430 173,-451"/>
+ </g>
+</svg>

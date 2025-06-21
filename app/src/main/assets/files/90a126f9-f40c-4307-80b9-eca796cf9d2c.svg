@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Creator: CorelDRAW 2020 (64-Bit) -->
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="40mm" height="60mm" version="1.1" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
+viewBox="0 0 4000 6000"
+ xmlns:xlink="http://www.w3.org/1999/xlink"
+ xmlns:xodm="http://www.corel.com/coreldraw/odm/2003">
+ <defs>
+  <style type="text/css">
+   <![CDATA[
+    .str0 {stroke:#E72D28;stroke-width:20;stroke-miterlimit:22.9256}
+    .str1 {stroke:#222222;stroke-width:7.62;stroke-miterlimit:22.9256}
+    .fil0 {fill:none}
+   ]]>
+  </style>
+   <clipPath id="id0">
+    <rect x="-28981" y="-3192.88" width="8693.56" height="16880.46"/>
+   </clipPath>
+ </defs>
+ <g id="图层_x0020_1">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <g style="clip-path:url(#id0)">
+   <image x="-28981" y="-3192.88" width="8693.56" height="16880.46" xlink:href="G21 -11i（前膜带壳）_Images\G21 -11i（前膜带壳）_ImgID1.png"/>
+  </g>
+  <rect class="fil0 str0" x="-28573.26" y="-3006.43" width="7590" height="16460"/>
+  <path class="fil0 str1" d="M-1944.35 6604.77l0 -6165.06c0,-405.62 -334.47,-737.52 -743.25,-737.52l-14431.4 0c-408.79,0 -743.25,331.89 -743.25,737.52l0 1824.44c0,38.63 44.7,41.64 44.7,85.93l0 460.77c0,110.67 82.18,130.99 202.79,130.99 120.62,0 294.48,130.83 294.48,292.21 0,161.39 -173.86,292.21 -294.48,292.21 -120.61,0 -202.79,-7.08 -202.79,130.98l0 511.36c0,44.3 -44.7,54.8 -44.7,100.27l0 1788.21c0,405.63 334.46,737.51 743.25,737.51l14431.4 0c408.79,0 743.25,-331.88 743.25,-737.51 0,-405.63 46.1,-702.61 138.71,-874.59"/>
+  <path class="fil0 str1" d="M1012.86 5313.26l1808.75 0c119.61,0 217.47,-97.87 217.47,-217.48l0 -4222.63c0,-119.62 -97.86,-217.48 -217.47,-217.48l-537.98 0c-11.39,0 -12.28,13.08 -25.34,13.08l-135.87 0c-32.63,0 -38.63,24.05 -38.63,59.34 0,35.29 -38.57,86.16 -86.16,86.16 -47.59,0 -86.17,-50.87 -86.17,-86.16 0,-35.29 2.09,-59.34 -38.62,-59.34l-150.79 0c-13.06,0 -16.16,-13.08 -29.56,-13.08l-527.3 0c-119.61,0 -217.47,97.86 -217.47,217.48l0 4222.63c0,119.62 97.86,217.48 217.47,217.48 119.61,0 189.84,13.18 242.16,42.41"/>
+ </g>
+</svg>

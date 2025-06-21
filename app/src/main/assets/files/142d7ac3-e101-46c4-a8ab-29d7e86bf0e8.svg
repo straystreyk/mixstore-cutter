@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Creator: CorelDRAW 2020 (64-Bit) -->
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="40mm" height="60mm" version="1.1" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
+viewBox="0 0 4000 6000"
+ xmlns:xlink="http://www.w3.org/1999/xlink"
+ xmlns:xodm="http://www.corel.com/coreldraw/odm/2003">
+ <defs>
+  <style type="text/css">
+   <![CDATA[
+    .str0 {stroke:#332C2B;stroke-width:20;stroke-miterlimit:22.9256}
+    .str1 {stroke:#332C2B;stroke-width:7.62;stroke-miterlimit:22.9256}
+    .fil0 {fill:none}
+   ]]>
+  </style>
+   <clipPath id="id0">
+    <rect x="-135807.01" y="-41107.44" width="41623.5" height="25399.63"/>
+   </clipPath>
+ </defs>
+ <g id="图层_x0020_1">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <g style="clip-path:url(#id0)">
+   <image x="-135807.01" y="-41107.44" width="41623.5" height="25399.63" xlink:href="MacBook Pro 16—(前膜全屏)_Images\MacBook Pro 16—(前膜全屏)_ImgID1.png"/>
+  </g>
+  <rect class="fil0 str0" x="-132564.12" y="-41026.57" width="35057" height="24081"/>
+  <path class="fil0 str0" d="M-131454.86 -40802.93l32761.11 0c495,0 899.99,405 899.99,900.01l0 21892.68 -34561.11 0 0 -21892.68c0,-495.01 405.01,-900.01 900.01,-900.01z"/>
+  <circle class="fil0 str0" cx="-115020.65" cy="-40338.05" r="163.16"/>
+  <path class="fil0 str1" d="M54370.96 -23026.97l0 32761.11c0,495 -405,899.99 -900.01,899.99l-21892.68 0 0 -34561.11 21892.68 0c495.01,0 900.01,405.01 900.01,900.01z"/>
+  <circle class="fil0 str1" transform="matrix(-7.94536E-14 1 -1 -7.94536E-14 53906.1 -6592.76)" r="163.16"/>
+  <g id="_1330659423168">
+   <path class="fil0 str1" d="M3843.4 346.56l0 5318.22c0,80.35 -65.74,146.09 -146.09,146.09l-3553.91 0 0 -5610.4 3553.91 0c80.35,0 146.09,65.74 146.09,146.09z"/>
+   <circle class="fil0 str1" transform="matrix(-1.28979E-14 0.162333 -0.162333 -1.28979E-14 3767.94 3014.38)" r="163.16"/>
+  </g>
+ </g>
+</svg>

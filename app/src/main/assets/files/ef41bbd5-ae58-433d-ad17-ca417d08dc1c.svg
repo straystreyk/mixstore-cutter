@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Creator: CorelDRAW 2020 (64-Bit) -->
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="40mm" height="60mm" version="1.1" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
+viewBox="0 0 4000 6000"
+ xmlns:xlink="http://www.w3.org/1999/xlink"
+ xmlns:xodm="http://www.corel.com/coreldraw/odm/2003">
+ <defs>
+  <style type="text/css">
+   <![CDATA[
+    .str0 {stroke:#332C2B;stroke-width:20;stroke-miterlimit:22.9256}
+    .fil0 {fill:none}
+   ]]>
+  </style>
+   <clipPath id="id0">
+    <rect x="-31844.32" y="-16201.97" width="10760.43" height="14415.41"/>
+   </clipPath>
+ </defs>
+ <g id="图层_x0020_1">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <g style="clip-path:url(#id0)">
+   <image x="-31844.32" y="-16201.97" width="10760.44" height="14415.41" xlink:href="A6010—(背膜)_Images\A6010—(背膜)_ImgID1.png"/>
+  </g>
+  <rect class="fil0 str0" x="-28102.96" y="-16050.96" width="7000" height="14100"/>
+  <rect class="fil0 str0" x="-27997.21" y="-15928.53" width="6740.35" height="13842.15" rx="399.36" ry="45.56"/>
+  <circle class="fil0 str0" cx="-25797.24" cy="-15497.6" r="131.2"/>
+  <rect class="fil0 str0" x="-25438.93" y="-15573.52" width="1611.23" height="155.45" rx="130.16" ry="90"/>
+  <rect class="fil0 str0" x="-31846.45" y="-16030.96" width="7000" height="14100"/>
+  <rect class="fil0 str0" x="-31716.59" y="-15928.53" width="6742.06" height="13863.12" rx="459.66" ry="52.51"/>
+  <circle class="fil0 str0" cx="-30576.59" cy="-15326.02" r="446.41"/>
+  <circle class="fil0 str0" cx="-30568.76" cy="-14329.42" r="221.52"/>
+  <path class="fil0 str0" d="M20016.78 7006.49l0 -6457.74c0,-252.28 -206.96,-459.66 -459.99,-459.66l-12943.14 0c-253.03,0 -459.99,207.37 -459.99,459.66l0 5822.73c0,252.29 206.96,459.67 459.99,459.67l12943.14 0c253.03,0 459.99,-207.38 459.99,-459.67 0,-252.29 -120.92,-1332.72 646.37,-1332.72"/>
+  <circle class="fil0 str0" transform="matrix(3.01245E-14 -1.13744 1.13744 3.01245E-14 6756.17 5691.62)" r="392.47"/>
+  <circle class="fil0 str0" transform="matrix(1.49485E-14 -0.564425 0.564425 1.49485E-14 7752.77 5683.79)" r="392.47"/>
+  <g id="_1568430818624">
+   <rect class="fil0 str0" x="850.35" y="655.67" width="2285.75" height="4700" rx="155.84" ry="17.8"/>
+   <circle class="fil0 str0" cx="1236.85" cy="859.94" r="151.35"/>
+   <circle class="fil0 str0" cx="1239.5" cy="1197.81" r="75.1"/>
+  </g>
+ </g>
+</svg>

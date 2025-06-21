@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Creator: CorelDRAW X8 -->
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="40mm" height="60mm" version="1.1" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
+viewBox="0 0 4000 6000"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <style type="text/css">
+   <![CDATA[
+    .str0 {stroke:black;stroke-width:7.62}
+    .fil0 {fill:none}
+   ]]>
+  </style>
+   <clipPath id="id0">
+    <rect x="-34774" y="-2759" width="16525" height="12394"/>
+   </clipPath>
+ </defs>
+ <g id="图层_x0020_1">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <g style="clip-path:url(#id0)">
+   <image x="-34774" y="-2759" width="16525" height="12394" xlink:href="s12—12Q（前膜全屏)_Images\s12—12Q（前膜全屏)_ImgID1.png"/>
+  </g>
+  <g id="_2100856462688">
+   <path class="fil0 str0" d="M910 650l0 4380c0,176 144,320 321,320l1699 0c176,0 321,-144 321,-320l0 -3994c0,-177 -145,-321 -321,-321l-1699 0c-177,0 -321,144 -321,321 0,176 -120,176 -161,176"/>
+   <path class="fil0 str0" d="M1879 891c20,-20 6,-55 -15,-55 -21,0 -38,18 -38,38l0 0c0,21 17,38 38,38l435 0c21,0 38,-17 38,-38l0 0c0,-20 -17,-38 -38,-38l-435 0"/>
+  </g>
+ </g>
+</svg>

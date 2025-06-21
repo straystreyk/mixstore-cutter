@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Creator: CorelDRAW 2020 (64-Bit) -->
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="40mm" height="60mm" version="1.1" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
+viewBox="0 0 4000 6000"
+ xmlns:xlink="http://www.w3.org/1999/xlink"
+ xmlns:xodm="http://www.corel.com/coreldraw/odm/2003">
+ <defs>
+  <style type="text/css">
+   <![CDATA[
+    .str0 {stroke:#E72D28;stroke-width:20;stroke-miterlimit:22.9256}
+    .str1 {stroke:#222222;stroke-width:20;stroke-miterlimit:22.9256}
+    .fil0 {fill:none}
+   ]]>
+  </style>
+   <clipPath id="id0">
+    <rect x="-74618.4" y="-9371.52" width="32249.41" height="19974.39"/>
+   </clipPath>
+ </defs>
+ <g id="图层_x0020_1">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <g style="clip-path:url(#id0)">
+   <image x="-74618.4" y="-9371.52" width="32249.41" height="19974.39" xlink:href="Zenbook 13 OLED (UX325) -11i（背膜）_Images\Zenbook 13 OLED (UX325) -11i（背膜）_ImgID1.png"/>
+  </g>
+  <rect class="fil0 str0" x="-73792.69" y="-38268.58" width="30420" height="20299.99"/>
+  <rect class="fil0 str0" x="-73562.42" y="-8651.26" width="29999.99" height="19000" rx="395.48" ry="400"/>
+  <path class="fil0 str1" d="M-26709.29 17048.18l18663.01 0c219.99,0 400,-180.01 400,-400l0 -29199.99c0,-220 -180,-400 -400,-400l-18199.99 0c-220,0 -400.01,180 -400.01,400l0 29199.99c0,220 180.01,400 400.01,400 220,0 759.06,51.18 922.22,227.57"/>
+  <path class="fil0 str1" d="M511.37 5320.29l2901.86 0c34.2,0 62.19,-27.99 62.19,-62.2l0 -4540.23c0,-34.2 -27.98,-62.19 -62.19,-62.19l-2829.86 0c-34.21,0 -62.2,27.99 -62.2,62.19l0 4540.23c0,34.21 27.99,62.2 62.2,62.2 34.2,0 118.02,7.95 143.39,35.38"/>
+ </g>
+</svg>

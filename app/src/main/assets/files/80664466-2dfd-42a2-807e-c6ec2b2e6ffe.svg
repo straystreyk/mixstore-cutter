@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Creator: CorelDRAW 2020 (64-Bit) -->
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="40mm" height="60mm" version="1.1" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
+viewBox="0 0 4000 6000"
+ xmlns:xlink="http://www.w3.org/1999/xlink"
+ xmlns:xodm="http://www.corel.com/coreldraw/odm/2003">
+ <defs>
+  <style type="text/css">
+   <![CDATA[
+    .str1 {stroke:#332C2B;stroke-width:20;stroke-miterlimit:22.9256}
+    .str0 {stroke:#E72D28;stroke-width:20;stroke-miterlimit:22.9256}
+    .str2 {stroke:#222222;stroke-width:7.62;stroke-miterlimit:22.9256}
+    .fil0 {fill:none}
+   ]]>
+  </style>
+   <clipPath id="id0">
+    <rect x="-28015.87" y="-5554.06" width="8219.25" height="16219"/>
+   </clipPath>
+   <clipPath id="id1">
+    <rect x="-48842.64" y="-7759.72" width="10971.38" height="21519.44"/>
+   </clipPath>
+ </defs>
+ <g id="图层_x0020_1">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <g style="clip-path:url(#id0)">
+   <image x="-28015.87" y="-5554.06" width="8219.25" height="16219.01" xlink:href="Galaxy S22 Plus-11i（前膜带壳）_Images\Galaxy S22 Plus-11i（前膜带壳）_ImgID1.png"/>
+  </g>
+  <g style="clip-path:url(#id1)">
+   <image x="-48842.64" y="-7759.72" width="10971.38" height="21519.44" xlink:href="Galaxy S22 Plus-11i（前膜带壳）_Images\Galaxy S22 Plus-11i（前膜带壳）_ImgID2.png"/>
+  </g>
+  <rect class="fil0 str0" x="-27648.46" y="-5249.93" width="7580" height="15740"/>
+  <rect class="fil0 str0" x="-27490.58" y="-5025.04" width="7264.24" height="15318.97" rx="800" ry="921.04"/>
+  <circle class="fil0 str1" cx="-23864.42" cy="-4600.8" r="211.05"/>
+  <path class="fil0 str2" d="M-2298.09 6321.68l0 -6119.37c0,-433.93 -357.68,-788.99 -794.78,-788.99l-13629.45 0c-437.12,0 -794.78,355.04 -794.78,788.99l0 5586.23c0,433.95 357.66,788.98 794.78,788.98l13629.45 0c437.12,0 794.78,-355.03 794.78,-788.98 0,-433.95 84.77,-659.28 203.83,-815.38"/>
+  <path class="fil0 str2" d="M-17353.89 3001.39c0,116.56 94.49,211.05 211.05,211.05 116.56,0 211.05,-94.49 211.05,-211.05 0,-116.56 -94.49,-211.05 -211.05,-211.05 -116.56,0 -211.05,94.49 -211.05,211.05 0,116.56 109.83,144.82 127.03,146.15"/>
+  <g id="_1841708146048">
+   <path class="fil0 str2" d="M978.92 5312.13l1875.35 0c133.74,0 243.18,-109.43 243.18,-243.17l0 -4170.12c0,-133.74 -109.43,-243.17 -243.18,-243.17l-1721.74 0c-133.75,0 -243.18,109.43 -243.18,243.17l0 4170.12c0,133.75 109.43,243.17 243.18,243.17 133.75,0 174.28,17 206.85,43.54"/>
+   <path class="fil0 str2" d="M1991.59 720.47c-35.44,0 -64.16,28.72 -64.16,64.15 0,35.43 28.72,64.16 64.16,64.16 35.43,0 64.15,-28.73 64.15,-64.16 0,-35.43 -28.72,-64.15 -64.15,-64.15 -35.44,0 -44.03,33.39 -44.43,38.61"/>
+  </g>
+ </g>
+</svg>

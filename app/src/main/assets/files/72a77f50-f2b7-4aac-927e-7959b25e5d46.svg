@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Creator: CorelDRAW 2020 (64-Bit) -->
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="40mm" height="60mm" version="1.1" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
+viewBox="0 0 4000 6000"
+ xmlns:xlink="http://www.w3.org/1999/xlink"
+ xmlns:xodm="http://www.corel.com/coreldraw/odm/2003">
+ <defs>
+  <style type="text/css">
+   <![CDATA[
+    .str1 {stroke:#332C2B;stroke-width:20;stroke-miterlimit:22.9256}
+    .str0 {stroke:#E62129;stroke-width:20;stroke-miterlimit:22.9256}
+    .fil0 {fill:none}
+   ]]>
+  </style>
+   <clipPath id="id0">
+    <rect x="-119549.88" y="-12434.15" width="49487.69" height="34524.87"/>
+   </clipPath>
+ </defs>
+ <g id="图层_x0020_1">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <g style="clip-path:url(#id0)">
+   <image x="-119549.88" y="-12434.15" width="49487.7" height="34524.87" xlink:href="Swift 3 SF316-51 —11i（前膜全屏）_Images\Swift 3 SF316-51 —11i（前膜全屏）_ImgID1.png"/>
+  </g>
+  <rect class="fil0 str0" x="-113538.08" y="-10881.76" width="36780" height="23610"/>
+  <rect class="fil0 str0" x="-113014.12" y="-10003.34" width="35732.08" height="20083.7" rx="226.14" ry="200"/>
+  <path class="fil0 str1" d="M-25054.62 21968.56l19843.1 0c110,0 200,-90.01 200,-200l0 -35332.08c0,-110 -89.99,-200 -200,-200l-19683.69 0c-110.01,0 -200.01,90 -200.01,200l0 35332.08c0,110 90,200 200.01,200 110.01,0 219.72,10.8 306.37,82.9"/>
+  <path class="fil0 str1" d="M680.41 5339.65l2604 0c14.44,0 26.25,-11.81 26.25,-26.24l0 -4636.63c0,-14.44 -11.81,-26.25 -26.25,-26.25l-2583.08 0c-14.44,0 -26.25,11.81 -26.25,26.25l0 4636.63c0,14.43 11.81,26.24 26.25,26.24 14.43,0 28.83,1.42 40.2,10.88"/>
+ </g>
+</svg>

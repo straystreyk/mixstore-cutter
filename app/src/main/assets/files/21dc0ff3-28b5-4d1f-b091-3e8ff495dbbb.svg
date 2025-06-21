@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Creator: CorelDRAW 2020 (64-Bit) -->
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="40mm" height="60mm" version="1.1" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
+viewBox="0 0 4000 6000"
+ xmlns:xlink="http://www.w3.org/1999/xlink"
+ xmlns:xodm="http://www.corel.com/coreldraw/odm/2003">
+ <defs>
+  <style type="text/css">
+   <![CDATA[
+    .str0 {stroke:#332C2B;stroke-width:20;stroke-miterlimit:22.9256}
+    .str1 {stroke:#332C2B;stroke-width:7.62;stroke-miterlimit:22.9256}
+    .fil0 {fill:none}
+   ]]>
+  </style>
+   <clipPath id="id0">
+    <rect x="-38050.58" y="-23295.2" width="16153.37" height="16203.46"/>
+   </clipPath>
+ </defs>
+ <g id="图层_x0020_1">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <g style="clip-path:url(#id0)">
+   <image x="-38050.58" y="-23295.2" width="16153.37" height="16203.46" xlink:href="Xperia 8—(背膜)_Images\Xperia 8—(背膜)_ImgID1.png"/>
+  </g>
+  <rect class="fil0 str0" x="-29903.68" y="-23071.32" width="6900" height="15800"/>
+  <rect class="fil0 str0" x="-36763.09" y="-22849.83" width="6438.16" height="15268.69" rx="260" ry="479.3"/>
+  <rect class="fil0 str0" x="-34154.69" y="-22497.01" width="1206.07" height="154.34" rx="157.19" ry="150"/>
+  <circle class="fil0 str0" cx="-30985.34" cy="-22417.57" r="127.88"/>
+  <rect class="fil0 str0" x="-29670.64" y="-22850.89" width="6435.69" height="15324" rx="320" ry="592.27"/>
+  <rect class="fil0 str0" x="-26749.01" y="-22466.95" width="606.34" height="291.04" rx="231.2" ry="190"/>
+  <rect class="fil0 str0" x="-27690.5" y="-21901.41" width="2488.21" height="1296.46" rx="948.75" ry="846.37"/>
+  <circle class="fil0 str0" cx="-25889.07" cy="-21253.8" r="321.91"/>
+  <circle class="fil0 str0" cx="-26991.5" cy="-21253.8" r="321.91"/>
+  <path class="fil0 str1" d="M24958.65 6335.25l0 -6373.37c0,-175.99 -144.01,-320 -320,-320l-14684.01 0c-175.99,0 -320,144 -320,320l0 5795.69c0,176 144.01,320 320,320l14684.01 0c175.99,0 320,-144 320,-320 0,-176 -33.17,-538.63 196.13,-538.63"/>
+  <rect class="fil0 str1" transform="matrix(3.22268E-14 -1.21682 1 2.64845E-14 10018.6 3155.94)" width="498.3" height="291.04" rx="190" ry="190"/>
+  <rect class="fil0 str1" transform="matrix(1.32248E-13 -4.9934 4.45458 1.17977E-13 10584.1 4097.43)" width="498.3" height="291.04" rx="190" ry="190"/>
+  <circle class="fil0 str1" transform="matrix(2.64845E-14 -1 1 2.64845E-14 11231.7 2296)" r="321.91"/>
+  <circle class="fil0 str1" transform="matrix(2.64845E-14 -1 1 2.64845E-14 11231.7 3398.43)" r="321.91"/>
+  <path class="fil0 str1" d="M1104.61 655.67l1777.58 0c53.99,0 98.15,44.17 98.15,98.15l0 4503.7c0,53.98 -44.16,98.15 -98.15,98.15l-1777.58 0c-53.98,0 -98.15,-44.17 -98.15,-98.15l0 -4503.7c0,-53.98 44.17,-98.15 98.15,-98.15zm842.57 117.76l96.71 0c24.55,0 44.63,20.08 44.63,44.63l0 0c0,24.55 -20.08,44.63 -44.63,44.63l-96.71 0c-24.55,0 -44.63,-20.08 -44.63,-44.63l0 0c0,-24.55 20.08,-44.63 44.63,-44.63zm-134.57 173.45l365.51 0c109.35,0 198.82,89.47 198.82,198.82l0 0c0,109.36 -89.47,198.82 -198.82,198.82l-365.51 0c-109.35,0 -198.82,-89.46 -198.82,-198.82l0 0c0,-109.35 89.47,-198.82 198.82,-198.82zm353.69 99.9c54.53,0 98.73,44.2 98.73,98.73 0,54.53 -44.2,98.73 -98.73,98.73 -54.53,0 -98.73,-44.2 -98.73,-98.73 0,-54.53 44.2,-98.73 98.73,-98.73zm-338.12 0c54.53,0 98.73,44.2 98.73,98.73 0,54.53 -44.2,98.73 -98.73,98.73 -54.53,0 -98.74,-44.2 -98.74,-98.73 0,-54.53 44.21,-98.73 98.74,-98.73z"/>
+ </g>
+</svg>

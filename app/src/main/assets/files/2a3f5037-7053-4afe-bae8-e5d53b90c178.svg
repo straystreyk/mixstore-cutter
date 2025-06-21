@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Creator: CorelDRAW 2020 (64-Bit) -->
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="40mm" height="60mm" version="1.1" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
+viewBox="0 0 4000 6000"
+ xmlns:xlink="http://www.w3.org/1999/xlink"
+ xmlns:xodm="http://www.corel.com/coreldraw/odm/2003">
+ <defs>
+  <style type="text/css">
+   <![CDATA[
+    .str0 {stroke:#332C2B;stroke-width:20;stroke-miterlimit:22.9256}
+    .str1 {stroke:#332C2B;stroke-width:7.62;stroke-miterlimit:22.9256}
+    .fil0 {fill:none}
+   ]]>
+  </style>
+   <clipPath id="id0">
+    <rect x="-128586.61" y="-23131.57" width="14585.36" height="17785.36"/>
+   </clipPath>
+   <clipPath id="id1">
+    <rect x="-97023.37" y="-21504.72" width="11452.27" height="18238.59"/>
+   </clipPath>
+ </defs>
+ <g id="图层_x0020_1">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <g style="clip-path:url(#id0)">
+   <image x="-128586.61" y="-23131.57" width="14585.35" height="17785.36" xlink:href="Reno8 T 5G -11i（前膜全屏）泰国_Images\Reno8 T 5G -11i（前膜全屏）泰国_ImgID1.png"/>
+  </g>
+  <g style="clip-path:url(#id1)">
+   <image x="-97023.37" y="-21504.72" width="11452.27" height="18238.59" xlink:href="Reno8 T 5G -11i（前膜全屏）泰国_Images\Reno8 T 5G -11i（前膜全屏）泰国_ImgID2.png"/>
+  </g>
+  <rect class="fil0 str0" x="-94862.92" y="-19680.14" width="7430" height="16229.98"/>
+  <rect class="fil0 str0" x="-94673.81" y="-19487.34" width="7062.22" height="15812.21" rx="580" ry="1003.75"/>
+  <circle class="fil0 str0" cx="-91135.09" cy="-18950.42" r="159.07"/>
+  <rect class="fil0 str0" x="-121977.72" y="-21904.73" width="7430" height="16229.98"/>
+  <rect class="fil0 str0" x="-121854.39" y="-21754.81" width="7180.22" height="15879.57" rx="590.01" ry="1008.57"/>
+  <rect class="fil0 str0" x="-121124.79" y="-21307.06" width="2382.36" height="4935.58" rx="1310" ry="1528.6"/>
+  <circle class="fil0 str0" cx="-119976.53" cy="-20106.5" r="1036.29"/>
+  <circle class="fil0 str0" cx="-119976.53" cy="-17590.57" r="1036.29"/>
+  <circle class="fil0 str0" cx="-120577.28" cy="-17565.29" r="233.72"/>
+  <circle class="fil0 str0" cx="-119968.72" cy="-18172.72" r="233.72"/>
+  <path class="fil0 str1" d="M25257.43 7358.36l0 -6704.8c0,-318.99 -260.98,-580 -580,-580l-14652.2 0c-319,0 -580,261 -580,580l0 5902.22c0,319 261,580 580,580l14652.2 0c319.02,0 580,-261 580,-580 0,-319 -83.26,-911.65 437.09,-911.65"/>
+  <circle class="fil0 str1" transform="matrix(2.30213E-14 -0.869235 0.869235 2.30213E-14 9982.15 3597.07)" r="183"/>
+  <g id="_1881394914128">
+   <rect class="fil0 str1" x="943.81" y="655.67" width="2099.17" height="4700" rx="172.4" ry="298.35"/>
+   <circle class="fil0 str1" cx="1995.66" cy="815.26" r="47.28"/>
+  </g>
+ </g>
+</svg>

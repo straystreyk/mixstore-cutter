@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Creator: CorelDRAW X8 -->
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="40mm" height="60mm" version="1.1" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
+viewBox="0 0 4000 6000"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <style type="text/css">
+   <![CDATA[
+    .str0 {stroke:#222222;stroke-width:20}
+    .fil0 {fill:none}
+   ]]>
+  </style>
+ </defs>
+ <g id="图层_x0020_1">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <g id="_1780563217712">
+   <path class="fil0 str0" d="M838 5241l2067 0c141,0 257,-116 257,-258l0 -4076c0,-141 -116,-257 -257,-257l-1752 0c-142,0 -258,116 -258,257l0 4076c0,142 116,258 258,258 141,0 279,71 279,109"/>
+   <path class="fil0 str0" d="M1953 892c0,-28 -46,-61 -68,-61 -21,0 -39,18 -39,39l0 0c0,22 18,39 39,39l291 0c21,0 39,-17 39,-39l0 0c0,-21 -18,-39 -39,-39l-291 0"/>
+   <path class="fil0 str0" d="M2317 881c0,-9 14,-77 52,-77 38,0 68,31 68,69 0,37 -30,68 -68,68 -38,0 -68,-31 -68,-68 0,-38 30,-69 68,-69"/>
+   <path class="fil0 str0" d="M2593 886c0,-23 -43,-58 -64,-58 -22,0 -39,18 -39,39l0 0c0,22 17,39 39,39l94 0c21,0 39,-17 39,-39l0 0c0,-21 -18,-39 -39,-39l-94 0"/>
+  </g>
+  <path class="fil0 str0" d="M-7388 6624l0 -6174c0,-426 -353,-774 -786,-774l-12449 0c-432,0 -786,348 -786,774l0 5274c0,426 354,775 786,775l12449 0c433,0 786,-349 786,-775 0,-426 263,-1035 382,-1035"/>
+  <path class="fil0 str0" d="M-20760 3322c-87,0 -187,143 -187,209 0,67 55,121 121,121l0 0c66,0 121,-54 121,-121l0 -899c0,-67 -55,-121 -121,-121l0 0c-66,0 -121,54 -121,121l0 899"/>
+  <path class="fil0 str0" d="M-20795 2194c-28,0 -236,-44 -236,-161 0,-117 94,-211 211,-211 117,0 212,94 212,211 0,117 -95,212 -212,212 -117,0 -211,-95 -211,-212"/>
+  <path class="fil0 str0" d="M-20777 1339c-71,0 -180,133 -180,200 0,66 55,121 121,121l0 0c66,0 121,-55 121,-121l0 -291c0,-67 -55,-121 -121,-121l0 0c-66,0 -121,54 -121,121l0 291"/>
+ </g>
+</svg>

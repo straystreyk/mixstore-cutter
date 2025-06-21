@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Creator: CorelDRAW X8 -->
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="40mm" height="60mm" version="1.1" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
+viewBox="0 0 4000 6000"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <style type="text/css">
+   <![CDATA[
+    .str1 {stroke:#332C2B;stroke-width:20}
+    .str0 {stroke:#332C2B;stroke-width:10}
+    .fil0 {fill:none}
+   ]]>
+  </style>
+   <clipPath id="id0" style="clip-rule:nonzero">
+    <path d="M-84407 17799l20988 71 101 -29672 -20988 -71 -101 29672z"/>
+   </clipPath>
+ </defs>
+ <g id="图层_x0020_1">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <g style="clip-path:url(#id0)">
+   <image transform="matrix(595.399 2.01216 -2.84387 841.502 -84306.2 -11889.4)" x="0" y="0" width="35.28" height="35.28" xlink:href="VIVO V20PRO Front Full_Images\VIVO V20PRO Front Full_ImgID1.png"/>
+  </g>
+  <path class="fil0 str0" d="M1324 5350c7,-17 9,-89 -134,-89 0,0 -3,0 -3,0 -122,0 -223,-100 -223,-223l0 -4165c0,-123 101,-223 223,-223l514 0c0,0 78,-1 78,77l0 13c0,59 48,107 107,107l250 0c59,0 107,-48 107,-107l0 -13c0,0 -5,-77 77,-77l519 0c123,0 223,100 223,223l0 4165c0,123 -100,223 -223,223l-1901 0"/>
+  <path class="fil0 str1" d="M-1077 5584c-58,-25 -300,-31 -299,448 0,1 0,10 0,10 0,413 -338,750 -750,750l-14001 0c-413,0 -750,-337 -750,-750l0 -1728c0,0 -4,-260 257,-260l45 0c198,0 360,-162 360,-360l0 -841c0,-198 -162,-360 -360,-360l-45 0c0,0 -257,17 -257,-260l0 -1745c0,-412 337,-750 750,-750l14001 0c412,0 750,338 750,750l0 6394"/>
+ </g>
+</svg>

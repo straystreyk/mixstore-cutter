@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Creator: CorelDRAW 2021 (64-Bit) -->
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="40mm" height="60mm" version="1.1" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
+viewBox="0 0 4000 6000"
+ xmlns:xlink="http://www.w3.org/1999/xlink"
+ xmlns:xodm="http://www.corel.com/coreldraw/odm/2003">
+ <defs>
+  <style type="text/css">
+   <![CDATA[
+    .str1 {stroke:black;stroke-width:20;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:22.9256}
+    .str0 {stroke:black;stroke-width:25.4;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10}
+    .fil0 {fill:none}
+   ]]>
+  </style>
+ </defs>
+ <g id="图层_x0020_1">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <path class="fil0 str0" d="M-4624.05 6756.24l0 -6347.36c-30.31,-364.08 -240.84,-568.47 -602.56,-598.63l-13390.21 0c-363.99,30.35 -571.98,231.83 -602.56,598.63l0 5399.4c29.44,353.13 241.92,583.56 602.56,598.63l13390.21 0c358.25,-14.97 573.36,-247.91 602.56,-598.63 29.2,-350.72 -0.72,-693.25 357.96,-693.25"/>
+  <circle class="fil0 str1" transform="matrix(2.09358E-14 -0.79049 0.79049 2.09358E-14 -20719.9 5784.65)" r="328.91"/>
+  <circle class="fil0 str1" transform="matrix(2.09358E-14 -0.79049 0.79049 2.09358E-14 -20719.9 436.45)" r="328.91"/>
+  <circle class="fil0 str1" transform="matrix(2.09358E-14 -0.79049 0.79049 2.09358E-14 -3123.57 5883.1)" r="328.91"/>
+  <circle class="fil0 str1" transform="matrix(2.09358E-14 -0.79049 0.79049 2.09358E-14 -3123.57 334.06)" r="328.91"/>
+  <g id="_2340309921568">
+   <path class="fil0 str0" d="M1092.38 4898.94l1646.73 0c94.45,-7.86 147.48,-62.48 155.3,-156.32l0 -3473.89c-7.87,-94.43 -60.14,-148.39 -155.3,-156.33l-1400.79 0c-91.62,7.64 -151.4,62.76 -155.31,156.33l0 3473.89c3.89,92.94 64.32,148.74 155.31,156.32 90.99,7.58 179.85,-0.19 179.85,92.87"/>
+   <circle class="fil0 str1" cx="1344.45" cy="723.12" r="67.45"/>
+   <circle class="fil0 str1" cx="2731.96" cy="723.12" r="67.45"/>
+   <circle class="fil0 str1" cx="1318.91" cy="5288.22" r="67.45"/>
+   <circle class="fil0 str1" cx="2758.52" cy="5288.22" r="67.45"/>
+  </g>
+ </g>
+</svg>

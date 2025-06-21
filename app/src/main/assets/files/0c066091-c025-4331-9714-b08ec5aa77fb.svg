@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Creator: CorelDRAW 2020 (64-Bit) -->
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="40mm" height="60mm" version="1.1" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
+viewBox="0 0 4000 6000"
+ xmlns:xlink="http://www.w3.org/1999/xlink"
+ xmlns:xodm="http://www.corel.com/coreldraw/odm/2003">
+ <defs>
+  <style type="text/css">
+   <![CDATA[
+    .str1 {stroke:#332C2B;stroke-width:20;stroke-miterlimit:22.9256}
+    .str0 {stroke:#E72D28;stroke-width:20;stroke-miterlimit:22.9256}
+    .str2 {stroke:#222222;stroke-width:20;stroke-miterlimit:22.9256}
+    .fil0 {fill:none}
+   ]]>
+  </style>
+   <clipPath id="id0">
+    <rect x="-37569.65" y="-6428.89" width="16445.7" height="17115.82"/>
+   </clipPath>
+ </defs>
+ <g id="图层_x0020_1">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <g style="clip-path:url(#id0)">
+   <image x="-37569.65" y="-6428.89" width="16445.7" height="17115.82" xlink:href="Moto G (2022)-11i（前膜带壳）_Images\Moto G (2022)-11i（前膜带壳）_ImgID1.png"/>
+  </g>
+  <rect class="fil0 str0" x="-37298.74" y="-6130.51" width="7580" height="16540"/>
+  <rect class="fil0 str0" x="-37168.91" y="-5975.89" width="7320.34" height="16148.83" rx="800" ry="846.76"/>
+  <circle class="fil0 str1" cx="-33517.66" cy="-5248.31" r="206.42"/>
+  <path class="fil0 str2" d="M-1636.79 6213.29l0 -6070.78c0,-433.98 -357.78,-789.07 -795.05,-789.07l-14458.71 0c-437.28,0 -795.05,355.08 -795.05,789.07l0 5642.16c0,433.99 357.77,789.07 795.05,789.07l14458.71 0c437.28,0 795.05,-355.08 795.05,-789.07 0,-433.99 145.3,-958.43 293.47,-1138.35"/>
+  <path class="fil0 str2" d="M-17214.45 2972.51c0,114 92.42,206.42 206.42,206.42 114,0 206.42,-92.42 206.42,-206.42 0,-114 -92.42,-206.42 -206.42,-206.42 -114,0 -206.42,92.42 -206.42,206.42 0,114 117.82,137.92 137.66,137.92"/>
+  <g id="_2241091364960">
+   <path class="fil0 str2" d="M1055.67 5286.23l1757.87 0c126.16,0 229.39,-103.23 229.39,-229.39l0 -4171.78c0,-126.16 -103.23,-229.39 -229.39,-229.39l-1640.28 0c-126.16,0 -229.39,103.23 -229.39,229.39l0 4171.78c0,126.16 103.23,229.39 229.39,229.39 126.17,0 232.95,35.3 270.88,69.44"/>
+   <path class="fil0 str2" d="M1990.84 805.11c-32.69,0 -59.19,26.5 -59.19,59.19 0,32.69 26.5,59.19 59.19,59.19 32.69,0 59.19,-26.5 59.19,-59.19 0,-32.69 -26.5,-59.19 -59.19,-59.19 -32.69,0 -39.55,33.78 -39.55,39.47"/>
+  </g>
+ </g>
+</svg>

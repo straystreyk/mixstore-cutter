@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Creator: CorelDRAW 2020 (64-Bit) -->
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="40mm" height="60mm" version="1.1" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
+viewBox="0 0 4000 6000"
+ xmlns:xlink="http://www.w3.org/1999/xlink"
+ xmlns:xodm="http://www.corel.com/coreldraw/odm/2003">
+ <defs>
+  <style type="text/css">
+   <![CDATA[
+    .str1 {stroke:#332C2B;stroke-width:20;stroke-miterlimit:22.9256}
+    .str0 {stroke:#E62129;stroke-width:20;stroke-miterlimit:22.9256}
+    .fil0 {fill:none}
+   ]]>
+  </style>
+   <clipPath id="id0">
+    <rect x="-45241.02" y="-1364.94" width="12156.79" height="8964.1"/>
+   </clipPath>
+ </defs>
+ <g id="图层_x0020_1">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <g style="clip-path:url(#id0)">
+   <image x="-45241.02" y="-1364.94" width="12156.8" height="8964.1" xlink:href="Smart Clock -11i（前膜全屏）_Images\Smart Clock -11i（前膜全屏）_ImgID1.png"/>
+  </g>
+  <rect class="fil0 str0" x="-44839.67" y="-1071.93" width="11300" height="6800"/>
+  <rect class="fil0 str0" x="-44523.64" y="-831.03" width="10667.94" height="6291.81" rx="1277.47" ry="1200"/>
+  <path class="fil0 str1" d="M-3013.2 5565.16l0 -4648.52c0,-659.99 -540.01,-1200 -1200,-1200l-8267.94 0c-660,0 -1200,540 -1200,1200l0 3891.81c0,660 540,1200 1200,1200l8267.94 0c660,0 1200,-540 1200,-1200 0,-660 100.54,-1205.07 248.71,-1398.22"/>
+  <path class="fil0 str1" d="M829.3 5243.45l2001.35 0c284.15,0 516.64,-232.49 516.64,-516.64l0 -3559.64c0,-284.15 -232.49,-516.64 -516.64,-516.64l-1675.56 0c-284.15,0 -516.64,232.49 -516.64,516.64l0 3559.64c0,284.15 232.49,516.64 516.64,516.64 284.15,0 518.82,43.29 601.98,107.08"/>
+ </g>
+</svg>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Creator: CorelDRAW 2020 (64-Bit) -->
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="40mm" height="60mm" version="1.1" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
+viewBox="0 0 4000 6000"
+ xmlns:xlink="http://www.w3.org/1999/xlink"
+ xmlns:xodm="http://www.corel.com/coreldraw/odm/2003">
+ <defs>
+  <style type="text/css">
+   <![CDATA[
+    .str1 {stroke:#332C2B;stroke-width:20;stroke-miterlimit:22.9256}
+    .str0 {stroke:#E62129;stroke-width:20;stroke-miterlimit:22.9256}
+    .fil0 {fill:none}
+   ]]>
+  </style>
+   <clipPath id="id0">
+    <rect x="-56896.25" y="-6897.48" width="19106.41" height="20218.27"/>
+   </clipPath>
+ </defs>
+ <g id="图层_x0020_1">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <g style="clip-path:url(#id0)">
+   <image x="-56896.25" y="-6897.48" width="19106.41" height="20218.27" xlink:href="Axon 20 5G Extreme -11i（前膜带壳）_Images\Axon 20 5G Extreme -11i（前膜带壳）_ImgID1.png"/>
+  </g>
+  <rect class="fil0 str0" x="-55373.56" y="-5348.29" width="7790" height="17209.99"/>
+  <rect class="fil0 str0" x="-55196.59" y="-5135.3" width="7436.06" height="16740.95" rx="850" ry="1036.55"/>
+  <rect class="fil0 str0" x="-45870.3" y="-5362.87" width="7790" height="17209.99"/>
+  <path class="fil0 str1" d="M-3345.74 6046.45l0 -6212.37c0,-459.95 -379.78,-836.3 -843.91,-836.3l-14933.09 0c-464.15,0 -843.9,376.33 -843.9,836.3l0 5643.51c0,459.97 379.75,836.29 843.9,836.29l14933.09 0c464.15,0 843.91,-376.32 843.91,-836.29 0,-459.97 49.82,-655.93 111.33,-761.1"/>
+  <path class="fil0 str1" d="M1036.3 5309.93l1754.81 0c130.11,0 236.58,-106.46 236.58,-236.58l0 -4186.24c0,-130.12 -106.46,-236.58 -236.58,-236.58l-1596.48 0c-130.12,0 -236.58,106.46 -236.58,236.58l0 4186.24c0,130.12 106.46,236.58 236.58,236.58 130.12,0 202.42,18.51 240.71,40.6"/>
+ </g>
+</svg>

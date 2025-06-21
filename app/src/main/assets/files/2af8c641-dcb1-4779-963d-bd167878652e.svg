@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Creator: CorelDRAW 2020 (64-Bit) -->
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="40mm" height="60mm" version="1.1" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
+viewBox="0 0 4000 6000"
+ xmlns:xlink="http://www.w3.org/1999/xlink"
+ xmlns:xodm="http://www.corel.com/coreldraw/odm/2003">
+ <defs>
+  <style type="text/css">
+   <![CDATA[
+    .str0 {stroke:#332C2B;stroke-width:20;stroke-miterlimit:22.9256}
+    .fil0 {fill:none}
+   ]]>
+  </style>
+   <clipPath id="id0">
+    <rect x="-98058.39" y="-7791.48" width="26211.38" height="17180.28"/>
+   </clipPath>
+   <clipPath id="id1">
+    <rect x="-69067.72" y="-7698.69" width="29842.97" height="21601.29"/>
+   </clipPath>
+ </defs>
+ <g id="图层_x0020_1">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <g style="clip-path:url(#id0)">
+   <image x="-98058.39" y="-7791.48" width="26211.38" height="17180.28" xlink:href="Matebook 13 -11i（背膜）_Images\Matebook 13 -11i（背膜）_ImgID1.png"/>
+  </g>
+  <g style="clip-path:url(#id1)">
+   <image x="-69067.72" y="-7698.69" width="29842.97" height="21601.28" xlink:href="Matebook 13 -11i（背膜）_Images\Matebook 13 -11i（背膜）_ImgID2.png"/>
+  </g>
+  <rect class="fil0 str0" x="-68483.78" y="-7398.68" width="28600" height="21100"/>
+  <rect class="fil0 str0" x="-68398.37" y="-7281.68" width="28429.18" height="20916.64" rx="749.3" ry="799.99"/>
+  <path class="fil0 str0" d="M-26413.94 15828.23l19798.2 0c439.99,0 799.99,-360.01 799.99,-800.01l0 -26829.16c0,-440.01 -359.99,-800.01 -799.99,-800.01l-19316.65 0c-440,0 -800,360 -800,800.01l0 26829.16c0,440.01 360,800.01 800,800.01 440,0 587.12,86.05 695.6,231.57"/>
+  <path class="fil0 str0" d="M264.4 5223.42l0 -4435.5c0,-72.74 59.51,-132.25 132.25,-132.25l3193.5 0c72.74,0 132.25,59.51 132.25,132.25l0 4435.5c0,72.74 -59.51,132.25 -132.25,132.25l-3193.5 0c-72.74,0 -132.25,-59.51 -132.25,-132.25z"/>
+ </g>
+</svg>

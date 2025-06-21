@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Creator: CorelDRAW 2020 (64-Bit) -->
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="40mm" height="60mm" version="1.1" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
+viewBox="0 0 4000 6000"
+ xmlns:xlink="http://www.w3.org/1999/xlink"
+ xmlns:xodm="http://www.corel.com/coreldraw/odm/2003">
+ <defs>
+  <style type="text/css">
+   <![CDATA[
+    .str1 {stroke:#332C2B;stroke-width:20;stroke-miterlimit:22.9256}
+    .str0 {stroke:#E62129;stroke-width:20;stroke-miterlimit:22.9256}
+    .fil0 {fill:none}
+   ]]>
+  </style>
+   <clipPath id="id0">
+    <rect x="-76500.56" y="-10063.9" width="30160.61" height="21453.54"/>
+   </clipPath>
+ </defs>
+ <g id="图层_x0020_1">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <g style="clip-path:url(#id0)">
+   <image x="-76500.56" y="-10063.9" width="30160.61" height="21453.54" xlink:href="Xiaomi Book Air 13 -11i（前膜全屏）_Images\Xiaomi Book Air 13 -11i（前膜全屏）_ImgID1.png"/>
+  </g>
+  <rect class="fil0 str0" x="-76254.21" y="-9572.28" width="29600" height="20500"/>
+  <rect class="fil0 str0" x="-75972.75" y="-9283.88" width="29037.08" height="18944.62" rx="300.93" ry="300"/>
+  <path class="fil0 str1" d="M-22011.42 17162.29l18547.03 0c165,0 300.01,-135 300.01,-299.99l0 -28437.09c0,-165 -135,-299.99 -300.01,-299.99l-18344.62 0c-164.99,0 -299.99,134.99 -299.99,299.99l0 28437.09c0,165 135,299.99 299.99,299.99 164.99,0 286.95,37.07 324.65,68.16"/>
+  <path class="fil0 str1" d="M479.54 5344.66l2995.03 0c26.64,0 48.44,-21.8 48.44,-48.44l0 -4592.11c0,-26.64 -21.8,-48.44 -48.44,-48.44l-2962.34 0c-26.64,0 -48.44,21.8 -48.44,48.44l0 4592.11c0,26.65 21.8,48.44 48.44,48.44 26.64,0 46.34,5.99 52.42,11.01"/>
+ </g>
+</svg>

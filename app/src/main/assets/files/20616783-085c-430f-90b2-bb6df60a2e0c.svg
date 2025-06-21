@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Creator: CorelDRAW 2020 (64-Bit) -->
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="40mm" height="60mm" version="1.1" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
+viewBox="0 0 4000 6000"
+ xmlns:xlink="http://www.w3.org/1999/xlink"
+ xmlns:xodm="http://www.corel.com/coreldraw/odm/2003">
+ <defs>
+  <style type="text/css">
+   <![CDATA[
+    .str1 {stroke:#332C2B;stroke-width:20;stroke-miterlimit:22.9256}
+    .str0 {stroke:#E62129;stroke-width:20;stroke-miterlimit:22.9256}
+    .fil0 {fill:none}
+   ]]>
+  </style>
+   <clipPath id="id0">
+    <rect x="-41803.39" y="-5453.75" width="13444.31" height="17196.22"/>
+   </clipPath>
+ </defs>
+ <g id="图层_x0020_1">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <g style="clip-path:url(#id0)">
+   <image x="-41803.39" y="-5453.75" width="13444.31" height="17196.22" xlink:href="G72 Max -11i（前膜带壳）_Images\G72 Max -11i（前膜带壳）_ImgID1.png"/>
+  </g>
+  <rect class="fil0 str0" x="-36415.56" y="-5274.3" width="7880" height="16830"/>
+  <path class="fil0 str0" d="M-35348.21 -5100.47l1804.07 0c58.61,0 131.31,78.11 175.68,78.11l604 0 0 206.14c0,159.35 130.37,289.72 289.72,289.72l0.01 0c159.35,0 289.72,-130.37 289.72,-289.72l0 -206.14 621.02 0c44.37,0 110.79,-78.11 164.11,-78.11l1796.97 0c467.51,0 850,382.51 850,850.01l0 14812.67c0,467.5 -382.49,850 -850,850l-5745.3 0c-467.51,0 -850,-382.5 -850,-850l0 -14812.67c0,-467.51 382.49,-850.01 850,-850.01z"/>
+  <path class="fil0 str1" d="M-5987.85 6356.43l0 -6112.64c0,-461.22 -380.19,-838.58 -844.85,-838.58l-14722.99 0c-464.67,0 -844.86,377.35 -844.86,838.58l0 1772.84c0,52.6 77.64,118.13 77.64,161.9l0 612.68 204.89 0c158.38,0 287.96,128.62 287.96,285.83l0 0.01c0,157.21 -129.58,285.83 -287.96,285.83l-204.89 0 0 595.89c0,43.77 -77.64,115.49 -77.64,173.32l0 1779.84c0,461.23 380.18,838.58 844.86,838.58l14722.99 0c464.67,0 844.85,-377.35 844.85,-838.58 0,-461.23 50.36,-609.78 97.98,-728.85"/>
+  <path class="fil0 str1" d="M1039.24 5330.85l1767.48 0c132.36,0 240.66,-108.3 240.66,-240.66l0 -4193.86c0,-132.36 -108.29,-240.66 -240.66,-240.66l-508.77 0c-15.09,0 -33.9,22.12 -46.46,22.12l-175.83 0 0 58.36c0,45.11 -36.91,82.03 -82.03,82.03l0 0c-45.11,0 -82.03,-36.92 -82.03,-82.03l0 -58.36 -171 0c-12.57,0 -33.15,-22.12 -49.74,-22.12l-510.78 0c-132.37,0 -240.66,108.3 -240.66,240.66l0 4193.86c0,132.36 108.29,240.66 240.66,240.66 132.36,0 165.21,13.96 191.43,24.82"/>
+ </g>
+</svg>

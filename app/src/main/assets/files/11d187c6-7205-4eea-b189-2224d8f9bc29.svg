@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Creator: CorelDRAW 2020 (64-Bit) -->
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="40mm" height="60mm" version="1.1" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
+viewBox="0 0 4000 6000"
+ xmlns:xlink="http://www.w3.org/1999/xlink"
+ xmlns:xodm="http://www.corel.com/coreldraw/odm/2003">
+ <defs>
+  <style type="text/css">
+   <![CDATA[
+    .str0 {stroke:#332C2B;stroke-width:20;stroke-miterlimit:22.9256}
+    .fil0 {fill:none}
+   ]]>
+  </style>
+   <clipPath id="id0">
+    <rect x="-79391.55" y="-7307.8" width="27461.4" height="20135.6"/>
+   </clipPath>
+ </defs>
+ <g id="图层_x0020_1">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <path class="fil0 str0" d="M-10905.42 6153.08l0 -4909.68c0,-824.99 -675.01,-1500 -1500,-1500l-11839.17 0c-825,0 -1500,675 -1500,1500l0 4236.31c0,825 675,1500 1500,1500l11839.17 0c825,0 1500,-675 1500,-1500 0,-825 166.72,-1181.02 300.34,-1325.22"/>
+  <path class="fil0 str0" d="M-25331.23 5563.03l0 -1889.4c0,-550 450,-1000 1000,-1000l2016.37 0c550,0 1000,450 1000,1000l0 1889.4c0,550 -450,1000 -1000,1000l-2016.37 0c-550,0 -1000,-450 -1000,-1000z"/>
+  <g style="clip-path:url(#id0)">
+   <image transform="matrix(764.717 18.9411 -13.6673 551.796 -78909.4 -7307.8)" x="0" y="0" width="35.28" height="35.28" xlink:href="iPhone14 Pro -11i（背膜）（Casetify）3_Images\iPhone14 Pro -11i（背膜）（Casetify）3_ImgID1.png"/>
+  </g>
+  <rect class="fil0 str0" x="-61742.51" y="-4208.2" width="7236.31" height="14839.17" rx="1500" ry="1486.01"/>
+  <rect class="fil0 str0" x="-61325.83" y="-3794.84" width="3889.4" height="4016.37" rx="1000" ry="1013.08"/>
+  <g id="_1851597868832">
+   <path class="fil0 str0" d="M1321.99 650.53l1341.76 0c261.3,0 475.09,213.79 475.09,475.1l0 3749.81c0,261.3 -213.79,475.09 -475.09,475.09l-1341.76 0c-261.3,0 -475.1,-213.79 -475.1,-475.09l0 -3749.81c0,-261.31 213.8,-475.1 475.1,-475.1z"/>
+   <path class="fil0 str0" d="M1295.6 781.45l598.43 0c174.2,0 316.72,142.53 316.72,316.73l0 638.65c0,174.2 -142.52,316.73 -316.72,316.73l-598.43 0c-174.2,0 -316.73,-142.53 -316.73,-316.73l0 -638.65c0,-174.2 142.53,-316.73 316.73,-316.73z"/>
+  </g>
+ </g>
+</svg>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Creator: CorelDRAW X8 -->
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="40mm" height="60mm" version="1.1" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
+viewBox="0 0 4000 6000"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <style type="text/css">
+   <![CDATA[
+    .str0 {stroke:#222222;stroke-width:20}
+    .fil0 {fill:none}
+   ]]>
+  </style>
+ </defs>
+ <g id="图层_x0020_1">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <g id="_2308677877280">
+   <path class="fil0 str0" d="M1456 5350c0,-54 -139,-161 -270,-161 -132,0 -239,-108 -239,-239l0 -4061c0,-131 107,-239 239,-239l1666 0c132,0 239,108 239,239l0 4061c0,131 -107,239 -239,239l-1943 0"/>
+   <path class="fil0 str0" d="M1684 1261c0,-248 -354,-406 -429,-406 -74,0 -135,61 -135,135l0 892c0,75 61,136 135,136l448 0c75,0 136,-61 136,-136l0 -892c0,-74 -61,-135 -136,-135l-448 0"/>
+  </g>
+  <g id="_2308677875072">
+   <path class="fil0 str0" d="M-5034 4425c-182,0 -546,470 -546,916 0,446 -365,811 -811,811l-13764 0c-446,0 -811,-365 -811,-811l0 -5648c0,-446 365,-811 811,-811l13764 0c446,0 811,365 811,811l0 6587"/>
+   <path class="fil0 str0" d="M-18895 3651c-840,0 -1376,1202 -1376,1455 0,252 207,459 459,459l3024 0c253,0 459,-207 459,-459l0 -1520c0,-252 -206,-459 -459,-459l-3024 0c-252,0 -459,207 -459,459l0 1520"/>
+  </g>
+ </g>
+</svg>

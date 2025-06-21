@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Creator: CorelDRAW 2020 (64-Bit) -->
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="40mm" height="60mm" version="1.1" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
+viewBox="0 0 4000 6000"
+ xmlns:xlink="http://www.w3.org/1999/xlink"
+ xmlns:xodm="http://www.corel.com/coreldraw/odm/2003">
+ <defs>
+  <style type="text/css">
+   <![CDATA[
+    .str0 {stroke:#332C2B;stroke-width:20;stroke-miterlimit:22.9256}
+    .str1 {stroke:#332C2B;stroke-width:20;stroke-miterlimit:22.9256}
+    .fil0 {fill:none}
+   ]]>
+  </style>
+   <clipPath id="id0">
+    <rect x="-57334.35" y="-6131.33" width="21463.65" height="18124.85"/>
+   </clipPath>
+ </defs>
+ <g id="图层_x0020_1">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <g style="clip-path:url(#id0)">
+   <image x="-57334.35" y="-6131.33" width="21463.64" height="18124.85" xlink:href="Hot 20 Play -11i（前膜带壳）_Images\Hot 20 Play -11i（前膜带壳）_ImgID1.png"/>
+  </g>
+  <rect class="fil0 str0" x="-43877.79" y="-5529.44" width="7800" height="17100"/>
+  <rect class="fil0 str0" x="-43724.94" y="-5286.03" width="7494.3" height="16702.14" rx="900" ry="1088.14"/>
+  <circle class="fil0 str0" cx="-39962.51" cy="-4570.01" r="250.03"/>
+  <path class="fil0 str1" d="M-2985.09 6135.35l0 -6168.64c0,-488.38 -402.58,-888 -894.61,-888l-14812.88 0c-492.03,0 -894.61,399.61 -894.61,888l0 5618.31c0,488.39 402.58,887.99 894.61,887.99l14812.88 0c492.04,0 894.61,-399.6 894.61,-887.99 0,-488.39 61.95,-967.82 268.33,-1256.22"/>
+  <path class="fil0 str1" d="M-19171.22 2760.59c0,138.09 111.94,250.03 250.03,250.03 138.09,0 250.03,-111.94 250.03,-250.03 0,-138.09 -111.94,-250.03 -250.03,-250.03 -138.09,0 -250.03,111.94 -250.03,250.03 0,138.09 119.06,151.53 165.36,151.53"/>
+  <g id="_2133427191504">
+   <path class="fil0 str1" d="M1065.12 5298.25l1720.02 0c137.75,0 250.45,-112.71 250.45,-250.45l0 -4146.82c0,-137.75 -112.7,-250.45 -250.45,-250.45l-1584.55 0c-137.74,0 -250.44,112.7 -250.44,250.45l0 4146.82c0,137.75 112.7,250.45 250.44,250.45 137.75,0 213.98,19.52 259.62,52.28"/>
+   <path class="fil0 str1" d="M1997.12 780.2c-38.43,0 -69.58,31.15 -69.58,69.58 0,38.43 31.15,69.57 69.58,69.57 38.43,0 69.58,-31.14 69.58,-69.57 0,-38.43 -31.15,-69.58 -69.58,-69.58 -38.43,0 -42.17,33.13 -42.17,46.02"/>
+  </g>
+ </g>
+</svg>

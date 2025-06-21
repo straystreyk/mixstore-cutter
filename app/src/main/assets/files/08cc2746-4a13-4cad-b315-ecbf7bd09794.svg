@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Creator: CorelDRAW -->
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="40mm" height="60mm" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
+viewBox="0 0 40 60"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <style type="text/css">
+   <![CDATA[
+    .str0 {stroke:#1F1A17;stroke-width:0.0762;stroke-linejoin:bevel}
+    .fil0 {fill:none}
+   ]]>
+  </style>
+ </defs>
+ <g id="_03___PRT_ALL_CURVES">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <path class="fil0 str0" d="M33.5 2.5l-27 0c-0.4641,0 -0.9093,0.1844 -1.2374,0.5126 -0.3282,0.3281 -0.5126,0.7733 -0.5126,1.2374l0 51.5c0,0.4641 0.1844,0.9093 0.5126,1.2375 0.3281,0.3281 0.7733,0.5125 1.2374,0.5125l27 0c0.4641,0 0.9093,-0.1844 1.2375,-0.5125 0.3281,-0.3282 0.5125,-0.7734 0.5125,-1.2375l0 -51.5c0,-0.4641 -0.1844,-0.9093 -0.5125,-1.2374 -0.3282,-0.3282 -0.7734,-0.5126 -1.2375,-0.5126z"/>
+ </g>
+</svg>

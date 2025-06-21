@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Creator: CorelDRAW 2020 (64-Bit) -->
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="40mm" height="60mm" version="1.1" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
+viewBox="0 0 4000 6000"
+ xmlns:xlink="http://www.w3.org/1999/xlink"
+ xmlns:xodm="http://www.corel.com/coreldraw/odm/2003">
+ <defs>
+  <style type="text/css">
+   <![CDATA[
+    .str1 {stroke:#332C2B;stroke-width:20;stroke-miterlimit:22.9256}
+    .str0 {stroke:#E62129;stroke-width:20;stroke-miterlimit:22.9256}
+    .fil0 {fill:none}
+   ]]>
+  </style>
+   <clipPath id="id0">
+    <rect x="-44038.76" y="-5511.65" width="8528.9" height="15490.24"/>
+   </clipPath>
+ </defs>
+ <g id="图层_x0020_1">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <g style="clip-path:url(#id0)">
+   <image x="-44038.76" y="-5511.65" width="8528.9" height="15490.24" xlink:href="XR— 11i（防爆磨砂）_Images\XR— 11i（防爆磨砂）_ImgID1.png"/>
+  </g>
+  <rect class="fil0 str0" x="-43507.64" y="-5325.42" width="7570" height="15090"/>
+  <path class="fil0 str0" d="M-42324.7 -4877.68l627.07 0c148.36,0 159.96,46.34 159.96,113.03 0,220.01 180,400.01 400,400.01l2813.55 0c220,0 400,-180 400,-400.01 0,-58.75 10.28,-113.03 142.76,-113.03l660.78 0c385,0 700,315.02 700,700l0 12761.51c0,385.01 -315,700.01 -700,700.01l-5204.12 0c-385,0 -700,-315 -700,-700.01l0 -12761.51c0,-385 315,-700 700,-700z"/>
+  <path class="fil0 str1" d="M-3288.32 5846.61l0 -5619.52c0,-384.99 -315.01,-700 -700.01,-700l-12761.51 0c-384.98,0 -700,315 -700,700l0 660.78c0,132.48 54.28,142.76 113.03,142.76 220.01,0 400.01,180 400.01,400l0 2813.55c0,220 -180,400 -400.01,400 -66.69,0 -113.03,11.6 -113.03,159.96l0 627.07c0,385 315,700 700,700l12761.51 0c385.01,0 700.01,-315 700.01,-700 0,-385 35.22,-617.24 121.21,-764.09"/>
+  <path class="fil0 str1" d="M999.92 5310.64l1849.21 0c126.68,0 230.34,-103.66 230.34,-230.35l0 -4199.41c0,-126.69 -103.65,-230.35 -230.34,-230.35l-217.45 0c-43.59,0 -46.97,17.86 -46.97,37.19 0,72.4 -59.24,131.63 -131.63,131.63l-925.85 0c-72.4,0 -131.63,-59.23 -131.63,-131.63 0,-21.94 -3.82,-37.19 -52.64,-37.19l-206.35 0c-126.69,0 -230.34,103.65 -230.34,230.35l0 4199.41c0,126.7 103.65,230.35 230.34,230.35 126.69,0 203.12,11.59 251.44,39.89"/>
+ </g>
+</svg>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Creator: CorelDRAW 2020 (64-Bit) -->
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="40mm" height="60mm" version="1.1" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
+viewBox="0 0 4000 6000"
+ xmlns:xlink="http://www.w3.org/1999/xlink"
+ xmlns:xodm="http://www.corel.com/coreldraw/odm/2003">
+ <defs>
+  <style type="text/css">
+   <![CDATA[
+    .str0 {stroke:#332C2B;stroke-width:20;stroke-miterlimit:22.9256}
+    .fil0 {fill:none}
+   ]]>
+  </style>
+   <clipPath id="id0">
+    <rect x="-73354.71" y="-8106.12" width="20444.26" height="14951.14"/>
+   </clipPath>
+   <clipPath id="id1">
+    <rect x="-104118.66" y="-8762.86" width="22435.32" height="20002.09"/>
+   </clipPath>
+ </defs>
+ <g id="图层_x0020_1">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <g style="clip-path:url(#id0)">
+   <image x="-73354.71" y="-8106.12" width="20444.26" height="14951.14" xlink:href="Kid Pad Lite -11i（前膜全屏）_Images\Kid Pad Lite -11i（前膜全屏）_ImgID1.png"/>
+  </g>
+  <rect class="fil0 str0" x="-73100.26" y="-7840.53" width="20000" height="18500"/>
+  <g style="clip-path:url(#id1)">
+   <image x="-104118.66" y="-8762.86" width="22435.32" height="20002.09" xlink:href="Kid Pad Lite -11i（前膜全屏）_Images\Kid Pad Lite -11i（前膜全屏）_ImgID2.png"/>
+  </g>
+  <rect class="fil0 str0" x="-103241.6" y="-7840.53" width="20000" height="18500"/>
+  <rect class="fil0 str0" x="-70654.23" y="-5739.18" width="15113" height="8424.33" rx="150" ry="150"/>
+  <path class="fil0 str0" d="M-19696.92 7214.83l14975.06 0c82.48,0 150,-67.52 150,-150l0 -8124.33c0,-82.5 -67.5,-150 -150,-150l-14813 0c-82.5,0 -150,67.5 -150,150l0 8124.33c0,82.5 67.5,150 150,150 82.5,0 159.86,17.22 208.15,46.33"/>
+  <path class="fil0 str0" d="M3294.57 5350.53l0 -4653.39c0,-25.63 -20.98,-46.61 -46.61,-46.61l-2524.57 0c-25.64,0 -46.62,20.98 -46.62,46.61l0 4603.03c0,25.64 20.98,46.61 46.62,46.61l2524.57 0c25.63,0 46.61,-20.97 46.61,-46.61 0,-25.64 5.35,-49.67 14.4,-64.68"/>
+ </g>
+</svg>

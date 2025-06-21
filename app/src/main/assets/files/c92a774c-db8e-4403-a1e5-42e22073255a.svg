@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Creator: CorelDRAW 2020 (64-Bit) -->
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="40mm" height="60mm" version="1.1" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
+viewBox="0 0 4000 6000"
+ xmlns:xlink="http://www.w3.org/1999/xlink"
+ xmlns:xodm="http://www.corel.com/coreldraw/odm/2003">
+ <defs>
+  <style type="text/css">
+   <![CDATA[
+    .str0 {stroke:#E72D28;stroke-width:20;stroke-miterlimit:22.9256}
+    .str1 {stroke:#222222;stroke-width:20;stroke-miterlimit:22.9256}
+    .fil0 {fill:none}
+   ]]>
+  </style>
+   <clipPath id="id0">
+    <rect x="-93934.56" y="-9045.35" width="32748.21" height="22845.29"/>
+   </clipPath>
+ </defs>
+ <g id="图层_x0020_1">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <g style="clip-path:url(#id0)">
+   <image x="-93934.56" y="-9045.35" width="32748.2" height="22845.29" xlink:href="2021 MacBook Pro 14(A2442)-11i（前膜全屏）_Images\2021 MacBook Pro 14(A2442)-11i（前膜全屏）_ImgID1.png"/>
+  </g>
+  <rect class="fil0 str0" transform="matrix(2.5221E-14 -0.952292 1.91782 5.07926E-14 -93264.3 13703.6)" width="23228.16" height="16299.76"/>
+  <path class="fil0 str0" d="M-92758.32 11332.16l0 -18945.87c0,-165 135.01,-300 300,-300l13143.86 0 0 428.8c0,55 45,100 100,100l3157.57 0c55,0 100,-45 100,-100l0 -428.8 13146.59 0c164.99,0 300,135 300,300l0 18945.87c0,165 -135.01,300 -300,300l-29648.02 0c-164.99,0 -300,-135 -300,-300z"/>
+  <path class="fil0 str1" d="M-24989.41 18397.51l19242.21 0c164.98,0 300,-135.03 300,-300l0 -29648.02c0,-164.99 -135,-300 -300,-300l-18945.87 0c-165,0 -300,135.01 -300,300l0 13146.59 428.8 0c55,0 100,45 100,100l0 3157.57c0,55 -45,100 -100,100l-428.8 0 0 13143.86c0,164.99 135,300 300,300 165,0 454.59,33.12 503.54,86.04"/>
+  <path class="fil0 str1" d="M479.21 5337.2l2981.41 0c25.56,0 46.48,-20.92 46.48,-46.48l0 -4593.71c0,-25.56 -20.92,-46.48 -46.48,-46.48l-2935.5 0c-25.56,0 -46.48,20.92 -46.48,46.48l0 2036.95 66.44 0c8.52,0 15.49,6.98 15.49,15.5l0 489.23c0,8.53 -6.97,15.5 -15.49,15.5l-66.44 0 0 2036.53c0,25.56 20.92,46.48 46.48,46.48 25.57,0 70.44,5.13 78.02,13.33"/>
+ </g>
+</svg>

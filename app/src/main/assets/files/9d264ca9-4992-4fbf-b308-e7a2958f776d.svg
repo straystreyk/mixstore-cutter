@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Creator: CorelDRAW 2020 (64-Bit) -->
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="40mm" height="60mm" version="1.1" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
+viewBox="0 0 4000 6000"
+ xmlns:xlink="http://www.w3.org/1999/xlink"
+ xmlns:xodm="http://www.corel.com/coreldraw/odm/2003">
+ <defs>
+  <style type="text/css">
+   <![CDATA[
+    .str1 {stroke:#332C2B;stroke-width:20;stroke-miterlimit:22.9256}
+    .str0 {stroke:#E62129;stroke-width:20;stroke-miterlimit:22.9256}
+    .fil0 {fill:none}
+   ]]>
+  </style>
+   <clipPath id="id0">
+    <rect x="-40797.91" y="-5162.23" width="11473.22" height="14909.36"/>
+   </clipPath>
+ </defs>
+ <g id="图层_x0020_1">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <g style="clip-path:url(#id0)">
+   <image x="-40797.91" y="-5162.23" width="11473.22" height="14909.36" xlink:href="14-11i（防爆膜）_Images\14-11i（防爆膜）_ImgID1.png"/>
+  </g>
+  <rect class="fil0 str0" x="-36745.95" y="-5075.37" width="7150" height="14670"/>
+  <rect class="fil0 str0" x="-36396.94" y="-4735.86" width="6451.98" height="13970.05" rx="800" ry="848.05"/>
+  <path class="fil0 str1" d="M-4694.11 5482.45l0 -5349.39c0,-440 -360.01,-800.01 -800,-800.01l-12370.05 0c-440,0 -800,360 -800,800.01l0 4851.97c0,440.01 360,800 800,800l12370.05 0c440,0 800,-359.99 800,-800 0,-440.01 31.06,-759.09 111.76,-921.81"/>
+  <path class="fil0 str1" d="M1017.14 5313.23l1785.44 0c146.85,0 267.01,-120.16 267.01,-267.01l0 -4128.68c0,-146.86 -120.16,-267.01 -267.01,-267.01l-1619.42 0c-146.86,0 -267.01,120.15 -267.01,267.01l0 4128.68c0,146.85 120.15,267.01 267.01,267.01 146.86,0 253.36,10.36 307.67,37.3"/>
+ </g>
+</svg>

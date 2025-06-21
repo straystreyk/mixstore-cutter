@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Creator: CorelDRAW 2020 (64-Bit) -->
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="40mm" height="60mm" version="1.1" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
+viewBox="0 0 4000 6000"
+ xmlns:xlink="http://www.w3.org/1999/xlink"
+ xmlns:xodm="http://www.corel.com/coreldraw/odm/2003">
+ <defs>
+  <style type="text/css">
+   <![CDATA[
+    .str0 {stroke:#332C2B;stroke-width:20;stroke-miterlimit:22.9256}
+    .str1 {stroke:#332C2B;stroke-width:7.62;stroke-miterlimit:22.9256}
+    .fil0 {fill:none}
+   ]]>
+  </style>
+   <clipPath id="id0">
+    <rect x="-22410.49" y="-14151.39" width="9449.73" height="18991.97"/>
+   </clipPath>
+ </defs>
+ <g id="图层_x0020_1">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <g style="clip-path:url(#id0)">
+   <image x="-22410.49" y="-14151.39" width="9449.73" height="18991.97" xlink:href="Z35—(背膜)Back Cover_Images\Z35—(背膜)Back Cover_ImgID1.png"/>
+  </g>
+  <rect class="fil0 str0" x="-21559.79" y="-12729.59" width="7860" height="17380"/>
+  <rect class="fil0 str0" x="-21405.99" y="-12625.27" width="7531.94" height="17083.31" rx="699.55" ry="1950.58"/>
+  <circle class="fil0 str0" cx="-17624.15" cy="-8263.02" r="504.76"/>
+  <rect class="fil0 str0" x="-20920.56" y="-11954.97" width="1984.37" height="3708.58" rx="580" ry="584.08"/>
+  <circle class="fil0 str0" cx="-20327.34" cy="-11335.34" r="372.62"/>
+  <circle class="fil0 str0" cx="-20320.81" cy="-10392.84" r="372.62"/>
+  <circle class="fil0 str0" cx="-20331.81" cy="-9488.83" r="372.62"/>
+  <rect class="fil0 str0" x="-20317.77" y="-8865.95" width="775.01" height="350.58" rx="257.84" ry="240"/>
+  <path class="fil0 str0" d="M23691.76 7332.68l0 -7205.42c0,-472.99 -387.01,-860 -860.01,-860l-15363.3 0c-473,0 -860,387 -860,860l0 5811.94c0,473 387,860 860,860l15363.3 0c473,0 860.01,-387 860.01,-860 0,-473 -131.01,-1586.21 1050.8,-1586.21"/>
+  <circle class="fil0 str0" transform="matrix(2.74346E-14 -1.03587 1.03587 2.74346E-14 10970.7 3017.36)" r="487.28"/>
+  <rect class="fil0 str0" transform="matrix(2.77163E-14 -1.04651 1.05389 2.79117E-14 7278.74 6313.77)" width="1896.18" height="3518.96" rx="554.22" ry="554.22"/>
+  <rect class="fil0 str1" x="957.3" y="655.67" width="2072.2" height="4700" rx="192.46" ry="536.65"/>
+  <circle class="fil0 str1" cx="1997.77" cy="1855.82" r="138.87"/>
+  <rect class="fil0 str1" x="1090.85" y="840.08" width="545.94" height="1020.31" rx="159.57" ry="160.69"/>
+  <path class="fil0 str0" d="M68803.64 3473.23l0 -7205.42c0,-472.99 -387.01,-860 -860.01,-860l-15363.3 0c-473,0 -860,387 -860,860l0 5811.94c0,473 387,860 860,860l15363.3 0c473,0 860.01,-387 860.01,-860 0,-473 -131.01,-1586.21 1050.8,-1586.21"/>
+  <circle class="fil0 str0" transform="matrix(2.74346E-14 -1.03587 1.03587 2.74346E-14 56082.6 -842.09)" r="487.28"/>
+  <rect class="fil0 str0" transform="matrix(2.77163E-14 -1.04651 1.05389 2.79117E-14 52390.6 2454.32)" width="1896.18" height="3518.96" rx="554.22" ry="554.22"/>
+  <circle class="fil0 str0" transform="matrix(2.87842E-14 -1.08683 1.08683 2.87842E-14 53010.2 1861.1)" r="342.85"/>
+  <circle class="fil0 str0" transform="matrix(2.87842E-14 -1.08683 1.08683 2.87842E-14 53952.7 1854.57)" r="342.85"/>
+  <circle class="fil0 str0" transform="matrix(2.87842E-14 -1.08683 1.08683 2.87842E-14 54856.8 1865.57)" r="342.85"/>
+  <rect class="fil0 str0" transform="matrix(2.17508E-14 -0.821264 0.76444 2.02459E-14 55479.6 1851.53)" width="943.68" height="458.61" rx="313.96" ry="313.96"/>
+ </g>
+</svg>

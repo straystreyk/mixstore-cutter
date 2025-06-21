@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Creator: CorelDRAW X8 -->
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="40mm" height="60mm" version="1.1" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
+viewBox="0 0 4000 6000"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <style type="text/css">
+   <![CDATA[
+    .str1 {stroke:#222222;stroke-width:20}
+    .str0 {stroke:#222222;stroke-width:10}
+    .fil0 {fill:none}
+   ]]>
+  </style>
+ </defs>
+ <g id="图层_x0020_1">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <g id="_2138910082688">
+   <path class="fil0 str0" d="M820 5241l2191 0c93,0 169,-76 169,-168l0 -4255c0,-92 -76,-168 -169,-168l-1989 0c-92,0 -168,76 -168,168l0 4255c0,92 76,168 168,168 93,0 189,39 189,109"/>
+   <path class="fil0 str0" d="M1631 796c0,-39 -37,-52 -56,-52 -20,0 -36,16 -36,35l0 0c0,20 16,36 36,36l78 0c19,0 35,-16 35,-36l0 0c0,-19 -16,-36 -35,-35l-78 0"/>
+   <path class="fil0 str0" d="M2111 794c0,-38 -76,-43 -90,-43 -15,0 -27,12 -27,26l0 0c0,15 12,27 27,27l242 0c15,0 27,-12 27,-27l0 0c0,-14 -12,-27 -27,-26l-242 0"/>
+   <path class="fil0 str0" d="M2536 789c0,-20 -1,-54 -24,-54 -23,0 -42,19 -42,42 0,22 19,41 42,41 23,0 41,-19 41,-41 0,-23 -18,-42 -41,-42"/>
+  </g>
+  <path class="fil0 str1" d="M-1289 6958l0 -7160c0,-303 -247,-550 -550,-550l-13904 0c-302,0 -550,247 -550,550l0 6500c0,303 248,550 550,550l13904 0c303,0 550,-247 550,-550 0,-302 127,-616 356,-616"/>
+  <path class="fil0 str1" d="M-15816 4309c-128,0 -170,121 -170,184 0,64 52,116 116,116l0 0c63,0 115,-52 115,-116l0 -255c0,-64 -52,-116 -115,-116l0 0c-64,0 -120,52 -116,116l0 255"/>
+  <path class="fil0 str1" d="M-15822 2740c-126,0 -142,248 -142,296 0,48 39,87 87,87l0 0c48,0 87,-39 87,-87l0 -794c0,-48 -39,-87 -87,-87l0 0c-48,0 -88,39 -87,87l0 794"/>
+  <path class="fil0 str1" d="M-15838 1350c-64,0 -176,6 -176,81 0,75 60,135 135,135 75,0 135,-60 135,-135 0,-75 -60,-136 -135,-136 -75,0 -135,61 -135,136"/>
+ </g>
+</svg>

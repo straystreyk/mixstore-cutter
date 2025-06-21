@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Creator: CorelDRAW X8 -->
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="40mm" height="60mm" version="1.1" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
+viewBox="0 0 4000 6000"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <style type="text/css">
+   <![CDATA[
+    .str0 {stroke:black;stroke-width:10;stroke-linejoin:bevel}
+    .fil0 {fill:none}
+   ]]>
+  </style>
+ </defs>
+ <g id="图层_x0020_1">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <g id="_2216655274960">
+   <polygon class="fil0 str0" points="3194,5350 806,5350 806,650 3194,650 "/>
+   <path class="fil0 str0" d="M2754 4670c0,-16 -5,-55 -31,-55 -27,0 -48,21 -48,48 0,26 21,47 48,47 26,0 47,-21 47,-47 0,-27 -21,-48 -47,-48"/>
+   <line class="fil0 str0" x1="960" y1="1090" x2="960" y2= "1090" />
+   <path class="fil0 str0" d="M1565 4678c0,-18 -5,-58 -31,-58 -26,0 -47,21 -47,47 0,26 21,48 47,48 26,0 48,-22 48,-48 0,-26 -22,-47 -48,-47"/>
+   <line class="fil0 str0" x1="955" y1="1090" x2="955" y2= "1090" />
+   <path class="fil0 str0" d="M975 935c-28,0 -58,-29 -58,-50 0,-21 17,-38 38,-38 21,0 38,17 38,38l0 167c0,20 -17,38 -38,38 -21,0 -38,-18 -38,-38l0 -167"/>
+  </g>
+  <polygon class="fil0 str0" points="-3980,337 -3980,5369 -13880,5369 -13880,337 "/>
+  <path class="fil0 str0" d="M-5413 1265c-33,0 -115,11 -115,66 0,55 45,100 100,100 55,0 100,-45 100,-100 0,-55 -45,-100 -100,-100 -55,0 -100,45 -100,100"/>
+  <line class="fil0 str0" x1="-12954" y1="5044" x2="-12954" y2= "5044" />
+  <path class="fil0 str0" d="M-5396 3769c-37,0 -122,10 -122,66 0,55 45,100 100,100 55,0 100,-45 100,-100 0,-56 -45,-100 -100,-100 -55,0 -100,44 -100,100"/>
+  <line class="fil0 str0" x1="-12954" y1="5054" x2="-12954" y2= "5054" />
+  <path class="fil0 str0" d="M-13279 5012c0,59 -61,122 -105,122 -44,0 -80,-36 -80,-80 0,-44 36,-80 80,-80l350 0c44,0 80,36 80,80 0,44 -36,80 -80,80l-350 0"/>
+ </g>
+</svg>

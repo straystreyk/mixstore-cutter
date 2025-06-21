@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Creator: CorelDRAW 2020 (64-Bit) -->
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="40mm" height="60mm" version="1.1" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
+viewBox="0 0 4000 6000"
+ xmlns:xlink="http://www.w3.org/1999/xlink"
+ xmlns:xodm="http://www.corel.com/coreldraw/odm/2003">
+ <defs>
+  <style type="text/css">
+   <![CDATA[
+    .str1 {stroke:#332C2B;stroke-width:20;stroke-miterlimit:22.9256}
+    .str0 {stroke:#E62129;stroke-width:20;stroke-miterlimit:22.9256}
+    .fil0 {fill:none}
+   ]]>
+  </style>
+   <clipPath id="id0">
+    <rect x="-48369.44" y="-4265.81" width="15229.47" height="17101.73"/>
+   </clipPath>
+ </defs>
+ <g id="图层_x0020_1">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <g style="clip-path:url(#id0)">
+   <image x="-48369.44" y="-4265.81" width="15229.47" height="17101.73" xlink:href="Xperia 10 Plus -11i（前膜带壳）_Images\Xperia 10 Plus -11i（前膜带壳）_ImgID1.png"/>
+  </g>
+  <rect class="fil0 str0" x="-48198.83" y="-4068.26" width="7300" height="16700"/>
+  <rect class="fil0 str0" x="-47982.88" y="-3840.72" width="6868.1" height="16231.96" rx="300" ry="296.66"/>
+  <rect class="fil0 str0" x="-45159.04" y="-3567.83" width="1211.79" height="191.16" rx="330.84" ry="300"/>
+  <circle class="fil0 str0" cx="-42108.04" cy="-3470.25" r="186.2"/>
+  <path class="fil0 str1" d="M-3038.1 6427.01l0 -6384.53c0,-162.6 -134.18,-295.64 -298.15,-295.64l-15535.7 0c-163.98,0 -298.15,133.03 -298.15,295.64l0 6176.83c0,162.61 134.17,295.63 298.15,295.63l15535.7 0c163.98,0 298.15,-133.02 298.15,-295.63 0,-162.61 21.06,-316.9 81.92,-387.02"/>
+  <path class="fil0 str1" d="M-18947.19 3645.53c0,52.57 43.01,95.58 95.58,95.58l0 0c52.57,0 95.58,-43.01 95.58,-95.58l0 -1020.63c0,-52.57 -43.01,-95.58 -95.58,-95.58l0 0c-52.57,0 -95.58,43.01 -95.58,95.58l0 1020.63c0,0 1.68,-132.48 44.67,-176.8"/>
+  <path class="fil0 str1" d="M-19035.81 690.11c0,102.84 83.36,186.2 186.2,186.2 102.84,0 186.2,-83.36 186.2,-186.2 0,-102.84 -83.36,-186.2 -186.2,-186.2 -102.84,0 -186.2,83.36 -186.2,186.2 0,102.84 92.76,106.03 114.59,106.03"/>
+  <g id="_1599737112528">
+   <path class="fil0 str1" d="M1032.43 5326.79l1863.32 0c47.54,0 86.43,-38.89 86.43,-86.43l0 -4503.4c0,-47.54 -38.89,-86.43 -86.43,-86.43l-1805.77 0c-47.54,0 -86.42,38.89 -86.42,86.43l0 4503.4c0,47.54 38.88,86.43 86.42,86.43 47.54,0 83.07,9.64 101.18,23.74"/>
+   <path class="fil0 str1" d="M1844.61 729.15c-15.15,0 -27.54,12.39 -27.54,27.53l0 0c0,15.15 12.39,27.54 27.54,27.54l294.03 0c15.15,0 27.54,-12.39 27.54,-27.54l0 0c0,-15.14 -12.39,-27.53 -27.54,-27.53l-294.03 0c0,0 38.16,0.48 50.93,12.87"/>
+   <path class="fil0 str1" d="M2696.03 703.62c-29.62,0 -53.64,24.01 -53.64,53.64 0,29.63 24.02,53.64 53.64,53.64 29.63,0 53.65,-24.01 53.65,-53.64 0,-29.63 -24.02,-53.64 -53.65,-53.64 -29.62,0 -30.54,26.72 -30.54,33.01"/>
+  </g>
+ </g>
+</svg>

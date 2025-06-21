@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Creator: CorelDRAW X8 -->
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="40mm" height="60mm" version="1.1" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
+viewBox="0 0 4000 6000"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <style type="text/css">
+   <![CDATA[
+    .str1 {stroke:#332C2B;stroke-width:0.99}
+    .str0 {stroke:#332C2B;stroke-width:10}
+    .fil0 {fill:none;fill-rule:nonzero}
+    .fil1 {fill:#332C2B;fill-rule:nonzero}
+   ]]>
+  </style>
+ </defs>
+ <g id="图层_x0020_1">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <g id="_2149999179536">
+   <line class="fil0 str0" x1="2828" y1="5348" x2="2763" y2= "5350" />
+   <path class="fil0 str0" d="M2763 5350c-34,0 -43,0 -53,-1 -11,-2 -19,-4 -27,-10"/>
+   <polyline class="fil0 str0" points="2683,5339 2661,5321 2656,5317 "/>
+   <path class="fil0 str0" d="M2656 5317c-49,-43 -49,-43 -68,-46"/>
+   <polyline class="fil0 str0" points="2588,5271 2586,5271 1664,5267 "/>
+   <path class="fil0 str0" d="M1664 5267c-180,-1 -210,0 -229,4 -19,3 -29,10 -79,53"/>
+   <line class="fil0 str0" x1="1356" y1="5324" x2="1353" y2= "5327" />
+   <path class="fil0 str0" d="M1353 5327c-27,23 -27,23 -80,23"/>
+   <line class="fil0 str0" x1="1273" y1="5350" x2="1266" y2= "5350" />
+   <path class="fil0 str0" d="M1266 5350c-181,0 -217,-7 -281,-55 -65,-49 -103,-124 -104,-204"/>
+   <line class="fil0 str0" x1="881" y1="5091" x2="855" y2= "1675" />
+   <line class="fil0 str0" x1="3143" y1="914" x2="3149" y2= "4939" />
+   <path class="fil0 str0" d="M3149 4939c0,108 -2,143 -11,178 -29,119 -120,198 -239,208 -25,2 -50,10 -76,23"/>
+   <path class="fil1 str1" d="M1167 650l278 0 0 222c0,15 6,29 16,39 10,10 23,16 38,16 15,0 29,-6 39,-16 10,-10 16,-24 16,-39l0 -222 1042 0 0 50c0,6 2,11 5,14 4,4 9,6 15,6 5,0 10,-2 14,-6 4,-3 6,-8 6,-14l0 -50 197 0c87,0 166,35 223,93 57,57 92,136 92,222l0 0 -6 0 0 0c0,-85 -35,-162 -91,-218 -56,-56 -133,-91 -218,-91l-191 0 0 44c0,7 -3,14 -7,19 -5,4 -12,7 -19,7 -8,0 -14,-3 -19,-7 -5,-5 -8,-12 -8,-19l0 -44 -1029 0 0 216c0,17 -7,32 -18,43 -11,11 -26,18 -43,18 -16,0 -32,-7 -43,-18 -11,-11 -18,-26 -18,-43l0 -216 -271 0c-85,0 -163,35 -219,91 -56,56 -90,133 -90,218l0 773 -7 0 0 -773c0,-86 36,-165 93,-222 57,-58 136,-93 223,-93z"/>
+  </g>
+ </g>
+</svg>

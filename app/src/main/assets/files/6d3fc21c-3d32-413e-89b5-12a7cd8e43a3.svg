@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Creator: CorelDRAW 2020 (64-Bit) -->
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="40mm" height="60mm" version="1.1" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
+viewBox="0 0 4000 6000"
+ xmlns:xlink="http://www.w3.org/1999/xlink"
+ xmlns:xodm="http://www.corel.com/coreldraw/odm/2003">
+ <defs>
+  <style type="text/css">
+   <![CDATA[
+    .str0 {stroke:#332C2B;stroke-width:20;stroke-miterlimit:22.9256}
+    .fil0 {fill:none}
+   ]]>
+  </style>
+   <clipPath id="id0">
+    <rect x="-53584.22" y="-8438.95" width="14675.3" height="17640.62"/>
+   </clipPath>
+ </defs>
+ <g id="图层_x0020_1">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <g style="clip-path:url(#id0)">
+   <image x="-53584.22" y="-8438.95" width="14675.3" height="17640.62" xlink:href="Axon 30S -11i（背膜）_Images\Axon 30S -11i（背膜）_ImgID1.png"/>
+  </g>
+  <rect class="fil0 str0" x="-53148.34" y="-8091.42" width="7780" height="17020"/>
+  <rect class="fil0 str0" x="-53082.59" y="-8057.03" width="7648.5" height="17020" rx="850" ry="983.1"/>
+  <path class="fil0 str0" d="M-52013.35 -7579.74l1421.51 0c219.01,0 708.68,173.42 708.68,351.85l0 200.29 0 1269.99 0 144.58c0,70.11 -212.29,281.76 -308.68,347.83l0 2087.46c0,219.99 -180.01,400 -400,400l-1421.51 0c-220,0 -400,-180 -400,-400l0 -4002c0,-220 180,-400 400,-400z"/>
+  <path class="fil0 str0" d="M-9008.38 3845.72l0 -6304.03c0,-467.49 -382.52,-850 -850.01,-850l-15319.99 0c-467.5,0 -850,382.5 -850,850l0 5948.5c0,467.5 382.5,850 850,850l15319.99 0c467.5,0 850.01,-382.5 850.01,-850 0,-467.5 54.81,-566.9 125.92,-659.5"/>
+  <path class="fil0 str0" d="M-25551.1 3270.95l0 -1421.51c0,-219.01 173.42,-708.68 351.85,-708.68l200.29 0 1269.99 0 144.58 0c70.11,0 281.76,212.29 347.83,308.68l2087.46 0c219.99,0 400,180.01 400,400l0 1421.51c0,220 -180,400 -400,400l-4002 0c-220,0 -400,-180 -400,-400z"/>
+  <g id="_2042201253856">
+   <path class="fil0 str0" d="M1080.65 5321.15l1728.04 0c128.15,0 233,-104.85 233,-233l0 -4199.48c0,-128.15 -104.85,-233 -233,-233l-1630.58 0c-128.15,0 -233,104.85 -233,233l0 4199.48c0,128.15 104.85,233 233,233 128.15,0 155.39,15.03 180.78,34.52"/>
+   <path class="fil0 str0" d="M1238.2 786.5l389.66 0c60.04,0 194.27,47.54 194.27,96.45l0 54.9 0 348.13 0 39.63c0,19.22 -58.2,77.24 -84.62,95.35l0 572.21c0,60.3 -49.34,109.64 -109.65,109.64l-389.66 0c-60.3,0 -109.64,-49.34 -109.64,-109.64l0 -1097.02c0,-60.31 49.34,-109.65 109.64,-109.65z"/>
+  </g>
+ </g>
+</svg>

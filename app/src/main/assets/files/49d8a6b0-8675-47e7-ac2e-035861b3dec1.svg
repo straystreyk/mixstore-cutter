@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Creator: CorelDRAW -->
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="40mm" height="60mm" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
+viewBox="0 0 40 60"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <style type="text/css">
+   <![CDATA[
+    .str0 {stroke:#1F1A17;stroke-width:0.194}
+    .str1 {stroke:#1F1A17;stroke-width:0.2}
+    .fil1 {fill:none}
+    .fil0 {fill:none;fill-rule:nonzero}
+   ]]>
+  </style>
+ </defs>
+ <g id="图层_x0020_1">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <path class="fil0 str0" d="M14.1977 10.2862c0.0777,-0.0012 0.1479,-0.0025 0.2106,-0.0025 0.5706,0 0.7725,0.1229 0.7725,0.4715 0,0.3637 -0.2445,0.4716 -1.0747,0.4716 -0.7186,0 -0.9455,-0.1154 -0.9455,-0.4804 0,-0.2633 0.1781,-0.4351 0.4765,-0.4564"/>
+  <line class="fil0 str0" x1="13.6371" y1="10.29" x2="14.535" y2= "10.2862" />
+  <polyline class="fil0 str0" points="12.9173,9.2291 13.0339,9.2291 13.0239,9.2203 "/>
+  <path class="fil0 str0" d="M13.0239 9.2203c3.6304,-0.0301 2.7225,-0.0238 6.3529,-0.0376 2.7512,-0.01 5.3571,0.0226 8.0896,0.0978 2.4704,0.069 3.2053,0.8026 3.2041,3.2003"/>
+  <line class="fil0 str0" x1="30.6705" y1="12.4808" x2="30.6542" y2= "53.017" />
+  <path class="fil0 str0" d="M30.6542 53.017c0.0037,0.0941 0.005,0.1693 0.005,0.2282 0,0.686 -0.5267,1.629 -1.2076,2.1595 -0.4954,0.3874 -1.0948,0.6169 -1.7331,0.6646 -0.7361,0.0552 -5.1842,0.1116 -8.8308,0.1116 -3.0724,0 -8.0358,-0.0765 -8.4183,-0.1292 -1.4408,-0.1993 -2.5569,-1.2853 -2.7701,-2.6974"/>
+  <line class="fil0 str0" x1="7.6993" y1="53.3543" x2="7.6379" y2= "20.193" />
+  <path class="fil0 str0" d="M7.6379 20.193c-0.0151,-8.0032 -0.0151,-8.1035 0.0627,-8.6678 0.1517,-1.1023 0.3862,-1.5236 1.0345,-1.8585 0.6596,-0.3423 1.5713,-0.4301 4.512,-0.4376"/>
+  <ellipse class="fil1 str1" cx="23.6252" cy="10.69" rx="0.639599" ry="0.63967"/>
+  <rect class="fil1 str1" x="15.4198" y="10.2217" width="6.74464" height="1.09702" rx="1.543" ry="1.543"/>
+ </g>
+</svg>

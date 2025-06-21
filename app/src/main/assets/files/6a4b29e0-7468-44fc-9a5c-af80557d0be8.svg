@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Creator: CorelDRAW 2020 (64-Bit) -->
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="40mm" height="60mm" version="1.1" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
+viewBox="0 0 4000 6000"
+ xmlns:xlink="http://www.w3.org/1999/xlink"
+ xmlns:xodm="http://www.corel.com/coreldraw/odm/2003">
+ <defs>
+  <style type="text/css">
+   <![CDATA[
+    .str0 {stroke:#332C2B;stroke-width:20;stroke-miterlimit:22.9256}
+    .str1 {stroke:#222222;stroke-width:7.62;stroke-miterlimit:22.9256}
+    .fil0 {fill:none}
+   ]]>
+  </style>
+   <clipPath id="id0">
+    <rect x="-35191.68" y="-7588.05" width="17875.11" height="17522.63"/>
+   </clipPath>
+ </defs>
+ <g id="图层_x0020_1">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <g style="clip-path:url(#id0)">
+   <image x="-35191.68" y="-7588.05" width="17875.11" height="17522.63" xlink:href="Smart 2 Pro—(前膜全屏)Front Full_Images\Smart 2 Pro—(前膜全屏)Front Full_ImgID1.png"/>
+  </g>
+  <rect class="fil0 str0" x="-33663.57" y="-6204.46" width="7100" height="14700"/>
+  <rect class="fil0 str0" x="-33462.67" y="-5976.2" width="6665.31" height="14201.53" rx="590" ry="526.34"/>
+  <circle class="fil0 str0" cx="-31112.24" cy="-5568.33" r="136.7"/>
+  <rect class="fil0 str0" x="-30575.35" y="-5656.53" width="917.23" height="132.3" rx="140" ry="140"/>
+  <circle class="fil0 str0" cx="-29119.69" cy="-5563.22" r="166.06"/>
+  <rect class="fil0 str0" x="-26001.24" y="-6178.04" width="7100" height="14700"/>
+  <g id="_3097480954640">
+   <rect class="fil0 str1" x="890.46" y="655.67" width="2205.89" height="4700" rx="195.26" ry="174.19"/>
+   <circle class="fil0 str1" cx="1668.34" cy="790.66" r="45.24"/>
+   <rect class="fil0 str1" x="1846.02" y="761.47" width="303.56" height="43.78" rx="46.33" ry="46.33"/>
+   <circle class="fil0 str1" cx="2327.78" cy="792.35" r="54.96"/>
+  </g>
+  <path class="fil0 str1" d="M38074.42 4359.91l0 -7399.14c0,-324.48 -265.5,-589.99 -590,-589.99l-13021.53 0c-324.5,0 -590,265.5 -590,589.99l0 5485.32c0,324.49 265.5,590 590,590l13021.53 0c324.5,0 590,-265.51 590,-590 0,-324.49 -40.76,-681.08 285.56,-681.08"/>
+  <circle class="fil0 str1" transform="matrix(2.64845E-14 -1 1 2.64845E-14 24280.8 685.66)" r="136.7"/>
+  <rect class="fil0 str1" transform="matrix(2.64845E-14 -1 1 2.64845E-14 24192.6 148.775)" width="917.23" height="132.3" rx="140" ry="140"/>
+  <circle class="fil0 str1" transform="matrix(3.21728E-14 -1.21478 1.21478 3.21728E-14 24285.9 -1306.89)" r="136.7"/>
+ </g>
+</svg>

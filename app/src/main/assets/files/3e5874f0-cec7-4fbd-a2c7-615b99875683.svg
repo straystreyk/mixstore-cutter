@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Creator: CorelDRAW X8 -->
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="40mm" height="60mm" version="1.1" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
+viewBox="0 0 4000 6000"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <style type="text/css">
+   <![CDATA[
+    .str0 {stroke:#332C2B;stroke-width:19.4}
+    .str1 {stroke:#332C2B;stroke-width:20}
+    .fil0 {fill:none}
+   ]]>
+  </style>
+ </defs>
+ <g id="图层_x0020_1">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <polyline class="fil0 str0" points="1257,821 1257,830 1257,830 1254,830 1255,830 "/>
+  <path class="fil0 str0" d="M1255 830c-6,22 -22,35 -43,35 -25,0 -45,-20 -45,-45 1,-25 20,-45 45,-45 26,0 44,18 44,45 0,7 -1,11 -5,27"/>
+  <path class="fil0 str0" d="M1723 827c-4,29 -21,45 -46,45 -25,0 -46,-20 -46,-45 0,-26 21,-46 46,-46 27,0 46,20 45,46 0,7 -1,11 -3,27"/>
+  <path class="fil0 str0" d="M2400 844c-6,23 -22,36 -44,36 -25,0 -45,-20 -45,-46 0,-25 20,-45 46,-45 26,0 44,18 44,45 0,7 -1,11 -5,28"/>
+  <line class="fil0 str0" x1="2920" y1="5343" x2="1044" y2= "5330" />
+  <path class="fil0 str0" d="M1044 5330c-112,-3 -225,-117 -228,-228 0,-12 0,-24 0,-36"/>
+  <line class="fil0 str0" x1="816" y1="5066" x2="847" y2= "914" />
+  <path class="fil0 str0" d="M847 914c6,-96 50,-178 117,-219 41,-25 87,-40 121,-40"/>
+  <line class="fil0 str0" x1="1085" y1="655" x2="2967" y2= "672" />
+  <path class="fil0 str0" d="M2967 672c47,4 111,35 147,72 38,39 69,108 70,154"/>
+  <polyline class="fil0 str0" points="3184,898 3143,5085 3146,5128 "/>
+  <path class="fil0 str0" d="M3146 5128c0,1 0,2 0,3 0,29 -28,92 -56,126 -47,57 -113,86 -198,88"/>
+  <path class="fil0 str1" d="M1868 781l313 0c22,0 41,19 41,41l0 0c0,22 -19,41 -41,41l-313 0c-22,0 -41,-19 -41,-41l0 0c0,-22 19,-41 41,-41z"/>
+ </g>
+</svg>

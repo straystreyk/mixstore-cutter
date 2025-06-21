@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Creator: CorelDRAW X8 -->
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="40mm" height="60mm" version="1.1" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
+viewBox="0 0 4000 6000"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <style type="text/css">
+   <![CDATA[
+    .str0 {stroke:black;stroke-width:10}
+    .str1 {stroke:black;stroke-width:7.62}
+    .fil0 {fill:none}
+   ]]>
+  </style>
+ </defs>
+ <g id="图层_x0020_1">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <path class="fil0 str0" d="M-4081 5834l0 -5511c0,-495 -406,-900 -900,-900l-11545 0c-495,0 -900,405 -900,900l0 4470c0,495 405,900 900,900l11545 0c495,0 900,-405 900,-900 0,-495 311,-992 487,-992"/>
+  <path class="fil0 str1" d="M-17097 4805c-44,3 -86,42 -92,124 0,290 235,525 525,525 290,0 525,-235 525,-525 0,-290 -235,-525 -525,-525 -290,0 -525,235 -525,525"/>
+  <path class="fil0 str1" d="M-16759 4115c-10,0 -19,9 -20,27 0,63 51,115 115,115 63,0 115,-52 115,-115 0,-64 -52,-115 -115,-115 -64,0 -115,51 -115,115"/>
+  <path class="fil0 str1" d="M-16850 3609c-19,2 -37,19 -39,54 0,124 100,225 225,225 124,0 225,-101 225,-225 0,-125 -101,-225 -225,-225 -125,0 -225,100 -225,225"/>
+  <g id="_2274756190160">
+   <path class="fil0 str1" d="M1261 762c-1,-15 -15,-29 -43,-31 -98,0 -178,79 -178,178 0,98 80,178 178,178 99,0 179,-80 179,-178 0,-99 -80,-178 -179,-178"/>
+   <path class="fil0 str1" d="M1495 877c0,-4 -3,-7 -9,-7 -22,0 -39,17 -39,39 0,22 17,39 39,39 21,0 39,-17 39,-39 0,-22 -18,-39 -39,-39"/>
+   <path class="fil0 str1" d="M1667 846c-1,-7 -6,-13 -18,-14 -43,0 -77,35 -77,77 0,42 34,76 77,76 42,0 76,-34 76,-76 0,-42 -34,-77 -76,-77"/>
+   <path class="fil0 str0" d="M911 5184l1872 0c169,0 306,-137 306,-306l0 -3922c0,-168 -137,-306 -306,-306l-1518 0c-169,0 -306,138 -306,306l0 3922c0,169 137,306 306,306 168,0 337,106 337,166"/>
+  </g>
+ </g>
+</svg>

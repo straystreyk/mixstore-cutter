@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Creator: CorelDRAW X8 -->
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="40mm" height="60mm" version="1.1" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
+viewBox="0 0 4000 6000"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <style type="text/css">
+   <![CDATA[
+    .str0 {stroke:black;stroke-width:20}
+    .str1 {stroke:black;stroke-width:10}
+    .fil0 {fill:none}
+   ]]>
+  </style>
+ </defs>
+ <g id="图层_x0020_1">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <path class="fil0 str0" d="M-19928 -10924c0,-28 30,-200 127,-200 96,0 175,78 175,175 0,97 -79,175 -175,175 -97,0 -175,-78 -175,-175 0,-97 78,-175 175,-175"/>
+  <path class="fil0 str0" d="M-21035 -11015c0,-27 22,-224 132,-224 110,0 200,90 200,200 0,111 -90,200 -200,200 -110,0 -200,-89 -200,-200 0,-110 90,-200 200,-200"/>
+  <path class="fil0 str0" d="M-22530 -10993c0,-35 25,-241 149,-241 125,0 225,101 225,225 0,124 -100,225 -225,225 -124,0 -225,-101 -225,-225 0,-124 101,-225 225,-225"/>
+  <path class="fil0 str0" d="M-28827 13810c0,-117 -67,-337 -370,-337 -302,0 -550,-247 -550,-550l0 -23900c0,-302 248,-550 550,-550l13700 0c303,0 550,248 550,550l0 23900c0,303 -247,550 -550,550l-14313 0"/>
+  <g id="_2772065137456">
+   <path class="fil0 str1" d="M2455 762c0,-5 5,-37 23,-37 18,0 33,14 33,32 0,18 -15,33 -33,33 -18,0 -32,-15 -32,-33 0,-18 14,-32 32,-32"/>
+   <path class="fil0 str1" d="M2249 745c0,-5 4,-42 25,-42 20,0 37,17 37,38 0,20 -17,37 -37,37 -21,0 -37,-17 -37,-37 0,-21 16,-38 37,-38"/>
+   <path class="fil0 str1" d="M1972 749c0,-6 5,-45 28,-45 23,0 41,19 41,42 0,23 -18,42 -41,42 -23,0 -42,-19 -42,-42 0,-23 19,-42 42,-42"/>
+   <path class="fil0 str1" d="M804 5350c0,-22 -13,-62 -69,-62 -56,0 -102,-46 -102,-102l0 -4434c0,-56 46,-102 102,-102l2542 0c56,0 102,46 102,102l0 4434c0,56 -46,102 -102,102l-2656 0"/>
+  </g>
+ </g>
+</svg>

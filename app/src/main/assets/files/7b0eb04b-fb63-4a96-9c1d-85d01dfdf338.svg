@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Creator: CorelDRAW 2020 (64-Bit) -->
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="40mm" height="60mm" version="1.1" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
+viewBox="0 0 4000 6000"
+ xmlns:xlink="http://www.w3.org/1999/xlink"
+ xmlns:xodm="http://www.corel.com/coreldraw/odm/2003">
+ <defs>
+  <style type="text/css">
+   <![CDATA[
+    .str0 {stroke:#332C2B;stroke-width:20;stroke-miterlimit:22.9256}
+    .str1 {stroke:#332C2B;stroke-width:7.62;stroke-miterlimit:22.9256}
+    .fil0 {fill:none}
+   ]]>
+  </style>
+   <clipPath id="id0">
+    <rect x="-82465.11" y="-11954.47" width="21455.52" height="14974.69"/>
+   </clipPath>
+ </defs>
+ <g id="图层_x0020_1">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <g style="clip-path:url(#id0)">
+   <image x="-82465.11" y="-11954.47" width="21455.53" height="14974.69" xlink:href="Patrulha Canina Chase NB376 -11i（前膜全屏）_Images\Patrulha Canina Chase NB376 -11i（前膜全屏）_ImgID1.png"/>
+  </g>
+  <rect class="fil0 str0" x="-81360.72" y="-11408.16" width="19200" height="11600"/>
+  <rect class="fil0 str0" x="-79202.93" y="-9481.99" width="14884.42" height="8506.53" rx="128.5" ry="100"/>
+  <path class="fil0 str0" d="M-22698.04 6771.56l14752.22 0c54.99,0 100,-45.01 100,-100l0 -8306.53c0,-55 -45,-100 -100,-100l-14684.42 0c-55,0 -100,45 -100,100l0 8306.53c0,55 45,100 100,100 55,0 124.24,5.61 165.25,24.46"/>
+  <path class="fil0 str1" d="M3332.04 5340.36l0 -4658.25c0,-17.37 -14.21,-31.58 -31.57,-31.58l-2622.92 0c-17.37,0 -31.58,14.21 -31.58,31.58l0 4636.84c0,17.37 14.21,31.58 31.58,31.58l2622.92 0c17.37,0 31.57,-14.21 31.57,-31.58 0,-17.36 1.78,-39.23 7.73,-52.18"/>
+ </g>
+</svg>

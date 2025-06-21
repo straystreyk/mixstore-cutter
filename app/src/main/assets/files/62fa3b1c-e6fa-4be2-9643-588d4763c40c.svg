@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Creator: CorelDRAW 2020 (64-Bit) -->
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="40mm" height="60mm" version="1.1" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
+viewBox="0 0 4000 6000"
+ xmlns:xlink="http://www.w3.org/1999/xlink"
+ xmlns:xodm="http://www.corel.com/coreldraw/odm/2003">
+ <defs>
+  <style type="text/css">
+   <![CDATA[
+    .str1 {stroke:#332C2B;stroke-width:20;stroke-miterlimit:22.9256}
+    .str0 {stroke:#E62129;stroke-width:20;stroke-miterlimit:22.9256}
+    .fil0 {fill:none}
+   ]]>
+  </style>
+   <clipPath id="id0">
+    <rect x="-86142.78" y="-9168.75" width="34883.63" height="22864.52"/>
+   </clipPath>
+ </defs>
+ <g id="图层_x0020_1">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <g style="clip-path:url(#id0)">
+   <image x="-86142.78" y="-9168.75" width="34883.63" height="22864.52" xlink:href="Matebook 13 -11i（前膜全屏）_Images\Matebook 13 -11i（前膜全屏）_ImgID1.png"/>
+  </g>
+  <rect class="fil0 str0" x="-83198.5" y="-8414.68" width="28600" height="21100"/>
+  <rect class="fil0 str0" x="-82677.83" y="-7568.02" width="27558.66" height="18359.88" rx="155.16" ry="150"/>
+  <path class="fil0 str1" d="M-27178.71 16322.58l18194.84 0c82.49,0 149.99,-67.5 149.99,-149.99l0 -27258.68c0,-82.5 -67.49,-149.99 -149.99,-149.99l-18059.9 0c-82.5,0 -149.99,67.49 -149.99,149.99l0 27258.68c0,82.5 67.49,149.99 149.99,149.99 82.5,0 174.5,17.54 227.42,58.55"/>
+  <path class="fil0 str1" d="M433.69 5345.7l3096.46 0c14.04,0 25.52,-11.48 25.52,-25.52l0 -4638.98c0,-14.05 -11.48,-25.53 -25.52,-25.53l-3073.5 0c-14.04,0 -25.52,11.48 -25.52,25.53l0 4638.98c0,14.04 11.48,25.52 25.52,25.52 14.04,0 29.7,2.99 38.7,9.97"/>
+ </g>
+</svg>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Creator: CorelDRAW X8 -->
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="40mm" height="60mm" version="1.1" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
+viewBox="0 0 4000 6000"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <style type="text/css">
+   <![CDATA[
+    .str0 {stroke:#222222;stroke-width:20}
+    .fil0 {fill:none}
+   ]]>
+  </style>
+ </defs>
+ <g id="图层_x0020_1">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <g id="_2565556725600">
+   <path class="fil0 str0" d="M899 5241l1968 0c129,0 234,-106 234,-234l0 -4123c0,-129 -105,-234 -234,-234l-1674 0c-129,0 -234,105 -234,234l0 4123c0,128 105,234 234,234 129,0 233,82 233,109"/>
+   <path class="fil0 str0" d="M1218 825c0,-8 8,-70 41,-70 33,0 60,26 60,60 0,33 -27,60 -60,60 -33,0 -60,-27 -60,-60 0,-34 27,-60 60,-60"/>
+   <path class="fil0 str0" d="M2288 824c0,-8 11,-69 44,-69 33,0 60,26 60,60 0,33 -27,60 -60,60 -33,0 -60,-27 -60,-60 0,-34 27,-60 60,-60"/>
+   <path class="fil0 str0" d="M1952 836c0,-32 -65,-48 -84,-48 -18,0 -33,15 -33,33l0 0c0,18 15,33 33,33l302 0c18,0 33,-15 33,-33l0 0c0,-18 -15,-33 -33,-33l-302 0"/>
+  </g>
+  <path class="fil0 str0" d="M-8055 6647l0 -6221c0,-406 -332,-739 -739,-739l-13026 0c-407,0 -739,333 -739,739l0 5291c0,407 332,739 739,739l13026 0c407,0 739,-332 739,-739 0,-406 260,-737 346,-737"/>
+  <path class="fil0 str0" d="M-22007 5637c-24,0 -222,-24 -222,-129 0,-105 85,-190 190,-190 105,0 190,85 190,190 0,105 -85,190 -190,190 -105,0 -190,-85 -190,-190"/>
+  <path class="fil0 str0" d="M-22008 2257c-28,0 -221,-34 -221,-139 0,-105 85,-190 190,-190 105,0 190,85 190,190 0,105 -85,190 -190,190 -105,0 -190,-85 -190,-190"/>
+  <path class="fil0 str0" d="M-21970 3317c-104,0 -154,209 -154,267 0,57 47,105 105,105l0 0c58,0 105,-48 105,-105l0 -954c0,-58 -47,-105 -105,-105l0 0c-58,0 -105,47 -105,105l0 954"/>
+ </g>
+</svg>

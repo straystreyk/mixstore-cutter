@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Creator: CorelDRAW 2020 (64-Bit) -->
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="40mm" height="60mm" version="1.1" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
+viewBox="0 0 4000 6000"
+ xmlns:xlink="http://www.w3.org/1999/xlink"
+ xmlns:xodm="http://www.corel.com/coreldraw/odm/2003">
+ <defs>
+  <style type="text/css">
+   <![CDATA[
+    .str1 {stroke:#332C2B;stroke-width:20;stroke-miterlimit:22.9256}
+    .str0 {stroke:#E62129;stroke-width:20;stroke-miterlimit:22.9256}
+    .fil0 {fill:none}
+   ]]>
+  </style>
+   <clipPath id="id0">
+    <rect x="-45764.68" y="-7030.38" width="13844.08" height="17051.85"/>
+   </clipPath>
+ </defs>
+ <g id="图层_x0020_1">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <g style="clip-path:url(#id0)">
+   <image x="-45764.68" y="-7030.38" width="13844.08" height="17051.85" xlink:href="Yuva 2 Pro -11i（前膜全屏）_Images\Yuva 2 Pro -11i（前膜全屏）_ImgID1.png"/>
+  </g>
+  <rect class="fil0 str0" x="-40056.24" y="-6701.03" width="7600" height="16450"/>
+  <path class="fil0 str0" d="M-38982.84 -6518.47l1251.24 0c76.7,0 145.9,51.6 193.06,51.6l733.97 0c179.62,0 170.25,125.75 170.25,199 0,204.58 165.84,370.42 370.42,370.42 204.58,0 370.42,-165.84 370.42,-370.42 0,-73.25 -11.35,-199 164.96,-199l727.36 0c47.16,0 137.53,-51.6 208.94,-51.6l1262.58 0c495,0 900,405.01 900,900l0 14304.11c0,495 -405,900 -900,900l-5453.2 0c-495,0 -900,-405 -900,-900l0 -14304.11c0,-495 405,-900 900,-900z"/>
+  <path class="fil0 str1" d="M-6624.63 4760.13l0 -5900.35c0,-494.98 -405.02,-900 -900,-900l-14304.11 0c-494.99,0 -900,405 -900,900l0 1262.58c0,71.41 51.6,161.78 51.6,208.94l0 727.36c0,176.31 125.75,164.96 199,164.96 204.58,0 370.42,165.84 370.42,370.42 0,204.58 -165.84,370.42 -370.42,370.42 -73.25,0 -199,-9.37 -199,170.25l0 733.97c0,47.16 -51.6,116.36 -51.6,193.06l0 1251.24c0,495 405,900 900,900l14304.11 0c495,0 900,-405 900,-900 0,-495 48.7,-687.69 105.59,-813.37"/>
+  <path class="fil0 str1" d="M1072.64 5319.91l1710.81 0c143.51,0 260.95,-117.43 260.95,-260.95l0 -4147.47c0,-143.53 -117.43,-260.96 -260.95,-260.96l-366.09 0c-20.7,0 -46.91,14.96 -60.58,14.96l-210.9 0c-51.12,0 -47.83,36.46 -47.83,57.7 0,59.32 -48.08,107.4 -107.4,107.4 -59.32,0 -107.4,-48.08 -107.4,-107.4 0,-21.24 2.71,-57.7 -49.37,-57.7l-212.81 0c-13.68,0 -33.74,-14.96 -55.98,-14.96l-362.8 0c-143.52,0 -260.95,117.43 -260.95,260.96l0 4147.47c0,143.52 117.43,260.95 260.95,260.95 143.53,0 199.4,14.12 235.84,30.62"/>
+ </g>
+</svg>

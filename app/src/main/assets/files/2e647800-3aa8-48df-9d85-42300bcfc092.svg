@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Creator: CorelDRAW X8 -->
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="40mm" height="60mm" version="1.1" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
+viewBox="0 0 4000 6000"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <style type="text/css">
+   <![CDATA[
+    .str1 {stroke:#332C2B;stroke-width:20}
+    .str0 {stroke:#332C2B;stroke-width:10}
+    .fil0 {fill:none}
+   ]]>
+  </style>
+   <clipPath id="id0">
+    <rect x="-71918" y="26673" width="29322" height="20726"/>
+   </clipPath>
+ </defs>
+ <g id="图层_x0020_1">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <g style="clip-path:url(#id0)">
+   <image transform="matrix(-0.0113927 0.999935 -0.999935 -0.0113927 -42595.7 27004.3)" x="0" y="0" width="20396" height="29091" xlink:href="Oukitel K9—11i （前膜全屏）_Images\Oukitel K9—11i （前膜全屏）_ImgID1.png"/>
+  </g>
+  <path class="fil0 str0" d="M887 5261l2004 0c122,0 222,-99 222,-221l0 -4168c0,-122 -100,-222 -222,-222l-580 0c-10,28 -21,35 -50,35l-157 0c0,0 -38,-1 -38,44l0 46c0,30 -24,54 -54,54l0 0c-30,0 -55,-24 -55,-54l0 -46c0,-45 -37,-44 -37,-44l-158 0c-22,0 -33,-10 -50,-35l-579 0c-122,0 -222,100 -222,222l0 4168c0,122 100,221 222,221 0,0 2,0 3,0 69,0 144,74 148,89"/>
+  <path class="fil0 str1" d="M-2144 7221l0 -7507c0,-456 -374,-830 -830,-830l-15616 0c-456,0 -830,374 -830,830l0 2172c105,38 132,81 132,191l0 587c0,0 -6,140 165,140l171 0c112,0 205,92 205,205l0 0c0,113 -93,205 -205,205l-171 0c-171,0 -165,140 -165,140l0 590c0,83 -39,125 -132,188l0 2169c0,457 374,830 830,830l15616 0c456,0 830,-373 830,-829 0,-1 0,-9 0,-10 -1,-260 275,-542 332,-556"/>
+ </g>
+</svg>

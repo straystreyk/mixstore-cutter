@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Creator: CorelDRAW 2020 (64-Bit) -->
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="40mm" height="60mm" version="1.1" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
+viewBox="0 0 4000 6000"
+ xmlns:xlink="http://www.w3.org/1999/xlink"
+ xmlns:xodm="http://www.corel.com/coreldraw/odm/2003">
+ <defs>
+  <style type="text/css">
+   <![CDATA[
+    .str1 {stroke:#332C2B;stroke-width:20;stroke-miterlimit:22.9256}
+    .str0 {stroke:#E62129;stroke-width:20;stroke-miterlimit:22.9256}
+    .fil0 {fill:none}
+   ]]>
+  </style>
+   <clipPath id="id0">
+    <rect x="-33490.93" y="-1429.45" width="6144.55" height="9256.39"/>
+   </clipPath>
+ </defs>
+ <g id="图层_x0020_1">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <g style="clip-path:url(#id0)">
+   <image x="-33490.93" y="-1429.45" width="6144.55" height="9256.39" xlink:href="Bsc100S -1_Images\Bsc100S -1_ImgID1.png"/>
+  </g>
+  <rect class="fil0 str0" x="-33050.46" y="-1096.16" width="5100" height="8670"/>
+  <path class="fil0 str0" d="M-31723.39 -929.46l2395.6 0c696.08,0 1243.96,299.19 1243.96,899.99l0 5815.8c0,980.67 -958.05,1100 -1563.02,1100l-1746.89 0c-604.97,0 -1523.33,-153.69 -1523.33,-1100l0 -5815.8c0,-494.99 267.42,-899.99 1193.68,-899.99z"/>
+  <path class="fil0 str1" d="M-5210.15 5091.5l-6334.38 0c-494.99,0 -899.99,-267.42 -899.99,-1193.68l0 -2395.6c0,-696.08 299.19,-1243.96 899.99,-1243.96l5815.8 0c980.67,0 1100,958.05 1100,1563.02l0 1746.89c0,604.97 -153.69,1523.33 -1100,1523.33 -946.31,0 -1204.54,276.35 -1270.68,395.42"/>
+  <path class="fil0 str1" d="M658.53 5000.89l0 -3809.16c0,-297.66 160.82,-541.2 717.82,-541.2l1440.59 0c418.58,0 748.05,179.91 748.05,541.2l0 3497.32c0,589.72 -576.12,661.48 -939.92,661.48l-1050.49 0c-363.79,0 -916.05,-92.42 -916.05,-661.48 0,-569.06 -166.18,-724.35 -237.78,-764.12"/>
+ </g>
+</svg>

@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Creator: CorelDRAW 2020 (64-Bit) -->
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="40mm" height="60mm" version="1.1" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
+viewBox="0 0 4000 6000"
+ xmlns:xlink="http://www.w3.org/1999/xlink"
+ xmlns:xodm="http://www.corel.com/coreldraw/odm/2003">
+ <defs>
+  <style type="text/css">
+   <![CDATA[
+    .str0 {stroke:#332C2B;stroke-width:20;stroke-miterlimit:22.9256}
+    .str1 {stroke:#332C2B;stroke-width:7.62;stroke-miterlimit:22.9256}
+    .fil0 {fill:none}
+   ]]>
+  </style>
+   <clipPath id="id0">
+    <rect x="-60574.5" y="-15487.46" width="23818.37" height="15397.9"/>
+   </clipPath>
+   <clipPath id="id1">
+    <rect x="-101962.48" y="-17128.87" width="25486" height="17220.93"/>
+   </clipPath>
+ </defs>
+ <g id="图层_x0020_1">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <g style="clip-path:url(#id0)">
+   <image x="-60574.5" y="-15487.46" width="23818.37" height="15397.9" xlink:href="WIZE 3761 3G—(前膜全屏)_Images\WIZE 3761 3G—(前膜全屏)_ImgID1.png"/>
+  </g>
+  <g style="clip-path:url(#id1)">
+   <image x="-101962.48" y="-17128.87" width="25486" height="17220.93" xlink:href="WIZE 3761 3G—(前膜全屏)_Images\WIZE 3761 3G—(前膜全屏)_ImgID2.png"/>
+  </g>
+  <rect class="fil0 str0" x="-59508.92" y="-14311.28" width="21700.01" height="13597"/>
+  <rect class="fil0 str0" x="-35001.92" y="-52143.02" width="25650" height="21700"/>
+  <rect class="fil0 str0" x="-59282.55" y="-14137.95" width="21352.55" height="13295.33" rx="546.05" ry="237.87"/>
+  <circle class="fil0 str0" cx="-49417.15" cy="-13599.97" r="124.18"/>
+  <rect class="fil0 str0" x="-99641.35" y="-14712.38" width="21700.01" height="13597"/>
+  <rect class="fil0 str0" x="-99517.79" y="-14632.95" width="21449.69" height="13390.18" rx="704.84" ry="307.83"/>
+  <circle class="fil0 str0" cx="-88765.33" cy="-14028.92" r="337.19"/>
+  <g id="_1572420375088">
+   <rect class="fil0 str1" x="143.4" y="1853.76" width="3700" height="2303.83" rx="94.62" ry="41.22"/>
+   <circle class="fil0 str1" cx="1852.89" cy="1946.99" r="21.52"/>
+  </g>
+  <path class="fil0 str1" d="M28003.3 9761.18l0 -13073.94c0,-186.99 -153.01,-340 -340.01,-340l-20672.55 0c-187,0 -340,153 -340,340l0 12615.33c0,187 153,340 340,340l20672.55 0c187,0 340.01,-153 340.01,-340 0,-187 -66.48,-769.05 281.89,-769.05"/>
+  <path class="fil0 str1" d="M16516.14 -3238.96c68.58,0 124.18,55.6 124.18,124.18 0,68.58 -55.6,124.18 -124.18,124.18 -68.58,0 -124.18,-55.6 -124.18,-124.18 0,-68.58 55.6,-124.18 124.18,-124.18z"/>
+ </g>
+</svg>

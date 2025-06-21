@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Creator: CorelDRAW X8 -->
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="40mm" height="60mm" version="1.1" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
+viewBox="0 0 4000 6000"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <style type="text/css">
+   <![CDATA[
+    .str0 {stroke:#332C2B;stroke-width:7.62}
+    .fil0 {fill:none}
+   ]]>
+  </style>
+   <clipPath id="id0">
+    <rect x="-55503" y="-16900" width="7619" height="3598"/>
+   </clipPath>
+ </defs>
+ <g id="图层_x0020_1">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <g style="clip-path:url(#id0)">
+   <image x="-55503" y="-16900" width="7619" height="3598" xlink:href="K62 plus—12Q（前膜带壳)_Images\K62 plus—12Q（前膜带壳)_ImgID1.png"/>
+  </g>
+  <path class="fil0 str0" d="M877 5209l2032 0c118,0 214,-97 214,-215l0 -4130c0,-117 -96,-214 -214,-214l-1659 0c-118,0 -214,97 -214,214l0 4130c0,118 96,215 214,215 118,0 318,91 318,141m487 -4483c-16,-17 -12,-97 26,-97 38,0 69,31 69,68 0,38 -31,69 -69,69 -38,0 -68,-31 -68,-69 0,-37 30,-68 68,-68"/>
+ </g>
+</svg>

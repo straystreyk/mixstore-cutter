@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Creator: CorelDRAW X8 -->
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="40mm" height="60mm" version="1.1" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
+viewBox="0 0 4000 6000"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <style type="text/css">
+   <![CDATA[
+    .str0 {stroke:#332C2B;stroke-width:30;stroke-linejoin:bevel}
+    .fil0 {fill:none}
+   ]]>
+  </style>
+ </defs>
+ <g id="图层_x0020_1">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <g id="_2048987997072">
+   <line class="fil0 str0" x1="1140" y1="650" x2="2860" y2= "650" />
+   <path class="fil0 str0" d="M3084 874c0,-59 -24,-116 -66,-158 -42,-42 -99,-66 -158,-66"/>
+   <line class="fil0 str0" x1="3084" y1="874" x2="3084" y2= "5126" />
+   <path class="fil0 str0" d="M2860 5350c123,0 224,-100 224,-224"/>
+   <line class="fil0 str0" x1="2860" y1="5350" x2="1140" y2= "5350" />
+   <path class="fil0 str0" d="M916 5126c0,59 24,116 66,158 42,42 99,66 158,66"/>
+   <line class="fil0 str0" x1="916" y1="5126" x2="916" y2= "874" />
+   <path class="fil0 str0" d="M1140 650c-59,0 -116,24 -158,66 -42,42 -66,99 -66,158"/>
+  </g>
+ </g>
+</svg>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Creator: CorelDRAW 2020 (64-Bit) -->
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="40mm" height="60mm" version="1.1" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
+viewBox="0 0 4000 6000"
+ xmlns:xlink="http://www.w3.org/1999/xlink"
+ xmlns:xodm="http://www.corel.com/coreldraw/odm/2003">
+ <defs>
+  <style type="text/css">
+   <![CDATA[
+    .str0 {stroke:#222222;stroke-width:20;stroke-miterlimit:22.9256}
+    .fil0 {fill:none}
+   ]]>
+  </style>
+   <clipPath id="id0">
+    <rect x="-34657.5" y="-6627.8" width="10295.13" height="17179.24"/>
+   </clipPath>
+ </defs>
+ <g id="图层_x0020_1">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <g style="clip-path:url(#id0)">
+   <image x="-34657.5" y="-6627.8" width="10295.12" height="17179.24" xlink:href="EDA51-11i（前膜全屏）_Images\EDA51-11i（前膜全屏）_ImgID1.png"/>
+  </g>
+  <path class="fil0 str0" d="M-2704.23 6861l0 -6111.18c0,-467.5 -382.51,-850.01 -850,-850.01l-12800 0c-467.5,0 -850,382.5 -850,850.01l0 5499.99c0,467.51 382.5,850 850,850l12800 0c467.5,0 850,-382.49 850,-850 0,-467.51 84.19,-722.08 237.65,-883.48"/>
+  <path class="fil0 str0" d="M-16923.41 3975.81c0,105.51 86.31,191.82 191.82,191.82l0.01 0c105.51,0 191.82,-86.31 191.82,-191.82l0 -1116.55c0,-105.51 -86.31,-191.82 -191.82,-191.82l-0.01 0c-105.51,0 -191.82,86.31 -191.82,191.82l0 1116.55c0,0 15.87,-290.79 100.54,-380.75"/>
+  <g id="_2353071284672">
+   <path class="fil0 str0" d="M921.48 5279.88l1948.92 0c149.09,0 271.08,-121.99 271.08,-271.08l0 -4082.06c0,-149.09 -121.98,-271.07 -271.08,-271.07l-1754.01 0c-149.09,0 -271.07,121.98 -271.07,271.07l0 4082.06c0,149.1 121.98,271.08 271.07,271.08 149.1,0 230.28,26.85 281.76,75.79"/>
+   <path class="fil0 str0" d="M1841.6 745.23c-33.65,0 -61.18,27.52 -61.18,61.17l0 0c0,33.65 27.53,61.18 61.18,61.18l356.08 0c33.65,0 61.17,-27.53 61.17,-61.18l0 0c0,-33.65 -27.52,-61.17 -61.17,-61.17l-356.08 0c0,0 92.73,5.06 121.42,32.06"/>
+  </g>
+ </g>
+</svg>

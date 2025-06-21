@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Creator: CorelDRAW 2020 (64-Bit) -->
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="40mm" height="60mm" version="1.1" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
+viewBox="0 0 4000 6000"
+ xmlns:xlink="http://www.w3.org/1999/xlink"
+ xmlns:xodm="http://www.corel.com/coreldraw/odm/2003">
+ <defs>
+  <style type="text/css">
+   <![CDATA[
+    .str0 {stroke:#332C2B;stroke-width:20;stroke-miterlimit:22.9256}
+    .str1 {stroke:#332C2B;stroke-width:7.62;stroke-miterlimit:22.9256}
+    .fil0 {fill:none}
+   ]]>
+  </style>
+   <clipPath id="id0">
+    <rect x="-26890.01" y="-7147.42" width="18150.45" height="16591.04"/>
+   </clipPath>
+ </defs>
+ <g id="图层_x0020_1">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <g style="clip-path:url(#id0)">
+   <image x="-26890.01" y="-7147.42" width="18150.45" height="16591.04" xlink:href="Galaxy M14—(前膜全屏)Front Full_Images\Galaxy M14—(前膜全屏)Front Full_ImgID1.png"/>
+  </g>
+  <rect class="fil0 str0" x="-17732.58" y="-7184.31" width="7720" height="16680"/>
+  <rect class="fil0 str0" x="-25619.22" y="-7176.6" width="7720" height="16680"/>
+  <rect class="fil0 str0" x="-25496.16" y="-7024.25" width="7425.95" height="16312.69" rx="441.76" ry="1977.03"/>
+  <rect class="fil0 str0" x="-17446.1" y="-6907.99" width="7165.9" height="16154.99" rx="343.59" ry="1578.11"/>
+  <circle class="fil0 str0" cx="-21797.15" cy="-6494.58" r="307.49"/>
+  <path class="fil0 str1" d="M25606.66 7821.22l0 -7072.34c0,-494.99 -404.99,-900 -900,-900l-14512.68 0c-495.02,0 -900.01,405 -900.01,900l0 5625.95c0,495 404.99,900 900.01,900l14512.68 0c495.01,0 900,-405 900,-900 0,-495 -26.87,-1679.64 943.27,-1679.64"/>
+  <path class="fil0 str1" d="M9516.15 3575.82c0,-169.82 137.67,-307.49 307.49,-307.49 169.82,0 307.49,137.67 307.49,307.49 0,169.82 -137.67,307.49 -307.49,307.49 -169.82,0 -307.49,-137.67 -307.49,-307.49z"/>
+  <g id="_1330475326704">
+   <rect class="fil0 str1" x="923.62" y="655.67" width="2139.56" height="4700" rx="127.28" ry="569.62"/>
+   <circle class="fil0 str1" cx="1989.38" cy="808.28" r="88.59"/>
+  </g>
+  <circle class="fil0 str0" cx="-16363.24" cy="-5816.31" r="608.54"/>
+  <circle class="fil0 str0" cx="-16352.37" cy="-4358.03" r="608.54"/>
+  <circle class="fil0 str0" cx="-16352.37" cy="-2893.96" r="608.54"/>
+  <circle class="fil0 str0" cx="-15245.68" cy="-5102.21" r="238.13"/>
+ </g>
+</svg>

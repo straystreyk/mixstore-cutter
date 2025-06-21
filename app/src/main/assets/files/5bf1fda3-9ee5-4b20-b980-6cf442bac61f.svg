@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Creator: CorelDRAW X8 -->
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="40mm" height="60mm" version="1.1" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
+viewBox="0 0 4000 6000"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <style type="text/css">
+   <![CDATA[
+    .str3 {stroke:black;stroke-width:20}
+    .str2 {stroke:#332C2B;stroke-width:7.62}
+    .str1 {stroke:#E62129;stroke-width:7.62}
+    .str0 {stroke:red;stroke-width:7.62}
+    .fil0 {fill:none}
+   ]]>
+  </style>
+   <clipPath id="id0">
+    <rect x="-39284" y="-7082" width="8729" height="16574"/>
+   </clipPath>
+ </defs>
+ <g id="图层_x0020_1">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <g style="clip-path:url(#id0)">
+   <image x="-39284" y="-7082" width="8729" height="16573" xlink:href="POP 3 —12G（前膜全屏）_Images\POP 3 —12G（前膜全屏）_ImgID1.png"/>
+  </g>
+  <rect class="fil0 str0" x="-38734" y="-6517" width="7540" height="15430"/>
+  <rect class="fil0 str0" x="-38469" y="-6252" width="7010" height="14900" rx="532" ry="1162"/>
+  <path class="fil0 str1" d="M-33474 -5950c3,-69 -78,-123 -108,-125 -105,0 -190,85 -190,190 0,105 85,190 190,190 105,0 190,-85 190,-190 0,-105 -85,-190 -190,-190"/>
+  <path class="fil0 str2" d="M-35092 -5898c-15,-57 -46,-102 -187,-102l-120 0c-63,0 -115,52 -115,115l0 0c0,63 52,115 115,115l870 0c63,0 115,-52 115,-115l0 0c0,-63 -52,-115 -115,-115l-750 0"/>
+  <path class="fil0 str1" d="M-36550 -5936c2,-55 -62,-97 -85,-99 -83,0 -150,67 -150,150 0,83 67,150 150,150 83,0 150,-67 150,-150 0,-83 -67,-150 -150,-150"/>
+  <g id="_2118117552272">
+   <path class="fil0 str3" d="M917 5350l2016 0c95,0 173,-78 173,-172l0 -4356c0,-94 -78,-172 -173,-172l-1866 0c-95,0 -173,78 -173,172l0 4356c0,94 78,172 173,172l48 0"/>
+   <path class="fil0 str3" d="M2470 745c1,-21 -25,-39 -34,-39 -33,0 -60,27 -60,60 0,33 27,60 60,60 33,0 60,-27 60,-60 0,-33 -27,-60 -60,-60"/>
+   <path class="fil0 str3" d="M1960 762c-5,-18 -15,-33 -59,-33l-38 0c-20,0 -36,17 -36,37l0 0c0,20 16,36 36,36l274 0c20,0 36,-16 36,-36l0 0c0,-20 -16,-37 -36,-37l-236 0"/>
+   <path class="fil0 str3" d="M1500 750c0,-18 -20,-31 -27,-32 -26,0 -47,21 -47,48 0,26 21,47 47,47 26,0 47,-21 47,-47 0,-27 -21,-48 -47,-48"/>
+  </g>
+ </g>
+</svg>

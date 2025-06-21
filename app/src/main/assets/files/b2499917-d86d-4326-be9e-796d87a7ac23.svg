@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Creator: CorelDRAW 2020 (64-Bit) -->
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="40mm" height="60mm" version="1.1" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
+viewBox="0 0 4000 6000"
+ xmlns:xlink="http://www.w3.org/1999/xlink"
+ xmlns:xodm="http://www.corel.com/coreldraw/odm/2003">
+ <defs>
+  <style type="text/css">
+   <![CDATA[
+    .str0 {stroke:#332C2B;stroke-width:20;stroke-miterlimit:22.9256}
+    .str1 {stroke:#E72D28;stroke-width:20;stroke-miterlimit:22.9256}
+    .fil0 {fill:none}
+   ]]>
+  </style>
+   <clipPath id="id0">
+    <rect x="-29006.89" y="-5189.57" width="8415.89" height="16459.12"/>
+   </clipPath>
+ </defs>
+ <g id="图层_x0020_1">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <g id="_3045584701856">
+   <rect class="fil0 str0" x="912.24" y="650" width="2175.52" height="4700" rx="210.4" ry="213.86"/>
+   <rect class="fil0 str0" x="1160.21" y="735.06" width="408.88" height="155.67" rx="249.93" ry="244.51"/>
+  </g>
+  <g style="clip-path:url(#id0)">
+   <image x="-29006.89" y="-5189.57" width="8415.89" height="16459.12" xlink:href="荣耀 30 PRO—11i（防爆膜）_Images\荣耀 30 PRO—11i（防爆膜）_ImgID1.png"/>
+  </g>
+  <rect class="fil0 str1" x="-28649.08" y="-4987.07" width="7361" height="16032"/>
+  <path class="fil0 str1" d="M-28609.89 10678.12l6505.3 0c378.61,0 688.4,-309.79 688.4,-688.4l0 -14001.19c0,-378.62 -309.78,-688.4 -688.4,-688.4l-5741.31 0c-378.62,0 -688.4,309.78 -688.4,688.4l0 14001.19c0,378.62 309.78,688.4 688.4,688.4 378.62,0 756.25,218.05 756.25,416.49"/>
+  <path class="fil0 str1" d="M-27015.21 -4030.46c0,-234.82 -313.03,-391.1 -453.1,-391.1 -140.07,0 -254.66,114.59 -254.66,254.66l0 0.01c0,140.07 114.59,254.66 254.66,254.66l828.49 0c140.07,0 254.66,-114.59 254.66,-254.66l0 -0.01c0,-140.07 -114.59,-254.66 -254.66,-254.66l-828.49 0"/>
+ </g>
+</svg>

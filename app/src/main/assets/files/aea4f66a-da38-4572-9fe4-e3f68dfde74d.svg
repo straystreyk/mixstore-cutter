@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Creator: CorelDRAW 2020 (64-Bit) -->
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="40mm" height="60mm" version="1.1" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
+viewBox="0 0 4000 6000"
+ xmlns:xlink="http://www.w3.org/1999/xlink"
+ xmlns:xodm="http://www.corel.com/coreldraw/odm/2003">
+ <defs>
+  <style type="text/css">
+   <![CDATA[
+    .str1 {stroke:#332C2B;stroke-width:20;stroke-miterlimit:22.9256}
+    .str0 {stroke:#E62129;stroke-width:20;stroke-miterlimit:22.9256}
+    .fil0 {fill:none}
+   ]]>
+  </style>
+   <clipPath id="id0">
+    <rect x="-45105.03" y="-6564.99" width="12987.06" height="16762.06"/>
+   </clipPath>
+ </defs>
+ <g id="图层_x0020_1">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <g style="clip-path:url(#id0)">
+   <image x="-45105.03" y="-6564.99" width="12987.06" height="16762.06" xlink:href="IQOO Z6 Lite -11i（前膜全屏）_Images\IQOO Z6 Lite -11i（前膜全屏）_ImgID1.png"/>
+  </g>
+  <rect class="fil0 str0" x="-39922.99" y="-6375.13" width="7580" height="16400"/>
+  <path class="fil0 str0" d="M-38861.65 -6208.43l1382.83 0c51.48,0 63.37,66.55 101.03,66.55l836.87 0c142.73,0 132.97,125.15 132.97,206.98 0,155.62 126.16,281.78 281.78,281.78 155.62,0 281.78,-126.16 281.78,-281.78 0,-81.83 -27.17,-206.98 142.02,-206.98l862.61 0c37.66,0 66.09,-66.55 104.34,-66.55l1331.09 0c495,0 900,405 900,900l0 14306.92c0,495 -405,900 -900,900l-5457.32 0c-495,0 -900,-405 -900,-900l0 -14306.92c0,-495 405,-900 900,-900z"/>
+  <path class="fil0 str1" d="M-4639.83 6563.37l0 -5936.21c0,-494.99 -405.01,-900 -900,-900l-14306.92 0c-495,0 -900,405 -900,900l0 1331.09c0,38.25 66.55,66.68 66.55,104.34l0 862.61c0,169.19 125.15,142.02 206.98,142.02 155.62,0 281.78,126.16 281.78,281.78 0,155.62 -126.16,281.78 -281.78,281.78 -81.83,0 -206.98,-9.76 -206.98,132.97l0 836.87c0,37.66 -66.55,49.55 -66.55,101.03l0 1382.83c0,495 405,900 900,900l14306.92 0c495,0 900,-405 900,-900 0,-495 87.35,-724.43 227.59,-872.6"/>
+  <path class="fil0 str1" d="M1069.95 5285.04l1708.05 0c142.42,0 258.96,-116.53 258.96,-258.96l0 -4116.59c0,-142.43 -116.53,-258.96 -258.96,-258.96l-383 0c-11.01,0 -19.19,19.15 -30.02,19.15l-248.21 0c-48.68,0 -40.86,36.01 -40.86,59.55 0,44.78 -36.3,81.08 -81.08,81.08 -44.77,0 -81.08,-36.3 -81.08,-81.08 0,-23.54 2.81,-59.55 -38.26,-59.55l-240.79 0c-10.84,0 -14.26,-19.15 -29.07,-19.15l-397.89 0c-142.43,0 -258.96,116.53 -258.96,258.96l0 4116.59c0,142.43 116.53,258.96 258.96,258.96 142.43,0 208.44,25.14 251.08,65.49"/>
+ </g>
+</svg>

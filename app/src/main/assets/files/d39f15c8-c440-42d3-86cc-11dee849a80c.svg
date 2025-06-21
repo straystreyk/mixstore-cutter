@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Creator: CorelDRAW X8 -->
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="40mm" height="60mm" version="1.1" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
+viewBox="0 0 4000 6000"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <style type="text/css">
+   <![CDATA[
+    .str0 {stroke:#332C2B;stroke-width:19.4}
+    .fil0 {fill:none;fill-rule:nonzero}
+   ]]>
+  </style>
+ </defs>
+ <g id="图层_x0020_1">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <g id="_2199180535712">
+   <g>
+    <line class="fil0 str0" x1="3111" y1="651" x2="3111" y2= "685" />
+    <line class="fil0 str0" x1="2892" y1="5278" x2="2892" y2= "5288" />
+    <path class="fil0 str0" d="M2892 5288c-5,-2 -7,-5 -10,-10 -41,0 -60,16 -88,72"/>
+    <polyline class="fil0 str0" points="1924,731 1920,740 1919,739 "/>
+    <path class="fil0 str0" d="M1919 739c-2,-2 -2,-2 -4,-4"/>
+    <line class="fil0 str0" x1="1915" y1="735" x2="1915" y2= "735" />
+    <path class="fil0 str0" d="M1915 735c0,-2 0,-2 -1,-4"/>
+    <line class="fil0 str0" x1="1914" y1="731" x2="1439" y2= "729" />
+    <path class="fil0 str0" d="M1439 729c-135,0 -148,1 -165,20 -9,10 -14,25 -14,41 0,41 20,58 71,60 63,3 243,4 449,4 262,0 485,-2 506,-6 26,-4 43,-28 43,-57 0,-30 -17,-54 -44,-59 -15,-2 -140,-5 -282,-5 -131,0 -237,2 -250,5"/>
+    <line class="fil0 str0" x1="1753" y1="732" x2="1751" y2= "732" />
+    <path class="fil0 str0" d="M1751 732c-4,0 -4,0 -103,50"/>
+    <line class="fil0 str0" x1="1648" y1="782" x2="1599" y2= "807" />
+    <polyline class="fil0 str0" points="3073,5278 3065,5282 3064,5281 3064,5279 3063,5278 "/>
+    <path class="fil0 str0" d="M3063 5278c-649,0 -1298,0 -1947,0 -110,-3 -189,-64 -219,-170 -3,-10 -3,-12 -3,-63"/>
+    <line class="fil0 str0" x1="894" y1="5045" x2="888" y2= "884" />
+    <path class="fil0 str0" d="M888 884c4,-75 28,-131 77,-175 46,-42 86,-57 160,-57 291,-2 582,-2 874,-2"/>
+    <line class="fil0 str0" x1="1999" y1="650" x2="2874" y2= "652" />
+    <path class="fil0 str0" d="M2874 652c61,1 74,3 103,17 65,29 104,74 129,148 6,17 6,30 6,340"/>
+    <line class="fil0 str0" x1="3112" y1="1157" x2="3108" y2= "5100" />
+    <path class="fil0 str0" d="M3108 5100c-1,27 -32,84 -61,114 -43,42 -82,58 -165,65"/>
+   </g>
+  </g>
+ </g>
+</svg>

@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Creator: CorelDRAW X8 -->
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="40mm" height="60mm" version="1.1" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
+viewBox="0 0 4000 6000"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <style type="text/css">
+   <![CDATA[
+    .str0 {stroke:red;stroke-width:20}
+    .str3 {stroke:#332C2B;stroke-width:7.62}
+    .str1 {stroke:red;stroke-width:7.62}
+    .str2 {stroke:#FF6600;stroke-width:7.62}
+    .fil0 {fill:none}
+   ]]>
+  </style>
+   <clipPath id="id0">
+    <rect x="-27087" y="-8166" width="8559" height="16675"/>
+   </clipPath>
+   <clipPath id="id1">
+    <rect x="-20874" y="-11561" width="3316" height="2152"/>
+   </clipPath>
+ </defs>
+ <g id="图层_x0020_1">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <g style="clip-path:url(#id0)">
+   <image x="-27087" y="-8166" width="8559" height="16675" xlink:href="S-5505 AMSTERDAM—12Q（背贴）_Images\S-5505 AMSTERDAM—12Q（背贴）_ImgID1.png"/>
+  </g>
+  <g style="clip-path:url(#id1)">
+   <image x="-20874" y="-11561" width="3316" height="2152" xlink:href="S-5505 AMSTERDAM—12Q（背贴）_Images\S-5505 AMSTERDAM—12Q（背贴）_ImgID2.png"/>
+  </g>
+  <rect class="fil0 str0" x="-26758" y="-7699" width="7800" height="15700"/>
+  <path class="fil0 str1" d="M-27028 7906l6919 0c555,0 1010,-455 1010,-1010l0 -13504c0,-555 -455,-1010 -1010,-1010l-5468 0c-555,0 -1010,455 -1010,1010l0 13504c0,555 455,1010 1010,1010 556,0 1247,65 1247,334"/>
+  <path class="fil0 str2" d="M-25420 -6728c0,-199 47,-479 276,-479 230,0 416,187 416,416 0,230 -186,416 -416,416 -229,0 -415,-186 -415,-416 0,-229 186,-416 415,-416"/>
+  <path class="fil0 str2" d="M-24240 -6755c0,-114 26,-274 158,-274 131,0 238,107 238,238 0,132 -107,238 -238,238 -132,0 -238,-106 -238,-238 0,-131 106,-238 238,-238"/>
+  <path class="fil0 str3" d="M-1534 4686l0 -6918c0,-556 -454,-1010 -1010,-1010l-13503 0c-556,0 -1010,454 -1010,1010l0 5468c0,555 454,1010 1010,1010l13503 0c556,0 1010,-455 1010,-1010 0,-556 65,-1247 334,-1247"/>
+  <path class="fil0 str3" d="M-16168 3078c-199,0 -478,-46 -478,-276 0,-229 186,-415 416,-415 229,0 415,186 415,415 0,230 -186,416 -415,416 -230,0 -416,-186 -416,-416"/>
+  <path class="fil0 str3" d="M-16195 1899c-114,0 -274,-27 -274,-158 0,-132 107,-238 239,-238 131,0 238,106 238,238 0,131 -107,238 -238,238 -132,0 -239,-107 -239,-238"/>
+  <g id="_2430672761184">
+   <path class="fil0 str3" d="M825 5251l2051 0c164,0 299,-135 299,-299l0 -4003c0,-164 -135,-299 -299,-299l-1621 0c-165,0 -299,135 -299,299l0 4003c0,164 134,299 299,299 165,0 370,19 370,99"/>
+   <path class="fil0 str3" d="M1302 914c0,-59 13,-142 81,-142 69,0 124,55 124,123 0,68 -55,123 -124,123 -68,0 -123,-55 -123,-123 0,-68 55,-123 123,-123"/>
+   <path class="fil0 str3" d="M1651 906c0,-34 8,-81 47,-81 39,0 71,31 71,70 0,39 -32,71 -71,71 -39,0 -70,-32 -70,-71 0,-39 31,-70 70,-70"/>
+  </g>
+ </g>
+</svg>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Creator: CorelDRAW X8 -->
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="40mm" height="60mm" version="1.1" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
+viewBox="0 0 4000 6000"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <style type="text/css">
+   <![CDATA[
+    .str0 {stroke:#332C2B;stroke-width:20}
+    .fil0 {fill:none}
+   ]]>
+  </style>
+ </defs>
+ <g id="图层_x0020_1">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <g id="_2543673793056">
+   <path class="fil0 str0" d="M1042 5350l1764 0c142,0 257,-116 257,-257l0 -4186c0,-141 -115,-257 -257,-257l-1612 0c-142,0 -257,116 -257,257l0 4186c0,141 115,257 257,257l13 0"/>
+   <path class="fil0 str0" d="M1405 835c-9,-9 -23,-16 -60,-16l-28 0c-98,0 -178,80 -178,178l0 696c0,98 80,178 178,178l235 0c98,0 178,-80 178,-178l0 -696c0,-98 -80,-178 -178,-178l-207 0"/>
+   <path class="fil0 str0" d="M1519 835c-9,7 -21,17 -44,17l-158 0c-80,0 -145,65 -145,145l0 696c0,80 65,146 145,146l235 0c80,0 146,-66 146,-146l0 -696c0,-80 -66,-145 -146,-145l-77 0"/>
+   <path class="fil0 str0" d="M1603 1669c1,-24 -27,-43 -38,-44 -36,0 -66,30 -66,66 0,37 30,67 66,67 37,0 67,-30 67,-67 0,-36 -30,-66 -67,-66"/>
+   <path class="fil0 str0" d="M1377 964c2,-35 -39,-62 -54,-63 -53,0 -96,43 -96,96 0,53 43,96 96,96 53,0 96,-43 96,-96 0,-53 -43,-96 -96,-96"/>
+   <path class="fil0 str0" d="M1377 1311c2,-34 -39,-62 -54,-63 -53,0 -96,43 -96,96 0,53 43,96 96,96 53,0 96,-43 96,-96 0,-53 -43,-96 -96,-96"/>
+   <path class="fil0 str0" d="M1377 1659c2,-35 -39,-63 -54,-64 -53,0 -96,43 -96,96 0,53 43,96 96,96 53,0 96,-43 96,-96 0,-53 -43,-96 -96,-96"/>
+   <path class="fil0 str0" d="M1607 972c1,-27 -30,-48 -42,-49 -41,0 -74,33 -74,74 0,40 33,74 74,74 41,0 74,-34 74,-74 0,-41 -33,-74 -74,-74"/>
+  </g>
+ </g>
+</svg>

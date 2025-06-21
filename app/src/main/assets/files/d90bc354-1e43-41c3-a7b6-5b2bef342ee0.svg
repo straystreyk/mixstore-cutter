@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Creator: CorelDRAW X8 -->
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="40mm" height="60mm" version="1.1" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
+viewBox="0 0 4000 6000"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <style type="text/css">
+   <![CDATA[
+    .str0 {stroke:#222222;stroke-width:20}
+    .fil0 {fill:none}
+   ]]>
+  </style>
+ </defs>
+ <g id="图层_x0020_1">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <g id="_2157783314784">
+   <path class="fil0 str0" d="M944 5222l1864 0c137,0 248,-111 248,-248l0 -4076c0,-136 -111,-248 -248,-248l-1590 0c-136,0 -248,112 -248,248l0 4076c0,137 112,248 248,248 136,0 160,76 160,128"/>
+   <rect class="fil0 str0" x="1162" y="789" width="328" height="1046" rx="176" ry="181"/>
+   <circle class="fil0 str0" cx="1330" cy="940" r="99"/>
+   <circle class="fil0 str0" cx="1330" cy="1224" r="74"/>
+   <circle class="fil0 str0" cx="1330" cy="1474" r="68"/>
+   <circle class="fil0 str0" cx="1329" cy="1678" r="60"/>
+  </g>
+  <path class="fil0 str0" d="M-1769 6963l0 -6393c0,-467 -382,-850 -850,-850l-13980 0c-467,0 -850,383 -850,850l0 5453c0,468 383,850 850,850l13980 0c468,0 850,-382 850,-850 0,-467 261,-549 438,-549"/>
+  <rect class="fil0 str0" transform="matrix(2.55843E-14 -0.96601 0.992398 2.62832E-14 -16970.4 6214.14)" width="1164" height="3616" rx="624" ry="624"/>
+  <circle class="fil0 str0" transform="matrix(2.72591E-14 -1.02924 1.02924 2.72591E-14 -16454.5 5641.08)" r="330"/>
+  <circle class="fil0 str0" transform="matrix(2.02585E-14 -0.764918 0.764918 2.02585E-14 -15478.7 5641.08)" r="330"/>
+  <circle class="fil0 str0" transform="matrix(1.87536E-14 -0.708097 0.708097 1.87536E-14 -14624.3 5641.08)" r="330"/>
+  <circle class="fil0 str0" transform="matrix(1.65441E-14 -0.62467 0.62467 1.65441E-14 -13921.9 5641.23)" r="330"/>
+ </g>
+</svg>

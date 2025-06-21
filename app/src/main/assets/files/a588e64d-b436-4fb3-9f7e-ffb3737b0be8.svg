@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Creator: CorelDRAW X8 -->
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="40mm" height="60mm" version="1.1" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
+viewBox="0 0 4000 6000"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <style type="text/css">
+   <![CDATA[
+    .str0 {stroke:#332C2B;stroke-width:19.4}
+    .fil0 {fill:none}
+    .fil1 {fill:#332C2B;fill-rule:nonzero}
+   ]]>
+  </style>
+ </defs>
+ <g id="图层_x0020_1">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <line class="fil0 str0" x1="1292" y1="1581" x2="1292" y2= "1591" />
+  <path class="fil0 str0" d="M1282 1580c-32,-4 -49,-24 -49,-60 0,-34 28,-62 62,-62 34,0 62,28 62,62 0,35 -27,62 -61,62 -6,0 -8,-1 -26,-3"/>
+  <line class="fil0 str0" x1="3138" y1="3008" x2="3128" y2= "3006" />
+  <path class="fil0 str0" d="M3128 3006c2,-7 4,-9 10,-9"/>
+  <line class="fil0 str0" x1="3138" y1="2997" x2="3137" y2= "883" />
+  <path class="fil0 str0" d="M3137 883c-9,-90 -67,-172 -147,-207 -37,-16 -57,-20 -113,-20 -414,-3 -827,-4 -1241,-6 -353,-1 -463,0 -524,4 -61,4 -89,12 -132,39 -66,39 -115,119 -118,189"/>
+  <line class="fil0 str0" x1="862" y1="882" x2="862" y2= "5122" />
+  <path class="fil0 str0" d="M862 5122c2,50 33,117 72,156 39,39 106,70 156,72"/>
+  <line class="fil0 str0" x1="1090" y1="5350" x2="2922" y2= "5349" />
+  <path class="fil0 str0" d="M2922 5349c45,-4 109,-36 144,-71 39,-41 71,-108 72,-156"/>
+  <line class="fil0 str0" x1="3138" y1="5122" x2="3138" y2= "2984" />
+  <path class="fil1" d="M1295 796c42,0 80,17 108,45 28,28 45,66 45,108l0 288c0,42 -17,80 -45,108 -28,28 -66,45 -108,45 -42,0 -80,-17 -108,-45 -28,-28 -45,-66 -45,-108l0 -288c0,-42 17,-80 45,-108 28,-28 66,-45 108,-45zm94 59c-24,-24 -57,-39 -94,-39 -37,0 -70,15 -94,39 -24,24 -39,58 -39,94l0 288c0,37 15,70 39,94 24,24 57,39 94,39 37,0 70,-15 94,-39 24,-24 39,-57 39,-94l0 -288c0,-36 -15,-70 -39,-94z"/>
+ </g>
+</svg>

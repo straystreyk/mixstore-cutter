@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Creator: CorelDRAW X8 -->
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="40mm" height="60mm" version="1.1" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
+viewBox="0 0 4000 6000"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <style type="text/css">
+   <![CDATA[
+    .str0 {stroke:#332C2B;stroke-width:19.4}
+    .fil0 {fill:none;fill-rule:nonzero}
+   ]]>
+  </style>
+ </defs>
+ <g id="图层_x0020_1">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <g id="_2177412971280">
+   <g>
+    <line class="fil0 str0" x1="3073" y1="654" x2="3073" y2= "684" />
+    <line class="fil0 str0" x1="920" y1="5245" x2="920" y2= "5255" />
+    <path class="fil0 str0" d="M920 5255c6,0 9,-3 10,-10"/>
+    <line class="fil0 str0" x1="930" y1="5245" x2="2863" y2= "5245" />
+    <path class="fil0 str0" d="M2863 5245c102,-2 173,-56 206,-157 5,-16 5,-14 5,-328"/>
+    <line class="fil0 str0" x1="3074" y1="4760" x2="3080" y2= "1632" />
+    <path class="fil0 str0" d="M3080 1632c1,-788 1,-788 -11,-820 -35,-96 -95,-148 -178,-157 -25,-2 -78,-3 -191,-3"/>
+    <polyline class="fil0 str0" points="2700,652 2233,654 2233,657 2226,659 2227,660 2227,661 2228,661 2228,662 2222,666 2223,666 2223,667 2224,667 2224,667 2225,668 2203,699 2202,698 2202,697 2201,697 2202,697 2197,702 2195,699 2195,699 2194,698 2194,697 2187,699 2187,696 2111,696 "/>
+    <path class="fil0 str0" d="M2111 696c-48,-1 -48,-1 -49,79"/>
+    <polyline class="fil0 str0" points="2062,775 2062,793 2061,806 "/>
+    <path class="fil0 str0" d="M2061 806c-7,29 -26,44 -58,44 -29,0 -55,-23 -57,-53"/>
+    <polyline class="fil0 str0" points="1946,797 1943,716 1942,715 "/>
+    <path class="fil0 str0" d="M1942 715c-4,-17 -13,-19 -66,-19"/>
+    <polyline class="fil0 str0" points="1876,696 1802,696 1802,693 1802,693 1795,692 1796,689 1797,688 1797,688 1797,687 1792,683 1793,682 1794,682 1794,681 1772,652 1772,652 1772,652 1772,653 1771,653 1770,654 1765,650 1765,651 1764,652 1764,652 1763,653 1756,651 1756,654 1284,652 "/>
+    <path class="fil0 str0" d="M1284 652c-166,0 -182,1 -222,18 -61,27 -105,79 -123,146 -3,9 -3,11 -3,60"/>
+    <line class="fil0 str0" x1="936" y1="876" x2="926" y2= "4969" />
+    <path class="fil0 str0" d="M926 4969c2,75 6,101 17,130 35,95 90,138 197,150 53,6 91,33 144,101"/>
+   </g>
+  </g>
+ </g>
+</svg>

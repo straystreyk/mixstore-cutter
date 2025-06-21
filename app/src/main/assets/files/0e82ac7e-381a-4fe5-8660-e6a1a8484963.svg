@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Creator: CorelDRAW X8 -->
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="40mm" height="60mm" version="1.1" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
+viewBox="0 0 4000 6000"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <style type="text/css">
+   <![CDATA[
+    .str0 {stroke:#332C2B;stroke-width:7.62}
+    .fil0 {fill:none}
+   ]]>
+  </style>
+ </defs>
+ <g id="图层_x0020_1">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <g id="_2402871074496">
+   <path class="fil0 str0" d="M834 5350l1166 0 1168 0 0 -106 -422 -65 0 -27c139,-8 250,-123 251,-264l132 0 0 -3776 -132 0c-1,-141 -112,-256 -251,-264l0 -27 422 -65 0 -106 -1168 0 -1168 0 0 106 422 65 0 27c-139,8 -250,123 -251,264l-132 0 0 1433c0,15 12,14 67,14l0 0c36,0 66,30 66,66l0 436c0,36 -30,66 -66,66l0 0c-48,0 -67,11 -67,24l0 1737 132 0c1,141 112,256 251,264l0 27 -422 65 0 106 9 0"/>
+   <g>
+    <rect class="fil0 str0" x="1251" y="1020" width="475" height="1043" rx="158" ry="172"/>
+    <rect class="fil0 str0" x="1284" y="1053" width="409" height="977" rx="128" ry="151"/>
+    <ellipse class="fil0 str0" cx="1406" cy="1867" rx="99" ry="100"/>
+    <ellipse class="fil0 str0" cx="1406" cy="1321" rx="99" ry="100"/>
+    <ellipse class="fil0 str0" cx="1406" cy="1594" rx="99" ry="100"/>
+    <rect class="fil0 str0" x="1334" y="1106" width="145" height="100" rx="38" ry="38"/>
+   </g>
+   <circle class="fil0 str0" cx="1634" cy="742" r="26"/>
+   <rect class="fil0 str0" x="3023" y="1196" width="79.2132" height="541.291" rx="40" ry="32"/>
+   <rect class="fil0 str0" x="900" y="1908" width="68.6515" height="567.698" rx="34" ry="34"/>
+   <rect class="fil0 str0" transform="matrix(4.55744E-15 -0.273099 0.169707 7.13317E-15 1269.92 5278.71)" width="251" height="2108" rx="126" ry="126"/>
+   <rect class="fil0 str0" transform="matrix(3.36412E-15 -0.420152 0.125271 1.09741E-14 1863.59 5297.19)" width="251" height="2108" rx="126" ry="126"/>
+   <circle class="fil0 str0" cx="2598" cy="5244" r="66"/>
+   <circle class="fil0 str0" cx="2397" cy="5244" r="26"/>
+  </g>
+ </g>
+</svg>

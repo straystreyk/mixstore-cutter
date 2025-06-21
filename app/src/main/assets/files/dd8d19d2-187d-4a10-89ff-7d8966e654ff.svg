@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Creator: CorelDRAW X8 -->
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="40mm" height="60mm" version="1.1" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
+viewBox="0 0 4000 6000"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <style type="text/css">
+   <![CDATA[
+    .str0 {stroke:#332C2B;stroke-width:19.4}
+    .fil0 {fill:none;fill-rule:nonzero}
+   ]]>
+  </style>
+ </defs>
+ <g id="图层_x0020_1">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <g id="_2482134705488">
+   <g>
+    <line class="fil0 str0" x1="3072" y1="652" x2="3072" y2= "684" />
+    <line class="fil0 str0" x1="1048" y1="5294" x2="1048" y2= "5304" />
+    <path class="fil0 str0" d="M1048 5304c5,-2 8,-5 10,-10"/>
+    <line class="fil0 str0" x1="1058" y1="5294" x2="2837" y2= "5294" />
+    <path class="fil0 str0" d="M2837 5294c114,-3 198,-68 231,-178 3,-10 3,-17 4,-65"/>
+    <polyline class="fil0 str0" points="3072,5051 3077,894 3077,891 "/>
+    <path class="fil0 str0" d="M3077 891c-2,-45 -2,-45 -17,-84"/>
+    <line class="fil0 str0" x1="3060" y1="807" x2="3058" y2= "804" />
+    <path class="fil0 str0" d="M3058 804c-29,-75 -89,-127 -167,-146 -23,-6 -80,-8 -201,-8 -189,0 -195,0 -201,16"/>
+    <line class="fil0 str0" x1="2489" y1="666" x2="2487" y2= "669" />
+    <path class="fil0 str0" d="M2487 669c-2,6 -2,6 -2,52"/>
+    <line class="fil0 str0" x1="2485" y1="721" x2="2485" y2= "744" />
+    <path class="fil0 str0" d="M2485 744c0,49 -6,62 -31,66 -17,2 -245,4 -523,4 -280,0 -513,-2 -533,-4 -26,-4 -31,-15 -31,-70 0,-8 0,-20 0,-34 0,-27 -2,-38 -8,-45 -6,-7 -42,-10 -108,-10 -131,0 -157,3 -206,30 -57,30 -96,80 -117,149 -3,10 -4,21 -4,64 -1,252 -1,503 -1,755"/>
+    <line class="fil0 str0" x1="923" y1="1649" x2="928" y2= "5114" />
+    <path class="fil0 str0" d="M928 5114c5,30 35,84 64,112 41,42 80,58 162,69 38,5 54,14 93,55"/>
+   </g>
+  </g>
+ </g>
+</svg>

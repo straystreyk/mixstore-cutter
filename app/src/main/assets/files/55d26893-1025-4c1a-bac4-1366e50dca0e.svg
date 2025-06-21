@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Creator: CorelDRAW X8 -->
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="40mm" height="60mm" version="1.1" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
+viewBox="0 0 4000 6000"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <style type="text/css">
+   <![CDATA[
+    .str0 {stroke:#332C2B;stroke-width:20}
+    .fil0 {fill:none}
+   ]]>
+  </style>
+ </defs>
+ <g id="图层_x0020_1">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <g id="_2688218604272">
+   <path class="fil0 str0" d="M939 5202l1851 0c149,0 271,-122 271,-271l0 -4010c0,-149 -122,-271 -271,-271l-1553 0c-149,0 -271,122 -271,271l0 4010c0,149 122,271 271,271 149,0 231,66 231,148"/>
+   <path class="fil0 str0" d="M1572 4755c0,-133 -172,-140 -243,-140 -71,0 -130,58 -130,129l0 0c0,71 59,130 130,130l358 0c71,0 129,-59 129,-130l0 0c0,-71 -58,-130 -129,-129l-358 0"/>
+   <path class="fil0 str0" d="M1179 927c0,-119 68,-219 141,-219 73,0 138,34 179,88 15,36 39,34 39,34l137 0c59,0 107,48 107,106l0 0c0,58 -48,106 -107,106l-137 0c0,0 -19,-2 -39,33 -41,53 -106,87 -179,87 -125,0 -227,-101 -227,-227 0,-125 102,-227 227,-227"/>
+  </g>
+  <path class="fil0 str0" d="M-816 6483l0 -5462c0,-440 -360,-800 -800,-800l-11834 0c-440,0 -800,360 -800,800l0 4582c0,440 360,800 800,800l11834 0c440,0 800,-360 800,-800 0,-440 196,-680 437,-680"/>
+  <path class="fil0 str0" d="M-2134 4616c-395,0 -414,507 -414,717 0,210 172,382 382,382l0 0c209,0 381,-172 381,-382l0 -1057c0,-210 -172,-381 -381,-381l0 0c-210,0 -384,171 -382,381l0 1057"/>
+  <path class="fil0 str0" d="M-13433 5774c-350,0 -645,-201 -645,-416 0,-214 101,-405 258,-528 108,-44 102,-115 102,-115l0 -404c0,-174 141,-315 313,-315l0 0c171,0 312,141 312,315l0 404c0,0 -8,55 96,115 157,123 258,314 258,528 0,370 -300,670 -670,670 -369,0 -669,-300 -669,-670"/>
+ </g>
+</svg>

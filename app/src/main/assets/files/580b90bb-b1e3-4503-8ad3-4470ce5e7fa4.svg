@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Creator: CorelDRAW 2020 (64-Bit) -->
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="40mm" height="60mm" version="1.1" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
+viewBox="0 0 4000 6000"
+ xmlns:xlink="http://www.w3.org/1999/xlink"
+ xmlns:xodm="http://www.corel.com/coreldraw/odm/2003">
+ <defs>
+  <style type="text/css">
+   <![CDATA[
+    .str1 {stroke:#332C2B;stroke-width:20;stroke-miterlimit:22.9256}
+    .str0 {stroke:#E62129;stroke-width:20;stroke-miterlimit:22.9256}
+    .fil0 {fill:none}
+   ]]>
+  </style>
+   <clipPath id="id0">
+    <rect x="-128951.15" y="-13000.88" width="40345.36" height="32185.62"/>
+   </clipPath>
+ </defs>
+ <g id="图层_x0020_1">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <g style="clip-path:url(#id0)">
+   <image x="-128951.15" y="-13000.88" width="40345.36" height="32185.62" xlink:href="ADOL14E1135 -11i（背膜）_Images\ADOL14E1135 -11i（背膜）_ImgID1.png"/>
+  </g>
+  <rect class="fil0 str0" x="-125366.29" y="-11443.88" width="32190" height="21200" rx="378.56" ry="400"/>
+  <path class="fil0 str1" d="M-28762.84 16436.46l20665.92 0c219.98,0 399.99,-180.01 399.99,-400l0 -31390c0,-220 -180,-400 -399.99,-400l-20400.01 0c-219.99,0 -400,180 -400,400l0 31390c0,220 180.01,400 400,400 219.99,0 350.65,43.32 413.49,101.53"/>
+  <path class="fil0 str1" d="M470.1 5340.89l3007.9 0c32.02,0 58.22,-26.2 58.22,-58.22l0 -4568.78c0,-32.02 -26.2,-58.22 -58.22,-58.22l-2969.2 0c-32.02,0 -58.22,26.2 -58.22,58.22l0 4568.78c0,32.02 26.2,58.22 58.22,58.22 32.02,0 51.04,6.31 60.18,14.78"/>
+ </g>
+</svg>

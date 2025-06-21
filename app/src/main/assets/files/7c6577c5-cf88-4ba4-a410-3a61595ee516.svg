@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Creator: CorelDRAW 2020 (64-Bit) -->
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="40mm" height="60mm" version="1.1" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
+viewBox="0 0 4000 6000"
+ xmlns:xlink="http://www.w3.org/1999/xlink"
+ xmlns:xodm="http://www.corel.com/coreldraw/odm/2003">
+ <defs>
+  <style type="text/css">
+   <![CDATA[
+    .str0 {stroke:#332C2B;stroke-width:20;stroke-miterlimit:22.9256}
+    .fil0 {fill:none}
+   ]]>
+  </style>
+   <clipPath id="id0">
+    <rect x="-35068.21" y="-4805.21" width="12313.73" height="16503.31"/>
+   </clipPath>
+ </defs>
+ <g id="图层_x0020_1">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <g style="clip-path:url(#id0)">
+   <image x="-35068.21" y="-4805.21" width="12313.73" height="16503.31" xlink:href="80 SE -11i（前膜全屏）_Images\80 SE -11i（前膜全屏）_ImgID1.png"/>
+  </g>
+  <rect class="fil0 str0" x="-30243.56" y="-4649.1" width="7340" height="16130"/>
+  <rect class="fil0 str0" x="-30147.97" y="-4506.97" width="7148.82" height="15807.47" rx="600" ry="607.61"/>
+  <circle class="fil0 str0" cx="-26601.68" cy="-4021.09" r="233.18"/>
+  <path class="fil0 str0" d="M-2521.69 6726.44l0 -6259.71c0,-329.98 -270,-600 -600,-600l-14607.47 0c-329.99,0 -600,270.01 -600,600l0 5948.82c0,329.99 270.01,600 600,600l14607.47 0c330.01,0 600,-270.01 600,-600 0,-329.99 36.66,-469.99 88.75,-557.63"/>
+  <path class="fil0 str0" d="M-18076.46 3469.26c0,128.78 104.4,233.18 233.18,233.18 128.78,0 233.18,-104.4 233.18,-233.18 0,-128.78 -104.4,-233.18 -233.18,-233.18 -128.78,0 -233.18,104.4 -233.18,233.18 0,128.78 138.09,168.66 179.43,171.14"/>
+  <g id="_2434794918608">
+   <path class="fil0 str0" d="M1024.84 5323.83l1850.8 0c97.56,0 177.4,-79.83 177.4,-177.4l0 -4318.96c0,-97.57 -79.83,-177.4 -177.4,-177.4l-1758.88 0c-97.57,0 -177.4,79.83 -177.4,177.4l0 4318.96c0,97.57 79.83,177.4 177.4,177.4 97.57,0 138.96,10.84 164.87,26.24"/>
+   <path class="fil0 str0" d="M1987.89 724.79c-38.08,0 -68.95,30.86 -68.95,68.94 0,38.08 30.87,68.94 68.95,68.94 38.07,0 68.94,-30.86 68.94,-68.94 0,-38.08 -30.87,-68.94 -68.94,-68.94 -38.08,0 -49.87,40.82 -50.6,53.05"/>
+  </g>
+ </g>
+</svg>

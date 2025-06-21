@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Creator: CorelDRAW 2020 (64-Bit) -->
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="40mm" height="60mm" version="1.1" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
+viewBox="0 0 4000 6000"
+ xmlns:xlink="http://www.w3.org/1999/xlink"
+ xmlns:xodm="http://www.corel.com/coreldraw/odm/2003">
+ <defs>
+  <style type="text/css">
+   <![CDATA[
+    .str1 {stroke:#332C2B;stroke-width:20;stroke-miterlimit:22.9256}
+    .str0 {stroke:#E62129;stroke-width:20;stroke-miterlimit:22.9256}
+    .fil0 {fill:none}
+   ]]>
+  </style>
+   <clipPath id="id0">
+    <rect x="-51418.52" y="-4091.93" width="7746.99" height="17016.69"/>
+   </clipPath>
+ </defs>
+ <g id="图层_x0020_1">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <g style="clip-path:url(#id0)">
+   <image x="-51418.52" y="-4091.93" width="7746.99" height="17016.69" xlink:href="Galaxy Z Flip -11i（前膜全屏）_Images\Galaxy Z Flip -11i（前膜全屏）_ImgID1.png"/>
+  </g>
+  <rect class="fil0 str0" x="-51237.23" y="-3902.71" width="7360" height="16730"/>
+  <path class="fil0 str0" d="M-50261.62 -3415.87l2482.4 0 0 301.64c0,128.24 104.92,233.16 233.16,233.16l0.02 0c128.24,0 233.16,-104.92 233.16,-233.16l0 -301.64 2460.06 0c274.11,0 498.4,224.28 498.4,498.4l0 14751.74c0,274.12 -224.29,498.41 -498.4,498.41l-5408.8 0c-274.12,0 -498.4,-224.29 -498.4,-498.41l0 -14751.74c0,-274.12 224.28,-498.4 498.4,-498.4z"/>
+  <path class="fil0 str1" d="M-6290.23 6262.04l0 -5727.4c0,-274.1 -224.3,-498.4 -498.41,-498.4l-14751.74 0c-274.12,0 -498.4,224.29 -498.4,498.4l0 2460.06 301.64 0c128.24,0 233.16,104.92 233.16,233.16l0 0.02c0,128.24 -104.92,233.16 -233.16,233.16l-301.64 0 0 2482.4c0,274.12 224.28,498.4 498.4,498.4l14751.74 0c274.12,0 498.41,-224.28 498.41,-498.4 0,-274.12 47.26,-462.77 101.28,-550.97"/>
+  <path class="fil0 str1" d="M1096.98 5325.64l1698.36 0c81.28,0 147.79,-66.51 147.79,-147.8l0 -4374.38c0,-81.28 -66.5,-147.79 -147.79,-147.79l-729.49 0 0 89.45c0,38.03 -31.11,69.14 -69.13,69.14l-0.01 0c-38.03,0 -69.14,-31.11 -69.14,-69.14l0 -89.45 -736.11 0c-81.29,0 -147.79,66.51 -147.79,147.79l0 4374.38c0,81.29 66.5,147.8 147.79,147.8 81.28,0 137.22,14.01 163.38,30.03"/>
+ </g>
+</svg>

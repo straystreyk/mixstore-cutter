@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Creator: CorelDRAW X8 -->
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="40mm" height="60mm" version="1.1" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
+viewBox="0 0 4000 6000"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <style type="text/css">
+   <![CDATA[
+    .str0 {stroke:#222222;stroke-width:20}
+    .fil0 {fill:none}
+   ]]>
+  </style>
+ </defs>
+ <g id="图层_x0020_1">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <g id="_1816402775088">
+   <path class="fil0 str0" d="M856 5219l2032 0c141,0 256,-115 256,-256l0 -4057c0,-141 -115,-256 -256,-256l-1725 0c-141,0 -256,115 -256,256l0 4057c0,141 115,256 256,256 141,0 339,82 339,131"/>
+   <path class="fil0 str0" d="M1864 1143c0,-37 49,-206 175,-206 126,0 228,102 228,228 0,126 -102,228 -228,228 -126,0 -229,-102 -229,-228 0,-126 103,-228 229,-228"/>
+   <path class="fil0 str0" d="M1976 1487c0,-13 18,-74 63,-74 45,0 81,37 81,82 0,45 -36,81 -81,81 -45,0 -82,-36 -82,-81 0,-45 37,-82 82,-82"/>
+   <path class="fil0 str0" d="M1923 4961c0,-29 -97,-77 -126,-77 -29,0 -53,24 -53,53l0 0c0,29 24,53 53,53l484 0c29,0 53,-24 53,-53l0 0c0,-29 -24,-53 -53,-53l-484 0"/>
+  </g>
+  <path class="fil0 str0" d="M-13198 6740l0 -6312c0,-437 -357,-794 -795,-794l-12606 0c-437,0 -794,357 -794,794l0 5360c0,437 357,795 794,795l12606 0c438,0 795,-358 795,-795 0,-437 255,-1054 407,-1054"/>
+  <path class="fil0 str0" d="M-25861 3611c-116,0 -642,-152 -642,-544 0,-392 318,-710 709,-710 392,0 710,318 710,710 0,392 -318,709 -710,709 -391,0 -709,-317 -709,-709"/>
+  <path class="fil0 str0" d="M-24793 3261c-41,0 -229,-55 -229,-194 0,-140 114,-253 253,-253 140,0 254,113 254,253 0,139 -114,253 -254,253 -139,0 -253,-114 -253,-253"/>
+  <path class="fil0 str0" d="M-13998 3428c-93,0 -240,301 -240,391 0,90 74,164 164,164l0 0c90,0 164,-74 164,-164l0 -1505c0,-90 -74,-163 -164,-163l0 0c-90,0 -164,73 -164,163l0 1505"/>
+ </g>
+</svg>

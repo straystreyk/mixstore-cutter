@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Creator: CorelDRAW -->
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="40mm" height="60mm" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
+viewBox="0 0 40 60"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <style type="text/css">
+   <![CDATA[
+    .str0 {stroke:#1F1A17;stroke-width:0.194}
+    .str1 {stroke:#1F1A17;stroke-width:0.2}
+    .fil0 {fill:none}
+   ]]>
+  </style>
+ </defs>
+ <g id="图层_x0020_2">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <g id="_162036576">
+   <g id="_119798840">
+    <line id="_119790720" class="fil0 str0" x1="23.877" y1="52.0107" x2="6.2453" y2= "52.0039" />
+    <path id="_161715752" class="fil0 str0" d="M6.2453 52.0039c-0.8449,-0.0219 -1.4507,-0.4751 -1.7118,-1.2806 -0.0319,-0.101 -0.0351,-0.1426 -0.0351,-0.5695"/>
+    <line id="_85476224" class="fil0 str0" x1="4.4984" y1="50.1538" x2="4.4468" y2= "6.8777" />
+    <path id="_82220112" class="fil0 str0" d="M4.4468 6.8777c0.034,-0.6836 0.27,-1.1489 0.7693,-1.5209"/>
+    <line id="_162058416" class="fil0 str0" x1="5.2161" y1="5.3568" x2="5.3411" y2= "5.2417" />
+    <path id="_82014264" class="fil0 str0" d="M5.3411 5.2417c0.2163,-0.2349 0.2163,-0.2349 6.5224,-0.2206"/>
+    <line id="_119933048" class="fil0 str0" x1="11.8635" y1="5.0211" x2="23.5126" y2= "5.0475" />
+    <path id="_119906112" class="fil0 str0" d="M23.5126 5.0475c0.5893,0.001 0.7133,0.0164 0.9449,0.1185 0.4718,0.2095 0.9118,0.7318 1.0182,1.2125 0.0155,0.0691 0.0199,0.1668 0.0187,0.5015"/>
+    <path id="_119905104" class="fil0 str0" d="M25.4944 6.88l-0.035 43.4637 0.0076 0.2458m0.0274 -43.7095z"/>
+    <path id="_119892728" class="fil0 str0" d="M25.467 50.5895c0,0.3149 -0.304,0.812 -0.6518,1.0677 -0.2271,0.1678 -0.5081,0.2765 -0.8428,0.3258"/>
+    <line id="_119879792" class="fil0 str0" x1="23.9724" y1="51.983" x2="23.7815" y2= "52.016" />
+   </g>
+  </g>
+  <ellipse class="fil0 str1" cx="7.6592" cy="6.5111" rx="0.5274" ry="0.5456"/>
+  <rect class="fil0 str1" x="9.6997" y="5.9184" width="4.6299" height="1.1198" rx="0.5599" ry="0.5599"/>
+ </g>
+</svg>

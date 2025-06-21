@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Creator: CorelDRAW -->
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="40mm" height="60mm" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
+viewBox="0 0 40 60"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <style type="text/css">
+   <![CDATA[
+    .str0 {stroke:#1F1A17;stroke-width:0.194}
+    .str1 {stroke:#1F1A17;stroke-width:0.2}
+    .fil0 {fill:none}
+   ]]>
+  </style>
+ </defs>
+ <g id="图层_x0020_1">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <g id="_167821504">
+   <path id="_115039720" class="fil0 str0" d="M10.783 53.4999c-1.0648,-0.0308 -1.7231,-0.6595 -1.7481,-1.6696"/>
+   <line id="_122739152" class="fil0 str0" x1="9.0349" y1="51.8303" x2="8.9648" y2= "9.5173" />
+   <path id="_115334280" class="fil0 str0" d="M8.9648 9.5173c-0.0024,-1.6435 0.0487,-1.9287 0.435,-2.3958 0.2637,-0.3184 0.6548,-0.5442 0.9934,-0.5727"/>
+   <line id="_167378496" class="fil0 str0" x1="10.3932" y1="6.5488" x2="29.2836" y2= "6.5001" />
+   <path id="_171067616" class="fil0 str0" d="M29.2836 6.5001c0.7808,0.0154 1.1741,0.2102 1.4974,0.7415 0.1568,0.259 0.2459,0.5621 0.2543,0.8675"/>
+   <line id="_166502168" class="fil0 str0" x1="31.0353" y1="8.1091" x2="31.0079" y2= "52.1048" />
+   <path id="_81465896" class="fil0 str0" d="M31.0079 52.1048c-0.013,0.3066 -0.347,0.8379 -0.6738,1.0707 -0.2198,0.1581 -0.3755,0.2128 -0.8889,0.3138l-18.6622 0.0106"/>
+   <ellipse id="_121124176" class="fil0 str1" cx="26.9413" cy="7.6626" rx="0.725998" ry="0.673899"/>
+   <path id="_122736744" class="fil0 str1" d="M18.3798 7.2014l3.2682 0c0.251,0 0.4546,0.2036 0.4546,0.4546l0 0.0014c0,0.251 -0.2036,0.4546 -0.4546,0.4546l-3.2682 0c-0.2509,0 -0.4545,-0.2036 -0.4545,-0.4546l-0.0001 -0.0014c0.0001,-0.251 0.2037,-0.4546 0.4547,-0.4546z"/>
+   <path id="_122737192" class="fil0 str1" d="M24.5325 7.3657l0.627 0c0.2098,0 0.38,0.1702 0.38,0.38l0 0c0,0.2098 -0.1702,0.38 -0.38,0.38l-0.627 0c-0.2098,0 -0.38,-0.1702 -0.38,-0.38l0 0c0,-0.2098 0.1702,-0.38 0.38,-0.38z"/>
+  </g>
+ </g>
+</svg>

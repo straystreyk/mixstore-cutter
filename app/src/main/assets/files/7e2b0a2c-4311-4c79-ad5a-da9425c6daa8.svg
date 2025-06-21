@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Creator: CorelDRAW X8 -->
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="40mm" height="60mm" version="1.1" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
+viewBox="0 0 4000 6000"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <style type="text/css">
+   <![CDATA[
+    .str0 {stroke:#1F1A17;stroke-width:19.4}
+    .str1 {stroke:#1F1A17;stroke-width:20}
+    .fil0 {fill:none}
+   ]]>
+  </style>
+ </defs>
+ <g id="图层_x0020_1">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <line id="_119790720" class="fil0 str0" x1="2891" y1="5349" x2="1127" y2= "5349" />
+  <path id="_161715752" class="fil0 str0" d="M1127 5349c-84,-2 -145,-48 -171,-128 -3,-10 -3,-15 -3,-57"/>
+  <line id="_85476224" class="fil0 str0" x1="953" y1="5164" x2="948" y2= "836" />
+  <path id="_82220112" class="fil0 str0" d="M948 836c3,-68 27,-115 77,-152"/>
+  <line id="_162058416" class="fil0 str0" x1="1025" y1="684" x2="1037" y2= "673" />
+  <path id="_82014264" class="fil0 str0" d="M1037 673c22,-24 22,-24 652,-22"/>
+  <line id="_119933048" class="fil0 str0" x1="1689" y1="651" x2="2854" y2= "653" />
+  <path id="_119906112" class="fil0 str0" d="M2854 653c59,0 72,2 95,12 47,21 91,73 102,121 1,7 1,17 1,50"/>
+  <path id="_119905104" class="fil0 str0" d="M3052 836l-3 4347 1 24m2 -4371z"/>
+  <path id="_119892728" class="fil0 str0" d="M3050 5207c0,32 -31,82 -66,107 -22,17 -50,28 -84,33"/>
+  <line id="_119879792" class="fil0 str0" x1="2900" y1="5347" x2="2881" y2= "5350" />
+  <ellipse id="_164307088" class="fil0 str1" cx="1586" cy="800" rx="53" ry="55"/>
+  <path id="_119798112" class="fil0 str1" d="M1846 740l351 0c31,0 56,25 56,56l0 0c0,31 -25,56 -56,56l-351 0c-31,0 -56,-25 -56,-56l0 0c0,-31 25,-56 56,-56l0 0z"/>
+  <path id="_115022264" class="fil0 str1" d="M1930 5128l260 0c50,0 91,41 91,92l0 0c0,50 -41,91 -91,91l-260 0c-50,0 -91,-41 -91,-91l0 0c0,-51 41,-92 91,-92l0 0z"/>
+ </g>
+</svg>

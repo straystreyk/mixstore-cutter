@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Creator: CorelDRAW X8 -->
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="40mm" height="60mm" version="1.1" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
+viewBox="0 0 4000 6000"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <style type="text/css">
+   <![CDATA[
+    .str0 {stroke:#222222;stroke-width:20}
+    .fil0 {fill:none}
+   ]]>
+  </style>
+ </defs>
+ <g id="图层_x0020_1">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <g id="_2416925852288">
+   <path class="fil0 str0" d="M1546 5350c0,-39 -109,-123 -311,-123 -203,0 -368,-166 -368,-368l0 -3841c0,-202 165,-368 368,-368l1583 0c202,0 368,166 368,368l0 3841c0,202 -166,368 -368,368l-2004 0"/>
+   <path class="fil0 str0" d="M1966 883c0,-49 -68,-79 -98,-79 -29,0 -53,24 -53,54l0 0c0,29 24,53 53,53l332 0c29,0 53,-24 53,-53l0 0c0,-30 -24,-54 -53,-54l-332 0"/>
+   <path class="fil0 str0" d="M2706 863c0,-13 11,-83 53,-83 42,0 76,34 76,76 0,42 -34,76 -76,76 -42,0 -76,-34 -76,-76 0,-42 34,-76 76,-76"/>
+   <path class="fil0 str0" d="M1562 870c0,-8 7,-50 32,-50 25,0 45,21 45,46 0,25 -20,45 -45,45 -25,0 -45,-20 -45,-45 0,-25 20,-46 45,-46"/>
+  </g>
+  <path class="fil0 str0" d="M-9456 4054c-80,0 -251,223 -251,636 0,412 -337,750 -750,750l-7828 0c-413,0 -750,-338 -750,-750l0 -3227c0,-412 337,-750 750,-750l7828 0c413,0 750,338 750,750l0 4083"/>
+  <path class="fil0 str0" d="M-18560 3199c-100,0 -161,140 -161,199 0,60 49,108 109,108l0 0c59,0 108,-48 108,-108l0 -676c0,-60 -49,-109 -108,-109l0 0c-60,0 -109,49 -109,109l0 676"/>
+  <path class="fil0 str0" d="M-18601 1691c-27,0 -170,-22 -170,-108 0,-85 70,-154 155,-154 86,0 155,69 155,154 0,86 -69,155 -155,155 -85,0 -155,-69 -155,-155"/>
+  <path class="fil0 str0" d="M-18587 4022c-16,0 -101,-13 -101,-64 0,-51 41,-92 92,-92 51,0 92,41 92,92 0,51 -41,92 -92,92 -51,0 -92,-41 -92,-92"/>
+ </g>
+</svg>

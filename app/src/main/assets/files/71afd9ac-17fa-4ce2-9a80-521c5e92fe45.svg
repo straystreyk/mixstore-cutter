@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Creator: CorelDRAW X8 -->
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="40mm" height="60mm" version="1.1" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
+viewBox="0 0 4000 6000"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <style type="text/css">
+   <![CDATA[
+    .str0 {stroke:#332C2B;stroke-width:19.4}
+    .fil0 {fill:none;fill-rule:nonzero}
+   ]]>
+  </style>
+ </defs>
+ <g id="图层_x0020_1">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <g id="_2173106141600">
+   <g>
+    <line class="fil0 str0" x1="985" y1="5349" x2="985" y2= "5319" />
+    <line class="fil0 str0" x1="980" y1="5244" x2="980" y2= "5254" />
+    <path class="fil0 str0" d="M980 5254c6,-1 9,-4 10,-10 387,1 773,1 1160,1"/>
+    <line class="fil0 str0" x1="2150" y1="5245" x2="2812" y2= "5244" />
+    <path class="fil0 str0" d="M2812 5244c101,-4 173,-62 201,-161 4,-14 4,-28 4,-554"/>
+    <line class="fil0 str0" x1="3017" y1="4529" x2="3020" y2= "871" />
+    <path class="fil0 str0" d="M3020 871c-3,-77 -30,-136 -82,-177 -43,-34 -81,-44 -166,-44 -83,0 -84,1 -84,57"/>
+    <line class="fil0 str0" x1="2688" y1="707" x2="2688" y2= "735" />
+    <path class="fil0 str0" d="M2688 735c0,52 -17,69 -73,71"/>
+    <line class="fil0 str0" x1="2615" y1="806" x2="1273" y2= "805" />
+    <path class="fil0 str0" d="M1273 805c-45,0 -53,-1 -62,-6 -22,-11 -29,-30 -29,-78 0,-5 0,-12 -1,-19 0,-40 -8,-51 -36,-51 -35,0 -62,18 -106,68 -24,28 -48,79 -51,107"/>
+    <polyline class="fil0 str0" points="988,826 987,871 991,5084 "/>
+    <path class="fil0 str0" d="M991 5084c4,28 31,79 55,102 32,33 72,53 118,59"/>
+    <line class="fil0 str0" x1="1164" y1="5245" x2="1205" y2= "5250" />
+    <path class="fil0 str0" d="M1205 5250c41,11 65,38 91,100"/>
+   </g>
+  </g>
+ </g>
+</svg>

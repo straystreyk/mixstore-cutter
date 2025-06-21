@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Creator: CorelDRAW X8 -->
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="40mm" height="60mm" version="1.1" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
+viewBox="0 0 4000 6000"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <style type="text/css">
+   <![CDATA[
+    .str0 {stroke:#332C2B;stroke-width:19.4}
+    .fil0 {fill:none;fill-rule:nonzero}
+   ]]>
+  </style>
+ </defs>
+ <g id="图层_x0020_1">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <g id="_3141503160400">
+   <g>
+    <line class="fil0 str0" x1="3026" y1="650" x2="3026" y2= "679" />
+    <line class="fil0 str0" x1="1002" y1="5283" x2="1002" y2= "5291" />
+    <path class="fil0 str0" d="M1002 5291c5,-1 8,-4 9,-8"/>
+    <line class="fil0 str0" x1="1011" y1="5283" x2="2824" y2= "5283" />
+    <path class="fil0 str0" d="M2824 5283c100,-4 171,-59 199,-155 3,-9 3,-11 3,-57"/>
+    <line class="fil0 str0" x1="3026" y1="5071" x2="3034" y2= "1362" />
+    <path class="fil0 str0" d="M3034 1362c1,-278 1,-208 -2,-486 -2,-47 -6,-66 -21,-105 -27,-59 -74,-99 -137,-117 -13,-3 -20,-4 -58,-4"/>
+    <line class="fil0 str0" x1="2816" y1="650" x2="1182" y2= "651" />
+    <path class="fil0 str0" d="M1182 651c-56,1 -69,3 -95,14 -58,26 -98,72 -118,139"/>
+    <line class="fil0 str0" x1="969" y1="804" x2="968" y2= "807" />
+    <path class="fil0 str0" d="M968 807c-3,5 -3,5 -3,192"/>
+    <line class="fil0 str0" x1="965" y1="999" x2="969" y2= "5126" />
+    <path class="fil0 str0" d="M969 5126c4,26 31,74 55,98 35,35 74,52 131,57 94,9 113,18 151,69"/>
+    <polyline class="fil0 str0" points="2888,800 2893,807 2896,803 "/>
+    <path class="fil0 str0" d="M2896 803c0,-4 0,-5 -1,-9 -4,-1 -4,-2 -8,-2 -5,-34 -33,-58 -66,-58 -37,0 -68,30 -68,67 0,37 31,68 68,68 37,0 67,-30 67,-67 0,-5 -1,-7 -3,-24"/>
+   </g>
+  </g>
+ </g>
+</svg>

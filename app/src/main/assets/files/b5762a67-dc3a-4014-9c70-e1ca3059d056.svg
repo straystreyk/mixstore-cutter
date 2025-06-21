@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Creator: CorelDRAW 2020 (64-Bit) -->
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="40mm" height="60mm" version="1.1" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
+viewBox="0 0 4000 6000"
+ xmlns:xlink="http://www.w3.org/1999/xlink"
+ xmlns:xodm="http://www.corel.com/coreldraw/odm/2003">
+ <defs>
+  <style type="text/css">
+   <![CDATA[
+    .str1 {stroke:#332C2B;stroke-width:20;stroke-miterlimit:22.9256}
+    .str0 {stroke:#E62129;stroke-width:20;stroke-miterlimit:22.9256}
+    .fil0 {fill:none}
+   ]]>
+  </style>
+   <clipPath id="id0">
+    <rect x="-106164.51" y="-15290.82" width="31063.07" height="32808.37"/>
+   </clipPath>
+ </defs>
+ <g id="图层_x0020_1">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <g style="clip-path:url(#id0)">
+   <image x="-106164.51" y="-15290.84" width="31063.09" height="32808.39" xlink:href="One Tab Pro 2 -11i（前膜带壳）_Images\One Tab Pro 2 -11i（前膜带壳）_ImgID1.png"/>
+  </g>
+  <rect class="fil0 str0" x="-104635.88" y="-6941.09" width="24300" height="17200"/>
+  <path class="fil0 str0" d="M-103940.29 -6581.26l11180.17 0 0 339.55c0,146.97 120.25,267.22 267.23,267.22l0.01 0c146.98,0 267.23,-120.25 267.23,-267.22l0 -339.55 11194.18 0c220,0 400,180 400,400l0 15618.18c0,220 -180,400 -400,400l-22908.82 0c-220,0 -400,-180 -400,-400l0 -15618.18c0,-220 180,-400 400,-400z"/>
+  <path class="fil0 str1" d="M-21492.85 14490.56l15847.2 0c218.65,0 397.56,-179.25 397.56,-398.31l0 -11146.96 -337.48 0c-146.08,0 -265.59,-119.74 -265.59,-266.1l0 -0.01c0,-146.36 119.51,-266.1 265.59,-266.1l337.48 0 0 -11133.01c0,-219.07 -178.9,-398.31 -397.56,-398.31l-15523.08 0c-218.66,0 -397.56,179.24 -397.56,398.31l0 22812.18c0,219.07 178.9,398.31 397.56,398.31 218.66,0 374.75,48 440.24,100.91"/>
+  <path class="fil0 str1" d="M403.65 5328.86l3130.15 0c43.4,0 78.92,-35.52 78.92,-78.93l0 -2208.88 -67 0c-29,0 -52.73,-23.73 -52.73,-52.73l0 -0.01c0,-29 23.73,-52.73 52.73,-52.73l67 0 0 -2206.12c0,-43.41 -35.51,-78.93 -78.92,-78.93l-3081.86 0c-43.41,0 -78.92,35.52 -78.92,78.93l0 4520.47c0,43.42 35.51,78.93 78.92,78.93 43.42,0 85.02,7.83 99.37,21.67"/>
+ </g>
+</svg>

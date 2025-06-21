@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Creator: CorelDRAW X8 -->
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="40mm" height="60mm" version="1.1" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
+viewBox="0 0 4000 6000"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <style type="text/css">
+   <![CDATA[
+    .str0 {stroke:black;stroke-width:7.62;stroke-linejoin:bevel}
+    .fil0 {fill:none}
+   ]]>
+  </style>
+ </defs>
+ <g id="图层_x0020_1">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <g id="_1678809624544">
+   <line class="fil0 str0" x1="1229" y1="650" x2="1229" y2= "5350" />
+   <line class="fil0 str0" x1="1538" y1="650" x2="1537" y2= "5350" />
+   <line class="fil0 str0" x1="1846" y1="650" x2="1846" y2= "5350" />
+   <line class="fil0 str0" x1="2154" y1="650" x2="2154" y2= "5350" />
+   <line class="fil0 str0" x1="2463" y1="650" x2="2463" y2= "5350" />
+   <line class="fil0 str0" x1="2771" y1="650" x2="2771" y2= "5350" />
+   <line class="fil0 str0" x1="1188" y1="1606" x2="2812" y2= "1606" />
+   <line class="fil0 str0" x1="1188" y1="2532" x2="2812" y2= "2532" />
+   <line class="fil0 str0" x1="1188" y1="3458" x2="2812" y2= "3458" />
+   <line class="fil0 str0" x1="1188" y1="681" x2="2812" y2= "681" />
+   <line class="fil0 str0" x1="1188" y1="4383" x2="2812" y2= "4383" />
+   <line class="fil0 str0" x1="1188" y1="5309" x2="2812" y2= "5309" />
+  </g>
+  <line class="fil0 str0" x1="-13126" y1="-10328" x2="-13126" y2= "12522" />
+  <line class="fil0 str0" x1="-11622" y1="-10328" x2="-11626" y2= "12522" />
+  <line class="fil0 str0" x1="-10126" y1="-10328" x2="-10126" y2= "12522" />
+  <line class="fil0 str0" x1="-8626" y1="-10328" x2="-8626" y2= "12522" />
+  <line class="fil0 str0" x1="-7126" y1="-10328" x2="-7126" y2= "12522" />
+  <line class="fil0 str0" x1="-5626" y1="-10328" x2="-5626" y2= "12522" />
+  <line class="fil0 str0" x1="-13326" y1="-5678" x2="-5426" y2= "-5678" />
+  <line class="fil0 str0" x1="-13326" y1="-1178" x2="-5426" y2= "-1178" />
+  <line class="fil0 str0" x1="-13326" y1="3322" x2="-5426" y2= "3322" />
+  <line class="fil0 str0" x1="-13326" y1="-10178" x2="-5426" y2= "-10178" />
+  <line class="fil0 str0" x1="-13326" y1="7822" x2="-5426" y2= "7822" />
+  <line class="fil0 str0" x1="-13326" y1="12322" x2="-5426" y2= "12322" />
+ </g>
+</svg>

@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Creator: CorelDRAW 2020 (64-Bit) -->
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="40mm" height="60mm" version="1.1" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
+viewBox="0 0 4000 6000"
+ xmlns:xlink="http://www.w3.org/1999/xlink"
+ xmlns:xodm="http://www.corel.com/coreldraw/odm/2003">
+ <defs>
+  <style type="text/css">
+   <![CDATA[
+    .str0 {stroke:#332C2B;stroke-width:20;stroke-miterlimit:22.9256}
+    .fil0 {fill:none}
+   ]]>
+  </style>
+   <clipPath id="id0">
+    <rect x="-35191.68" y="-7588.05" width="17875.11" height="17522.63"/>
+   </clipPath>
+ </defs>
+ <g id="图层_x0020_1">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <g style="clip-path:url(#id0)">
+   <image x="-35191.68" y="-7588.05" width="17875.11" height="17522.63" xlink:href="Smart 2 Pro—(背膜)Back Cover_Images\Smart 2 Pro—(背膜)Back Cover_ImgID1.png"/>
+  </g>
+  <rect class="fil0 str0" x="-33663.57" y="-6204.46" width="7100" height="14700"/>
+  <rect class="fil0 str0" x="-33462.67" y="-5976.2" width="6665.31" height="14201.53" rx="590" ry="526.34"/>
+  <circle class="fil0 str0" cx="-31112.24" cy="-5568.33" r="136.7"/>
+  <rect class="fil0 str0" x="-30575.35" y="-5656.53" width="917.23" height="132.3" rx="140" ry="140"/>
+  <circle class="fil0 str0" cx="-29119.69" cy="-5563.22" r="166.06"/>
+  <rect class="fil0 str0" x="-26001.24" y="-6178.04" width="7100" height="14700"/>
+  <rect class="fil0 str0" x="-25881.53" y="-5971.97" width="6899.92" height="14228.01" rx="550" ry="474.86"/>
+  <rect class="fil0 str0" x="-25474.67" y="-5581.67" width="1070.49" height="2002" rx="620" ry="563.5"/>
+  <circle class="fil0 str0" cx="-24932.12" cy="-3101.16" r="206.16"/>
+  <ellipse class="fil0 str0" cx="-22409.74" cy="-2325.04" rx="596.93" ry="615.16"/>
+  <path class="fil0 str0" d="M29269.16 7659.2l0 -7590.27c0,-302.49 -247.5,-549.99 -550,-549.99l-13128.01 0c-302.5,0 -550,247.49 -550,549.99l0 5799.92c0,302.5 247.5,550.01 550,550.01l13128.01 0c302.5,0 550,-247.51 550,-550.01 0,-302.5 -102.55,-1056.67 655.92,-1056.67"/>
+  <rect class="fil0 str0" transform="matrix(3.09102E-14 -1.1671 1.06074 2.80932E-14 15431.4 6012)" width="917.22" height="1887.36" rx="531.23" ry="531.23"/>
+  <circle class="fil0 str0" transform="matrix(2.86286E-14 -1.08096 1.08096 2.86286E-14 17912 5469.45)" r="190.72"/>
+  <ellipse class="fil0 str0" transform="matrix(2.73676E-14 -1.03334 1.03334 2.73676E-14 18688.1 2947.07)" rx="577.67" ry="595.31"/>
+  <g id="_3097645989376">
+   <rect class="fil0 str0" x="853.76" y="655.67" width="2279.28" height="4700" rx="181.68" ry="156.86"/>
+   <rect class="fil0 str0" x="988.16" y="784.6" width="353.62" height="661.33" rx="204.81" ry="186.14"/>
+   <circle class="fil0 str0" cx="1167.38" cy="1604" r="68.1"/>
+   <ellipse class="fil0 str0" cx="2000.61" cy="1860.37" rx="197.19" ry="203.21"/>
+  </g>
+ </g>
+</svg>

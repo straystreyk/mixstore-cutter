@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Creator: CorelDRAW X8 -->
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="40mm" height="60mm" version="1.1" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
+viewBox="0 0 4000 6000"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <style type="text/css">
+   <![CDATA[
+    .str0 {stroke:#222222;stroke-width:20}
+    .fil0 {fill:none}
+   ]]>
+  </style>
+ </defs>
+ <g id="图层_x0020_1">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <g id="_2099556284544">
+   <path class="fil0 str0" d="M881 5237l2048 0c105,0 190,-85 190,-190l0 -4207c0,-105 -85,-190 -190,-190l-1854 0c-104,0 -190,85 -190,190l0 4207c0,105 86,190 190,190 104,0 158,84 158,113"/>
+   <path class="fil0 str0" d="M1877 1826c0,-63 21,-214 124,-214 102,0 185,83 185,185 0,102 -83,185 -185,185 -103,0 -186,-83 -186,-185 0,-102 83,-185 186,-185"/>
+   <path class="fil0 str0" d="M1481 999c0,-130 -150,-206 -229,-206 -80,0 -144,64 -144,144l0 0c0,79 64,144 144,144l433 0c79,0 144,-65 144,-144l0 0c0,-80 -65,-144 -144,-144l-433 0"/>
+   <path class="fil0 str0" d="M1597 4873c0,-74 -107,-108 -146,-108 -39,0 -71,32 -71,71l0 0c0,39 32,71 71,71l1105 0c39,0 71,-32 71,-71l0 0c0,-39 -32,-71 -71,-71l-1105 0"/>
+  </g>
+  <path class="fil0 str0" d="M-787 6633l0 -6475c0,-329 -270,-600 -600,-600l-13296 0c-330,0 -600,270 -600,600l0 5860c0,330 270,600 600,600l13296 0c330,0 600,-270 600,-600 0,-330 265,-498 356,-498"/>
+  <path class="fil0 str0" d="M-11566 3485c-201,0 -679,-68 -679,-392 0,-323 263,-586 586,-586 324,0 586,263 586,586 0,324 -262,586 -586,586 -323,0 -586,-262 -586,-586"/>
+  <path class="fil0 str0" d="M-14182 4735c-410,0 -650,476 -650,726 0,250 204,454 455,454l0 0c250,0 454,-204 454,-454l0 -1371c0,-250 -204,-454 -454,-454l0 0c-251,0 -455,204 -455,454l0 1371"/>
+  <path class="fil0 str0" d="M-1937 4368c-236,0 -342,338 -342,462 0,123 101,224 224,224l0 0c124,0 225,-101 225,-224l0 -3492c0,-123 -101,-224 -225,-224l0 0c-123,0 -224,101 -224,224l0 3492"/>
+ </g>
+</svg>

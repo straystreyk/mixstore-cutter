@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Creator: CorelDRAW 2020 (64-Bit) -->
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="40mm" height="60mm" version="1.1" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
+viewBox="0 0 4000 6000"
+ xmlns:xlink="http://www.w3.org/1999/xlink"
+ xmlns:xodm="http://www.corel.com/coreldraw/odm/2003">
+ <defs>
+  <style type="text/css">
+   <![CDATA[
+    .str1 {stroke:#332C2B;stroke-width:20;stroke-miterlimit:22.9256}
+    .str0 {stroke:#E62129;stroke-width:20;stroke-miterlimit:22.9256}
+    .fil0 {fill:none}
+   ]]>
+  </style>
+   <clipPath id="id0">
+    <rect x="-45778.71" y="-4068.9" width="13806.05" height="17081.12"/>
+   </clipPath>
+ </defs>
+ <g id="图层_x0020_1">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <g style="clip-path:url(#id0)">
+   <image x="-45778.71" y="-4068.9" width="13806.05" height="17081.12" xlink:href="红魔 8 Pro+ -11i（前膜带壳）_Images\红魔 8 Pro+ -11i（前膜带壳）_ImgID1.png"/>
+  </g>
+  <rect class="fil0 str0" x="-39933.96" y="-3764.58" width="7640" height="16400"/>
+  <rect class="fil0 str0" x="-39832.86" y="-3590.14" width="7437.8" height="16060.43" rx="250" ry="242.25"/>
+  <path class="fil0 str1" d="M-3057.46 6308.84l0 -7041.64c0,-135.64 -111.81,-246.64 -248.45,-246.64l-15463.51 0c-136.65,0 -248.45,110.99 -248.45,246.64l0 6844.52c0,135.65 111.8,246.64 248.45,246.64l15463.51 0c136.65,0 248.45,-110.99 248.45,-246.64 0,-135.65 5.83,-311.38 54.78,-406.63"/>
+  <path class="fil0 str1" d="M929.16 5340.14l2076.62 0c40.15,0 73,-32.85 73,-73l0 -4543.61c0,-40.15 -32.85,-73 -73,-73l-2025.82 0c-40.15,0 -73,32.85 -73,73l0 4543.61c0,40.15 32.85,73 73,73 40.15,0 62.5,2.57 76.6,10.39"/>
+ </g>
+</svg>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Creator: CorelDRAW 2020 (64-Bit) -->
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="40mm" height="60mm" version="1.1" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
+viewBox="0 0 4000 6000"
+ xmlns:xlink="http://www.w3.org/1999/xlink"
+ xmlns:xodm="http://www.corel.com/coreldraw/odm/2003">
+ <defs>
+  <style type="text/css">
+   <![CDATA[
+    .str0 {stroke:#222222;stroke-width:7.62;stroke-miterlimit:22.9256}
+    .fil0 {fill:none}
+   ]]>
+  </style>
+ </defs>
+ <g id="图层_x0020_1">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <path class="fil0 str0" d="M24817.51 7829.6l0 -6734.68c0,-412.49 -337.51,-750 -750,-750l-14409.79 0c-412.48,0 -749.99,337.5 -749.99,750 0,1992.07 0,3984.13 0,5976.2 0,412.5 337.5,750 749.99,750l14409.79 0c412.49,0 750,-337.5 750,-750 0,-412.5 -8.97,-593.29 237.97,-593.29"/>
+  <circle class="fil0 str0" transform="matrix(2.64845E-14 -1 1 2.64845E-14 9210.79 2680.82)" r="109.14"/>
+  <circle class="fil0 str0" transform="matrix(2.64845E-14 -1 1 2.64845E-14 9211.35 5462.26)" r="109.14"/>
+  <rect class="fil0 str0" transform="matrix(2.60828E-14 -0.984833 1.11769 2.96016E-14 9100.57 4553.87)" width="944.79" height="131.19" rx="107.36" ry="107.36"/>
+  <path class="fil0 str0" d="M1110.67 655.67c588.49,0 1176.97,0 1765.46,0 121.86,0 221.56,99.71 221.56,221.56l0 4256.88c0,121.85 -99.7,221.56 -221.56,221.56l-1765.46 0c-121.86,0 -221.56,-99.71 -221.56,-221.56l0 -4256.88c0,-121.86 99.7,-221.56 221.56,-221.56zm1296.96 57.29c17.81,0 32.24,14.43 32.24,32.24 0,17.81 -14.43,32.24 -32.24,32.24 -17.81,0 -32.24,-14.43 -32.24,-32.24 0,-17.81 14.43,-32.24 32.24,-32.24zm-821.68 0.16c17.81,0 32.24,14.44 32.24,32.24 0,17.81 -14.43,32.25 -32.24,32.25 -17.81,0 -32.24,-14.44 -32.24,-32.25 0,-17.8 14.43,-32.24 32.24,-32.24zm290.01 -0.48l231.56 0c11.91,0 21.66,9.74 21.66,21.66l0 0c0,11.91 -9.75,21.66 -21.66,21.66l-231.56 0c-11.91,0 -21.66,-9.75 -21.66,-21.66l0 0c0,-11.92 9.75,-21.66 21.66,-21.66z"/>
+ </g>
+</svg>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Creator: CorelDRAW 2020 (64-Bit) -->
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="40mm" height="60mm" version="1.1" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
+viewBox="0 0 4000 6000"
+ xmlns:xlink="http://www.w3.org/1999/xlink"
+ xmlns:xodm="http://www.corel.com/coreldraw/odm/2003">
+ <defs>
+  <style type="text/css">
+   <![CDATA[
+    .str1 {stroke:#332C2B;stroke-width:20;stroke-miterlimit:22.9256}
+    .str2 {stroke:#332C2B;stroke-width:20;stroke-miterlimit:22.9256}
+    .str0 {stroke:#E62129;stroke-width:20;stroke-miterlimit:22.9256}
+    .fil0 {fill:none}
+   ]]>
+  </style>
+   <clipPath id="id0">
+    <rect x="-35135.53" y="-5218.51" width="12764.74" height="16848"/>
+   </clipPath>
+ </defs>
+ <g id="图层_x0020_1">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <g style="clip-path:url(#id0)">
+   <image x="-35135.53" y="-5218.51" width="12764.74" height="16848" xlink:href="80 -11i（UV）_Images\80 -11i（UV）_ImgID1.png"/>
+  </g>
+  <rect class="fil0 str0" x="-30028.89" y="-4849.35" width="7390" height="16160"/>
+  <rect class="fil0 str0" x="-29969.09" y="-4683.99" width="7270.4" height="15853.72" rx="600" ry="645.96"/>
+  <circle class="fil0 str1" cx="-26353.34" cy="-4161.21" r="200.09"/>
+  <path class="fil0 str2" d="M-1798.43 6676.42l0 -6363.95c0,-325.44 -268.31,-591.74 -596.21,-591.74l-14561.28 0c-327.91,0 -596.21,266.29 -596.21,591.74l0 5986.91c0,325.45 268.3,591.75 596.21,591.75l14561.28 0c327.91,0 596.21,-266.3 596.21,-591.75 0,-325.45 41.81,-520.08 126.14,-635.83"/>
+  <path class="fil0 str2" d="M992.95 5313.56l1896.08 0c97.06,0 176.49,-79.42 176.49,-176.49l0 -4310.5c0,-97.08 -79.42,-176.5 -176.49,-176.5l-1785.66 0c-97.06,0 -176.49,79.42 -176.49,176.5l0 4310.5c0,97.07 79.43,176.49 176.49,176.49 97.07,0 140.21,10.24 171.09,36.51"/>
+ </g>
+</svg>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Creator: CorelDRAW -->
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="40mm" height="60mm" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
+viewBox="0 0 40 60"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <style type="text/css">
+   <![CDATA[
+    .str0 {stroke:#1F1A17;stroke-width:0.194}
+    .str1 {stroke:#1F1A17;stroke-width:0.2}
+    .fil0 {fill:none}
+   ]]>
+  </style>
+ </defs>
+ <g id="图层_x0020_1">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <path class="fil0 str0" d="M17.2141 9.9563c-0.0562,0.0011 -0.1079,0.0023 -0.1551,0.0023 -0.5149,0 -0.7083,-0.1282 -0.7083,-0.4666 0,-0.3654 0.2204,-0.4744 0.9624,-0.4744 0.6071,0 0.8072,0.1192 0.8072,0.4823 0,0.317 -0.19,0.4564 -0.6195,0.4564"/>
+  <line class="fil0 str0" x1="17.6008" y1="9.9563" x2="17.0117" y2= "9.9563" />
+  <path class="fil0 str0" d="M28.2038 55.0126c-6.5161,0.0034 -11.239,0.0059 -17.755,0.0093 -0.4599,-0.0158 -0.7285,-0.0945 -1.04,-0.307 -0.3676,-0.2496 -0.6846,-0.6992 -0.7745,-1.1006 -0.027,-0.1191 -0.0338,-0.6554 -0.0405,-3.3502"/>
+  <line class="fil0 str0" x1="8.5938" y1="50.2641" x2="8.5477" y2= "31.5231" />
+  <path class="fil0 str0" d="M8.5477 31.5231c-0.018,-7.1917 -0.0135,-14.3824 0.0123,-21.5741 0.036,-0.7026 0.2699,-1.1748 0.7769,-1.5706 0.2619,-0.2046 0.552,-0.3305 0.8061,-0.3507"/>
+  <line class="fil0 str0" x1="10.143" y1="8.0277" x2="28.4051" y2= "8.0277" />
+  <path class="fil0 str0" d="M28.4051 8.0277c0.6385,0.0483 1.3591,0.7094 1.5177,1.3929 0.0179,0.0742 0.0224,0.1844 0.0224,0.5307"/>
+  <line class="fil0 str0" x1="29.9452" y1="9.9513" x2="29.9138" y2= "53.3962" />
+  <path class="fil0 str0" d="M29.9138 53.3962c0.0011,0.0427 0.0022,0.0798 0.0022,0.1102 0,0.371 -0.3182,0.8937 -0.7127,1.1726 -0.3036,0.2147 -0.5577,0.2923 -1.1411,0.3485"/>
+  <path class="fil0 str1" d="M18.8588 9.107l2.5407 0c0.227,0 0.4111,0.1841 0.4111,0.4111l0 0.0664c0,0.227 -0.1841,0.4111 -0.4111,0.4111l-2.5407 0c-0.2269,0 -0.411,-0.1841 -0.411,-0.4111l-0.0001 -0.0664c0.0001,-0.227 0.1842,-0.4111 0.4112,-0.4111z"/>
+  <ellipse class="fil0 str1" cx="23.2234" cy="9.21928" rx="0.821" ry="0.792082"/>
+ </g>
+</svg>

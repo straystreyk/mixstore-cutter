@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Creator: CorelDRAW -->
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="40mm" height="60mm" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
+viewBox="0 0 40 60"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <style type="text/css">
+   <![CDATA[
+    .str0 {stroke:#1F1A17;stroke-width:0.194}
+    .fil0 {fill:none;fill-rule:nonzero}
+   ]]>
+  </style>
+ </defs>
+ <g id="图层_x0020_1">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <g id="_173357296">
+   <g>
+    <line id="_173385976" class="fil0 str0" x1="29.3642" y1="6.5" x2="29.3642" y2= "6.794" />
+    <line id="_173386048" class="fil0 str0" x1="10.5265" y1="52.5901" x2="10.5265" y2= "52.6781" />
+    <path id="_173385448" class="fil0 str0" d="M10.5265 52.6781c0.0528,-0.0155 0.0787,-0.0393 0.0952,-0.088 3.6748,0.0083 7.3507,0.0104 11.0254,0.0073"/>
+    <line id="_173385424" class="fil0 str0" x1="21.6471" y1="52.5974" x2="27.8446" y2= "52.5922" />
+    <path id="_173386456" class="fil0 str0" d="M27.8446 52.5922c0.6056,-0.0166 1.0186,-0.2485 1.3364,-0.7495 0.1066,-0.1677 0.1708,-0.3343 0.1811,-0.472"/>
+    <line id="_173386432" class="fil0 str0" x1="29.3621" y1="51.3707" x2="29.4656" y2= "15.8371" />
+    <path id="_173386120" class="fil0 str0" d="M29.4656 15.8371c0.0114,-4.1023 0.0145,-3.0765 -0.0186,-7.1788 -0.0186,-0.6905 -0.0497,-0.9151 -0.1677,-1.2153 -0.1822,-0.4648 -0.7277,-0.8995 -1.1749,-0.9368"/>
+    <line id="_173386624" class="fil0 str0" x1="28.1044" y1="6.5062" x2="12.4447" y2= "6.5021" />
+    <path id="_173386864" class="fil0 str0" d="M12.4447 6.5021c-0.5259,0.0093 -0.6356,0.0238 -0.8354,0.1149 -0.413,0.1863 -0.7784,0.6169 -0.8716,1.0237 -0.0145,0.0622 -0.0176,0.1543 -0.0176,0.4576"/>
+    <polyline id="_173386672" class="fil0 str0" points="10.7201,8.0983 10.7553,51.174 10.747,51.3997 "/>
+    <path id="_173386648" class="fil0 str0" d="M10.747 51.3997c0,0.2733 0.265,0.6842 0.5849,0.9088 0.2753,0.1926 0.4233,0.235 1.0548,0.3023 0.4161,0.0704 0.5476,0.2101 0.8395,0.8892"/>
+   </g>
+  </g>
+ </g>
+</svg>

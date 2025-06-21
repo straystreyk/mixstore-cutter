@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Creator: CorelDRAW X8 -->
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="40mm" height="60mm" version="1.1" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
+viewBox="0 0 4000 6000"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <style type="text/css">
+   <![CDATA[
+    .str1 {stroke:#222222;stroke-width:20}
+    .str0 {stroke:#222222;stroke-width:10}
+    .fil0 {fill:none}
+   ]]>
+  </style>
+ </defs>
+ <g id="图层_x0020_1">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <g id="_1631247135824">
+   <path class="fil0 str0" d="M933 5123l1886 0c137,0 248,-111 248,-248l0 -3977c0,-136 -111,-248 -248,-248l-1576 0c-137,0 -248,112 -248,248l0 3977c0,137 111,248 248,248 136,0 301,85 301,227"/>
+   <path class="fil0 str0" d="M1329 792c0,-17 7,-50 29,-50 21,0 39,18 39,39 0,22 -18,39 -39,39 -22,0 -39,-17 -39,-39 0,-21 17,-39 39,-39"/>
+   <path class="fil0 str0" d="M2526 790c0,-29 10,-69 40,-69 30,0 54,24 54,54 0,30 -24,55 -54,55 -30,0 -55,-25 -55,-55 0,-30 25,-54 55,-54"/>
+   <path class="fil0 str0" d="M1976 770c0,-47 -81,-48 -98,-48 -16,0 -30,14 -30,31l0 0c0,17 14,30 30,30l313 0c16,0 30,-13 30,-30l0 0c0,-17 -14,-31 -30,-31l-313 0"/>
+  </g>
+  <path class="fil0 str1" d="M-823 6309l0 -5868c0,-427 -355,-776 -789,-776l-12642 0c-434,0 -789,349 -789,776l0 4928c0,427 355,776 789,776l12642 0c434,0 789,-349 789,-776 0,-427 160,-607 429,-607"/>
+  <path class="fil0 str1" d="M-14687 5168c-52,0 -158,-23 -158,-92 0,-69 56,-126 125,-126 69,0 126,57 126,126 0,69 -57,126 -126,126 -69,0 -125,-57 -125,-126"/>
+  <path class="fil0 str1" d="M-14691 1311c-96,0 -224,-33 -224,-130 0,-97 78,-176 175,-176 97,0 176,79 176,176 0,97 -79,176 -176,176 -97,0 -175,-79 -175,-176"/>
+  <path class="fil0 str1" d="M-14758 3083c-151,0 -153,260 -153,314 0,54 45,99 99,99l0 0c54,0 99,-45 99,-99l0 -1006c0,-55 -45,-99 -99,-99l0 0c-54,0 -100,44 -99,99l0 1006"/>
+ </g>
+</svg>

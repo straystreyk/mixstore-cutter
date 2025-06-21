@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Creator: CorelDRAW X8 -->
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="40mm" height="60mm" version="1.1" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
+viewBox="0 0 4000 6000"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <style type="text/css">
+   <![CDATA[
+    .str1 {stroke:#E62129;stroke-width:7.62}
+    .str2 {stroke:black;stroke-width:7.62}
+    .str0 {stroke:red;stroke-width:7.62}
+    .fil0 {fill:none}
+   ]]>
+  </style>
+    <clipPath id="id0">
+     <rect x="-55461" y="-11996" width="12228" height="15918"/>
+    </clipPath>
+ </defs>
+ <g id="图层_x0020_1">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <g id="_2107711485440">
+   <g style="clip-path:url(#id0)">
+    <image x="-55461" y="-11996" width="12228" height="15918" xlink:href="Blade L210—12G（前膜带壳）_Images\Blade L210—12G（前膜带壳）_ImgID1.png"/>
+   </g>
+   <rect class="fil0 str0" x="-50697" y="-11721" width="7100" height="15350" rx="602" ry="731"/>
+   <rect class="fil0 str0" x="-51017" y="-11996" width="7700" height="15900"/>
+   <path class="fil0 str1" d="M-47323 -11394c-15,-57 -47,-103 -187,-103l-201 0c-63,0 -115,52 -115,115l0 0c0,63 52,115 115,115l1200 0c64,0 115,-52 115,-115l0 0c0,-63 -51,-115 -115,-115l-999 0"/>
+   <path class="fil0 str1" d="M-49185 -11550c-1,-15 -14,-28 -41,-31 -97,0 -175,79 -175,175 0,97 78,175 175,175 96,0 175,-78 175,-175 0,-96 -79,-175 -175,-175"/>
+  </g>
+  <path class="fil0 str2" d="M951 5350l1952 0c101,0 184,-83 184,-184l0 -4332c0,-101 -83,-184 -184,-184l-1806 0c-101,0 -184,83 -184,184l0 4332c0,101 83,184 184,184l137 0m712 -4600c-5,-17 -14,-31 -57,-31l-62 0c-19,0 -35,16 -35,35l0 0c0,19 16,35 35,35l368 0c19,0 35,-16 35,-35l0 0c0,-19 -16,-35 -35,-35l-306 0m-513 -16c0,-5 -4,-9 -13,-10 -29,0 -53,24 -53,54 0,29 24,53 53,53 30,0 54,-24 54,-53 0,-30 -24,-54 -54,-54"/>
+ </g>
+</svg>

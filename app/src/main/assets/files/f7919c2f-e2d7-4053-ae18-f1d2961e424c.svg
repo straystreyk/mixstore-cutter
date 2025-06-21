@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Creator: CorelDRAW 2020 (64-Bit) -->
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="40mm" height="60mm" version="1.1" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
+viewBox="0 0 4000 6000"
+ xmlns:xlink="http://www.w3.org/1999/xlink"
+ xmlns:xodm="http://www.corel.com/coreldraw/odm/2003">
+ <defs>
+  <style type="text/css">
+   <![CDATA[
+    .str1 {stroke:black;stroke-width:7.62;stroke-miterlimit:22.9256}
+    .str0 {stroke:black;stroke-width:7.61;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10}
+    .fil1 {fill:none}
+    .fil0 {fill:none;fill-rule:nonzero}
+   ]]>
+  </style>
+ </defs>
+ <g id="图层_x0020_1">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <path class="fil0 str0" d="M-1678.58 7177.84l0 -6727.36c0,-495.46 -402.25,-898.2 -898.8,-898.2l-13882.44 0c-496.41,0 -898.81,402.74 -898.81,897.48l-0.15 5915.58c0,495.75 402.41,897.63 898.81,897.63l13882.3 0c496.4,0 899.09,-401.88 899.09,-897.63 0,-495.75 115.73,-868.52 239.21,-1022.86"/>
+  <path class="fil1 str1" d="M-16995.48 5830.3c-76.32,20.44 -132.35,48.25 -132.35,179.24l0 108.59c0,151.25 123.73,274.98 274.96,274.98l0.08 0c151.21,0 274.96,-123.73 274.96,-274.98l0 -1160.04c0,-151.25 -123.73,-274.98 -274.96,-274.98l-0.08 0c-151.23,0 -274.96,123.75 -274.96,274.98l0 1051.45"/>
+  <g id="_2717777297296">
+   <g>
+    <path class="fil0 str1" d="M886.89 5279.38l1986.17 0c146.27,0 265.18,-118.76 265.18,-265.36l0 -4098.61c0,-146.56 -118.91,-265.36 -264.97,-265.36l-1746.5 -0.05c-146.36,0 -265.01,118.81 -265.01,265.36l0 4098.57c0,146.56 118.65,265.45 265.01,265.45 146.37,0 256.42,34.17 301.99,70.62"/>
+   </g>
+   <path class="fil1 str1" d="M1284.74 757.26c-6.04,-22.53 -14.25,-39.07 -52.92,-39.07l-32.06 0c-44.66,0 -81.19,36.53 -81.19,81.17l0 0.03c0,44.64 36.53,81.18 81.19,81.18l342.48 0c44.66,0 81.19,-36.53 81.19,-81.18l0 -0.03c0,-44.64 -36.54,-81.17 -81.19,-81.17l-310.42 0"/>
+  </g>
+ </g>
+</svg>

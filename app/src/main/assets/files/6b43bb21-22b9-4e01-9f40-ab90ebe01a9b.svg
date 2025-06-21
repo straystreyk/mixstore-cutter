@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Creator: CorelDRAW 2020 (64-Bit) -->
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="40mm" height="60mm" version="1.1" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
+viewBox="0 0 4000 6000"
+ xmlns:xlink="http://www.w3.org/1999/xlink"
+ xmlns:xodm="http://www.corel.com/coreldraw/odm/2003">
+ <defs>
+  <style type="text/css">
+   <![CDATA[
+    .str1 {stroke:#332C2B;stroke-width:20;stroke-miterlimit:22.9256}
+    .str0 {stroke:#E62129;stroke-width:20;stroke-miterlimit:22.9256}
+    .fil0 {fill:none}
+   ]]>
+  </style>
+   <clipPath id="id0">
+    <rect x="-37880.1" y="-3200.87" width="7611.83" height="14911.93"/>
+   </clipPath>
+ </defs>
+ <g id="图层_x0020_1">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <g style="clip-path:url(#id0)">
+   <image x="-37880.1" y="-3200.87" width="7611.83" height="14911.93" xlink:href="XS — 11i（背膜）_Images\XS — 11i（背膜）_ImgID1.png"/>
+  </g>
+  <rect class="fil0 str0" x="-37659.19" y="-2957.99" width="7090" height="14360"/>
+  <path class="fil0 str0" d="M-35877.9 -2747.34l4213.49 0c494.55,0 899.16,404.62 899.16,899.15l0 12151.2c0,494.55 -404.61,899.17 -899.16,899.17l-4899.55 0c-494.55,0 -899.17,-404.62 -899.17,-899.17l0 -10119.53 1037.35 0c301.34,0 547.88,-246.55 547.88,-547.89l0 -2382.93z"/>
+  <path class="fil0 str1" d="M-6779.75 5243.17l0 -5410.2c0,-494.54 -404.63,-899.16 -899.17,-899.16l-12151.2 0c-494.53,0 -899.15,404.61 -899.15,899.16l0 4213.49 2382.93 0c301.34,0 547.89,246.54 547.89,547.88l0 1037.35 10119.53 0c494.55,0 899.17,-404.62 899.17,-899.17 0,-494.55 90,-917.73 174.67,-1055.31"/>
+  <path class="fil0 str1" d="M1007.75 5292.41l1800.31 0c164.57,0 299.21,-134.65 299.21,-299.21l0 -4043.47c0,-164.56 -134.64,-299.2 -299.21,-299.2l-1402.09 0 0 792.95c0,100.28 -82.03,182.32 -182.31,182.32l-345.19 0 0 3367.4c0,164.57 134.64,299.21 299.21,299.21 164.57,0 305.39,29.95 351.17,58.12"/>
+ </g>
+</svg>

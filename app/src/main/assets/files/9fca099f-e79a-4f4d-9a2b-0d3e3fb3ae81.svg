@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Creator: CorelDRAW X8 -->
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="40mm" height="60mm" version="1.1" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
+viewBox="0 0 4000 6000"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <style type="text/css">
+   <![CDATA[
+    .str0 {stroke:#332C2B;stroke-width:19.4}
+    .fil0 {fill:none;fill-rule:nonzero}
+   ]]>
+  </style>
+ </defs>
+ <g id="图层_x0020_1">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <g id="_2708685842544">
+   <path class="fil0 str0" d="M3025 5348c-395,1 -790,1 -1184,0"/>
+   <line class="fil0 str0" x1="1841" y1="5348" x2="1144" y2= "5347" />
+   <path class="fil0 str0" d="M1144 5347c-50,-2 -63,-6 -101,-27 -60,-32 -101,-86 -121,-154 -2,-10 -3,-16 -3,-66"/>
+   <line class="fil0 str0" x1="919" y1="5100" x2="914" y2= "902" />
+   <path class="fil0 str0" d="M914 902c3,-81 30,-141 82,-188 30,-26 65,-44 105,-55 26,-6 50,-7 364,-7 312,-1 312,-1 321,14 3,6 4,17 4,56"/>
+   <line class="fil0 str0" x1="1790" y1="722" x2="1790" y2= "726" />
+   <path class="fil0 str0" d="M1790 726c0,60 0,60 188,60"/>
+   <line class="fil0 str0" x1="1978" y1="786" x2="1990" y2= "786" />
+   <path class="fil0 str0" d="M1990 786c138,0 179,-2 199,-8 20,-5 25,-17 26,-55"/>
+   <line class="fil0 str0" x1="2215" y1="723" x2="2214" y2= "699" />
+   <path class="fil0 str0" d="M2214 699c-3,-49 -3,-49 200,-49"/>
+   <line class="fil0 str0" x1="2414" y1="650" x2="2510" y2= "650" />
+   <path class="fil0 str0" d="M2510 650c397,1 404,1 464,39 56,35 106,108 111,162"/>
+   <polyline class="fil0 str0" points="3085,851 3086,902 3082,5133 "/>
+   <path class="fil0 str0" d="M3082 5133c0,4 0,9 0,12 0,50 -40,120 -90,157 -31,23 -68,37 -113,44"/>
+   <line class="fil0 str0" x1="2879" y1="5346" x2="2852" y2= "5350" />
+  </g>
+ </g>
+</svg>

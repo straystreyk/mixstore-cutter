@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Creator: CorelDRAW X8 -->
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="40mm" height="60mm" version="1.1" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
+viewBox="0 0 4000 6000"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <style type="text/css">
+   <![CDATA[
+    .str0 {stroke:#332C2B;stroke-width:7.62}
+    .fil0 {fill:none}
+   ]]>
+  </style>
+ </defs>
+ <g id="图层_x0020_1">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <g id="_1561830162768">
+   <path class="fil0 str0" d="M3133 4973l0 -3839 -128 0 0 0c0,-137 -103,-250 -235,-267l0 -29 442 -60 0 -128 -2424 0 0 128 420 60 0 29c-133,17 -236,130 -236,267l0 0 -128 0 0 3731 128 0 0 0c0,136 103,250 236,267l0 29 -420 60 0 129 2424 0 0 -129 -442 -60 0 -29c132,-17 235,-131 235,-267l0 0 128 0 0 -17"/>
+   <circle class="fil0 str0" cx="1453" cy="747" r="20"/>
+   <rect class="fil0 str0" x="2323" y="5207" width="430.946" height="80.8023" rx="38" ry="40"/>
+   <rect class="fil0 str0" x="1879" y="5194" width="242" height="108" rx="22" ry="54"/>
+   <rect class="fil0 str0" x="1332" y="5227" width="269.341" height="40.4011" rx="24" ry="20"/>
+   <rect class="fil0 str0" x="2215" y="5227" width="53.8682" height="40.4011" rx="5" ry="20"/>
+   <circle class="fil0 str0" cx="2000" cy="1623" r="471"/>
+   <circle class="fil0 str0" cx="2000" cy="1623" r="404"/>
+   <g>
+    <circle class="fil0 str0" cx="1838" cy="1461" r="108"/>
+    <circle class="fil0 str0" cx="2162" cy="1461" r="108"/>
+    <circle class="fil0 str0" cx="2162" cy="1785" r="108"/>
+    <circle class="fil0 str0" cx="1838" cy="1785" r="108"/>
+   </g>
+   <rect class="fil0 str0" x="2534" y="1524" width="80.8023" height="202.006" rx="40" ry="40"/>
+   <rect class="fil0 str0" x="876" y="2441" width="48.4814" height="336.676" rx="24" ry="22"/>
+   <rect class="fil0 str0" x="3060" y="2215" width="48.4814" height="304.355" rx="24" ry="24"/>
+   <rect class="fil0 str0" x="3060" y="2574" width="48.4814" height="304.355" rx="24" ry="24"/>
+  </g>
+ </g>
+</svg>

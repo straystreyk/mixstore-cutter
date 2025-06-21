@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Creator: CorelDRAW X8 -->
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="40mm" height="60mm" version="1.1" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
+viewBox="0 0 4000 6000"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <style type="text/css">
+   <![CDATA[
+    .str0 {stroke:#332C2B;stroke-width:20}
+    .fil0 {fill:none}
+   ]]>
+  </style>
+   <clipPath id="id0" style="clip-rule:nonzero">
+    <rect x="-77962" y="-12065" width="21407" height="29966"/>
+   </clipPath>
+    <clipPath id="id1" style="clip-rule:nonzero">
+     <rect transform="matrix(595.343 8.4416 -11.9309 841.422 -77541.1 -12064.5)" width="35.25" height="35.26"/>
+    </clipPath>
+ </defs>
+ <g id="图层_x0020_1">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <g style="clip-path:url(#id0)">
+   <image style="clip-path:url(#id1)" transform="matrix(595.343 8.4416 -11.9309 841.422 -77540.8 -12081.3)" x="0" y="0" width="35.28" height="35.28" xlink:href="Hot 10—11i（前膜全屏）_Images\Hot 10—11i（前膜全屏）_ImgID1.png"/>
+  </g>
+  <path class="fil0 str0" d="M947 5350l1891 0c119,0 215,-97 215,-215l0 -4270c0,-118 -96,-215 -215,-215l-1639 0c-118,0 -215,97 -215,215l0 4270c0,118 97,215 215,215 0,0 3,0 3,0m25 -4529c12,-13 -14,-65 -26,-65 -41,0 -74,33 -74,74 0,41 33,74 74,74 41,0 74,-33 74,-74 0,-41 -33,-74 -74,-74"/>
+ </g>
+</svg>

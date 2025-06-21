@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Creator: CorelDRAW X8 -->
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="40mm" height="60mm" version="1.1" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
+viewBox="0 0 4000 6000"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <style type="text/css">
+   <![CDATA[
+    .str1 {stroke:#332C2B;stroke-width:20}
+    .str0 {stroke:#332C2B;stroke-width:10}
+    .fil0 {fill:none}
+   ]]>
+  </style>
+   <clipPath id="id0">
+    <rect x="-77197" y="-7198" width="29091" height="20396"/>
+   </clipPath>
+ </defs>
+ <g id="图层_x0020_1">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <g style="clip-path:url(#id0)">
+   <image transform="matrix(2.64845E-14 -1 1 2.64845E-14 -77197.5 13198.1)" x="0" y="0" width="20396" height="29091" xlink:href="ASUS Zenfone2（ZE551ML）—11i（前膜全屏）_Images\ASUS Zenfone2（ZE551ML）—11i（前膜全屏）_ImgID1.png"/>
+  </g>
+  <g id="_2073320387200">
+   <path class="fil0 str0" d="M763 5330l2474 0 0 -4415c0,-146 -119,-265 -265,-265l-1924 0c-146,0 -265,119 -265,265l0 4435"/>
+   <path class="fil0 str0" d="M1832 690l355 0c32,0 58,26 58,57l0 0c0,32 -26,58 -58,58l-355 0c-31,0 -57,-26 -57,-58l0 0c0,-31 26,-57 57,-57 0,0 2,0 4,0 39,0 107,31 136,62"/>
+  </g>
+  <path class="fil0 str1" d="M-1528 6517l0 -7475 -13342 0c-440,0 -800,360 -800,800l0 5815c0,440 360,800 800,800l13402 0"/>
+  <path class="fil0 str1" d="M-15548 3286l0 -1073c0,-95 78,-172 173,-172l0 0c95,0 172,77 172,172l0 1073c0,95 -77,173 -172,173l0 0c-95,0 -173,-78 -173,-173 0,0 0,-6 0,-10 0,-119 91,-326 186,-411"/>
+ </g>
+</svg>

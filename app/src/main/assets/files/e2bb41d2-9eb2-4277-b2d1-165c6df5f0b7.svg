@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Creator: CorelDRAW 2020 (64-Bit) -->
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="40mm" height="60mm" version="1.1" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
+viewBox="0 0 4000 6000"
+ xmlns:xlink="http://www.w3.org/1999/xlink"
+ xmlns:xodm="http://www.corel.com/coreldraw/odm/2003">
+ <defs>
+  <style type="text/css">
+   <![CDATA[
+    .str0 {stroke:#222222;stroke-width:20;stroke-miterlimit:22.9256}
+    .fil0 {fill:none}
+   ]]>
+  </style>
+   <clipPath id="id0">
+    <rect x="-35951.38" y="-4957.34" width="12634.1" height="18270.92"/>
+   </clipPath>
+ </defs>
+ <g id="图层_x0020_1">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <g style="clip-path:url(#id0)">
+   <image x="-35951.38" y="-4957.34" width="12634.09" height="18270.92" xlink:href="DT40-11i（前膜全屏）_Images\DT40-11i（前膜全屏）_ImgID1.png"/>
+  </g>
+  <path class="fil0 str0" d="M-3827.28 5925.78l0 -5675.18c0,-192.48 -157.51,-350 -350.01,-350l-9899.99 0c-192.51,0 -350,157.51 -350,350l0 5400.01c0,192.49 157.49,349.99 350,349.99l9899.99 0c192.51,0 350.01,-157.5 350.01,-349.99 0,-192.49 56.3,-474.1 179.33,-572"/>
+  <path class="fil0 str0" d="M-14316.07 3359.71c0,95.32 77.98,173.3 173.3,173.3l0.01 0c95.32,0 173.3,-77.98 173.3,-173.3l0 -887.85c0,-95.32 -77.98,-173.3 -173.3,-173.3l-0.01 0c-95.32,0 -173.3,77.98 -173.3,173.3l0 887.85c0,0 4.08,-160.9 70.23,-217.79"/>
+  <g id="_2353076303808">
+   <path class="fil0 str0" d="M696.16 5277.48l2474.49 0c83.93,0 152.61,-68.68 152.61,-152.61l0 -4316.6c0,-83.93 -68.68,-152.6 -152.61,-152.6l-2354.51 0c-83.93,0 -152.6,68.67 -152.6,152.6l0 4316.6c0,83.93 68.67,152.61 152.6,152.61 83.93,0 206.72,24.54 249.41,78.19"/>
+   <path class="fil0 str0" d="M1815.02 704.16c-41.56,0 -75.56,34 -75.56,75.56l0 0c0,41.57 34,75.57 75.56,75.57l387.12 0c41.56,0 75.56,-34 75.56,-75.57l0 0c0,-41.56 -34,-75.56 -75.56,-75.56l-387.12 0c0,0 70.16,1.78 94.96,30.62"/>
+  </g>
+ </g>
+</svg>

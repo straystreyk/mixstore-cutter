@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Creator: CorelDRAW X8 -->
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="40mm" height="60mm" version="1.1" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
+viewBox="0 0 4000 6000"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <style type="text/css">
+   <![CDATA[
+    .str0 {stroke:#332C2B;stroke-width:10}
+    .fil0 {fill:none;fill-rule:nonzero}
+   ]]>
+  </style>
+ </defs>
+ <g id="图层_x0020_1">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <g id="_2929821699984">
+   <g>
+    <line class="fil0 str0" x1="3080" y1="742" x2="3080" y2= "781" />
+    <polyline class="fil0 str0" points="3080,3081 3080,3094 3088,3092 3093,3085 3093,3077 3088,3070 3080,3068 3080,1141 "/>
+    <path class="fil0 str0" d="M3080 1141c-7,0 -11,4 -12,13"/>
+    <line class="fil0 str0" x1="3068" y1="1154" x2="3066" y2= "1154" />
+    <path class="fil0 str0" d="M3066 1154c0,-8 4,-12 12,-13 0,-8 0,-16 0,-23 0,-96 -4,-123 -24,-175 -44,-107 -144,-183 -260,-199 -28,-4 -817,-12 -1180,-12 -397,0 -440,3 -518,34 -133,54 -202,168 -201,335"/>
+    <line class="fil0 str0" x1="895" y1="1101" x2="895" y2= "1167" />
+    <path class="fil0 str0" d="M895 1167c-8,-1 -11,-4 -13,-13"/>
+    <line class="fil0 str0" x1="882" y1="1154" x2="880" y2= "1154" />
+    <path class="fil0 str0" d="M880 1154c1,7 6,13 13,13"/>
+    <line class="fil0 str0" x1="893" y1="1167" x2="893" y2= "5021" />
+    <path class="fil0 str0" d="M893 5021c8,-1 12,-4 13,-13"/>
+    <line class="fil0 str0" x1="906" y1="5008" x2="908" y2= "5008" />
+    <path class="fil0 str0" d="M908 5008c-1,8 -4,11 -13,13 0,9 -1,18 -1,27 0,94 5,123 25,174 44,106 144,183 260,199 30,4 776,11 1167,11 347,0 389,-1 467,-14 153,-27 262,-160 265,-324"/>
+    <line class="fil0 str0" x1="3078" y1="5094" x2="3078" y2= "4995" />
+    <path class="fil0 str0" d="M3078 4995c8,1 11,4 13,13"/>
+    <polyline class="fil0 str0" points="3091,5008 3093,5008 3093,5003 3084,4995 3080,4995 3080,3052 "/>
+    <polyline class="fil0 str0" points="1530,992 1531,979 1538,981 1543,988 1543,996 1538,1003 1530,1005 "/>
+    <path class="fil0 str0" d="M1530 1005c-1,9 -1,16 -1,23 0,51 15,69 55,69 44,0 55,-20 55,-101 0,-46 -3,-71 -11,-86 -8,-15 -20,-21 -43,-21 -44,0 -56,18 -56,83 0,15 0,32 1,48"/>
+    <line class="fil0 str0" x1="1224" y1="1119" x2="1225" y2= "1131" />
+    <path class="fil0 str0" d="M1225 1131c6,0 12,-6 12,-14 75,-5 112,-47 112,-123 0,-71 -56,-127 -126,-127 -70,0 -126,56 -126,127 0,68 55,125 122,125 11,0 20,-1 44,-5"/>
+    <polyline class="fil0 str0" points="1419,1015 1433,1013 1433,1015 1460,1015 1460,1011 1468,1009 1468,1008 1467,1007 1467,1006 1466,1005 1474,1000 1472,998 1472,997 1471,996 1470,996 1475,989 "/>
+    <path class="fil0 str0" d="M1475 989c-1,-1 -2,-1 -3,-2"/>
+    <polyline class="fil0 str0" points="1472,987 1469,987 1471,987 1473,978 1457,992 1470,978 1469,974 1466,974 1465,966 1464,966 1463,967 1462,967 1461,968 1456,960 1455,961 1454,961 "/>
+    <path class="fil0 str0" d="M1454 961c-1,1 -1,1 -2,3"/>
+    <polyline class="fil0 str0" points="1452,964 1444,959 1444,958 1444,959 1443,960 "/>
+    <path class="fil0 str0" d="M1443 960c0,1 0,2 -1,3"/>
+    <polyline class="fil0 str0" points="1442,963 1434,961 1434,965 1434,964 1407,964 1407,961 1407,968 1398,969 1398,970 1399,971 1399,972 1400,973 1393,978 1394,979 1394,980 "/>
+    <path class="fil0 str0" d="M1394 980c1,1 1,1 3,2"/>
+    <polyline class="fil0 str0" points="1397,982 1392,990 1391,990 1392,990 1393,991 "/>
+    <path class="fil0 str0" d="M1393 991c0,0 1,0 3,1"/>
+    <polyline class="fil0 str0" points="1396,992 1394,1000 1393,1000 1397,1000 1397,1004 1399,1004 1401,1014 1403,1014 1404,1013 1405,1013 1406,1012 1407,1012 1412,1018 1414,1016 1414,1015 1415,1015 1415,1015 1422,1021 "/>
+    <path class="fil0 str0" d="M1422 1021c1,-2 1,-3 2,-4"/>
+    <polyline class="fil0 str0" points="1424,1017 1424,1015 1433,1015 1433,1014 1433,1015 1460,1015 "/>
+   </g>
+  </g>
+ </g>
+</svg>

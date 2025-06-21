@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Creator: CorelDRAW X8 -->
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="40mm" height="60mm" version="1.1" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
+viewBox="0 0 4000 6000"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <style type="text/css">
+   <![CDATA[
+    .str0 {stroke:#332C2B;stroke-width:20}
+    .str1 {stroke:#332C2B;stroke-width:10}
+    .fil0 {fill:none}
+   ]]>
+  </style>
+   <clipPath id="id0">
+    <rect x="-55947" y="-4806" width="29332" height="20741"/>
+   </clipPath>
+ </defs>
+ <g id="图层_x0020_1">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <g style="clip-path:url(#id0)">
+   <image transform="matrix(0.011896 0.999929 -0.999929 0.011896 -26857.9 -4805.82)" x="0" y="0" width="20396" height="29091" xlink:href="Blackview BV9700 Pro—11i（前膜带壳）_Images\Blackview BV9700 Pro—11i（前膜带壳）_ImgID1.png"/>
+  </g>
+  <path class="fil0 str0" d="M-16037 3156l0 -244c0,-90 74,-163 163,-163l0 0c90,0 163,73 163,163l0 244c0,89 -73,163 -163,163l0 0c-89,0 -163,-74 -163,-163 0,0 0,-7 0,-10 -1,-322 185,-204 194,-184"/>
+  <path class="fil0 str0" d="M-15837 3804c-88,-39 -282,-14 -281,80 0,131 106,237 237,237 131,0 237,-106 237,-237 0,-131 -106,-237 -237,-237 -131,0 -237,106 -237,237"/>
+  <path class="fil0 str0" d="M-1504 6698l0 -3371 0 -3016 -954 -295 -13115 0c-392,0 -713,319 -713,708l0 2082 137 0 0 1041 -137 0 0 2083c0,390 321,709 713,709l13115 0 954 -296"/>
+  <g id="_2072901506432">
+   <path class="fil0 str1" d="M2064 729l77 0c29,0 52,24 52,52l0 0c0,29 -23,52 -52,52l-77 0c-29,0 -52,-23 -52,-52l0 0c0,-28 23,-52 52,-52 0,0 2,0 3,0 102,0 65,59 59,62"/>
+   <path class="fil0 str1" d="M1858 793c12,-28 4,-90 -26,-89 -41,0 -75,33 -75,75 0,41 34,75 75,75 42,0 76,-34 76,-75 0,-42 -34,-75 -76,-75"/>
+   <path class="fil0 str1" d="M938 5350l1071 0 959 0 94 -304 0 -4169c0,-125 -101,-227 -225,-227l-662 0 0 44 -331 0 0 -44 -662 0c-124,0 -225,102 -225,227l0 4170 93 303"/>
+  </g>
+ </g>
+</svg>

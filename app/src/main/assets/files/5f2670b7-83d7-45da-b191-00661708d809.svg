@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Creator: CorelDRAW X8 -->
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="40mm" height="60mm" version="1.1" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
+viewBox="0 0 4000 6000"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <style type="text/css">
+   <![CDATA[
+    .str1 {stroke:#332C2B;stroke-width:20}
+    .str0 {stroke:#332C2B;stroke-width:10}
+    .fil0 {fill:none}
+   ]]>
+  </style>
+ </defs>
+ <g id="图层_x0020_1">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <g id="_2394726019952">
+   <path class="fil0 str0" d="M887 5230l2055 0c94,0 171,-77 171,-171l0 -4238c0,-94 -77,-171 -171,-171l-1855 0c-93,0 -170,77 -170,171l0 4238c0,94 77,171 170,171 94,0 209,30 209,120"/>
+   <path class="fil0 str0" d="M2118 2026c0,-100 -18,-189 -102,-189 -85,0 -154,69 -154,154 0,84 69,153 154,153 84,0 153,-69 153,-153 0,-85 -69,-154 -153,-154"/>
+   <path class="fil0 str0" d="M2114 1442c-228,0 -261,-101 -261,-190 0,-89 73,-162 162,-162l0 0c89,0 162,73 162,162l0 334c0,89 -73,161 -162,161l0 0c-89,0 -162,-72 -162,-161l0 -334"/>
+   <path class="fil0 str0" d="M2043 1016c0,-62 -62,-84 -93,-84 -31,0 -56,25 -56,56l0 0c0,30 25,56 56,56l125 0c31,0 56,-26 56,-56l0 0c0,-31 -25,-56 -56,-56l-125 0"/>
+  </g>
+  <path class="fil0 str1" d="M-418 6600l0 -6629c0,-303 -247,-550 -550,-550l-13672 0c-302,0 -550,247 -550,550l0 5983c0,303 248,550 550,550l13672 0c303,0 550,-247 550,-550 0,-302 98,-672 388,-672"/>
+  <path class="fil0 str1" d="M-10752 2628c-322,0 -608,59 -608,332 0,273 221,495 495,495 273,0 495,-222 495,-495 0,-273 -222,-495 -495,-495 -274,0 -495,222 -495,495"/>
+  <path class="fil0 str1" d="M-12635 2642c0,736 -327,842 -614,842 -287,0 -522,-235 -522,-522l0 0c0,-287 235,-522 522,-522l1077 0c287,0 522,235 522,522l0 0c0,287 -235,522 -522,522l-1077 0"/>
+  <path class="fil0 str1" d="M-14008 2873c-200,0 -271,200 -271,299 0,99 80,180 179,180l0 0c99,0 180,-81 180,-180l0 -404c0,-98 -81,-179 -180,-179l0 0c-99,0 -179,81 -179,179l0 404"/>
+ </g>
+</svg>

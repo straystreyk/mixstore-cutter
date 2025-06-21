@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Creator: CorelDRAW 2020 (64-Bit) -->
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="40mm" height="60mm" version="1.1" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
+viewBox="0 0 4000 6000"
+ xmlns:xlink="http://www.w3.org/1999/xlink"
+ xmlns:xodm="http://www.corel.com/coreldraw/odm/2003">
+ <defs>
+  <style type="text/css">
+   <![CDATA[
+    .str0 {stroke:#332C2B;stroke-width:20;stroke-miterlimit:22.9256}
+    .fil0 {fill:none}
+   ]]>
+  </style>
+   <clipPath id="id0">
+    <rect x="-78356.49" y="-8137.25" width="26118.42" height="19546.32"/>
+   </clipPath>
+ </defs>
+ <g id="图层_x0020_1">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <g style="clip-path:url(#id0)">
+   <image x="-78356.49" y="-8137.25" width="26118.42" height="19546.32" xlink:href="X3 Pro -11i（前膜全屏）_Images\X3 Pro -11i（前膜全屏）_ImgID1.png"/>
+  </g>
+  <rect class="fil0 str0" x="-77997.88" y="-7086.36" width="25330" height="17050"/>
+  <rect class="fil0 str0" x="-77364.14" y="-6567.78" width="24062.52" height="15827.81" rx="544.51" ry="600"/>
+  <path class="fil0 str0" d="M-26863.26 13377.38l14945.33 0c329.99,0 599.99,-270 599.99,-599.99l0 -22862.54c0,-330 -269.99,-599.99 -599.99,-599.99l-14627.83 0c-330,0 -599.99,269.99 -599.99,599.99l0 22862.54c0,330 269.99,599.99 599.99,599.99 330,0 570.38,117.26 647.11,201.92"/>
+  <path class="fil0 str0" d="M514.67 5311.42l2894.9 0c63.92,0 116.21,-52.3 116.21,-116.22l0 -4428.45c0,-63.92 -52.29,-116.22 -116.21,-116.22l-2833.4 0c-63.92,0 -116.22,52.3 -116.22,116.22l0 4428.45c0,63.92 52.3,116.22 116.22,116.22 63.92,0 110.48,22.71 125.35,39.11"/>
+ </g>
+</svg>

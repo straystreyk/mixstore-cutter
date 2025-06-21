@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Creator: CorelDRAW 2020 (64-Bit) -->
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="40mm" height="60mm" version="1.1" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
+viewBox="0 0 4000 6000"
+ xmlns:xlink="http://www.w3.org/1999/xlink"
+ xmlns:xodm="http://www.corel.com/coreldraw/odm/2003">
+ <defs>
+  <style type="text/css">
+   <![CDATA[
+    .str1 {stroke:#332C2B;stroke-width:20;stroke-miterlimit:22.9256}
+    .str0 {stroke:#E72D28;stroke-width:20;stroke-miterlimit:22.9256}
+    .str2 {stroke:#222222;stroke-width:20;stroke-miterlimit:22.9256}
+    .fil0 {fill:none}
+   ]]>
+  </style>
+   <clipPath id="id0">
+    <rect x="-32637.58" y="-6622.79" width="8280.7" height="16561.4"/>
+   </clipPath>
+ </defs>
+ <g id="图层_x0020_1">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <g style="clip-path:url(#id0)">
+   <image x="-32637.58" y="-6622.79" width="8280.7" height="16561.4" xlink:href="14 Pro Max-11i（防爆膜磨砂）_Images\14 Pro Max-11i（防爆膜磨砂）_ImgID1.png"/>
+  </g>
+  <rect class="fil0 str0" x="-32449.88" y="-6324.97" width="7760" height="16070"/>
+  <rect class="fil0 str0" x="-32125.82" y="-6018.06" width="7111.88" height="15447.3" rx="900" ry="1085.14"/>
+  <rect class="fil0 str1" x="-29622.23" y="-5850.16" width="2143.18" height="652.87" rx="596.33" ry="606.77"/>
+  <path class="fil0 str2" d="M-1621.74 6051.4l0 -5954.84c0,-494.99 -405,-899.99 -899.99,-899.99l-13647.32 0c-495,0 -899.99,404.99 -899.99,899.99l0 5311.9c0,495 404.99,899.99 899.99,899.99l13647.32 0c495,0 899.99,-404.99 899.99,-899.99 0,-495 104.56,-933.25 276.54,-1152.85"/>
+  <path class="fil0 str2" d="M-16901.13 3478.44c0,179.54 146.89,326.43 326.43,326.43l0.01 0c179.54,0 326.43,-146.89 326.43,-326.43l0 -1490.32c0,-179.54 -146.89,-326.43 -326.43,-326.43l-0.01 0c-179.54,0 -326.43,146.89 -326.43,326.43l0 1490.32c0,0 13.26,-540.74 164.08,-683.61"/>
+  <g id="_2951132760592">
+   <path class="fil0 str2" d="M1007.33 5273.01l1779.96 0c147.96,0 269.02,-121.06 269.02,-269.02l0 -4079.3c0,-147.96 -121.06,-269.02 -269.02,-269.02l-1587.78 0c-147.96,0 -269.02,121.06 -269.02,269.02l0 4079.3c0,147.96 121.06,269.02 269.02,269.02 147.96,0 278.96,31.25 344.6,82.66"/>
+   <path class="fil0 str2" d="M1776.41 705.86c-53.66,0 -97.57,43.91 -97.57,97.57l0 0.01c0,53.66 43.91,97.57 97.57,97.57l445.47 0c53.67,0 97.58,-43.91 97.58,-97.57l0 -0.01c0,-53.66 -43.91,-97.57 -97.58,-97.57l-445.47 0c0,0 161.63,3.96 204.34,49.04"/>
+  </g>
+ </g>
+</svg>

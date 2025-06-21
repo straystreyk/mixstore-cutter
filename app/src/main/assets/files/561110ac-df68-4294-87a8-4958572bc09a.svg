@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Creator: CorelDRAW X8 -->
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="40mm" height="60mm" version="1.1" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
+viewBox="0 0 4000 6000"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <style type="text/css">
+   <![CDATA[
+    .str0 {stroke:#332C2B;stroke-width:20}
+    .fil0 {fill:none}
+   ]]>
+  </style>
+ </defs>
+ <g id="图层_x0020_1">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <g id="_2047549618992">
+   <path class="fil0 str0" d="M928 5230l1936 0c114,0 208,-94 208,-208l0 -4164c0,-114 -94,-208 -208,-208l-1680 0c-115,0 -208,94 -208,208l0 4164c0,114 93,208 208,208 114,0 166,62 166,120"/>
+   <path class="fil0 str0" d="M1902 1940c0,-63 8,-220 118,-220 110,0 199,89 199,200 0,110 -89,199 -199,199 -110,0 -199,-89 -199,-199 0,-111 89,-200 199,-200"/>
+   <path class="fil0 str0" d="M1338 1095c-190,0 -236,-45 -236,-136 0,-92 74,-166 166,-166l0 0c91,0 166,74 166,166l0 310c0,37 -12,71 -33,99 -20,27 -33,48 -33,86l0 67c0,38 -30,68 -68,68l-58 0c-38,0 -69,-30 -69,-68l0 -67c0,-34 -18,-59 -39,-86 -20,-28 -32,-62 -32,-99l0 -310"/>
+  </g>
+  <path class="fil0 str0" d="M-1603 6999l0 -6511c0,-385 -315,-700 -700,-700l-14005 0c-385,0 -700,315 -700,700l0 5651c0,385 315,700 700,700l14005 0c385,0 700,-315 700,-700 0,-385 209,-560 403,-560"/>
+  <path class="fil0 str0" d="M-12671 3722c-209,0 -737,-26 -737,-396 0,-371 300,-671 670,-671 370,0 670,300 670,671 0,370 -300,670 -670,670 -370,0 -670,-300 -670,-670"/>
+  <path class="fil0 str0" d="M-15512 5621c0,637 -150,794 -458,794 -307,0 -558,-252 -558,-559l0 0c0,-307 251,-558 558,-558l1045 0c124,0 239,41 331,109 93,69 163,111 291,111l225 0c126,0 230,103 230,230l0 196c0,126 -104,230 -230,230l-225 0c-116,0 -198,62 -290,131 -93,69 -208,110 -332,110l-1045 0"/>
+ </g>
+</svg>

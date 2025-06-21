@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Creator: CorelDRAW 2020 (64-Bit) -->
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="40mm" height="60mm" version="1.1" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
+viewBox="0 0 4000 6000"
+ xmlns:xlink="http://www.w3.org/1999/xlink"
+ xmlns:xodm="http://www.corel.com/coreldraw/odm/2003">
+ <defs>
+  <style type="text/css">
+   <![CDATA[
+    .str2 {stroke:#332C2B;stroke-width:20;stroke-miterlimit:22.9256}
+    .str1 {stroke:#E62129;stroke-width:20;stroke-miterlimit:22.9256}
+    .str0 {stroke:#E62129;stroke-width:20;stroke-miterlimit:22.9256}
+    .fil0 {fill:none}
+   ]]>
+  </style>
+   <clipPath id="id0">
+    <rect x="-34146.19" y="-4485.41" width="9050.56" height="16803.32"/>
+   </clipPath>
+ </defs>
+ <g id="图层_x0020_1">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <g style="clip-path:url(#id0)">
+   <image x="-34146.19" y="-4485.41" width="9050.56" height="16803.32" xlink:href="Zeus 4G -11i（背膜）_Images\Zeus 4G -11i（背膜）_ImgID1.png"/>
+  </g>
+  <rect class="fil0 str0" x="-33380.64" y="-3966.9" width="7300" height="15800"/>
+  <rect class="fil0 str0" x="-32952.25" y="-3575.31" width="6443.22" height="14973.02" rx="800" ry="833.77"/>
+  <rect class="fil0 str1" x="-30502.22" y="-3053.85" width="1534.59" height="3365.51" rx="800" ry="800"/>
+  <polygon class="fil0 str1" points="-31526.12,9933.25 -27948.95,9933.25 -27089.08,10407.99 -27927.78,10899.01 -31541.99,10899.01 -32337.12,10397.15 "/>
+  <path class="fil0 str2" d="M-4307.98 6361.89l0 -5345.93c0,-439.99 -360.02,-800 -800,-800l-13373.03 0c-439.99,0 -799.99,360 -799.99,800l0 4843.22c0,440 360,800 799.99,800l13373.03 0c439.99,0 800,-360 800,-800 0,-440 55.5,-740.01 153.4,-950.36"/>
+  <path class="fil0 str2" d="M-18005.53 3894.13c-190.5,68.79 -754.01,-30.26 -754.01,-452.28 0,-422.02 345.27,-767.3 767.29,-767.3l1830.93 0c422.01,0 767.29,345.28 767.29,767.29l0 0.01c0,422.01 -345.28,767.29 -767.29,767.29l-1830.93 0c-422.01,0 -767.29,-345.28 -767.29,-767.29"/>
+  <polygon class="fil0 str2" points="-5772.45,5233.05 -5772.45,1655.88 -5297.71,796.01 -4806.69,1634.71 -4806.69,5248.92 -5308.55,6044.05 "/>
+  <g id="_2542065578336">
+   <path class="fil0 str2" d="M1084.77 5308.01l1661.06 0c136.71,0 248.57,-111.87 248.57,-248.58l0 -4155.19c0,-136.71 -111.86,-248.57 -248.57,-248.57l-1504.86 0c-136.71,0 -248.57,111.86 -248.57,248.57l0 4155.19c0,136.72 111.86,248.58 248.57,248.58 136.72,0 229.93,17.24 295.29,47.66"/>
+   <path class="fil0 str2" d="M1851.54 1051.98c-21.37,-59.19 9.4,-234.28 140.53,-234.28 131.13,0 238.41,107.28 238.41,238.4l0 568.9c0,131.12 -107.28,238.41 -238.41,238.41l0 0c-131.12,0 -238.41,-107.29 -238.41,-238.41l0 -568.9c0,-131.12 107.29,-238.4 238.41,-238.4"/>
+   <polygon class="fil0 str2" points="1435.52,4852.97 2547,4852.97 2814.17,5000.48 2553.57,5153.05 1430.59,5153.05 1183.53,4997.12 "/>
+  </g>
+ </g>
+</svg>

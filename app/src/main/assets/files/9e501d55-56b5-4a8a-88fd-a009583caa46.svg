@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Creator: CorelDRAW 2020 (64-Bit) -->
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="40mm" height="60mm" version="1.1" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
+viewBox="0 0 4000 6000"
+ xmlns:xlink="http://www.w3.org/1999/xlink"
+ xmlns:xodm="http://www.corel.com/coreldraw/odm/2003">
+ <defs>
+  <style type="text/css">
+   <![CDATA[
+    .str0 {stroke:#332C2B;stroke-width:20;stroke-miterlimit:22.9256}
+    .fil0 {fill:none}
+   ]]>
+  </style>
+   <clipPath id="id0">
+    <rect x="-113627.92" y="-23473.08" width="16122.13" height="16122.13"/>
+   </clipPath>
+   <clipPath id="id1">
+    <rect x="-54283.23" y="-42449.08" width="16071.92" height="16071.92"/>
+   </clipPath>
+ </defs>
+ <g id="图层_x0020_1">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <g style="clip-path:url(#id0)">
+   <image x="-113627.92" y="-23473.08" width="16122.13" height="16122.13" xlink:href="Galaxy S20 Plus—(前膜全屏)_Images\Galaxy S20 Plus—(前膜全屏)_ImgID1.png"/>
+  </g>
+  <g style="clip-path:url(#id1)">
+   <image x="-54283.23" y="-42449.08" width="16071.92" height="16071.92" xlink:href="Galaxy S20 Plus—(前膜全屏)_Images\Galaxy S20 Plus—(前膜全屏)_ImgID2.png"/>
+  </g>
+  <rect class="fil0 str0" x="-109277.15" y="-23491.72" width="7370" height="16190"/>
+  <rect class="fil0 str0" x="-109202.63" y="-23346.33" width="7228.26" height="15890.49" rx="779.06" ry="825.38"/>
+  <circle class="fil0 str0" cx="-105591.79" cy="-22882.61" r="183.01"/>
+  <rect class="fil0 str0" x="-53015.91" y="-42482.7" width="7370" height="16190"/>
+  <rect class="fil0 str0" x="-52930.43" y="-42340.33" width="7200.41" height="15836.38" rx="650" ry="688.96"/>
+  <rect class="fil0 str0" x="-52261.2" y="-41807.79" width="2105.64" height="3536.63" rx="530" ry="540.96"/>
+  <circle class="fil0 str0" cx="-51730.81" cy="-41291.84" r="276.71"/>
+  <circle class="fil0 str0" cx="-51730.81" cy="-40053.78" r="276.71"/>
+  <circle class="fil0 str0" cx="-51730.81" cy="-38751.82" r="276.71"/>
+  <circle class="fil0 str0" cx="-50651.58" cy="-40042.68" r="171.97"/>
+  <circle class="fil0 str0" cx="-50664.77" cy="-41282.98" r="171.97"/>
+  <g id="_1881691204336">
+   <rect class="fil0 str0" x="924.43" y="655.67" width="2137.93" height="4700" rx="230.42" ry="244.13"/>
+   <circle class="fil0 str0" cx="1992.43" cy="792.82" r="54.13"/>
+  </g>
+  <path class="fil0 str0" d="M23806.82 6944.69l0 -6728.5c0,-428.47 -350.57,-779.05 -779.05,-779.05l-14332.39 0c-428.48,0 -779.05,350.57 -779.05,779.05l0 5670.16c0,428.48 350.57,779.05 779.05,779.05l14332.39 0c428.48,0 779.05,-350.57 779.05,-779.05 0,-428.48 -113.61,-1415.1 697.78,-1415.1"/>
+  <circle class="fil0 str0" transform="matrix(2.30193E-14 -0.869158 0.869158 2.30193E-14 8380.05 3054.56)" r="210.56"/>
+ </g>
+</svg>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Creator: CorelDRAW 2020 (64-Bit) -->
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="40mm" height="60mm" version="1.1" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
+viewBox="0 0 4000 6000"
+ xmlns:xlink="http://www.w3.org/1999/xlink"
+ xmlns:xodm="http://www.corel.com/coreldraw/odm/2003">
+ <defs>
+  <style type="text/css">
+   <![CDATA[
+    .str1 {stroke:#332C2B;stroke-width:20;stroke-miterlimit:22.9256}
+    .str0 {stroke:#E62129;stroke-width:20;stroke-miterlimit:22.9256}
+    .fil0 {fill:none}
+   ]]>
+  </style>
+   <clipPath id="id0">
+    <rect x="-42746.2" y="-5078" width="13953.7" height="16638.19"/>
+   </clipPath>
+ </defs>
+ <g id="图层_x0020_1">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <g style="clip-path:url(#id0)">
+   <image x="-42746.2" y="-5078" width="13953.7" height="16638.2" xlink:href="V15 -11i（前膜全屏）_Images\V15 -11i（前膜全屏）_ImgID1.png"/>
+  </g>
+  <rect class="fil0 str0" x="-36879.85" y="-4810.76" width="7590" height="16120"/>
+  <path class="fil0 str0" d="M-35916.63 -4607.03l1964.34 0c30.41,0 62.81,32.12 85.24,32.12l1576.94 0c22.43,0 56.47,-32.12 88.88,-32.12l1948.17 0c440,0 800,360.02 800,800l0 14131.21c0,440 -360,800 -800,800l-5663.57 0c-440,0 -800.01,-360 -800.01,-800l0 -14131.21c0,-440 360.01,-800 800.01,-800z"/>
+  <path class="fil0 str1" d="M-6830.61 6651.19l0 -6155.7c0,-439.99 -360.01,-800 -800,-800l-14131.21 0c-439.98,0 -800,360 -800,800l0 1948.17c0,32.41 32.12,66.45 32.12,88.88l0 1576.94c0,22.43 -32.12,54.83 -32.12,85.24l0 1964.34c0,440 360,800.01 800,800.01l14131.21 0c440,0 800,-360.01 800,-800.01 0,-440 56.72,-783.52 137.42,-947.57"/>
+  <path class="fil0 str1" d="M1008.39 5309.83l1823.2 0c130.32,0 236.95,-106.63 236.95,-236.95l0 -4185.4c0,-130.32 -106.63,-236.95 -236.95,-236.95l-577.01 0c-9.6,0 -19.68,9.51 -26.32,9.51l-467.06 0c-6.65,0 -16.24,-9.51 -25.25,-9.51l-581.8 0c-130.32,0 -236.95,106.63 -236.95,236.95l0 4185.4c0,130.32 106.63,236.95 236.95,236.95 130.32,0 232.06,16.8 280.65,40.7"/>
+ </g>
+</svg>

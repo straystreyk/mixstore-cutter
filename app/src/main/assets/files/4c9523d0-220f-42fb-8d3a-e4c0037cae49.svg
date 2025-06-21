@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Creator: CorelDRAW X8 -->
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="40mm" height="60mm" version="1.1" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
+viewBox="0 0 4000 6000"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <style type="text/css">
+   <![CDATA[
+    .str1 {stroke:#332C2B;stroke-width:20}
+    .str0 {stroke:#332C2B;stroke-width:10}
+    .fil0 {fill:none}
+   ]]>
+  </style>
+ </defs>
+ <g id="图层_x0020_1">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <g id="_1318751539072">
+   <path class="fil0 str0" d="M904 5148l1863 0c181,0 329,-148 329,-329l0 -3840c0,-181 -148,-329 -329,-329l-1483 0c-181,0 -329,148 -329,329l0 3840c0,181 148,329 329,329 181,0 323,62 323,202"/>
+   <rect class="fil0 str0" x="1013" y="719" width="951" height="1013" rx="257" ry="250"/>
+   <rect class="fil0 str0" x="1038" y="747" width="898" height="956" rx="243" ry="236"/>
+   <circle class="fil0 str0" cx="1286" cy="1474" r="194"/>
+   <circle class="fil0 str0" cx="1286" cy="993" r="194"/>
+   <circle class="fil0 str0" cx="1698" cy="1224" r="194"/>
+   <circle class="fil0 str0" cx="1695" cy="884" r="89"/>
+   <circle class="fil0 str0" cx="1695" cy="1567" r="89"/>
+   <circle class="fil0 str0" cx="1860" cy="1457" r="40"/>
+  </g>
+  <path class="fil0 str1" d="M-1848 6425l0 -5946c0,-578 -473,-1050 -1050,-1050l-12255 0c-577,0 -1050,472 -1050,1050l0 4733c0,578 473,1050 1050,1050l12255 0c577,0 1050,-472 1050,-1050 0,-577 199,-1030 645,-1030"/>
+  <rect class="fil0 str1" transform="matrix(2.81398E-14 -1.0625 1.03257 2.73472E-14 -15983.3 6077.31)" width="2858" height="3131" rx="772" ry="772"/>
+  <rect class="fil0 str1" transform="matrix(2.65671E-14 -1.00312 0.974864 2.58188E-14 -15893 5995.29)" width="2858" height="3131" rx="772" ry="772"/>
+  <circle class="fil0 str1" transform="matrix(2.55182E-14 -0.963515 0.963515 2.55182E-14 -13573.6 5205.57)" r="644"/>
+  <circle class="fil0 str1" transform="matrix(2.55182E-14 -0.963515 0.963515 2.55182E-14 -15108.2 5205.57)" r="644"/>
+  <circle class="fil0 str1" transform="matrix(2.55182E-14 -0.963515 0.963515 2.55182E-14 -14370.6 3890.3)" r="644"/>
+  <circle class="fil0 str1" transform="matrix(2.43258E-14 -0.918489 0.918489 2.43258E-14 -15456.8 3899.4)" r="311"/>
+  <circle class="fil0 str1" transform="matrix(2.43258E-14 -0.918489 0.918489 2.43258E-14 -13276 3899.4)" r="311"/>
+  <circle class="fil0 str1" transform="matrix(1.08842E-14 -0.410962 0.410962 1.08842E-14 -13626.6 3374.63)" r="311"/>
+ </g>
+</svg>

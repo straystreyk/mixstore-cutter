@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Creator: CorelDRAW 2020 (64-Bit) -->
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="40mm" height="60mm" version="1.1" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
+viewBox="0 0 4000 6000"
+ xmlns:xlink="http://www.w3.org/1999/xlink"
+ xmlns:xodm="http://www.corel.com/coreldraw/odm/2003">
+ <defs>
+  <style type="text/css">
+   <![CDATA[
+    .str1 {stroke:#332C2B;stroke-width:20;stroke-miterlimit:22.9256}
+    .str0 {stroke:#E62129;stroke-width:20;stroke-miterlimit:22.9256}
+    .fil0 {fill:none}
+   ]]>
+  </style>
+   <clipPath id="id0">
+    <rect x="-92614.33" y="-7502.2" width="29692.61" height="20997.33"/>
+   </clipPath>
+ </defs>
+ <g id="图层_x0020_1">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <g style="clip-path:url(#id0)">
+   <image transform="matrix(3.15252E-11 595.163 -841.627 4.45802E-11 -62921.7 -7502.2)" x="0" y="0" width="35.28" height="35.28" xlink:href="Pad 1200 (Tablet) -11i（背膜）_Images\Pad 1200 (Tablet) -11i（背膜）_ImgID1.png"/>
+  </g>
+  <path class="fil0 str0" d="M-92050.72 -6760.99l13270.03 0c78.68,0 124.25,10.46 124.25,96.09l0 581.4c0,82.49 67.49,149.99 149.99,149.99l759.02 0c82.5,0 149.99,-67.49 149.99,-149.99l0 -583.72c0,-81.69 27.05,-93.77 84.9,-93.77l13253.21 0c110,0 200,90.01 200,200l0 18777.02c0,110 -90,200 -200,200l-27791.39 0c-110,0 -200,-90 -200,-200l0 -18777.02c0,-110 90,-200 200,-200z"/>
+  <path class="fil0 str1" d="M-24765.83 16923.21l18906.67 0c109.99,0 200,-90.01 200,-200l0 -27791.39c0,-110 -90,-200 -200,-200l-18777.02 0c-109.99,0 -200,90 -200,200l0 13253.21c0,57.85 12.08,84.9 93.77,84.9l583.72 0c82.5,0 149.99,67.49 149.99,149.99l0 759.02c0,82.5 -67.5,149.99 -149.99,149.99l-581.4 0c-85.63,0 -96.09,45.57 -96.09,124.25l0 13270.03c0,110 90,200 200,200 110,0 265.18,26.09 328.68,74.38"/>
+  <path class="fil0 str1" d="M410.2 5338.16l3143.78 0c18.29,0 33.26,-14.97 33.26,-33.25l0 -4621.12c0,-18.3 -14.97,-33.26 -33.26,-33.26l-3122.22 0c-18.29,0 -33.26,14.96 -33.26,33.26l0 2203.72c0,9.62 2.01,14.12 15.6,14.12l97.06 0c13.72,0 24.94,11.22 24.94,24.94l0 126.21c0,13.72 -11.23,24.94 -24.94,24.94l-96.68 0c-14.24,0 -15.98,7.58 -15.98,20.66l0 2206.53c0,18.29 14.97,33.25 33.26,33.25 18.29,0 44.09,4.34 54.65,12.37"/>
+ </g>
+</svg>

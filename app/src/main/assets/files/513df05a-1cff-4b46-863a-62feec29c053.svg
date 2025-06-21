@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Creator: CorelDRAW 2020 (64-Bit) -->
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="40mm" height="60mm" version="1.1" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
+viewBox="0 0 4000 6000"
+ xmlns:xlink="http://www.w3.org/1999/xlink"
+ xmlns:xodm="http://www.corel.com/coreldraw/odm/2003">
+ <defs>
+  <style type="text/css">
+   <![CDATA[
+    .str0 {stroke:#332C2B;stroke-width:7.62;stroke-miterlimit:22.9256}
+    .fil0 {fill:none}
+   ]]>
+  </style>
+ </defs>
+ <g id="图层_x0020_1">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <path class="fil0 str0" d="M21638.08 7247.82l0 -6727.08c0,-472.99 -387.2,-860 -859.99,-860l-13900.81 0c-472.79,0 -859.99,387.21 -859.99,860l0 5686.38c0,472.79 386.99,860 859.99,860l13900.81 0c473,0 859.99,-387 859.99,-860 0,-473 -28.78,-763.87 368.1,-763.87"/>
+  <circle class="fil0 str0" transform="matrix(2.32176E-14 -0.876648 0.876648 2.32176E-14 6471.12 4586.83)" r="189.62"/>
+  <circle class="fil0 str0" transform="matrix(1.83235E-14 -0.691857 0.691857 1.83235E-14 6461.44 2167.05)" r="189.62"/>
+  <rect class="fil0 str0" transform="matrix(2.84508E-14 -1.07424 0.891824 2.36195E-14 6400.8 3883.21)" width="961.32" height="163.16" rx="148.53" ry="148.53"/>
+  <g id="_2721104266288">
+   <rect class="fil0 str0" x="869.82" y="655.67" width="2247.15" height="4700" rx="257.11" ry="286.81"/>
+   <circle class="fil0 str0" cx="1626.3" cy="806.3" r="49.7"/>
+   <circle class="fil0 str0" cx="2349.73" cy="803.4" r="39.22"/>
+   <rect class="fil0 str0" x="1836.66" y="785.27" width="308.74" height="43.5" rx="47.7" ry="39.6"/>
+  </g>
+ </g>
+</svg>

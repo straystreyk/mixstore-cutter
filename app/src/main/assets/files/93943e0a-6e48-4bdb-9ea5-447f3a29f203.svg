@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Creator: CorelDRAW X8 -->
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="40mm" height="60mm" version="1.1" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
+viewBox="0 0 4000 6000"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <style type="text/css">
+   <![CDATA[
+    .str1 {stroke:#332C2B;stroke-width:20}
+    .str0 {stroke:#332C2B;stroke-width:10}
+    .fil0 {fill:none}
+   ]]>
+  </style>
+   <clipPath id="id0">
+    <rect x="74193" y="6349" width="29091" height="20396"/>
+   </clipPath>
+ </defs>
+ <g id="图层_x0020_1">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <g style="clip-path:url(#id0)">
+   <image transform="matrix(2.64845E-14 1 -1 2.64845E-14 103285 6348.57)" x="0" y="0" width="20396" height="29091" xlink:href="Hot 9 Play—11i（前膜全屏）_Images\Hot 9 Play—11i（前膜全屏）_ImgID1.png"/>
+  </g>
+  <g id="_2562383061216">
+   <path class="fil0 str0" d="M1301 5350c-3,-5 -35,-70 -88,-70 0,0 -3,0 -3,0 -122,0 -223,-100 -223,-223l0 -4184c0,-123 101,-223 223,-223l1602 0c123,0 223,100 223,223l0 4184c0,123 -100,223 -223,223l-1847 0"/>
+   <path class="fil0 str0" d="M1264 758l212 0c92,0 167,75 167,167l0 672c0,92 -75,167 -167,167l-212 0c-92,0 -167,-75 -167,-167l0 -672c0,-92 75,-167 167,-167 0,0 2,0 2,0 189,-2 149,335 134,335"/>
+   <path class="fil0 str0" d="M2043 1697c26,-27 8,-173 -36,-172 -109,0 -198,88 -198,198 0,109 89,198 198,198 110,0 198,-89 198,-198 0,-110 -88,-198 -198,-198"/>
+  </g>
+  <path class="fil0 str1" d="M-898 5875c-19,10 -252,125 -251,317 0,1 0,10 0,10 0,440 -360,800 -800,800l-15022 0c-440,0 -800,-360 -800,-800l0 -5751c0,-440 360,-800 800,-800l15022 0c440,0 800,360 800,800l0 6631"/>
+  <path class="fil0 str1" d="M-17385 6010l0 -763c0,-330 270,-600 600,-600l2413 0c330,0 600,270 600,600l0 763c0,330 -270,600 -600,600l-2413 0c-330,0 -600,-270 -600,-600 0,0 0,-9 0,-10 -5,-677 1202,-532 1203,-479"/>
+  <path class="fil0 str1" d="M-14011 3213c-99,-93 -623,-28 -620,128 0,393 318,711 712,711 393,0 711,-318 711,-711 0,-394 -318,-712 -711,-712 -394,0 -712,318 -712,712"/>
+ </g>
+</svg>

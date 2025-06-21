@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Creator: CorelDRAW 2020 (64-Bit) -->
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="40mm" height="60mm" version="1.1" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
+viewBox="0 0 4000 6000"
+ xmlns:xlink="http://www.w3.org/1999/xlink"
+ xmlns:xodm="http://www.corel.com/coreldraw/odm/2003">
+ <defs>
+  <style type="text/css">
+   <![CDATA[
+    .str1 {stroke:#332C2B;stroke-width:20;stroke-miterlimit:22.9256}
+    .str0 {stroke:#E62129;stroke-width:20;stroke-miterlimit:22.9256}
+    .fil0 {fill:none}
+   ]]>
+  </style>
+   <clipPath id="id0">
+    <rect x="-72899.28" y="-4985.87" width="13758.6" height="16863.43"/>
+   </clipPath>
+ </defs>
+ <g id="图层_x0020_1">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <g style="clip-path:url(#id0)">
+   <image x="-72899.28" y="-4985.87" width="13758.6" height="16863.43" xlink:href="Axon 40 Ultra Space Edition -11i（前膜全屏）_Images\Axon 40 Ultra Space Edition -11i（前膜全屏）_ImgID1.png"/>
+  </g>
+  <rect class="fil0 str0" x="-66791.18" y="-4762.05" width="7360" height="16330"/>
+  <path class="fil0 str0" d="M-66569.06 -4621.2l1994.42 0c36.52,0 67.35,41.03 95.32,41.03l2749.04 0c27.97,0 55.81,-41.03 94.65,-41.03l1982.33 0c82.5,0 150,67.51 150,150l0 15737.76c0,82.5 -67.5,150 -150,150l-6915.76 0c-82.5,0 -150,-67.5 -150,-150l0 -15737.76c0,-82.5 67.5,-150 150,-150z"/>
+  <path class="fil0 str1" d="M-7399.79 6999.09l0 -7042.1c0,-82.49 -67.51,-150 -150,-150l-15737.76 0c-82.49,0 -150,67.5 -150,150l0 1982.33c0,38.84 41.03,66.68 41.03,94.65l0 2749.04c0,27.97 -41.03,58.8 -41.03,95.32l0 1994.42c0,82.5 67.5,150 150,150l15737.76 0c82.5,0 150,-67.5 150,-150 0,-82.5 8.93,-165.37 34.39,-205.39"/>
+  <path class="fil0 str1" d="M944.73 5340.47l2059.33 0c24.12,0 43.86,-19.74 43.86,-43.86l0 -4602.21c0,-24.13 -19.73,-43.87 -43.86,-43.87l-579.69 0c-11.36,0 -19.5,12 -27.68,12l-803.91 0c-8.18,0 -17.19,-12 -27.87,-12l-583.23 0c-24.13,0 -43.86,19.74 -43.86,43.87l0 4602.21c0,24.13 19.73,43.86 43.86,43.86 24.13,0 48.36,2.62 60.06,10.06"/>
+ </g>
+</svg>

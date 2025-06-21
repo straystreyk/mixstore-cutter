@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Creator: CorelDRAW X8 -->
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="40mm" height="60mm" version="1.1" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
+viewBox="0 0 4000 6000"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <style type="text/css">
+   <![CDATA[
+    .str0 {stroke:#222222;stroke-width:20}
+    .fil0 {fill:none}
+   ]]>
+  </style>
+ </defs>
+ <g id="图层_x0020_1">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <g id="_2016608789936">
+   <rect class="fil0 str0" x="865" y="650" width="2270" height="4700" rx="287" ry="330"/>
+   <rect class="fil0 str0" x="1423" y="5142" width="1171" height="148" rx="220" ry="234"/>
+   <rect class="fil0 str0" x="1423" y="726" width="1171" height="148" rx="220" ry="234"/>
+   <rect class="fil0 str0" x="1147" y="749" width="198" height="106" rx="215" ry="215"/>
+   <circle class="fil0 str0" cx="2763" cy="801" r="74"/>
+  </g>
+  <path class="fil0 str0" d="M-1680 6222l0 -5352c0,-427 -354,-775 -787,-775l-11347 0c-434,0 -788,348 -788,775l0 4589c0,426 354,774 788,774l11347 0c433,0 787,-348 787,-774 0,-426 215,-784 379,-784"/>
+  <path class="fil0 str0" d="M-1853 4176c-229,0 -306,279 -306,392 0,114 93,207 206,207l0 0c113,0 206,-93 206,-207l0 -2857c0,-114 -93,-206 -206,-206l0 0c-113,0 -206,92 -206,206l0 2857"/>
+  <path class="fil0 str0" d="M-14183 4189c-216,0 -307,266 -307,379 0,114 92,207 206,207l0 0c113,0 206,-93 206,-207l0 -2857c0,-114 -93,-206 -206,-206l0 0c-114,0 -206,92 -206,206l0 2857"/>
+  <path class="fil0 str0" d="M-14215 5187c-121,0 -210,129 -210,210 0,82 67,148 148,148l0 0c81,0 148,-66 148,-148l0 -258c0,-81 -67,-147 -148,-147l0 0c-81,0 -148,66 -148,147l0 258"/>
+  <path class="fil0 str0" d="M-14236 1169c-70,0 -249,-22 -249,-135 0,-114 92,-206 205,-206 113,0 205,92 205,206 0,113 -92,205 -205,205 -113,0 -205,-92 -205,-205"/>
+ </g>
+</svg>

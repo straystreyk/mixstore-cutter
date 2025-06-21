@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Creator: CorelDRAW X8 -->
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="40mm" height="60mm" version="1.1" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
+viewBox="0 0 4000 6000"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <style type="text/css">
+   <![CDATA[
+    .str1 {stroke:#332C2B;stroke-width:20}
+    .str0 {stroke:#332C2B;stroke-width:10}
+    .fil0 {fill:none}
+   ]]>
+  </style>
+   <clipPath id="id0">
+    <rect x="-88632" y="-7238" width="29287" height="20676"/>
+   </clipPath>
+ </defs>
+ <g id="图层_x0020_1">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <g style="clip-path:url(#id0)">
+   <image transform="matrix(0.00965215 0.999953 -0.999953 0.00965215 -59541.7 -7238.02)" x="0" y="0" width="20396" height="29091" xlink:href="Samsung J8—11i（前膜全屏磨砂）_Images\Samsung J8—11i（前膜全屏磨砂）_ImgID1.png"/>
+  </g>
+  <path class="fil0 str0" d="M927 5253l1893 0c139,0 253,-114 253,-253l0 -4097c0,-139 -114,-253 -253,-253l-176 0c0,0 -30,1 -30,35l0 116c0,33 -27,59 -60,59l-1005 0c-33,0 -59,-26 -59,-59l0 -116c0,-34 -30,-35 -30,-35l-253 0c-139,0 -253,114 -253,253l0 4097c0,139 114,253 253,253 0,0 2,0 3,0 103,0 98,67 91,97"/>
+  <path class="fil0 str1" d="M-1332 6561l0 -6351c0,-467 -382,-850 -850,-850l-13746 0c-468,0 -850,383 -850,850l0 591c0,0 4,100 118,100l388 0c110,0 200,90 200,200l0 3372c0,110 -90,200 -200,200l-388 0c-114,0 -118,100 -118,100l0 848c0,468 382,850 850,850l13746 0c468,0 850,-382 850,-849 0,-1 0,-7 0,-10 -1,-345 225,-329 325,-306"/>
+ </g>
+</svg>

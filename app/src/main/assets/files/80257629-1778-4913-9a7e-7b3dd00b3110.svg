@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Creator: CorelDRAW 2020 (64-Bit) -->
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="40mm" height="60mm" version="1.1" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
+viewBox="0 0 4000 6000"
+ xmlns:xlink="http://www.w3.org/1999/xlink"
+ xmlns:xodm="http://www.corel.com/coreldraw/odm/2003">
+ <defs>
+  <style type="text/css">
+   <![CDATA[
+    .str0 {stroke:#332C2B;stroke-width:20;stroke-miterlimit:22.9256}
+    .fil0 {fill:none}
+   ]]>
+  </style>
+   <clipPath id="id0">
+    <rect x="-64675.17" y="-11775.91" width="20884.66" height="29431.82"/>
+   </clipPath>
+ </defs>
+ <g id="图层_x0020_1">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <g style="clip-path:url(#id0)">
+   <image transform="matrix(0.999857 -0.0168905 0.0168905 0.999857 -64675.2 -11431.4)" x="0" y="0" width="20396.2" height="29091.46" xlink:href="不知名铁板-11i（前膜全屏）_Images\不知名铁板-11i（前膜全屏）_ImgID1.png"/>
+  </g>
+  <rect class="fil0 str0" x="-58002.2" y="-2639.56" width="12239.69" height="4720.17"/>
+  <rect class="fil0 str0" x="-52491.61" y="-1263.53" width="1194.09" height="1116.36"/>
+  <rect class="fil0 str0" x="-50304.23" y="-1263.53" width="1404.61" height="697.86" rx="190.42" ry="100"/>
+  <circle class="fil0 str0" cx="-56920.01" cy="-718.83" r="189.17"/>
+  <circle class="fil0 str0" cx="-46822.14" cy="-730.73" r="189.17"/>
+  <polygon class="fil0 str0" points="-14973.91,577.79 -2734.22,577.79 -2734.22,5297.96 -14973.91,5297.96 "/>
+  <polygon class="fil0 str0" points="-9463.32,1953.81 -8269.23,1953.81 -8269.23,3070.17 -9463.32,3070.17 "/>
+  <path class="fil0 str0" d="M-7175.94 1953.81l1204.61 0c55,0 100,45 100,100l0 497.86c0,55 -45,100 -100,100l-1204.61 0c-55,0 -100,-45 -100,-100l0 -497.86c0,-55 45,-100 100,-100z"/>
+  <path class="fil0 str0" d="M-13891.72 2309.34c104.48,0 189.17,84.69 189.17,189.17 0,104.48 -84.69,189.17 -189.17,189.17 -104.48,0 -189.17,-84.69 -189.17,-189.17 0,-104.48 84.69,-189.17 189.17,-189.17z"/>
+  <path class="fil0 str0" d="M-3793.85 2297.44c104.48,0 189.17,84.69 189.17,189.17 0,104.48 -84.69,189.17 -189.17,189.17 -104.48,0 -189.17,-84.69 -189.17,-189.17 0,-104.48 84.69,-189.17 189.17,-189.17z"/>
+  <g id="_2490882165216">
+   <polygon class="fil0 str0" points="1086.61,5350.53 1086.61,650.53 2899.14,650.53 2899.14,5350.53 "/>
+   <polygon class="fil0 str0" points="1614.99,3234.48 1614.99,2775.95 2043.67,2775.95 2043.67,3234.48 "/>
+   <path class="fil0 str0" d="M1614.99 2356.13l0 -462.56c0,-21.12 17.28,-38.4 38.4,-38.4l191.18 0c21.12,0 38.4,17.28 38.4,38.4l0 462.56c0,21.12 -17.28,38.4 -38.4,38.4l-191.18 0c-21.12,0 -38.4,-17.28 -38.4,-38.4z"/>
+   <path class="fil0 str0" d="M1751.52 4934.97c0,-40.12 32.52,-72.64 72.64,-72.64 40.12,0 72.64,32.52 72.64,72.64 0,40.12 -32.52,72.64 -72.64,72.64 -40.12,0 -72.64,-32.52 -72.64,-72.64z"/>
+   <path class="fil0 str0" d="M1746.95 1057.42c0,-40.12 32.52,-72.64 72.64,-72.64 40.12,0 72.64,32.52 72.64,72.64 0,40.12 -32.52,72.64 -72.64,72.64 -40.12,0 -72.64,-32.52 -72.64,-72.64z"/>
+  </g>
+ </g>
+</svg>

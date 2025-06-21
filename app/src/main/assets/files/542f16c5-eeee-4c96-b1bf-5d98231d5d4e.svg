@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Creator: CorelDRAW 2020 (64-Bit) -->
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="40mm" height="60mm" version="1.1" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
+viewBox="0 0 4000 6000"
+ xmlns:xlink="http://www.w3.org/1999/xlink"
+ xmlns:xodm="http://www.corel.com/coreldraw/odm/2003">
+ <defs>
+  <style type="text/css">
+   <![CDATA[
+    .str0 {stroke:#E72D28;stroke-width:20;stroke-miterlimit:22.9256}
+    .str1 {stroke:#222222;stroke-width:20;stroke-miterlimit:22.9256}
+    .fil0 {fill:none}
+   ]]>
+  </style>
+   <clipPath id="id0">
+    <rect x="-28015.87" y="-5554.06" width="8219.25" height="16219"/>
+   </clipPath>
+ </defs>
+ <g id="图层_x0020_1">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <g style="clip-path:url(#id0)">
+   <image x="-28015.87" y="-5554.06" width="8219.25" height="16219.01" xlink:href="Galaxy S22 Plus-11i（防爆膜）_Images\Galaxy S22 Plus-11i（防爆膜）_ImgID1.png"/>
+  </g>
+  <rect class="fil0 str0" x="-27648.46" y="-5249.93" width="7580" height="15740"/>
+  <rect class="fil0 str0" x="-27350.33" y="-4941.25" width="6983.74" height="15111.04" rx="650" ry="767.84"/>
+  <path class="fil0 str1" d="M-1068.48 6359.08l0 -6157.78c0,-357.49 -292.51,-650.01 -650,-650.01l-13811.04 0c-357.5,0 -650,292.51 -650,650.01l0 5683.73c0,357.5 292.5,650 650,650l13811.04 0c357.5,0 650,-292.5 650,-650 0,-357.5 66.23,-636.62 152.22,-733.64"/>
+  <path class="fil0 str1" d="M972.33 5308.8l1896.16 0c110.08,0 200.16,-90.08 200.16,-200.16l0 -4252.82c0,-110.08 -90.07,-200.15 -200.16,-200.15l-1750.19 0c-110.08,0 -200.15,90.07 -200.15,200.15l0 4252.82c0,110.09 90.07,200.16 200.15,200.16 110.09,0 196.04,20.39 225.91,46.87"/>
+ </g>
+</svg>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Creator: CorelDRAW 2020 (64-Bit) -->
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="40mm" height="60mm" version="1.1" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
+viewBox="0 0 4000 6000"
+ xmlns:xlink="http://www.w3.org/1999/xlink"
+ xmlns:xodm="http://www.corel.com/coreldraw/odm/2003">
+ <defs>
+  <style type="text/css">
+   <![CDATA[
+    .str1 {stroke:#332C2B;stroke-width:20;stroke-miterlimit:22.9256}
+    .str0 {stroke:#E62129;stroke-width:20;stroke-miterlimit:22.9256}
+    .fil0 {fill:none}
+   ]]>
+  </style>
+   <clipPath id="id0">
+    <rect x="-85012.38" y="-12701.88" width="38327.35" height="29520.2"/>
+   </clipPath>
+ </defs>
+ <g id="图层_x0020_1">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <g style="clip-path:url(#id0)">
+   <image x="-85012.38" y="-12701.88" width="38327.35" height="29520.2" xlink:href="Surface Laptop Studio 14.4 -11i（背膜）_Images\Surface Laptop Studio 14.4 -11i（背膜）_ImgID1.png"/>
+  </g>
+  <rect class="fil0 str0" x="-81916.69" y="-11513.3" width="32300" height="22800"/>
+  <rect class="fil0 str0" x="-81684.41" y="-11349.34" width="31835.45" height="22472.08" rx="956.71" ry="1000"/>
+  <path class="fil0 str1" d="M-24760.85 15804.43l20961.56 0c549.99,0 1000,-450 1000,-999.99l0 -29835.46c0,-550 -450,-999.99 -1000,-999.99l-20472.08 0c-549.99,0 -1000,449.99 -1000,999.99l0 29835.46c0,550 450.01,999.99 1000,999.99 549.99,0 745.58,48.07 897.72,168.46"/>
+  <path class="fil0 str1" d="M418.28 5330.93l3078.35 0c80.77,0 146.86,-66.09 146.86,-146.86l0 -4381.54c0,-80.78 -66.09,-146.86 -146.86,-146.86l-3006.46 0c-80.77,0 -146.86,66.08 -146.86,146.86l0 4381.54c0,80.78 66.09,146.86 146.86,146.86 80.77,0 109.49,7.06 131.83,24.74"/>
+ </g>
+</svg>

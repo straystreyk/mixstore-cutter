@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Creator: CorelDRAW 2020 (64-Bit) -->
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="40mm" height="60mm" version="1.1" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
+viewBox="0 0 4000 6000"
+ xmlns:xlink="http://www.w3.org/1999/xlink"
+ xmlns:xodm="http://www.corel.com/coreldraw/odm/2003">
+ <defs>
+  <style type="text/css">
+   <![CDATA[
+    .str1 {stroke:#332C2B;stroke-width:20;stroke-miterlimit:22.9256}
+    .str0 {stroke:#E62129;stroke-width:20;stroke-miterlimit:22.9256}
+    .fil0 {fill:none}
+   ]]>
+  </style>
+   <clipPath id="id0">
+    <rect x="-37339.75" y="-6897.32" width="7584.4" height="17736.22"/>
+   </clipPath>
+ </defs>
+ <g id="图层_x0020_1">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <g style="clip-path:url(#id0)">
+   <image x="-37339.75" y="-6897.32" width="7584.41" height="17736.21" xlink:href="Tc 35 -11i（前膜）_Images\Tc 35 -11i（前膜）_ImgID1.png"/>
+  </g>
+  <path class="fil0 str0" d="M-35282.49 -6043.77l3458.08 0c995.63,0 1286.83,360.03 1286.83,800l0 10000.01c0,110 -90,199.99 -200,199.99l-5600 0c-109.99,0 -200,-89.99 -200,-199.99l0 -9947.09c0,-440 201.25,-852.92 1255.09,-852.92z"/>
+  <path class="fil0 str1" d="M-4433.83 5389.31l0 -5751.48c0,-109.99 -90,-200 -199.99,-200l-10000.01 0c-439.97,0 -800,291.2 -800,1286.83l0 3458.08c0,1053.84 412.92,1255.09 852.92,1255.09l9947.09 0c110,0 199.99,-90.01 199.99,-200 0,-109.99 7.75,-173.8 36.52,-220.1"/>
+  <path class="fil0 str1" d="M735.96 5334.98l2449.31 0c46.84,0 85.17,-38.33 85.17,-85.17l0 -4258.59c0,-187.37 -124,-340.69 -548,-340.69l-1472.65 0c-448.79,0 -534.49,175.85 -534.49,363.22l0 4236.06c0,46.84 38.33,85.17 85.17,85.17 46.84,0 74.01,3.3 93.73,15.55"/>
+ </g>
+</svg>

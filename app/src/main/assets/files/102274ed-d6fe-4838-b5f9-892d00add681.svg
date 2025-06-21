@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Creator: CorelDRAW 2020 (64-Bit) -->
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="40mm" height="60mm" version="1.1" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
+viewBox="0 0 4000 6000"
+ xmlns:xlink="http://www.w3.org/1999/xlink"
+ xmlns:xodm="http://www.corel.com/coreldraw/odm/2003">
+ <defs>
+  <style type="text/css">
+   <![CDATA[
+    .str0 {stroke:#E72D28;stroke-width:20;stroke-miterlimit:22.9256}
+    .str1 {stroke:#222222;stroke-width:7.62;stroke-miterlimit:22.9256}
+    .fil0 {fill:none}
+   ]]>
+  </style>
+   <clipPath id="id0">
+    <rect x="-31017.76" y="-7329.31" width="8197.58" height="16238.38"/>
+   </clipPath>
+ </defs>
+ <g id="图层_x0020_1">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <g style="clip-path:url(#id0)">
+   <image x="-31017.76" y="-7329.31" width="8197.58" height="16238.38" xlink:href="Play 4T-11i（防爆膜）_Images\Play 4T-11i（防爆膜）_ImgID1.png"/>
+  </g>
+  <rect class="fil0 str0" x="-30736.25" y="-7192.64" width="7613" height="15981"/>
+  <path class="fil0 str0" d="M-29784.84 -6869.83l5710.21 0c357.51,0 650,292.49 650,650l0 13783.94c0,302.51 -247.49,550 -549.98,550l-5910.26 0c-302.49,0 -549.98,-247.49 -549.98,-550l0 -13783.94c0,-357.51 292.5,-650 650.01,-650z"/>
+  <path class="fil0 str1" d="M-2289.09 6360.73l0 -6313.75c0,-302.48 -247.5,-549.98 -550,-549.98l-13783.94 0c-357.51,0 -650,292.49 -650,650l0 5710.21c0,357.51 292.49,650.01 650,650.01l13783.94 0c302.51,0 550,-247.49 550,-549.98 0,-302.49 35.68,-505.75 137.54,-616.88"/>
+  <path class="fil0 str1" d="M948.96 5307.78l1962.41 0c94.02,0 170.94,-76.93 170.94,-170.95l0 -4284.27c0,-111.12 -90.91,-202.03 -202.03,-202.03l-1774.82 0c-111.12,0 -202.03,90.91 -202.03,202.03l0 4284.27c0,94.03 76.92,170.95 170.94,170.95 94.02,0 157.19,11.09 191.73,42.75"/>
+ </g>
+</svg>

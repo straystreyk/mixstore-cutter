@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Creator: CorelDRAW -->
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="40mm" height="60mm" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
+viewBox="0 0 40 60"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <style type="text/css">
+   <![CDATA[
+    .str0 {stroke:#1F1A17;stroke-width:0.194}
+    .str1 {stroke:#1F1A17;stroke-width:0.2}
+    .fil0 {fill:none}
+   ]]>
+  </style>
+ </defs>
+ <g id="图层_x0020_1">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <path class="fil0 str0" d="M12.6765 54.1058c-1.104,-0.031 -1.8956,-0.6438 -2.1996,-1.7037 -0.0287,-0.0977 -0.0299,-0.1228 -0.0334,-0.6366 -0.0453,-7.0508 -0.0656,-14.1028 -0.0632,-21.1547"/>
+  <line class="fil0 str0" x1="10.3803" y1="30.6108" x2="10.391" y2= "9.4632" />
+  <path class="fil0 str0" d="M10.391 9.4632c0.0346,-0.7499 0.2802,-1.3102 0.7714,-1.7573 0.267,-0.2444 0.5865,-0.4209 0.9573,-0.5294"/>
+  <line class="fil0 str0" x1="12.1197" y1="7.1765" x2="12.1638" y2= "7.1599" />
+  <path class="fil0 str0" d="M12.1638 7.1599c0.074,-0.0334 0.074,-0.0334 2.7589,-0.0382"/>
+  <line class="fil0 str0" x1="14.9227" y1="7.1217" x2="16.2734" y2= "7.1193" />
+  <path class="fil0 str0" d="M16.2734 7.1193c8.1023,-0.0119 6.0768,-0.0131 14.179,0.0095 0.9729,0.0024 1.1684,0.0251 1.4951,0.1741 0.6533,0.298 1.0408,0.7439 1.29,1.4867 0.0441,0.13 0.0488,0.1955 0.0477,0.6772"/>
+  <line class="fil0 str0" x1="33.2852" y1="9.4668" x2="33.2518" y2= "52.383" />
+  <path class="fil0 str0" d="M12.6765 54.1058l18.3767 0.0051c0.9455,-0.1434 1.1947,-0.2483 1.5941,-0.6477 0.2587,-0.2611 0.5604,-0.7988 0.6045,-1.0802"/>
+  <ellipse class="fil0 str1" cx="24.3566" cy="8.86225" rx="0.769963" ry="0.75415"/>
+  <rect class="fil0 str1" x="17.9109" y="8.26277" width="4.37441" height="1.23367" rx="0.6858" ry="0.6858"/>
+ </g>
+</svg>

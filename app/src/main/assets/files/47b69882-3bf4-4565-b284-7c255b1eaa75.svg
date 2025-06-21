@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Creator: CorelDRAW 2020 (64-Bit) -->
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="40mm" height="60mm" version="1.1" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
+viewBox="0 0 4000 6000"
+ xmlns:xlink="http://www.w3.org/1999/xlink"
+ xmlns:xodm="http://www.corel.com/coreldraw/odm/2003">
+ <defs>
+  <style type="text/css">
+   <![CDATA[
+    .str2 {stroke:#332C2B;stroke-width:20;stroke-miterlimit:22.9256}
+    .str1 {stroke:#E62129;stroke-width:20;stroke-miterlimit:22.9256}
+    .str0 {stroke:#E62129;stroke-width:20;stroke-miterlimit:22.9256}
+    .fil0 {fill:none}
+   ]]>
+  </style>
+   <clipPath id="id0">
+    <rect x="-64036.24" y="-9634.42" width="26297.8" height="25076.53"/>
+   </clipPath>
+ </defs>
+ <g id="图层_x0020_1">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <g style="clip-path:url(#id0)">
+   <image x="-64036.24" y="-9634.42" width="26297.8" height="25076.53" xlink:href="Galaxy Tab S6 Lite (2022) -11i（背面）_Images\Galaxy Tab S6 Lite (2022) -11i（背面）_ImgID1.png"/>
+  </g>
+  <rect class="fil0 str0" x="-63678.87" y="-9322.98" width="15430" height="24450"/>
+  <rect class="fil0 str0" x="-63515.08" y="-9181.27" width="15102.42" height="24153.4" rx="900" ry="878.58"/>
+  <rect class="fil0 str1" x="-62822.37" y="-8316.34" width="1264.72" height="1276.61" rx="396.65" ry="403.76"/>
+  <path class="fil0 str2" d="M-20345.24 14972.14l13873.92 0c494.99,0 900,-405.01 900,-900.01l0 -22353.39c0,-495 -405,-900 -900,-900l-13302.42 0c-495,0 -900,405 -900,900l0 22353.39c0,495.01 405,900.01 900,900.01 495,0 723.18,67.13 844.89,169"/>
+  <path class="fil0 str2" d="M-19581.03 -8316.34c-220,0 -400,180 -400,400l0 476.61c0,220 180,400 400,400l464.72 0c220,0 400,-180 400,-400l0 -476.61c0,-220 -180,-400 -400,-400l-464.72 0c0,0 372,3.4 491.73,123.12"/>
+  <g id="_2341263992064">
+   <path class="fil0 str2" d="M597.7 5323.01l2680.96 0c95.65,0 173.92,-78.26 173.92,-173.91l0 -4319.52c0,-95.65 -78.27,-173.91 -173.92,-173.91l-2570.52 0c-95.65,0 -173.92,78.26 -173.92,173.91l0 4319.52c0,95.65 78.27,173.91 173.92,173.91 95.65,0 139.74,12.97 163.26,32.66"/>
+   <path class="fil0 str2" d="M745.38 822.8c-42.51,0 -77.3,34.79 -77.3,77.3l0 92.1c0,42.51 34.79,77.29 77.3,77.29l89.8 0c42.51,0 77.29,-34.78 77.29,-77.29l0 -92.1c0,-42.51 -34.78,-77.3 -77.29,-77.3l-89.8 0c0,0 71.88,0.66 95.02,23.8"/>
+  </g>
+ </g>
+</svg>

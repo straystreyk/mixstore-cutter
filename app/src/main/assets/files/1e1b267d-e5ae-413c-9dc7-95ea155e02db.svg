@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Creator: CorelDRAW X8 -->
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="40mm" height="60mm" version="1.1" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
+viewBox="0 0 4000 6000"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <style type="text/css">
+   <![CDATA[
+    .str0 {stroke:#332C2B;stroke-width:20}
+    .fil0 {fill:none}
+   ]]>
+  </style>
+   <clipPath id="id0">
+    <rect x="-73876" y="4890" width="29550" height="21056"/>
+   </clipPath>
+ </defs>
+ <g id="图层_x0020_1">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <g style="clip-path:url(#id0)">
+   <image transform="matrix(0.0228618 0.999739 -0.999739 0.0228618 -44792.3 4889.8)" x="0" y="0" width="20396" height="29091" xlink:href="MOTOROLA G Stylus—11i（背贴）_Images\MOTOROLA G Stylus—11i（背贴）_ImgID1.png"/>
+  </g>
+  <g id="_2652648533904">
+   <path class="fil0 str0" d="M890 5192l1985 0c129,0 235,-106 235,-235l0 -4073c0,-129 -106,-234 -235,-234l-1659 0c-129,0 -235,105 -235,234l0 4073c0,129 106,235 235,235 129,0 274,27 274,158"/>
+   <path class="fil0 str0" d="M1903 1972c-17,-64 32,-245 141,-245 109,0 197,88 197,197 0,109 -88,197 -197,197 -109,0 -197,-88 -197,-197 0,-109 88,-197 197,-197"/>
+   <path class="fil0 str0" d="M1356 1693c-195,0 -255,82 -255,184 0,102 83,185 185,185l0 0c102,0 186,-83 186,-185l0 -774c0,0 -1,-59 49,-59 0,0 15,12 64,10 48,0 88,-39 88,-88l0 -10c0,-48 -40,-88 -88,-88 -48,0 -58,13 -94,2 -37,-12 -49,-17 -104,-67 -29,-19 -64,-30 -101,-30l0 0c-102,0 -185,83 -185,185l0 919"/>
+  </g>
+  <g id="_2652648527312">
+   <path class="fil0 str0" d="M-2196 7040l0 -6776c0,-440 -360,-800 -800,-800l-13901 0c-440,0 -800,360 -800,800l0 5664c0,440 360,800 800,800l13901 0c440,0 800,-360 800,-800 0,-440 94,-936 540,-936"/>
+   <path class="fil0 str0" d="M-13187 3584c-215,57 -834,-111 -834,-482 0,-372 301,-673 673,-673 371,0 673,301 673,673 0,371 -302,673 -673,673 -372,0 -673,-302 -673,-673"/>
+   <path class="fil0 str0" d="M-14137 5451c0,666 278,871 627,871 348,0 633,-285 633,-634l0 0c0,-348 -285,-633 -633,-633l-2642 0c0,0 -201,1 -201,-168 0,0 43,-50 35,-219 0,-165 -135,-300 -300,-300l-35 0c-165,0 -300,135 -300,300 0,165 44,199 5,322 -38,124 -58,168 -228,353 -65,99 -103,218 -103,345l0 0c0,349 285,634 633,634l3136 0"/>
+  </g>
+ </g>
+</svg>

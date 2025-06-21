@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Creator: CorelDRAW 2020 (64-Bit) -->
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="40mm" height="60mm" version="1.1" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
+viewBox="0 0 4000 6000"
+ xmlns:xlink="http://www.w3.org/1999/xlink"
+ xmlns:xodm="http://www.corel.com/coreldraw/odm/2003">
+ <defs>
+  <style type="text/css">
+   <![CDATA[
+    .str0 {stroke:#E72D28;stroke-width:20;stroke-miterlimit:22.9256}
+    .str1 {stroke:#222222;stroke-width:20;stroke-miterlimit:22.9256}
+    .fil0 {fill:none}
+   ]]>
+  </style>
+   <clipPath id="id0">
+    <rect x="-72383.52" y="-4959.46" width="29645.83" height="19293.69"/>
+   </clipPath>
+ </defs>
+ <g id="图层_x0020_1">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <g style="clip-path:url(#id0)">
+   <image x="-72383.52" y="-4959.46" width="29645.84" height="19293.69" xlink:href="Matebook E GO-11i（前膜带壳）_Images\Matebook E GO-11i（前膜带壳）_ImgID1.png"/>
+  </g>
+  <rect class="fil0 str0" x="-71719.99" y="-4575.55" width="28650" height="18470"/>
+  <rect class="fil0 str0" x="-71530.41" y="-4363.88" width="28270.84" height="18070.84" rx="1038.06" ry="950"/>
+  <circle class="fil0 str0" cx="-57393.52" cy="-4104.81" r="187.85"/>
+  <path class="fil0 str1" d="M-23644.3 -10505.04l0 26708.79c0,520.63 425.15,946.64 944.74,946.64l16081.32 0c519.61,0 944.74,-426.01 944.74,-946.64l0 -12847.92c0,-76.69 -104.91,-70.06 -178.11,-70.06 -121.65,0 -220.27,-98.62 -220.27,-220.27 0,-121.65 98.62,-220.27 220.27,-220.27 73.2,0 178.11,14.55 178.11,-70.07l0 -12848.93c0,-520.64 -425.14,-946.64 -944.74,-946.64l-16081.32 0c-519.61,0 -944.74,425.99 -944.74,946.64 0,520.65 -78.34,926.34 -173.59,1081.13"/>
+  <path class="fil0 str1" d="M508.76 741.65l0 4456.08c0,86.86 70.93,157.94 157.62,157.94l2683 0c86.69,0 157.62,-71.08 157.62,-157.94l0 -2143.54c0,-12.79 -17.5,-11.69 -29.71,-11.69 -20.3,0 -36.75,-16.45 -36.75,-36.74 0,-20.3 16.45,-36.75 36.75,-36.75 12.21,0 29.71,2.42 29.71,-11.7l0 -2143.7c0,-86.87 -70.93,-157.94 -157.62,-157.94l-2683 0c-86.69,0 -157.62,71.07 -157.62,157.94 0,86.86 -13.07,154.55 -28.96,180.37"/>
+ </g>
+</svg>

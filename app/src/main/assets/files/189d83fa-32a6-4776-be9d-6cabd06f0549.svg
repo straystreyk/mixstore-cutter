@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Creator: CorelDRAW X8 -->
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="40mm" height="60mm" version="1.1" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
+viewBox="0 0 4000 6000"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <style type="text/css">
+   <![CDATA[
+    .str1 {stroke:black;stroke-width:20}
+    .str0 {stroke:black;stroke-width:10}
+    .fil0 {fill:none}
+   ]]>
+  </style>
+ </defs>
+ <g id="图层_x0020_1">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <g id="_2039176929872">
+   <path class="fil0 str0" d="M848 5258l2132 0c95,0 172,-77 172,-171l0 -4265c0,-95 -77,-172 -172,-172l-1932 0c-94,0 -172,77 -172,172l0 4265c0,94 78,171 172,171 95,0 155,20 155,92"/>
+   <path class="fil0 str0" d="M1989 844c0,-37 -113,-56 -136,-56 -22,0 -41,18 -41,41l0 0c0,22 19,41 41,41l327 0c23,0 41,-19 41,-41l0 0c0,-23 -18,-42 -41,-41l-327 0"/>
+   <path class="fil0 str0" d="M1621 841c0,-29 9,-78 45,-78 35,0 64,28 64,64 0,36 -29,65 -64,65 -36,0 -65,-29 -65,-65 0,-36 29,-64 65,-64"/>
+   <path class="fil0 str0" d="M2315 850c0,-38 6,-76 38,-76 31,0 56,25 56,56 0,31 -25,56 -56,56 -32,0 -57,-25 -57,-56 0,-31 25,-56 57,-56"/>
+  </g>
+  <path class="fil0 str1" d="M-1269 6822l0 -6820c0,-303 -248,-550 -550,-550l-13643 0c-303,0 -550,247 -550,550l0 6180c0,303 247,550 550,550l13643 0c302,0 550,-247 550,-550 0,-302 63,-496 293,-496"/>
+  <path class="fil0 str1" d="M-15392 3174c-117,0 -180,360 -180,432 0,72 59,131 131,131l0 0c72,0 131,-59 131,-131l0 -1045c0,-72 -59,-131 -131,-131l0 0c-72,0 -131,59 -131,131l0 1045"/>
+  <path class="fil0 str1" d="M-15401 4351c-92,0 -251,-31 -251,-145 0,-114 93,-206 206,-206 114,0 207,92 207,206 0,114 -93,206 -207,206 -113,0 -206,-92 -206,-206"/>
+  <path class="fil0 str1" d="M-15372 2130c-120,0 -244,-21 -244,-121 0,-99 81,-180 180,-180 100,0 180,81 180,180 0,100 -80,180 -180,180 -99,0 -180,-80 -180,-180"/>
+ </g>
+</svg>

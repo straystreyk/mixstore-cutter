@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Creator: CorelDRAW X8 -->
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="40mm" height="60mm" version="1.1" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
+viewBox="0 0 4000 6000"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <style type="text/css">
+   <![CDATA[
+    .str0 {stroke:#332C2B;stroke-width:19.4}
+    .fil0 {fill:none;fill-rule:nonzero}
+   ]]>
+  </style>
+ </defs>
+ <g id="图层_x0020_1">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <g id="_2437210208704">
+   <g>
+    <line class="fil0 str0" x1="838" y1="5350" x2="838" y2= "5318" />
+    <line class="fil0 str0" x1="1029" y1="5258" x2="1029" y2= "5268" />
+    <path class="fil0 str0" d="M1029 5268c5,-2 8,-5 10,-10"/>
+    <line class="fil0 str0" x1="1039" y1="5258" x2="2907" y2= "5257" />
+    <path class="fil0 str0" d="M2907 5257c103,0 181,-51 224,-145 17,-37 18,-47 19,-107"/>
+    <line class="fil0 str0" x1="3150" y1="5005" x2="3161" y2= "1870" />
+    <path class="fil0 str0" d="M3161 1870c3,-760 0,-965 -14,-1023 -19,-107 -116,-193 -222,-196"/>
+    <line class="fil0 str0" x1="2925" y1="651" x2="2798" y2= "650" />
+    <path class="fil0 str0" d="M2798 650c-237,0 -237,0 -265,23 -18,15 -23,24 -37,72 -12,34 -43,59 -77,62 -182,1 -136,1 -318,1 -204,0 -385,-1 -396,-2 -33,-5 -62,-32 -73,-69"/>
+    <line class="fil0 str0" x1="1632" y1="737" x2="1624" y2= "711" />
+    <path class="fil0 str0" d="M1624 711c-14,-36 -47,-58 -91,-60"/>
+    <line class="fil0 str0" x1="1533" y1="651" x2="1397" y2= "650" />
+    <path class="fil0 str0" d="M1397 650c-243,0 -244,0 -303,37 -63,38 -111,115 -113,181"/>
+    <line class="fil0 str0" x1="981" y1="868" x2="989" y2= "4538" />
+    <path class="fil0 str0" d="M989 4538c0,336 -1,460 -7,508 0,2 0,4 0,5 0,27 27,89 53,121 45,54 100,81 185,87 54,5 77,14 141,61"/>
+   </g>
+  </g>
+ </g>
+</svg>

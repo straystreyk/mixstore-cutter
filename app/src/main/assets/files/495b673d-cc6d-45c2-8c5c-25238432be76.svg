@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Creator: CorelDRAW X8 -->
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="40mm" height="60mm" version="1.1" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
+viewBox="0 0 4000 6000"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <style type="text/css">
+   <![CDATA[
+    .str1 {stroke:#332C2B;stroke-width:20}
+    .str0 {stroke:#332C2B;stroke-width:10}
+    .fil0 {fill:none}
+   ]]>
+  </style>
+   <clipPath id="id0">
+    <rect x="-67526" y="-7365" width="29324" height="20729"/>
+   </clipPath>
+ </defs>
+ <g id="图层_x0020_1">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <g style="clip-path:url(#id0)">
+   <image transform="matrix(-0.0114898 0.999934 -0.999934 -0.0114898 -38202.1 -7030.3)" x="0" y="0" width="20396" height="29091" xlink:href="Doogee BL5000—11i（背贴）_Images\Doogee BL5000—11i（背贴）_ImgID1.png"/>
+  </g>
+  <g id="_2082937621520">
+   <path class="fil0 str0" d="M1482 5350c13,-7 56,-183 -190,-182 0,0 -3,0 -3,0 -197,0 -359,-162 -359,-360l0 -3798c0,-198 162,-360 359,-360l1040 0c7,43 45,77 91,77 45,0 83,-34 91,-77l236 0c197,0 359,162 359,360l0 3798c0,198 -162,360 -359,360l-1853 0"/>
+   <path class="fil0 str0" d="M1918 1656l0 -545c0,-62 51,-113 113,-113l0 0c62,0 112,51 112,113l0 545c0,62 -50,112 -112,112l0 0c-62,0 -113,-50 -113,-112 0,0 0,-3 0,-3 3,-247 81,-258 81,-234"/>
+  </g>
+  <g id="_2082937620880">
+   <path class="fil0 str1" d="M-872 4729c-24,-44 -609,-186 -607,631 0,2 0,10 0,10 0,660 -540,1200 -1200,1200l-12670 0c-660,0 -1200,-540 -1200,-1200l0 -3466c144,-26 256,-152 256,-304 0,-152 -111,-278 -256,-304l0 -786c0,-660 540,-1200 1200,-1200l12670 0c660,0 1200,540 1200,1200l0 6180"/>
+   <path class="fil0 str1" d="M-13194 3274l-1817 0c-207,0 -376,-170 -376,-376l0 0c0,-207 169,-376 376,-376l1817 0c206,0 375,169 375,376l0 0c0,206 -169,375 -375,376 0,0 -9,0 -10,0 -823,-9 -860,-270 -779,-271"/>
+  </g>
+ </g>
+</svg>
