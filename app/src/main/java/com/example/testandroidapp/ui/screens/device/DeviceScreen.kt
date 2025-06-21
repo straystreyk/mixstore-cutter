@@ -13,6 +13,7 @@ import androidx.compose.material3.Text
 import androidx.compose.runtime.Composable
 import androidx.compose.ui.Modifier
 import androidx.compose.ui.unit.dp
+import com.example.testandroidapp.ui.navigation.LocalNavController
 import com.example.testandroidapp.ui.screens.LocalCatalogData
 
 @Composable
@@ -20,6 +21,7 @@ fun DeviceScreen(
     categoryId: String?,
     vendorId: String?
 ) {
+    val navController = LocalNavController.current
     val category = LocalCatalogData.current.find { it -> it.id == categoryId }
     val vendors = category?.vendors
     val currentVendor = vendors?.find { it -> it.id == vendorId }
@@ -38,11 +40,13 @@ fun DeviceScreen(
                 val device = devices[index]
 
                 Card(
-                    modifier = Modifier
+                    modifier = Modifier,
+                    onClick = {
+                        navController.navigate("catalog/${categoryId}/${vendorId}/${device.id}")
+                    }
                 ) {
                     Box(modifier = Modifier.padding(8.dp)) {
                         Text(device.name, style = MaterialTheme.typography.titleLarge)
-
                     }
                 }
             }

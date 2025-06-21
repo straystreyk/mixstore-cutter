@@ -19,6 +19,7 @@ import androidx.compose.ui.unit.dp
 import coil3.compose.AsyncImage
 import coil3.request.ImageRequest
 import coil3.request.crossfade
+import coil3.svg.SvgDecoder
 
 @Composable
 fun CategoryCard(
@@ -44,6 +45,7 @@ fun CategoryCard(
                 model = ImageRequest.Builder(context)
                     .data(img)
                     .crossfade(true)
+                    .decoderFactory(SvgDecoder.Factory())
                     .build(),
                 contentDescription = "Изображение категории",
                 modifier = Modifier

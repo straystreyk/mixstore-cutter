@@ -12,35 +12,19 @@ import androidx.compose.foundation.layout.padding
 import androidx.compose.foundation.rememberScrollState
 import androidx.compose.foundation.verticalScroll
 import androidx.compose.runtime.Composable
-import androidx.compose.runtime.LaunchedEffect
-import androidx.compose.runtime.mutableStateOf
-import androidx.compose.runtime.remember
 import androidx.compose.ui.Modifier
-import androidx.compose.ui.platform.LocalContext
 import androidx.compose.ui.unit.dp
-import com.example.testandroidapp.data.repository.CatalogRepository
 import com.example.testandroidapp.ui.components.CategoryCard
 import com.example.testandroidapp.ui.navigation.LocalNavController
 import com.example.testandroidapp.ui.screens.LocalCatalogData
-import com.google.gson.Gson
-import com.google.gson.JsonObject
+import com.example.testandroidapp.ui.screens.LocalImagesData
 
 @Composable
 fun MainScreen() {
-    val images = remember { mutableStateOf(JsonObject()) }
-    val context = LocalContext.current
+    val images = LocalImagesData.current
     val catalog = LocalCatalogData.current
     val navController = LocalNavController.current
-
-    // Разбиваем список на пары для 2 столбцов
     val rows = catalog.chunked(2)
-
-    LaunchedEffect(Unit) {
-        val imagesString = CatalogRepository.loadFile(context, "images.json")
-        images.value = Gson().fromJson(imagesString, JsonObject::class.java)
-    }
-
-
 
     Column(
         modifier = Modifier
@@ -63,7 +47,7 @@ fun MainScreen() {
                     modifier = Modifier
                         .weight(1f)
                 ) {
-                    val imageName = images.value.get(rowItems[0].img)
+                    val imageName = images.get(rowItems[0].img)
                     val imgUrl =
                         if (imageName !== null) "file:///android_asset/files/${imageName.asString}" else ""
 
@@ -79,7 +63,7 @@ fun MainScreen() {
 
                 // Второй элемент или пустое место
                 if (rowItems.size > 1) {
-                    val imageName = images.value.get(rowItems[1].img)
+                    val imageName = images.get(rowItems[1].img)
                     val imgUrl =
                         if (imageName !== null) "file:///android_asset/files/${imageName.asString}" else ""
 

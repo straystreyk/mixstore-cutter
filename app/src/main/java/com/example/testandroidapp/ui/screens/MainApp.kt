@@ -17,21 +17,26 @@ import androidx.compose.ui.platform.LocalContext
 import com.example.testandroidapp.data.model.Category
 import com.example.testandroidapp.data.repository.CatalogRepository
 import com.example.testandroidapp.ui.navigation.AppNavigation
+import com.google.gson.Gson
+import com.google.gson.JsonObject
 import kotlinx.coroutines.Dispatchers
 import kotlinx.coroutines.withContext
 
 val LocalCatalogData = compositionLocalOf<List<Category>> { emptyList() }
-
+val LocalImagesData = compositionLocalOf { JsonObject() }
 
 @Composable
 fun PokrikApp() {
     val context = LocalContext.current // Получаем контекст здесь
     var isLoading by remember { mutableStateOf(true) }
     var catalogData by remember { mutableStateOf<List<Category>>(emptyList()) }
+    var images by remember { mutableStateOf(JsonObject()) }
 
     LaunchedEffect(Unit) {
         withContext(Dispatchers.IO) {
             val data = CatalogRepository.loadCatalogFromAssets(context, "db.json")
+            val imagesString = CatalogRepository.loadFile(context, "images.json")
+            images = Gson().fromJson(imagesString, JsonObject::class.java)
             catalogData = data
             isLoading = false
         }
@@ -39,7 +44,8 @@ fun PokrikApp() {
 
 
     CompositionLocalProvider(
-        LocalCatalogData provides catalogData
+        LocalCatalogData provides catalogData,
+        LocalImagesData provides images
     ) {
         when {
             isLoading -> {
