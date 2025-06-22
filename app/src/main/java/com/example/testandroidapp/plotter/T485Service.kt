@@ -35,7 +35,7 @@ class T485Service {
             this.readThread = ReadThread().apply { start() }
             this.driverOpen = true
 
-            LogUtils.e(tag, "Последовательное соединение успешно")
+            LogUtils.d(tag, "Последовательное соединение успешно")
             true
         } catch (e: IOException) {
             this.driverOpen = false
@@ -213,7 +213,7 @@ class T485Service {
                         val hexStringToString = StringUtil.hexStringToString(xbxMsg)
                         val currentHexToString = StringUtil.hexStringToString(readData!!)
 
-                        LogUtils.e(
+                        LogUtils.d(
                             tag,
                             "Получена информация о последовательном порте：$hexStringToString-----$currentHexToString"
                         )
