@@ -1,8 +1,8 @@
 package com.pokrikinc.mixpokrikcutter.ui.components
 
-import androidx.compose.foundation.layout.IntrinsicSize
+import androidx.compose.foundation.layout.Arrangement
 import androidx.compose.foundation.layout.Row
-import androidx.compose.foundation.layout.Spacer
+import androidx.compose.foundation.layout.fillMaxHeight
 import androidx.compose.foundation.layout.height
 import androidx.compose.foundation.layout.padding
 import androidx.compose.foundation.layout.width
@@ -14,11 +14,11 @@ import androidx.compose.material3.Text
 import androidx.compose.runtime.Composable
 import androidx.compose.ui.Alignment
 import androidx.compose.ui.Modifier
+import androidx.compose.ui.layout.ContentScale
 import androidx.compose.ui.platform.LocalContext
 import androidx.compose.ui.unit.dp
 import coil3.compose.AsyncImage
 import coil3.request.ImageRequest
-import coil3.request.crossfade
 import coil3.svg.SvgDecoder
 
 @Composable
@@ -31,28 +31,29 @@ fun CategoryCard(
     val context = LocalContext.current
     Card(
         modifier = modifier,
-        elevation = CardDefaults.cardElevation(4.dp),
+        elevation = CardDefaults.elevatedCardElevation(1.dp), // меньше тени
+        shape = RoundedCornerShape(4.dp), // меньше радиус
         onClick = onClick,
-        shape = RoundedCornerShape(8.dp) // Перенес сюда из модификатора изображения
     ) {
         Row(
             modifier = Modifier
                 .padding(16.dp)
-                .height(IntrinsicSize.Min), // Используем минимально возможную высоту
+                .height(100.dp), // Используем минимально возможную высоту
+            horizontalArrangement = Arrangement.spacedBy(8.dp),
             verticalAlignment = Alignment.CenterVertically
         ) {
             AsyncImage(
                 model = ImageRequest.Builder(context)
                     .data(img)
-                    .crossfade(true)
                     .decoderFactory(SvgDecoder.Factory())
+                    .memoryCacheKey(img) // Use URL as cache key
                     .build(),
                 contentDescription = "Изображение категории",
                 modifier = Modifier
-                    .width(40.dp)
+                    .fillMaxHeight()
+                    .width(50.dp), // Ограничиваем ширину
+                contentScale = ContentScale.Fit // Или ContentScale.Crop при необходимости
             )
-
-            Spacer(modifier = Modifier.width(8.dp))
 
             Text(
                 text = title,
