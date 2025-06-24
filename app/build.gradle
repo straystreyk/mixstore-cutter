@@ -5,7 +5,7 @@ plugins {
 }
 
 android {
-    namespace 'com.example.testandroidapp'
+    namespace 'com.pokrikinc.mixpokrikcutter'
     compileSdk 35
 
     buildFeatures {
@@ -13,7 +13,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.example.testandroidapp"
+        applicationId "com.pokrikinc.mixpokrikcutter"
         minSdk 25
         targetSdk 35
         versionCode 1
