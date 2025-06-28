@@ -41,7 +41,7 @@ class VendorViewModel : ViewModel() {
         val vendors = category.vendors
 
         val items = vendors.map { vendor ->
-            val imageName = images?.get(vendor.img)
+            val imageName = images.get(vendor.img)
             val imgUrl = imageName?.let { "file:///android_asset/files/${it.asString}" } ?: ""
             VendorItem(vendor.id, vendor.name, imgUrl)
         }

@@ -1,7 +1,5 @@
 package com.pokrikinc.mixpokrikcutter.ui.navigation
 
-import android.content.Intent
-import android.provider.Settings
 import androidx.compose.animation.EnterTransition
 import androidx.compose.animation.ExitTransition
 import androidx.compose.foundation.layout.Arrangement
@@ -11,6 +9,7 @@ import androidx.compose.foundation.layout.padding
 import androidx.compose.material.icons.Icons
 import androidx.compose.material.icons.automirrored.filled.ArrowBack
 import androidx.compose.material.icons.filled.Home
+import androidx.compose.material.icons.filled.Menu
 import androidx.compose.material.icons.filled.Settings
 import androidx.compose.material3.BottomAppBar
 import androidx.compose.material3.ExperimentalMaterial3Api
@@ -26,7 +25,6 @@ import androidx.compose.runtime.CompositionLocalProvider
 import androidx.compose.runtime.getValue
 import androidx.compose.runtime.staticCompositionLocalOf
 import androidx.compose.ui.Modifier
-import androidx.compose.ui.platform.LocalContext
 import androidx.navigation.NavHostController
 import androidx.navigation.NavType
 import androidx.navigation.compose.NavHost
@@ -37,7 +35,10 @@ import androidx.navigation.navArgument
 import com.pokrikinc.mixpokrikcutter.ui.screens.device.DeviceScreen
 import com.pokrikinc.mixpokrikcutter.ui.screens.main.MainScreen
 import com.pokrikinc.mixpokrikcutter.ui.screens.parts.PartsScreen
+import com.pokrikinc.mixpokrikcutter.ui.screens.queues.QueuesScreen
+import com.pokrikinc.mixpokrikcutter.ui.screens.queues.queue.QueueScreen
 import com.pokrikinc.mixpokrikcutter.ui.screens.vendor.VendorScreen
+import net.ezcoder.ezprinter.ui.settings.SettingsScreen
 
 const val defaultTitle = "MixCutter"
 
@@ -48,7 +49,6 @@ val LocalNavController = staticCompositionLocalOf<NavHostController> {
 @OptIn(ExperimentalMaterial3Api::class)
 @Composable
 fun AppNavigation() {
-    val context = LocalContext.current
     val navController = rememberNavController()
     val navBackStackEntry by navController.currentBackStackEntryAsState()
     val currentTitle = navBackStackEntry?.arguments?.getString("title") ?: defaultTitle
@@ -92,9 +92,11 @@ fun AppNavigation() {
                             IconButton(onClick = { navController.navigate("catalog") }) {
                                 Icon(Icons.Default.Home, contentDescription = "Home")
                             }
+                            IconButton(onClick = { navController.navigate("queues") }) {
+                                Icon(Icons.Default.Menu, contentDescription = "Queues")
+                            }
                             IconButton(onClick = {
-                                val intent = Intent(Settings.ACTION_SETTINGS)
-                                context.startActivity(intent)
+                                navController.navigate("settings")
                             }) {
                                 Icon(Icons.Default.Settings, contentDescription = "Profile")
                             }
@@ -114,6 +116,20 @@ fun AppNavigation() {
             ) {
                 composable("catalog") {
                     MainScreen()
+                }
+                composable("queues") {
+                    QueuesScreen()
+                }
+                composable(
+                    route = "queues/{queueId}",
+                    arguments = listOf(navArgument("queueId") { type = NavType.IntType })
+                ) { backStackEntry ->
+                    val queueId = backStackEntry.arguments?.getInt("queueId") ?: 0
+
+                    QueueScreen(queueId = queueId)
+                }
+                composable("settings") {
+                    SettingsScreen()
                 }
                 composable(
                     "catalog/{categoryId}",
