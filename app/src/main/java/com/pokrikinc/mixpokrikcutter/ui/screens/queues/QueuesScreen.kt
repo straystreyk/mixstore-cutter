@@ -21,6 +21,7 @@ import androidx.compose.ui.unit.dp
 import androidx.lifecycle.viewmodel.compose.viewModel
 import com.pokrikinc.mixpokrikcutter.data.model.Queue
 import com.pokrikinc.mixpokrikcutter.ui.navigation.LocalNavController
+import com.pokrikinc.mixpokrikcutter.ui.navigation.LocalTitleViewModel
 
 
 @Composable
@@ -28,8 +29,10 @@ fun QueuesScreen(viewModel: QueuesViewModel = viewModel()) {
     val queues = viewModel.queues
     val isLoading = viewModel.isLoading
     val errorMessage = viewModel.errorMessage
+    val titleViewModel = LocalTitleViewModel.current
 
     LaunchedEffect(Unit) {
+        titleViewModel.setTitle("Очереди")
         viewModel.loadQueues()
     }
 

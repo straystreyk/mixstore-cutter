@@ -19,6 +19,8 @@ import androidx.compose.ui.unit.dp
 import androidx.lifecycle.viewmodel.compose.viewModel
 import com.pokrikinc.mixpokrikcutter.ui.components.CategoryCard
 import com.pokrikinc.mixpokrikcutter.ui.navigation.LocalNavController
+import com.pokrikinc.mixpokrikcutter.ui.navigation.LocalTitleViewModel
+import com.pokrikinc.mixpokrikcutter.ui.navigation.defaultTitle
 import com.pokrikinc.mixpokrikcutter.ui.screens.LocalCatalogData
 import com.pokrikinc.mixpokrikcutter.ui.screens.LocalImagesData
 
@@ -30,15 +32,17 @@ fun VendorScreen(
     val images = LocalImagesData.current
     val catalogData = LocalCatalogData.current
     val navController = LocalNavController.current
+    val titleViewModel = LocalTitleViewModel.current
     val lazyListState = rememberLazyListState()
+    val vendorItems by viewModel.vendorItems.collectAsState()
+    val errorMessage by viewModel.errorMessage.collectAsState()
+    val category = catalogData.find { it.id == categoryId }
 
     // Загружаем данные один раз
     LaunchedEffect(categoryId, catalogData, images) {
-        viewModel.loadVendors(categoryId, catalogData, images)
+        titleViewModel.setTitle(category?.name ?: defaultTitle)
+        viewModel.loadVendors(category, images)
     }
-
-    val vendorItems by viewModel.vendorItems.collectAsState()
-    val errorMessage by viewModel.errorMessage.collectAsState()
 
     if (errorMessage != null) {
         ErrorMessage(errorMessage!!)

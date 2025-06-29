@@ -22,18 +22,14 @@ class VendorViewModel : ViewModel() {
     val errorMessage: StateFlow<String?> = _errorMessage.asStateFlow()
 
     fun loadVendors(
-        categoryId: String?,
-        catalog: List<Category>,
+        category: Category?,
         images: JsonObject
     ) {
-        if (categoryId == null) {
+        if (category === null) {
             _errorMessage.value = "Не передана категория"
             return
         }
-
-        val category = catalog.find { it.id == categoryId }
-
-        if (category == null || category.vendors.isEmpty()) {
+        if (category.vendors.isEmpty()) {
             _errorMessage.value = "Список поставщиков пуст"
             return
         }

@@ -12,10 +12,13 @@ import androidx.compose.foundation.layout.padding
 import androidx.compose.foundation.rememberScrollState
 import androidx.compose.foundation.verticalScroll
 import androidx.compose.runtime.Composable
+import androidx.compose.runtime.LaunchedEffect
 import androidx.compose.ui.Modifier
 import androidx.compose.ui.unit.dp
 import com.pokrikinc.mixpokrikcutter.ui.components.CategoryCard
 import com.pokrikinc.mixpokrikcutter.ui.navigation.LocalNavController
+import com.pokrikinc.mixpokrikcutter.ui.navigation.LocalTitleViewModel
+import com.pokrikinc.mixpokrikcutter.ui.navigation.defaultTitle
 import com.pokrikinc.mixpokrikcutter.ui.screens.LocalCatalogData
 import com.pokrikinc.mixpokrikcutter.ui.screens.LocalImagesData
 
@@ -23,8 +26,14 @@ import com.pokrikinc.mixpokrikcutter.ui.screens.LocalImagesData
 fun MainScreen() {
     val images = LocalImagesData.current
     val catalog = LocalCatalogData.current
+    val titleViewModel = LocalTitleViewModel.current
     val navController = LocalNavController.current
     val rows = catalog.chunked(2)
+    
+    LaunchedEffect(Unit) {
+        titleViewModel.setTitle(defaultTitle)
+    }
+
 
     Column(
         modifier = Modifier

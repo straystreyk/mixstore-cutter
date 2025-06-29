@@ -12,6 +12,7 @@ import androidx.compose.material3.MaterialTheme
 import androidx.compose.material3.OutlinedTextField
 import androidx.compose.material3.Text
 import androidx.compose.runtime.Composable
+import androidx.compose.runtime.LaunchedEffect
 import androidx.compose.runtime.derivedStateOf
 import androidx.compose.runtime.getValue
 import androidx.compose.runtime.remember
@@ -21,6 +22,7 @@ import androidx.compose.ui.text.input.ImeAction
 import androidx.compose.ui.text.input.KeyboardType
 import androidx.compose.ui.unit.dp
 import androidx.lifecycle.viewmodel.compose.viewModel
+import com.pokrikinc.mixpokrikcutter.ui.navigation.LocalTitleViewModel
 import com.pokrikinc.mixpokrikcutter.ui.screens.settings.SettingsViewModel
 
 @Composable
@@ -29,6 +31,11 @@ fun SettingsScreen(viewModel: SettingsViewModel = viewModel()) {
     val printerName by remember { derivedStateOf { viewModel.printerName } }
     val printSpeed by remember { derivedStateOf { viewModel.printSpeed.toString() } }
     val ctx = LocalContext.current
+    val titleViewModel = LocalTitleViewModel.current
+
+    LaunchedEffect(Unit) {
+        titleViewModel.setTitle("Настройки очередей")
+    }
 
     Column(
         modifier = Modifier

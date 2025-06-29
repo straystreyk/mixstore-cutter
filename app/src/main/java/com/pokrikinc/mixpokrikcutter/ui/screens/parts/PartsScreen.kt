@@ -41,6 +41,7 @@ import com.pokrikinc.mixpokrikcutter.data.model.Part
 import com.pokrikinc.mixpokrikcutter.data.repository.CatalogRepository
 import com.pokrikinc.mixpokrikcutter.plotter.DeviceManager
 import com.pokrikinc.mixpokrikcutter.plotter.printFile
+import com.pokrikinc.mixpokrikcutter.ui.navigation.LocalTitleViewModel
 import com.pokrikinc.mixpokrikcutter.ui.screens.LocalCatalogData
 import com.pokrikinc.mixpokrikcutter.ui.screens.LocalDeviceInstance
 import com.pokrikinc.mixpokrikcutter.ui.screens.LocalImagesData
@@ -59,20 +60,23 @@ fun PartsScreen(
     val images = LocalImagesData.current
     val deviceInstance = LocalDeviceInstance.current
     val catalogData = LocalCatalogData.current
+    val titleViewModel = LocalTitleViewModel.current
 
     // Мемоизация вычисления деталей
-    val partList = remember(categoryId, vendorId, deviceId, catalogData) {
-        catalogData
+    val (deviceName, partList) = remember(categoryId, vendorId, deviceId, catalogData) {
+        val device = catalogData
             .find { it.id == categoryId }
             ?.vendors
             ?.find { it.id == vendorId }
             ?.devices
             ?.find { it.id == deviceId }
-            ?.partlist
+
+        Pair(device?.name ?: "", device?.partlist)
     }
 
     // Загрузка данных plts.json
     LaunchedEffect(Unit) {
+        titleViewModel.setTitle(deviceName)
         try {
             isLoading = true
             error = null

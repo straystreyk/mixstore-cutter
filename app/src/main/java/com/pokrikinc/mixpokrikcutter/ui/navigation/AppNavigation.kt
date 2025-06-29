@@ -22,9 +22,13 @@ import androidx.compose.material3.TopAppBar
 import androidx.compose.material3.TopAppBarDefaults
 import androidx.compose.runtime.Composable
 import androidx.compose.runtime.CompositionLocalProvider
+import androidx.compose.runtime.collectAsState
+import androidx.compose.runtime.derivedStateOf
 import androidx.compose.runtime.getValue
+import androidx.compose.runtime.remember
 import androidx.compose.runtime.staticCompositionLocalOf
 import androidx.compose.ui.Modifier
+import androidx.lifecycle.viewmodel.compose.viewModel
 import androidx.navigation.NavHostController
 import androidx.navigation.NavType
 import androidx.navigation.compose.NavHost
@@ -40,21 +44,28 @@ import com.pokrikinc.mixpokrikcutter.ui.screens.queues.queue.QueueScreen
 import com.pokrikinc.mixpokrikcutter.ui.screens.vendor.VendorScreen
 import net.ezcoder.ezprinter.ui.settings.SettingsScreen
 
-const val defaultTitle = "MixCutter"
-
 val LocalNavController = staticCompositionLocalOf<NavHostController> {
     error("NavController not provided")
+}
+val LocalTitleViewModel = staticCompositionLocalOf<TitleViewModel> {
+    error("TitleViewModel not provided")
 }
 
 @OptIn(ExperimentalMaterial3Api::class)
 @Composable
 fun AppNavigation() {
     val navController = rememberNavController()
+    val titleViewModel: TitleViewModel = viewModel()
     val navBackStackEntry by navController.currentBackStackEntryAsState()
-    val currentTitle = navBackStackEntry?.arguments?.getString("title") ?: defaultTitle
+    val hasPreviousDestination by remember(navBackStackEntry) {
+        derivedStateOf { navController.previousBackStackEntry != null }
+    }
+    val title by titleViewModel.title.collectAsState()
+
 
     CompositionLocalProvider(
-        LocalNavController provides navController
+        LocalNavController provides navController,
+        LocalTitleViewModel provides titleViewModel,
     ) {
         Scaffold(
             topBar = {
@@ -64,10 +75,10 @@ fun AppNavigation() {
                         titleContentColor = MaterialTheme.colorScheme.onPrimary,
                     ),
                     title = {
-                        Text(text = currentTitle)
+                        Text(text = title)
                     },
                     navigationIcon = {
-                        if (navController.previousBackStackEntry != null) {
+                        if (hasPreviousDestination) {
                             IconButton(
                                 onClick = { navController.navigateUp() },
                             ) {

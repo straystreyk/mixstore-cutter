@@ -12,6 +12,7 @@ import androidx.compose.material3.Card
 import androidx.compose.material3.MaterialTheme
 import androidx.compose.material3.Text
 import androidx.compose.runtime.Composable
+import androidx.compose.runtime.LaunchedEffect
 import androidx.compose.runtime.remember
 import androidx.compose.ui.Alignment
 import androidx.compose.ui.Modifier
@@ -20,6 +21,7 @@ import androidx.compose.ui.text.style.TextOverflow
 import androidx.compose.ui.unit.dp
 import com.pokrikinc.mixpokrikcutter.data.model.Device
 import com.pokrikinc.mixpokrikcutter.ui.navigation.LocalNavController
+import com.pokrikinc.mixpokrikcutter.ui.navigation.LocalTitleViewModel
 import com.pokrikinc.mixpokrikcutter.ui.screens.LocalCatalogData
 
 @Composable
@@ -29,14 +31,18 @@ fun DeviceScreen(
 ) {
     val navController = LocalNavController.current
     val catalogData = LocalCatalogData.current
+    val titleViewModel = LocalTitleViewModel.current
 
     // Мемоизируем вычисления для избежания пересчета при рекомпозиции
-    val devices = remember(categoryId, vendorId, catalogData) {
-        catalogData
-            .find { it.id == categoryId }
-            ?.vendors
-            ?.find { it.id == vendorId }
-            ?.devices
+    val (devices, name) = remember(categoryId, vendorId, catalogData) {
+        val category = catalogData.find { it.id == categoryId }
+        val vendor = category?.vendors?.find { it.id == vendorId }
+
+        Pair(vendor?.devices, vendor?.name ?: "")
+    }
+
+    LaunchedEffect(Unit) {
+        titleViewModel.setTitle(name)
     }
 
     when {
