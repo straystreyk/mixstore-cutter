@@ -14,7 +14,7 @@ class MainActivity : ComponentActivity() {
         super.onCreate(savedInstanceState)
         PreferenceManager.init(this)
         RetrofitProvider.init()
-
+ 
 
         setContent {
             PokrikTheme {

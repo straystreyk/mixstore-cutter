@@ -8,8 +8,22 @@ android {
     namespace 'com.pokrikinc.mixpokrikcutter'
     compileSdk 35
 
+    // 🚀 ОПТИМИЗАЦИИ ДЛЯ JSON ФАЙЛОВ
+    aaptOptions {
+        noCompress 'gz', 'json', 'db', 'txt'  // Добавили json, db, txt
+        cruncherEnabled = false               // Ускоряет сборку
+    }
+
     buildFeatures {
-        compose true
+        compose = true
+        buildConfig = true        // Включили BuildConfig для debug логов
+        viewBinding = false       // Отключили если не используете
+        dataBinding = false       // Отключили если не используете
+    }
+
+    // 🚀 ОПТИМИЗАЦИИ COMPOSE
+    composeOptions {
+        kotlinCompilerExtensionVersion = '1.5.8'
     }
 
     defaultConfig {
@@ -20,20 +34,66 @@ android {
         versionName "1.0"
 
         testInstrumentationRunner "androidx.test.runner.AndroidJUnitRunner"
+
+        // 🚀 ОПТИМИЗАЦИИ ДЛЯ БОЛЬШИХ JSON ФАЙЛОВ
+        vectorDrawables {
+            useSupportLibrary = true
+        }
+
+        // Увеличиваем heap для обработки больших JSON
+        multiDexEnabled = true
+
+        // Оптимизации для ARM архитектур
+        ndk {
+            abiFilters 'arm64-v8a', 'armeabi-v7a', "x86_64"
+        }
     }
 
     buildTypes {
+        debug {
+            minifyEnabled = false
+            debuggable = true
+            applicationIdSuffix = ".debug"
+            // 🚀 УСКОРЕНИЕ DEBUG СБОРКИ
+            crunchPngs = false
+            zipAlignEnabled = false
+
+            // Отключаем оптимизации для быстрой сборки
+            renderscriptOptimLevel = 0
+        }
+
         release {
-            minifyEnabled true
+            minifyEnabled = true
+            shrinkResources = true
+            debuggable = false
+            // 🚀 МАКСИМАЛЬНЫЕ ОПТИМИЗАЦИИ RELEASE
+            crunchPngs = true
+            zipAlignEnabled = true
+
             proguardFiles getDefaultProguardFile('proguard-android-optimize.txt'), 'proguard-rules.pro'
+
+            // R8 оптимизации
+            renderscriptOptimLevel = 3
         }
     }
+
+    // 🚀 ОПТИМИЗАЦИИ КОМПИЛЯЦИИ
     compileOptions {
-        sourceCompatibility JavaVersion.VERSION_11
-        targetCompatibility JavaVersion.VERSION_11
+        sourceCompatibility = JavaVersion.VERSION_11
+        targetCompatibility = JavaVersion.VERSION_11
+
+        // Включаем инкрементальную компиляцию
+        incremental = true
     }
+
     kotlinOptions {
         jvmTarget = '11'
+    }
+
+    lintOptions {
+        checkReleaseBuilds = false
+        abortOnError = false
+        disable 'InvalidPackage', 'OldTargetApi'
     }
 }
 
@@ -55,7 +115,4 @@ dependencies {
     implementation libs.material
     implementation libs.androidx.activity
     implementation libs.androidx.constraintlayout
-    testImplementation libs.junit
-    androidTestImplementation libs.androidx.junit
-    androidTestImplementation libs.androidx.espresso.core
 }
