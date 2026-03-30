@@ -28,7 +28,9 @@ data class OrderListItem(
     val id: Int,
     val title: String,
     val subtitle: String,
-    val status: String
+    val status: String,
+    val isCompleted: Boolean,
+    val isCurrent: Boolean = false
 )
 
 data class PartListItem(
@@ -173,10 +175,13 @@ class OrderListAdapter : RecyclerView.Adapter<OrderListAdapter.ViewHolder>() {
             titleView.text = item.title
             subtitleView.text = item.subtitle
             statusView.text = item.status
-            val statusBackground = if (item.status.contains("Не", ignoreCase = true)) {
-                R.drawable.bg_status_warning
-            } else {
-                R.drawable.bg_status_ok
+            itemView.setBackgroundResource(
+                if (item.isCurrent) R.drawable.bg_list_card_active else R.drawable.bg_list_card
+            )
+            val statusBackground = when {
+                item.isCurrent -> R.drawable.bg_status_active
+                item.isCompleted -> R.drawable.bg_status_ok
+                else -> R.drawable.bg_status_warning
             }
             statusView.setBackgroundResource(statusBackground)
         }

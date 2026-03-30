@@ -17,6 +17,9 @@
     <string name="action_open_devices">Открыть устройства</string>
     <string name="action_open_parts">Открыть детали</string>
     <string name="action_open_queue">Открыть очередь</string>
+    <string name="action_prev">Назад</string>
+    <string name="action_skip">Пропустить</string>
+    <string name="action_print_next">Печать</string>
     <string name="print_unavailable">Файл печати недоступен</string>
     <string name="device_unavailable">Нет соединения с плоттером</string>
     <string name="print_sent">Файл отправлен на плоттер</string>
@@ -26,8 +29,18 @@
     <string name="label_base_url">URL очередей</string>
     <string name="label_printer_name">Имя принтера</string>
     <string name="label_print_speed">Скорость реза (1-4)</string>
+    <string name="label_print_pressure">Давление</string>
     <string name="settings_saved">Настройки сохранены</string>
     <string name="queues_intro">Здесь можно быстро найти очередь по названию или номеру и открыть ее детали.</string>
-    <string name="settings_intro">Настройки сохраняются локально на устройстве. Используйте поля ниже для изменения адреса сервера, имени принтера и скорости реза.</string>
+    <string name="settings_intro">Настройки сохраняются локально на устройстве. Используйте поля ниже для изменения адреса сервера, имени принтера, скорости реза и давления.</string>
     <string name="image_preview">Изображение</string>
+    <string name="queue_summary_format">%1$s • завершено %2$d из %3$d</string>
+    <string name="queue_current_format">Текущий заказ %1$d/%2$d: %3$s • деталей %4$d/%5$d</string>
+    <string name="queue_order_title_format">Заказ %1$d</string>
+    <string name="queue_order_subtitle_format">%1$s • деталей: %2$d</string>
+    <string name="queue_status_done">Напечатан</string>
+    <string name="queue_status_current_format">Сейчас печатается • %1$d/%2$d</string>
+    <string name="queue_status_pending_format">Ожидает • %1$d/%2$d</string>
+    <string name="queue_complete">Очередь завершена</string>
+    <string name="queue_nothing_to_print">В текущем заказе больше нечего печатать</string>
 </resources>

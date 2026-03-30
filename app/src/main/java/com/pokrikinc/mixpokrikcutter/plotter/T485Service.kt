@@ -28,17 +28,17 @@ class T485Service {
     fun start(devicePath: String, baudRate: String): Boolean {
         return try {
             val port = getSerialPort(devicePath, baudRate)
-            this.serialPort = port
-            this.outputStream = port.outputStream
-            this.inputStream = port.inputStream
+            serialPort = port
+            outputStream = port.outputStream
+            inputStream = port.inputStream
 
-            this.readThread = ReadThread().apply { start() }
-            this.driverOpen = true
+            readThread = ReadThread().apply { start() }
+            driverOpen = true
 
             LogUtils.d(tag, "Последовательное соединение успешно")
             true
         } catch (e: IOException) {
-            this.driverOpen = false
+            driverOpen = false
             LogUtils.e(tag, "Ошибка соединения последовательного порта ${e.message}")
             false
         }
@@ -94,10 +94,7 @@ class T485Service {
                 LogUtils.e(
                     tag,
                     "Последовательный порт успешно отправлен: ${
-                        StringUtil.toHexString(
-                            data,
-                            data.size
-                        )
+                        StringUtil.toHexString(data, data.size)
                     }"
                 )
                 true
@@ -201,42 +198,48 @@ class T485Service {
 
             while (!isInterrupted && !stop && inputStream != null) {
                 try {
+                    val currentInputStream = inputStream ?: break
                     val tempBuffer = ByteArray(1024)
-                    val bytesRead = inputStream!!.read(tempBuffer)
+                    val bytesRead = currentInputStream.read(tempBuffer)
 
-                    if (bytesRead > 0) {
-                        buffer = tempBuffer
-                        size = bytesRead
-                        readData = StringUtil.toHexString(tempBuffer, bytesRead).replace(" ", "")
-                        xbxMsg += readData!!
-
-                        val hexStringToString = StringUtil.hexStringToString(xbxMsg)
-                        val currentHexToString = StringUtil.hexStringToString(readData!!)
-
-                        LogUtils.d(
-                            tag,
-                            "Получена информация о последовательном порте：$hexStringToString-----$currentHexToString"
-                        )
-
-                        if (isPrint) {
-                            try {
-                                if (hexStringToString.isNotEmpty() && hexStringToString.contains("RCMD=10,0")) {
-                                    xbxMsg = ""
-                                    readData = ""
-                                    isPrint = false
-                                }
-                            } catch (e: Exception) {
-                                e.printStackTrace()
-                            }
-                        }
-
-                        if (hexStringToString.isNotEmpty() && hexStringToString.endsWith(";")) {
-                            received = true
-                        }
-                    } else {
+                    if (bytesRead <= 0) {
                         LogUtils.e(tag, "empty data")
+                        continue
                     }
-                } catch (e: IOException) {
+
+                    buffer = tempBuffer
+                    size = bytesRead
+
+                    val currentReadData = StringUtil.toHexString(tempBuffer, bytesRead)
+                        ?.replace(" ", "")
+                        .orEmpty()
+                    readData = currentReadData
+                    xbxMsg += currentReadData
+
+                    val hexStringToString = StringUtil.hexStringToString(xbxMsg)
+                    val currentHexToString = StringUtil.hexStringToString(currentReadData)
+
+                    LogUtils.d(
+                        tag,
+                        "Получена информация о последовательном порте: $hexStringToString-----$currentHexToString"
+                    )
+
+                    if (isPrint) {
+                        try {
+                            if (hexStringToString.isNotEmpty() && hexStringToString.contains("RCMD=10,0")) {
+                                xbxMsg = ""
+                                readData = ""
+                                isPrint = false
+                            }
+                        } catch (e: Exception) {
+                            e.printStackTrace()
+                        }
+                    }
+
+                    if (hexStringToString.isNotEmpty() && hexStringToString.endsWith(";")) {
+                        received = true
+                    }
+                } catch (e: Exception) {
                     e.printStackTrace()
                 }
             }

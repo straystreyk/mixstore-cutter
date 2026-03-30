@@ -13,16 +13,7 @@ import androidx.recyclerview.widget.RecyclerView
 import com.pokrikinc.mixpokrikcutter.AppDataStore
 import com.pokrikinc.mixpokrikcutter.MainActivity
 import com.pokrikinc.mixpokrikcutter.R
-import com.pokrikinc.mixpokrikcutter.data.repository.CatalogRepository
-import com.pokrikinc.mixpokrikcutter.plotter.DeviceManager
-import com.pokrikinc.mixpokrikcutter.plotter.PrintUtil
-import com.pokrikinc.mixpokrikcutter.plotter.printFileAwait
-import com.pokrikinc.mixpokrikcutter.store.PreferenceManager
-import kotlinx.coroutines.Dispatchers
-import kotlinx.coroutines.suspendCancellableCoroutine
 import kotlinx.coroutines.launch
-import kotlinx.coroutines.withContext
-import kotlin.coroutines.resume
 
 class PartsFragment : Fragment() {
     override fun onCreateView(
@@ -73,64 +64,15 @@ class PartsFragment : Fragment() {
     private fun printPart(attFile: String) {
         val appContext = context?.applicationContext ?: return
         viewLifecycleOwner.lifecycleScope.launch {
-            val plts = AppDataStore.ensurePltsLoaded(appContext)
-            val pltName = plts[attFile]?.asString
-            if (pltName.isNullOrBlank()) {
-                Toast.makeText(appContext, R.string.print_unavailable, Toast.LENGTH_SHORT).show()
-                return@launch
-            }
-
-            val deviceManager = AppDataStore.ensureDeviceManager()
-            if (deviceManager == null) {
-                Toast.makeText(appContext, R.string.device_unavailable, Toast.LENGTH_SHORT).show()
-                return@launch
-            }
-
-            val pltContent = CatalogRepository.loadFile(appContext, "files/$pltName")
-            if (pltContent.isBlank()) {
-                Toast.makeText(appContext, R.string.print_unavailable, Toast.LENGTH_SHORT).show()
-                return@launch
-            }
-
-            val printResult = withContext(Dispatchers.IO) {
-                val speed = PreferenceManager.getPrintSpeed()
-                applyCutSpeed(deviceManager, speed)
-                var result = deviceManager.printFileAwait(pltContent)
-                if (!result.isSuccess) {
-                    val reconnectedManager = AppDataStore.reconnectDeviceManager()
-                    if (reconnectedManager != null) {
-                        applyCutSpeed(reconnectedManager, speed)
-                        result = reconnectedManager.printFileAwait(pltContent)
-                    }
-                }
-                result
-            }
-
+            val printResult = PlotterPrintHelper.printPartByAttFile(appContext, attFile)
             if (!isAdded) return@launch
+
             val messageRes = if (printResult.isSuccess) {
                 R.string.print_sent
             } else {
                 R.string.print_failed
             }
             Toast.makeText(appContext, messageRes, Toast.LENGTH_SHORT).show()
-        }
-    }
-
-    private suspend fun applyCutSpeed(deviceManager: DeviceManager, speed: Int) {
-        val normalizedSpeed = speed.coerceIn(1, 4)
-        sendNoBackAwait(deviceManager, PrintUtil.setSpeedV(normalizedSpeed))
-        sendNoBackAwait(deviceManager, PrintUtil.setSpeedF(normalizedSpeed))
-    }
-
-    private suspend fun sendNoBackAwait(deviceManager: DeviceManager, command: ByteArray): Boolean {
-        return suspendCancellableCoroutine { continuation ->
-            deviceManager.sendNoBack(command, object : DeviceManager.Callback {
-                override fun data(success: Boolean, received: com.pokrikinc.mixpokrikcutter.plotter.Received?) {
-                    if (continuation.isActive) {
-                        continuation.resume(success)
-                    }
-                }
-            })
         }
     }
 

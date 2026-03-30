@@ -8,10 +8,16 @@ import android.widget.Button
 import android.widget.EditText
 import android.widget.Toast
 import androidx.fragment.app.Fragment
+import androidx.lifecycle.lifecycleScope
 import com.pokrikinc.mixpokrikcutter.MainActivity
 import com.pokrikinc.mixpokrikcutter.R
+import com.pokrikinc.mixpokrikcutter.AppDataStore
 import com.pokrikinc.mixpokrikcutter.data.RetrofitProvider
+import com.pokrikinc.mixpokrikcutter.plotter.DeviceManager
+import com.pokrikinc.mixpokrikcutter.plotter.PrintUtil
+import com.pokrikinc.mixpokrikcutter.plotter.Received
 import com.pokrikinc.mixpokrikcutter.store.PreferenceManager
+import kotlinx.coroutines.launch
 
 class SettingsFragment : Fragment() {
     override fun onCreateView(
@@ -31,23 +37,48 @@ class SettingsFragment : Fragment() {
         val urlInput = view.findViewById<EditText>(R.id.input_base_url)
         val printerInput = view.findViewById<EditText>(R.id.input_printer_name)
         val speedInput = view.findViewById<EditText>(R.id.input_print_speed)
+        val pressureInput = view.findViewById<EditText>(R.id.input_print_pressure)
         val saveButton = view.findViewById<Button>(R.id.button_save)
 
         urlInput.setText(PreferenceManager.getBaseUrl())
         printerInput.setText(PreferenceManager.getPrinterName())
         speedInput.setText(PreferenceManager.getPrintSpeed().toString())
+        pressureInput.setText(PreferenceManager.getPrintPressure().toString())
 
         saveButton.setOnClickListener {
             val url = urlInput.text?.toString().orEmpty().ifBlank { PreferenceManager.getBaseUrl() }
             val printerName = printerInput.text?.toString().orEmpty()
             val speed = speedInput.text?.toString()?.toIntOrNull()?.coerceIn(1, 4) ?: 4
+            val pressure = pressureInput.text?.toString()?.toIntOrNull()
+                ?.coerceAtLeast(1)
+                ?: PreferenceManager.getPrintPressure()
 
             PreferenceManager.setBaseUrl(url)
             PreferenceManager.setPrinterName(printerName)
             PreferenceManager.setPrintSpeed(speed)
+            PreferenceManager.setPrintPressure(pressure)
             RetrofitProvider.updateBaseUrl(url)
+            applyPlotterSettings(speed, pressure)
 
             Toast.makeText(requireContext(), R.string.settings_saved, Toast.LENGTH_SHORT).show()
+        }
+    }
+
+    private fun applyPlotterSettings(speed: Int, pressure: Int) {
+        viewLifecycleOwner.lifecycleScope.launch {
+            val deviceManager = AppDataStore.ensureDeviceManager() ?: return@launch
+            sendSetting(deviceManager, PrintUtil.setSpeedV(speed.coerceIn(1, 4)))
+            sendSetting(deviceManager, PrintUtil.setSpeedF(pressure.coerceAtLeast(1)))
+        }
+    }
+
+    private fun sendSetting(deviceManager: DeviceManager, command: ByteArray) {
+        try {
+            deviceManager.send(command, object : DeviceManager.Callback {
+                override fun data(success: Boolean, received: Received?) {
+                }
+            })
+        } catch (_: Exception) {
         }
     }
 }

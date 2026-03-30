@@ -9,6 +9,7 @@ object PreferenceManager {
     private const val KEY_BASE_URL = "base_url"
     private const val KEY_PRINTER_NAME = "printer_name"
     private const val KEY_PRINT_SPEED = "print_speed"
+    private const val KEY_PRINT_PRESSURE = "print_pressure"
 
     private lateinit var prefs: SharedPreferences
 
@@ -26,4 +27,7 @@ object PreferenceManager {
 
     fun getPrintSpeed() = prefs.getInt(KEY_PRINT_SPEED, 4)
     fun setPrintSpeed(speed: Int) = prefs.edit { putInt(KEY_PRINT_SPEED, speed) }
+
+    fun getPrintPressure() = prefs.getInt(KEY_PRINT_PRESSURE, 4)
+    fun setPrintPressure(pressure: Int) = prefs.edit { putInt(KEY_PRINT_PRESSURE, pressure) }
 }
