@@ -3,12 +3,22 @@ plugins {
     alias(libs.plugins.kotlin.android)
 }
 
+def keystorePropertiesFile = rootProject.file("keystore.properties")
+def keystoreProperties = new Properties()
+def hasReleaseKeystore = keystorePropertiesFile.exists()
+
+if (hasReleaseKeystore) {
+    keystorePropertiesFile.withInputStream { stream ->
+        keystoreProperties.load(stream)
+    }
+}
+
 android {
     namespace 'com.pokrikinc.mixpokrikcutter'
     compileSdk 35
 
     aaptOptions {
-        noCompress 'gz', 'json', 'db', 'txt', 'plt', 'svg'
+        noCompress 'gz'
         cruncherEnabled = false
         cruncherProcesses = 1
     }
@@ -40,6 +50,17 @@ android {
         proguardFiles getDefaultProguardFile('proguard-android-optimize.txt'), 'proguard-rules.pro'
     }
 
+    signingConfigs {
+        if (hasReleaseKeystore) {
+            release {
+                storeFile file(keystoreProperties['storeFile'])
+                storePassword keystoreProperties['storePassword']
+                keyAlias keystoreProperties['keyAlias']
+                keyPassword keystoreProperties['keyPassword']
+            }
+        }
+    }
+
     buildTypes {
         debug {
             minifyEnabled = false
@@ -60,6 +81,9 @@ android {
             zipAlignEnabled = true
             renderscriptOptimLevel = 3
             proguardFiles getDefaultProguardFile('proguard-android-optimize.txt'), 'proguard-rules.pro'
+            if (hasReleaseKeystore) {
+                signingConfig signingConfigs.release
+            }
         }
     }
 

@@ -7,9 +7,13 @@ import com.pokrikinc.mixpokrikcutter.data.model.Device
 import com.pokrikinc.mixpokrikcutter.data.model.Vendor
 import com.pokrikinc.mixpokrikcutter.data.repository.CatalogRepository
 import com.pokrikinc.mixpokrikcutter.plotter.DeviceManager
+import com.pokrikinc.mixpokrikcutter.plotter.PrintUtil
+import com.pokrikinc.mixpokrikcutter.plotter.Received
 import kotlinx.coroutines.delay
 import kotlinx.coroutines.Dispatchers
+import kotlinx.coroutines.suspendCancellableCoroutine
 import kotlinx.coroutines.withContext
+import kotlin.coroutines.resume
 
 object AppDataStore {
     data class LoadResult(
@@ -78,6 +82,25 @@ object AppDataStore {
             manager
         } else {
             null
+        }
+    }
+
+    suspend fun warmUpDeviceManager(): Boolean = withContext(Dispatchers.IO) {
+        val manager = ensureDeviceManager() ?: return@withContext false
+        suspendCancellableCoroutine { continuation ->
+            try {
+                manager.send(PrintUtil.getState(), object : DeviceManager.Callback {
+                    override fun data(success: Boolean, received: Received?) {
+                        if (continuation.isActive) {
+                            continuation.resume(success && !received?.readData.isNullOrEmpty())
+                        }
+                    }
+                })
+            } catch (_: Exception) {
+                if (continuation.isActive) {
+                    continuation.resume(false)
+                }
+            }
         }
     }
 

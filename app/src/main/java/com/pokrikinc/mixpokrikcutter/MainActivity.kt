@@ -119,15 +119,14 @@ class MainActivity : AppCompatActivity() {
             try {
                 val result = AppDataStore.ensureCatalogLoaded(applicationContext)
                 if (result.isSuccess) {
-                    activityScope.launch {
-                        try {
-                            AppDataStore.ensureDeviceManager()
-                        } catch (_: Exception) {
-                        }
+                    setLoading(true, getString(R.string.loading_plotter))
+                    try {
+                        AppDataStore.warmUpDeviceManager()
+                    } catch (_: Exception) {
                     }
                     setLoading(false)
-                    bottomNavigation.selectedItemId = R.id.menu_catalog
-                    openCatalogRoot()
+                    bottomNavigation.selectedItemId = R.id.menu_queues
+                    openQueuesRoot()
                 } else {
                     setLoading(true, result.message ?: getString(R.string.loading_error))
                     progressBar.visibility = View.GONE

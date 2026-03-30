@@ -10,6 +10,7 @@ object PreferenceManager {
     private const val KEY_PRINTER_NAME = "printer_name"
     private const val KEY_PRINT_SPEED = "print_speed"
     private const val KEY_PRINT_PRESSURE = "print_pressure"
+    private const val DEFAULT_BASE_URL = "http://192.168.50.43:8080"
 
     private lateinit var prefs: SharedPreferences
 
@@ -18,7 +19,7 @@ object PreferenceManager {
     }
 
     fun getBaseUrl() =
-        prefs.getString(KEY_BASE_URL, "http://192.168.1.22:8080") ?: "http://192.168.1.22:8080"
+        prefs.getString(KEY_BASE_URL, DEFAULT_BASE_URL) ?: DEFAULT_BASE_URL
 
     fun setBaseUrl(url: String) = prefs.edit { putString(KEY_BASE_URL, url) }
 

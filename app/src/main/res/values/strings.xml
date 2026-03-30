@@ -7,11 +7,13 @@
     <string name="title_queues">Очереди</string>
     <string name="title_settings">Настройки</string>
     <string name="loading_catalog">Загрузка каталога…</string>
+    <string name="loading_plotter">Подготовка плоттера…</string>
     <string name="loading_error">Ошибка загрузки. Перезапустите приложение.</string>
     <string name="no_data">Нет данных</string>
     <string name="action_refresh">Обновить</string>
     <string name="action_save">Сохранить</string>
-    <string name="action_print">Печать</string>
+    <string name="action_device_settings">Настройки устройства</string>
+    <string name="action_print">Вырезать</string>
     <string name="action_select">Открыть</string>
     <string name="action_open_section">Открыть раздел</string>
     <string name="action_open_devices">Открыть устройства</string>
@@ -19,8 +21,8 @@
     <string name="action_open_queue">Открыть очередь</string>
     <string name="action_prev">Назад</string>
     <string name="action_skip">Пропустить</string>
-    <string name="action_print_next">Печать</string>
-    <string name="print_unavailable">Файл печати недоступен</string>
+    <string name="action_print_next">Вырезать</string>
+    <string name="print_unavailable">Файл для резки недоступен</string>
     <string name="device_unavailable">Нет соединения с плоттером</string>
     <string name="print_sent">Файл отправлен на плоттер</string>
     <string name="print_failed">Не удалось отправить на плоттер</string>
@@ -38,9 +40,9 @@
     <string name="queue_current_format">Текущий заказ %1$d/%2$d: %3$s • деталей %4$d/%5$d</string>
     <string name="queue_order_title_format">Заказ %1$d</string>
     <string name="queue_order_subtitle_format">%1$s • деталей: %2$d</string>
-    <string name="queue_status_done">Напечатан</string>
-    <string name="queue_status_current_format">Сейчас печатается • %1$d/%2$d</string>
+    <string name="queue_status_done">Вырезан</string>
+    <string name="queue_status_current_format">Сейчас вырезается • %1$d/%2$d</string>
     <string name="queue_status_pending_format">Ожидает • %1$d/%2$d</string>
     <string name="queue_complete">Очередь завершена</string>
-    <string name="queue_nothing_to_print">В текущем заказе больше нечего печатать</string>
+    <string name="queue_nothing_to_print">В текущем заказе больше нечего вырезать</string>
 </resources>

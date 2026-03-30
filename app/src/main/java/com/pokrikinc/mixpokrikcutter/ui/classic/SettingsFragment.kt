@@ -1,6 +1,8 @@
 package com.pokrikinc.mixpokrikcutter.ui.classic
 
+import android.content.Intent
 import android.os.Bundle
+import android.provider.Settings
 import android.view.LayoutInflater
 import android.view.View
 import android.view.ViewGroup
@@ -39,6 +41,7 @@ class SettingsFragment : Fragment() {
         val speedInput = view.findViewById<EditText>(R.id.input_print_speed)
         val pressureInput = view.findViewById<EditText>(R.id.input_print_pressure)
         val saveButton = view.findViewById<Button>(R.id.button_save)
+        val deviceSettingsButton = view.findViewById<Button>(R.id.button_device_settings)
 
         urlInput.setText(PreferenceManager.getBaseUrl())
         printerInput.setText(PreferenceManager.getPrinterName())
@@ -61,6 +64,10 @@ class SettingsFragment : Fragment() {
             applyPlotterSettings(speed, pressure)
 
             Toast.makeText(requireContext(), R.string.settings_saved, Toast.LENGTH_SHORT).show()
+        }
+
+        deviceSettingsButton.setOnClickListener {
+            startActivity(Intent(Settings.ACTION_SETTINGS))
         }
     }
 

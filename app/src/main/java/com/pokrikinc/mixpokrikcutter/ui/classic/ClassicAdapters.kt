@@ -145,6 +145,7 @@ class QueueListAdapter(
 
 class OrderListAdapter : RecyclerView.Adapter<OrderListAdapter.ViewHolder>() {
     private val items = mutableListOf<OrderListItem>()
+    var onItemDoubleTap: ((Int, OrderListItem) -> Unit)? = null
 
     fun submitList(newItems: List<OrderListItem>) {
         items.clear()
@@ -155,7 +156,7 @@ class OrderListAdapter : RecyclerView.Adapter<OrderListAdapter.ViewHolder>() {
     override fun onCreateViewHolder(parent: ViewGroup, viewType: Int): ViewHolder {
         val view = LayoutInflater.from(parent.context)
             .inflate(R.layout.item_order, parent, false)
-        return ViewHolder(view)
+        return ViewHolder(view, onItemDoubleTap)
     }
 
     override fun onBindViewHolder(holder: ViewHolder, position: Int) {
@@ -164,13 +165,35 @@ class OrderListAdapter : RecyclerView.Adapter<OrderListAdapter.ViewHolder>() {
 
     override fun getItemCount(): Int = items.size
 
-    class ViewHolder(itemView: View) : RecyclerView.ViewHolder(itemView) {
+    class ViewHolder(
+        itemView: View,
+        private val onItemDoubleTap: ((Int, OrderListItem) -> Unit)?
+    ) : RecyclerView.ViewHolder(itemView) {
         private val titleView: TextView = itemView.findViewById(R.id.order_title)
         private val subtitleView: TextView = itemView.findViewById(R.id.order_subtitle)
         private val statusView: TextView = itemView.findViewById(R.id.order_status)
         private val badgeView: TextView = itemView.findViewById(R.id.order_badge)
+        private var item: OrderListItem? = null
+        private var lastTapAt: Long = 0L
+
+        init {
+            itemView.setOnClickListener {
+                val currentItem = item ?: return@setOnClickListener
+                val position = bindingAdapterPosition
+                if (position == RecyclerView.NO_POSITION) return@setOnClickListener
+
+                val now = android.os.SystemClock.elapsedRealtime()
+                if (now - lastTapAt <= DOUBLE_TAP_TIMEOUT_MS) {
+                    onItemDoubleTap?.invoke(position, currentItem)
+                    lastTapAt = 0L
+                } else {
+                    lastTapAt = now
+                }
+            }
+        }
 
         fun bind(item: OrderListItem) {
+            this.item = item
             badgeView.text = item.id.toString()
             titleView.text = item.title
             subtitleView.text = item.subtitle
@@ -184,6 +207,10 @@ class OrderListAdapter : RecyclerView.Adapter<OrderListAdapter.ViewHolder>() {
                 else -> R.drawable.bg_status_warning
             }
             statusView.setBackgroundResource(statusBackground)
+        }
+
+        companion object {
+            private const val DOUBLE_TAP_TIMEOUT_MS = 350L
         }
     }
 }

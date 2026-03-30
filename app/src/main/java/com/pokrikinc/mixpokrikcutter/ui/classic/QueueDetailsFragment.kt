@@ -56,6 +56,17 @@ class QueueDetailsFragment : Fragment() {
         skipButton = view.findViewById(R.id.button_skip)
 
         val adapter = OrderListAdapter()
+        adapter.onItemDoubleTap = { position, item ->
+            if (position in orderStates.indices) {
+                currentIndex = position
+                render(adapter)
+                Toast.makeText(
+                    requireContext(),
+                    "Выбран заказ ${item.id}",
+                    Toast.LENGTH_SHORT
+                ).show()
+            }
+        }
         recyclerView.layoutManager = LinearLayoutManager(requireContext())
         recyclerView.adapter = adapter
 
