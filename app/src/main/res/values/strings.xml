@@ -1,3 +1,33 @@
 <resources>
     <string name="app_name">MixCutter</string>
+    <string name="title_catalog">Каталог</string>
+    <string name="title_vendors">Поставщики</string>
+    <string name="title_devices">Устройства</string>
+    <string name="title_parts">Детали</string>
+    <string name="title_queues">Очереди</string>
+    <string name="title_settings">Настройки</string>
+    <string name="loading_catalog">Загрузка каталога…</string>
+    <string name="loading_error">Ошибка загрузки. Перезапустите приложение.</string>
+    <string name="no_data">Нет данных</string>
+    <string name="action_refresh">Обновить</string>
+    <string name="action_save">Сохранить</string>
+    <string name="action_print">Печать</string>
+    <string name="action_select">Открыть</string>
+    <string name="action_open_section">Открыть раздел</string>
+    <string name="action_open_devices">Открыть устройства</string>
+    <string name="action_open_parts">Открыть детали</string>
+    <string name="action_open_queue">Открыть очередь</string>
+    <string name="print_unavailable">Файл печати недоступен</string>
+    <string name="device_unavailable">Нет соединения с плоттером</string>
+    <string name="print_sent">Файл отправлен на плоттер</string>
+    <string name="print_failed">Не удалось отправить на плоттер</string>
+    <string name="network_error">Ошибка сети</string>
+    <string name="search_hint">Поиск по названию или ID</string>
+    <string name="label_base_url">URL очередей</string>
+    <string name="label_printer_name">Имя принтера</string>
+    <string name="label_print_speed">Скорость реза (1-4)</string>
+    <string name="settings_saved">Настройки сохранены</string>
+    <string name="queues_intro">Здесь можно быстро найти очередь по названию или номеру и открыть ее детали.</string>
+    <string name="settings_intro">Настройки сохраняются локально на устройстве. Используйте поля ниже для изменения адреса сервера, имени принтера и скорости реза.</string>
+    <string name="image_preview">Изображение</string>
 </resources>

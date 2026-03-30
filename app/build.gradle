@@ -1,29 +1,25 @@
 plugins {
     alias(libs.plugins.android.application)
     alias(libs.plugins.kotlin.android)
-    alias(libs.plugins.kotlin.compose)
 }
 
 android {
     namespace 'com.pokrikinc.mixpokrikcutter'
     compileSdk 35
 
-    // 🚀 ОПТИМИЗАЦИИ ДЛЯ JSON ФАЙЛОВ
     aaptOptions {
-        noCompress 'gz', 'json', 'db', 'txt'  // Добавили json, db, txt
-        cruncherEnabled = false               // Ускоряет сборку
+        noCompress 'gz', 'json', 'db', 'txt', 'plt', 'svg'
+        cruncherEnabled = false
+        cruncherProcesses = 1
     }
 
     buildFeatures {
-        compose = true
-        buildConfig = true        // Включили BuildConfig для debug логов
-        viewBinding = false       // Отключили если не используете
-        dataBinding = false       // Отключили если не используете
-    }
-
-    // 🚀 ОПТИМИЗАЦИИ COMPOSE
-    composeOptions {
-        kotlinCompilerExtensionVersion = '1.5.8'
+        buildConfig = true
+        viewBinding = false
+        dataBinding = false
+        aidl = false
+        renderScript = false
+        resValues = false
     }
 
     defaultConfig {
@@ -35,18 +31,13 @@ android {
 
         testInstrumentationRunner "androidx.test.runner.AndroidJUnitRunner"
 
-        // 🚀 ОПТИМИЗАЦИИ ДЛЯ БОЛЬШИХ JSON ФАЙЛОВ
         vectorDrawables {
             useSupportLibrary = true
+            generatedDensities = ['mdpi', 'hdpi']
         }
 
-        // Увеличиваем heap для обработки больших JSON
         multiDexEnabled = true
-
-        // Оптимизации для ARM архитектур
-        ndk {
-            abiFilters 'arm64-v8a', 'armeabi-v7a', "x86_64"
-        }
+        proguardFiles getDefaultProguardFile('proguard-android-optimize.txt'), 'proguard-rules.pro'
     }
 
     buildTypes {
@@ -54,65 +45,76 @@ android {
             minifyEnabled = false
             debuggable = true
             applicationIdSuffix = ".debug"
-            // 🚀 УСКОРЕНИЕ DEBUG СБОРКИ
             crunchPngs = false
             zipAlignEnabled = false
-
-            // Отключаем оптимизации для быстрой сборки
             renderscriptOptimLevel = 0
+            jniDebuggable = false
+            pseudoLocalesEnabled = false
         }
 
         release {
-            minifyEnabled = true
-            shrinkResources = true
+            minifyEnabled = false
+            shrinkResources = false
             debuggable = false
-            // 🚀 МАКСИМАЛЬНЫЕ ОПТИМИЗАЦИИ RELEASE
             crunchPngs = true
             zipAlignEnabled = true
-
-            proguardFiles getDefaultProguardFile('proguard-android-optimize.txt'), 'proguard-rules.pro'
-
-            // R8 оптимизации
             renderscriptOptimLevel = 3
+            proguardFiles getDefaultProguardFile('proguard-android-optimize.txt'), 'proguard-rules.pro'
         }
     }
 
-    // 🚀 ОПТИМИЗАЦИИ КОМПИЛЯЦИИ
     compileOptions {
         sourceCompatibility = JavaVersion.VERSION_11
         targetCompatibility = JavaVersion.VERSION_11
-
-        // Включаем инкрементальную компиляцию
         incremental = true
+        coreLibraryDesugaringEnabled = false
     }
 
     kotlinOptions {
         jvmTarget = '11'
+        freeCompilerArgs += [
+                "-Xjvm-default=all",
+        ]
     }
 
     lintOptions {
         checkReleaseBuilds = false
         abortOnError = false
-        disable 'InvalidPackage', 'OldTargetApi'
+        disable 'InvalidPackage', 'OldTargetApi', 'VectorRaster', 'ContentDescription'
+    }
+
+    packagingOptions {
+        resources {
+            excludes += [
+                    'META-INF/DEPENDENCIES',
+                    'META-INF/LICENSE',
+                    'META-INF/LICENSE.txt',
+                    'META-INF/NOTICE',
+                    'META-INF/NOTICE.txt',
+                    'META-INF/*.kotlin_module'
+            ]
+        }
+    }
+
+    dexOptions {
+        maxProcessCount = 1
+        javaMaxHeapSize = "1g"
+        preDexLibraries = false
     }
 }
 
 dependencies {
     implementation libs.android.serialport
+    implementation libs.coil.android
     implementation libs.coil.svg
     implementation libs.coil.network.okhttp
-    implementation libs.coil.network.ktor3
-    implementation libs.coil.compose
-    implementation libs.androidx.ui
     implementation libs.retrofit
     implementation libs.retrofit2.converter.gson
-    implementation libs.androidx.navigation.compose
-    implementation libs.androidx.material3
-    implementation libs.androidx.activity.compose
-    implementation libs.androidx.lifecycle.viewmodel.compose
     implementation libs.androidx.core.ktx
     implementation libs.androidx.appcompat
     implementation libs.material
     implementation libs.androidx.activity
     implementation libs.androidx.constraintlayout
+    implementation libs.androidx.recyclerview
+    implementation libs.androidx.profileinstaller
 }
