@@ -7,6 +7,16 @@
     android:orientation="vertical"
     android:padding="18dp">
 
+    <TextView
+        android:id="@+id/part_favorite"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="end"
+        android:text="★"
+        android:textColor="@color/accent"
+        android:textSize="20sp"
+        android:visibility="gone" />
+
     <ImageView
         android:id="@+id/part_image"
         android:layout_width="match_parent"

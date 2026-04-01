@@ -10,6 +10,7 @@ object PreferenceManager {
     private const val KEY_PRINTER_NAME = "printer_name"
     private const val KEY_PRINT_SPEED = "print_speed"
     private const val KEY_PRINT_PRESSURE = "print_pressure"
+    private const val KEY_FAVORITE_TEMPLATES = "favorite_templates"
     private const val DEFAULT_BASE_URL = "http://192.168.50.43:8080"
 
     private lateinit var prefs: SharedPreferences
@@ -31,4 +32,11 @@ object PreferenceManager {
 
     fun getPrintPressure() = prefs.getInt(KEY_PRINT_PRESSURE, 4)
     fun setPrintPressure(pressure: Int) = prefs.edit { putInt(KEY_PRINT_PRESSURE, pressure) }
+
+    fun getFavoriteTemplates(): Set<String> =
+        prefs.getStringSet(KEY_FAVORITE_TEMPLATES, emptySet())?.toSet() ?: emptySet()
+
+    fun setFavoriteTemplates(value: Set<String>) = prefs.edit {
+        putStringSet(KEY_FAVORITE_TEMPLATES, value.toSet())
+    }
 }

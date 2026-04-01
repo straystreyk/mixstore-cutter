@@ -39,8 +39,9 @@
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:layout_marginTop="10dp"
-        android:textColor="@color/gray_dark"
-        android:textSize="15sp" />
+        android:fontFamily="sans-serif-medium"
+        android:textColor="@color/on_surface"
+        android:textSize="18sp" />
 
     <TextView
         android:id="@+id/order_status"

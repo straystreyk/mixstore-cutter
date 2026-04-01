@@ -71,13 +71,11 @@ class QueueDetailsFragment : Fragment() {
         recyclerView.adapter = adapter
 
         prevButton.setOnClickListener {
-            if (currentIndex > 0) {
-                currentIndex -= 1
-                render(adapter)
-            }
+            rewindProgress()
+            render(adapter)
         }
         skipButton.setOnClickListener {
-            moveToNextOrder(forceAdvance = true)
+            skipCurrentPart()
             render(adapter)
         }
         printButton.setOnClickListener {
@@ -97,13 +95,15 @@ class QueueDetailsFragment : Fragment() {
                 orderStates.clear()
                 orderStates.addAll(queue.orders.orEmpty().map { order ->
                     val parts = order.parts.orEmpty()
+                    if (order.isPrinted && parts.none { it.isPrinted }) {
+                        parts.forEach { it.isPrinted = true }
+                    }
                     QueueOrderState(
                         order = order,
-                        printedParts = parts.count { it.isPrinted }.takeIf { it > 0 }
-                            ?: if (order.isPrinted) parts.size else 0
+                        printedParts = parts.count { it.isPrinted }
                     )
                 })
-                currentIndex = findFirstPendingIndex()
+                currentIndex = if (orderStates.isNotEmpty()) 0 else 0
                 render(adapter)
             } catch (e: Exception) {
                 if (isAdded) {
@@ -125,6 +125,7 @@ class QueueDetailsFragment : Fragment() {
     private fun render(adapter: OrderListAdapter) {
         val hasOrders = orderStates.isNotEmpty()
         emptyView.visibility = if (hasOrders) View.GONE else View.VISIBLE
+        orderStates.forEach { it.syncPrintedParts() }
 
         val completedOrders = orderStates.count { it.isCompleted }
         summaryView.text = getString(
@@ -158,12 +159,12 @@ class QueueDetailsFragment : Fragment() {
                     state.totalParts
                 ),
                 status = when {
-                    state.isCompleted -> getString(R.string.queue_status_done)
                     index == currentIndex -> getString(
                         R.string.queue_status_current_format,
                         state.printedParts,
                         state.totalParts
                     )
+                    state.isCompleted -> getString(R.string.queue_status_done)
                     else -> getString(
                         R.string.queue_status_pending_format,
                         state.printedParts,
@@ -171,16 +172,53 @@ class QueueDetailsFragment : Fragment() {
                     )
                 },
                 isCompleted = state.isCompleted,
-                isCurrent = index == currentIndex && !state.isCompleted
+                isCurrent = index == currentIndex
             )
         })
 
-        prevButton.isEnabled = currentIndex > 0 && hasOrders
-        skipButton.isEnabled = hasOrders && currentIndex < orderStates.lastIndex
+        prevButton.isEnabled = hasOrders
+        skipButton.isEnabled = hasOrders
         printButton.isEnabled = currentOrder?.hasPendingParts == true
         if (adapter.itemCount > 0) {
             recyclerView.scrollToPosition(currentIndex.coerceIn(0, adapter.itemCount - 1))
         }
+    }
+
+    private fun rewindProgress() {
+        if (orderStates.isEmpty()) {
+            currentIndex = 0
+            return
+        }
+
+        val currentOrder = orderStates.getOrNull(currentIndex) ?: return
+        val parts = currentOrder.order.parts.orEmpty()
+        val lastPrintedIndex = parts.indexOfLast { it.isPrinted }
+
+        if (lastPrintedIndex >= 0) {
+            parts[lastPrintedIndex].isPrinted = false
+            currentOrder.printedParts = (currentOrder.printedParts - 1).coerceAtLeast(0)
+            return
+        }
+
+        moveToPreviousOrder()
+    }
+
+    private fun skipCurrentPart() {
+        if (orderStates.isEmpty()) {
+            currentIndex = 0
+            return
+        }
+
+        val currentOrder = orderStates.getOrNull(currentIndex) ?: return
+        val nextPart = currentOrder.order.parts.orEmpty().firstOrNull { !it.isPrinted }
+
+        if (currentOrder.isCompleted || nextPart == null) {
+            moveToNextOrder(forceAdvance = true)
+            return
+        }
+
+        nextPart.isPrinted = true
+        currentOrder.printedParts += 1
     }
 
     private fun printCurrentPart(adapter: OrderListAdapter) {
@@ -264,28 +302,14 @@ class QueueDetailsFragment : Fragment() {
             return
         }
 
-        val startIndex = if (forceAdvance) {
-            (currentIndex + 1).coerceAtMost(orderStates.lastIndex)
-        } else {
-            currentIndex
+        if (forceAdvance && currentIndex < orderStates.lastIndex) {
+            currentIndex += 1
         }
-
-        for (index in startIndex..orderStates.lastIndex) {
-            if (orderStates[index].hasPendingParts) {
-                currentIndex = index
-                return
-            }
-        }
-
-        currentIndex = orderStates.lastIndex
     }
 
-    private fun findFirstPendingIndex(): Int {
-        val pendingIndex = orderStates.indexOfFirst { it.hasPendingParts }
-        return when {
-            pendingIndex >= 0 -> pendingIndex
-            orderStates.isNotEmpty() -> orderStates.lastIndex
-            else -> 0
+    private fun moveToPreviousOrder() {
+        if (currentIndex > 0) {
+            currentIndex -= 1
         }
     }
 
@@ -293,6 +317,10 @@ class QueueDetailsFragment : Fragment() {
         val order: Order,
         var printedParts: Int = 0
     ) {
+        fun syncPrintedParts() {
+            printedParts = order.parts.orEmpty().count { it.isPrinted }
+        }
+
         val totalParts: Int
             get() = order.parts.orEmpty().size
 

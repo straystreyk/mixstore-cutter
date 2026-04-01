@@ -6,6 +6,8 @@ import android.view.ViewGroup
 import android.widget.Button
 import android.widget.ImageView
 import android.widget.TextView
+import androidx.recyclerview.widget.DiffUtil
+import androidx.recyclerview.widget.ListAdapter
 import androidx.recyclerview.widget.RecyclerView
 import com.pokrikinc.mixpokrikcutter.R
 
@@ -38,6 +40,7 @@ data class PartListItem(
     val title: String,
     val subtitle: String,
     val canPrint: Boolean,
+    val isFavorite: Boolean = false,
     val imageUrl: String? = null
 )
 
@@ -216,32 +219,26 @@ class OrderListAdapter : RecyclerView.Adapter<OrderListAdapter.ViewHolder>() {
 }
 
 class PartListAdapter(
-    private val onPrintClick: (PartListItem) -> Unit
-) : RecyclerView.Adapter<PartListAdapter.ViewHolder>() {
-    private val items = mutableListOf<PartListItem>()
-
-    fun submitList(newItems: List<PartListItem>) {
-        items.clear()
-        items.addAll(newItems)
-        notifyDataSetChanged()
-    }
+    private val onPrintClick: (PartListItem) -> Unit,
+    private val onItemClick: (PartListItem) -> Unit
+) : ListAdapter<PartListItem, PartListAdapter.ViewHolder>(DiffCallback()) {
 
     override fun onCreateViewHolder(parent: ViewGroup, viewType: Int): ViewHolder {
         val view = LayoutInflater.from(parent.context)
             .inflate(R.layout.item_part, parent, false)
-        return ViewHolder(view, onPrintClick)
+        return ViewHolder(view, onPrintClick, onItemClick)
     }
 
     override fun onBindViewHolder(holder: ViewHolder, position: Int) {
-        holder.bind(items[position])
+        holder.bind(getItem(position))
     }
-
-    override fun getItemCount(): Int = items.size
 
     class ViewHolder(
         itemView: View,
-        private val onPrintClick: (PartListItem) -> Unit
+        private val onPrintClick: (PartListItem) -> Unit,
+        private val onItemClick: (PartListItem) -> Unit
     ) : RecyclerView.ViewHolder(itemView) {
+        private val favoriteView: TextView = itemView.findViewById(R.id.part_favorite)
         private val imageView: ImageView = itemView.findViewById(R.id.part_image)
         private val titleView: TextView = itemView.findViewById(R.id.part_title)
         private val subtitleView: TextView = itemView.findViewById(R.id.part_subtitle)
@@ -250,10 +247,15 @@ class PartListAdapter(
 
         init {
             button.setOnClickListener { item?.let(onPrintClick) }
+            itemView.setOnLongClickListener {
+                item?.let(onItemClick)
+                true
+            }
         }
 
         fun bind(item: PartListItem) {
             this.item = item
+            favoriteView.visibility = if (item.isFavorite) View.VISIBLE else View.GONE
             ClassicImageLoader.load(imageView, item.imageUrl)
             titleView.text = item.title
             subtitleView.text = item.subtitle
@@ -263,6 +265,16 @@ class PartListAdapter(
             } else {
                 itemView.context.getString(R.string.print_unavailable)
             }
+        }
+    }
+
+    class DiffCallback : DiffUtil.ItemCallback<PartListItem>() {
+        override fun areItemsTheSame(oldItem: PartListItem, newItem: PartListItem): Boolean {
+            return oldItem.id == newItem.id
+        }
+
+        override fun areContentsTheSame(oldItem: PartListItem, newItem: PartListItem): Boolean {
+            return oldItem == newItem
         }
     }
 }
