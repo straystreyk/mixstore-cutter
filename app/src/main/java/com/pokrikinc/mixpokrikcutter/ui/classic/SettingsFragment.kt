@@ -8,12 +8,14 @@ import android.view.View
 import android.view.ViewGroup
 import android.widget.Button
 import android.widget.EditText
+import android.widget.TextView
 import android.widget.Toast
 import androidx.fragment.app.Fragment
 import androidx.lifecycle.lifecycleScope
 import com.pokrikinc.mixpokrikcutter.MainActivity
 import com.pokrikinc.mixpokrikcutter.R
 import com.pokrikinc.mixpokrikcutter.AppDataStore
+import com.pokrikinc.mixpokrikcutter.BuildConfig
 import com.pokrikinc.mixpokrikcutter.data.RetrofitProvider
 import com.pokrikinc.mixpokrikcutter.plotter.DeviceManager
 import com.pokrikinc.mixpokrikcutter.plotter.PrintUtil
@@ -36,13 +38,20 @@ class SettingsFragment : Fragment() {
             false
         )
 
+        val versionText = view.findViewById<TextView>(R.id.text_app_version)
         val urlInput = view.findViewById<EditText>(R.id.input_base_url)
         val printerInput = view.findViewById<EditText>(R.id.input_printer_name)
         val speedInput = view.findViewById<EditText>(R.id.input_print_speed)
         val pressureInput = view.findViewById<EditText>(R.id.input_print_pressure)
         val saveButton = view.findViewById<Button>(R.id.button_save)
         val deviceSettingsButton = view.findViewById<Button>(R.id.button_device_settings)
+        val checkUpdatesButton = view.findViewById<Button>(R.id.button_check_updates)
 
+        versionText.text = getString(
+            R.string.app_version_value,
+            BuildConfig.VERSION_NAME,
+            BuildConfig.VERSION_CODE
+        )
         urlInput.setText(PreferenceManager.getBaseUrl())
         printerInput.setText(PreferenceManager.getPrinterName())
         speedInput.setText(PreferenceManager.getPrintSpeed().toString())
@@ -68,6 +77,10 @@ class SettingsFragment : Fragment() {
 
         deviceSettingsButton.setOnClickListener {
             startActivity(Intent(Settings.ACTION_SETTINGS))
+        }
+
+        checkUpdatesButton.setOnClickListener {
+            (requireActivity() as MainActivity).checkForAppUpdates(silent = false)
         }
     }
 

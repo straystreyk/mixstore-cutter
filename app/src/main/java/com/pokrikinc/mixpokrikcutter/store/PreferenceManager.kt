@@ -11,6 +11,8 @@ object PreferenceManager {
     private const val KEY_PRINT_SPEED = "print_speed"
     private const val KEY_PRINT_PRESSURE = "print_pressure"
     private const val KEY_FAVORITE_TEMPLATES = "favorite_templates"
+    private const val KEY_UPDATE_DOWNLOAD_ID = "update_download_id"
+    private const val KEY_UPDATE_APK_NAME = "update_apk_name"
     private const val DEFAULT_BASE_URL = "http://192.168.50.43:8080"
 
     private lateinit var prefs: SharedPreferences
@@ -38,5 +40,22 @@ object PreferenceManager {
 
     fun setFavoriteTemplates(value: Set<String>) = prefs.edit {
         putStringSet(KEY_FAVORITE_TEMPLATES, value.toSet())
+    }
+
+    fun getUpdateDownloadId() = prefs.getLong(KEY_UPDATE_DOWNLOAD_ID, -1L)
+
+    fun setUpdateDownloadId(downloadId: Long) = prefs.edit {
+        putLong(KEY_UPDATE_DOWNLOAD_ID, downloadId)
+    }
+
+    fun getPendingUpdateApkName() = prefs.getString(KEY_UPDATE_APK_NAME, null)
+
+    fun setPendingUpdateApkName(fileName: String) = prefs.edit {
+        putString(KEY_UPDATE_APK_NAME, fileName)
+    }
+
+    fun clearPendingUpdate() = prefs.edit {
+        remove(KEY_UPDATE_DOWNLOAD_ID)
+        remove(KEY_UPDATE_APK_NAME)
     }
 }

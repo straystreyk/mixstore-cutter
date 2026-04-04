@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="action_check_updates">Проверить обновления</string>
+    <string name="update_available_title">Доступно обновление</string>
+    <string name="update_available_message">Найдена версия %1$s. Установить обновление?</string>
+    <string name="update_available_notes">%1$s\n\nИзменения:\n%2$s</string>
+    <string name="update_download_started">Загрузка обновления началась</string>
+    <string name="update_not_found">Обновлений нет</string>
+    <string name="update_check_failed">Не удалось проверить обновления</string>
+    <string name="update_download_failed">Не удалось скачать обновление</string>
+    <string name="update_download_invalid">Скачанный APK поврежден или загружен не полностью</string>
+    <string name="update_download_progress_title">Загрузка обновления</string>
+    <string name="update_download_progress_preparing">Подготавливаю загрузку…</string>
+    <string name="update_download_progress_percent">Скачано: %1$d%%</string>
+    <string name="update_download_progress_done">Загрузка завершена</string>
+    <string name="update_download_progress_failed">Не удалось завершить загрузку</string>
+    <string name="update_download_progress_retrying">Соединение оборвалось, жду повторной попытки</string>
+    <string name="update_install_permission_title">Разрешение на установку</string>
+    <string name="update_install_permission_required">Разрешите установку из этого источника и вернитесь в приложение</string>
+    <string name="update_download_complete">Обновление загружено. Открываю установку</string>
+    <string name="update_ready_notification_title">Обновление скачано</string>
+    <string name="update_ready_notification_text">Нажмите, чтобы установить новую версию</string>
+    <string name="update_ready_notification_channel_name">Установка обновления</string>
+    <string name="update_ready_notification_channel_description">Уведомления о готовности обновления к установке</string>
+    <string name="action_install">Установить</string>
+    <string name="action_later">Позже</string>
+    <string name="action_open_settings">Открыть настройки</string>
+</resources>
