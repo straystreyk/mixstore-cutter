@@ -12,16 +12,18 @@ import android.widget.LinearLayout
 import android.widget.ProgressBar
 import android.widget.TextView
 import android.widget.Toast
-import androidx.appcompat.app.AppCompatActivity
 import androidx.appcompat.app.AlertDialog
+import androidx.appcompat.app.AppCompatActivity
 import androidx.appcompat.widget.AppCompatButton
 import androidx.appcompat.widget.Toolbar
 import androidx.fragment.app.Fragment
 import com.google.android.material.bottomnavigation.BottomNavigationView
-import com.pokrikinc.mixpokrikcutter.data.model.AppUpdateInfo
 import com.pokrikinc.mixpokrikcutter.data.RetrofitProvider
+import com.pokrikinc.mixpokrikcutter.data.model.AppUpdateInfo
 import com.pokrikinc.mixpokrikcutter.store.PreferenceManager
 import com.pokrikinc.mixpokrikcutter.ui.classic.CatalogFragment
+import com.pokrikinc.mixpokrikcutter.ui.classic.CatalogSectionFragment
+import com.pokrikinc.mixpokrikcutter.ui.classic.CustomCategoryPartsFragment
 import com.pokrikinc.mixpokrikcutter.ui.classic.DeviceFragment
 import com.pokrikinc.mixpokrikcutter.ui.classic.PartsFragment
 import com.pokrikinc.mixpokrikcutter.ui.classic.QueueDetailsFragment
@@ -184,16 +186,24 @@ class MainActivity : AppCompatActivity() {
         supportActionBar?.setDisplayHomeAsUpEnabled(showBack)
     }
 
-    fun openVendors(categoryId: String) {
-        pushFragment(VendorFragment.newInstance(categoryId))
+    fun openCatalogSection(source: String) {
+        pushFragment(CatalogSectionFragment.newInstance(source))
     }
 
-    fun openDevices(categoryId: String, vendorId: String) {
-        pushFragment(DeviceFragment.newInstance(categoryId, vendorId))
+    fun openVendors(source: String, categoryId: String) {
+        if (source == CatalogSource.CUSTOM) {
+            pushFragment(CustomCategoryPartsFragment.newInstance(categoryId))
+        } else {
+            pushFragment(VendorFragment.newInstance(source, categoryId))
+        }
     }
 
-    fun openParts(categoryId: String, vendorId: String, deviceId: String) {
-        pushFragment(PartsFragment.newInstance(categoryId, vendorId, deviceId))
+    fun openDevices(source: String, categoryId: String, vendorId: String) {
+        pushFragment(DeviceFragment.newInstance(source, categoryId, vendorId))
+    }
+
+    fun openParts(source: String, categoryId: String, vendorId: String, deviceId: String) {
+        pushFragment(PartsFragment.newInstance(source, categoryId, vendorId, deviceId))
     }
 
     fun openQueueDetails(queueId: Int) {

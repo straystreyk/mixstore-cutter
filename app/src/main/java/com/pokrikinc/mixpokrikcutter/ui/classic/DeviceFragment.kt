@@ -26,6 +26,7 @@ class DeviceFragment : Fragment() {
     }
 
     override fun onViewCreated(view: View, savedInstanceState: Bundle?) {
+        val source = requireArguments().getString(ARG_SOURCE).orEmpty()
         val categoryId = requireArguments().getString(ARG_CATEGORY_ID).orEmpty()
         val vendorId = requireArguments().getString(ARG_VENDOR_ID).orEmpty()
         val vendor = AppDataStore.findVendor(categoryId, vendorId)
@@ -41,7 +42,7 @@ class DeviceFragment : Fragment() {
         val searchView = view.findViewById<EditText>(R.id.search_view)
 
         val adapter = SimpleListAdapter { item ->
-            (requireActivity() as MainActivity).openParts(categoryId, vendorId, item.id)
+            (requireActivity() as MainActivity).openParts(source, categoryId, vendorId, item.id)
         }
 
         recyclerView.layoutManager = GridLayoutManager(requireContext(), 2)
@@ -78,12 +79,14 @@ class DeviceFragment : Fragment() {
     }
 
     companion object {
+        private const val ARG_SOURCE = "source"
         private const val ARG_CATEGORY_ID = "category_id"
         private const val ARG_VENDOR_ID = "vendor_id"
 
-        fun newInstance(categoryId: String, vendorId: String): DeviceFragment {
+        fun newInstance(source: String, categoryId: String, vendorId: String): DeviceFragment {
             return DeviceFragment().apply {
                 arguments = Bundle().apply {
+                    putString(ARG_SOURCE, source)
                     putString(ARG_CATEGORY_ID, categoryId)
                     putString(ARG_VENDOR_ID, vendorId)
                 }

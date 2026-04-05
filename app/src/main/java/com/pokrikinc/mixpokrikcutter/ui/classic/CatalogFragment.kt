@@ -8,7 +8,7 @@ import android.widget.TextView
 import androidx.fragment.app.Fragment
 import androidx.recyclerview.widget.GridLayoutManager
 import androidx.recyclerview.widget.RecyclerView
-import com.pokrikinc.mixpokrikcutter.AppDataStore
+import com.pokrikinc.mixpokrikcutter.CatalogSource
 import com.pokrikinc.mixpokrikcutter.MainActivity
 import com.pokrikinc.mixpokrikcutter.R
 
@@ -32,24 +32,31 @@ class CatalogFragment : Fragment() {
         val progressView = view.findViewById<View>(R.id.progress_view)
 
         val adapter = SimpleListAdapter { item ->
-            (requireActivity() as MainActivity).openVendors(item.id)
+            (requireActivity() as MainActivity).openCatalogSection(item.id)
         }
 
         recyclerView.layoutManager = GridLayoutManager(requireContext(), 2)
         recyclerView.adapter = adapter
         progressView.visibility = View.GONE
 
-        val categories = AppDataStore.getCatalog().map { category ->
+        val sections = listOf(
             SimpleListItem(
-                id = category.id,
-                title = category.name,
-                subtitle = "${category.vendors.size} поставщиков",
+                id = CatalogSource.BUILTIN,
+                title = getString(R.string.title_catalog_builtin),
+                subtitle = getString(R.string.catalog_builtin_subtitle),
                 actionLabel = getString(R.string.action_open_section),
-                imageUrl = AppDataStore.resolveImagePath(category.img)
+                imageUrl = "android.resource://${requireContext().packageName}/${R.drawable.ic_catalog_builtin}"
+            ),
+            SimpleListItem(
+                id = CatalogSource.CUSTOM,
+                title = getString(R.string.title_catalog_custom),
+                subtitle = getString(R.string.catalog_custom_subtitle),
+                actionLabel = getString(R.string.action_open_section),
+                imageUrl = "android.resource://${requireContext().packageName}/${R.drawable.ic_catalog_custom}"
             )
-        }
+        )
 
-        adapter.submitList(categories)
-        emptyView.visibility = if (categories.isEmpty()) View.VISIBLE else View.GONE
+        adapter.submitList(sections)
+        emptyView.visibility = if (sections.isEmpty()) View.VISIBLE else View.GONE
     }
 }

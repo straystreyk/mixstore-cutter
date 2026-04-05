@@ -2,6 +2,7 @@ package com.pokrikinc.mixpokrikcutter.ui.classic
 
 import android.content.Context
 import com.pokrikinc.mixpokrikcutter.AppDataStore
+import com.pokrikinc.mixpokrikcutter.data.RetrofitProvider
 import com.pokrikinc.mixpokrikcutter.data.repository.CatalogRepository
 import com.pokrikinc.mixpokrikcutter.plotter.DeviceManager
 import com.pokrikinc.mixpokrikcutter.plotter.LogUtils
@@ -53,5 +54,14 @@ object PlotterPrintHelper {
                 }
             }
             result
+        }
+
+    suspend fun printCustomPartById(partId: Int): PrintResult =
+        withContext(Dispatchers.IO) {
+            LogUtils.d("PlotterPrint", "printCustomPartById partId=$partId")
+            val pltContent = RetrofitProvider.getCustomCatalogApi()
+                .getPartCutData(partId)
+                .string()
+            printRawPltContent(pltContent)
         }
 }

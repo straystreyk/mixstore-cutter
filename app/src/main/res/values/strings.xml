@@ -34,7 +34,9 @@
     <string name="label_print_pressure">Давление</string>
     <string name="settings_saved">Настройки сохранены</string>
     <string name="queues_intro">Здесь можно быстро найти очередь по названию или номеру и открыть ее детали.</string>
-    <string name="settings_intro">Настройки сохраняются локально на устройстве. Используйте поля ниже для изменения адреса сервера, имени принтера, скорости реза и давления.</string>
+    <string name="settings_intro">Настройки сохраняются локально на устройстве. Используйте поля ниже для изменения
+        адреса сервера, имени принтера, скорости реза и давления.
+    </string>
     <string name="image_preview">Изображение</string>
     <string name="queue_summary_format">%1$s • завершено %2$d из %3$d</string>
     <string name="queue_current_format">Текущий заказ %1$d/%2$d: %3$s • деталей %4$d/%5$d</string>
@@ -45,4 +47,16 @@
     <string name="queue_status_pending_format">Ожидает • %1$d/%2$d</string>
     <string name="queue_complete">Очередь завершена</string>
     <string name="queue_nothing_to_print">В текущем заказе больше нечего вырезать</string>
+    <string name="title_catalog_builtin">Предустановлено</string>
+    <string name="title_catalog_custom">Свои лекала</string>
+    <string name="catalog_builtin_subtitle">Локальный каталог</string>
+    <string name="catalog_custom_subtitle">Каталог из базы</string>
+    <string name="custom_catalog_error">Каталог недоступен</string>
+    <string name="custom_print_unavailable">Файл для резки недоступен</string>
+    <string name="catalog_custom_category_subtitle">Открыть список лекал</string>
 </resources>
+
+
+
+
+

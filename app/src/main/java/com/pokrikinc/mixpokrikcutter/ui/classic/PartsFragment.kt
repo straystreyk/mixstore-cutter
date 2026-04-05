@@ -115,13 +115,20 @@ class PartsFragment : Fragment() {
     }
 
     companion object {
+        private const val ARG_SOURCE = "source"
         private const val ARG_CATEGORY_ID = "category_id"
         private const val ARG_VENDOR_ID = "vendor_id"
         private const val ARG_DEVICE_ID = "device_id"
 
-        fun newInstance(categoryId: String, vendorId: String, deviceId: String): PartsFragment {
+        fun newInstance(
+            source: String,
+            categoryId: String,
+            vendorId: String,
+            deviceId: String
+        ): PartsFragment {
             return PartsFragment().apply {
                 arguments = Bundle().apply {
+                    putString(ARG_SOURCE, source)
                     putString(ARG_CATEGORY_ID, categoryId)
                     putString(ARG_VENDOR_ID, vendorId)
                     putString(ARG_DEVICE_ID, deviceId)

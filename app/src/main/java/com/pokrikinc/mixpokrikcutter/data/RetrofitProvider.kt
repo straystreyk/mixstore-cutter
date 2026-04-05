@@ -1,5 +1,6 @@
 package com.pokrikinc.mixpokrikcutter.data
 
+import com.pokrikinc.mixpokrikcutter.data.remote.ICustomCatalogApi
 import com.pokrikinc.mixpokrikcutter.data.remote.IPlotterApi
 import com.pokrikinc.mixpokrikcutter.store.PreferenceManager
 import okhttp3.OkHttpClient
@@ -30,5 +31,5 @@ object RetrofitProvider {
     }
 
     fun getPlotterApi(): IPlotterApi = retrofit.create(IPlotterApi::class.java)
+    fun getCustomCatalogApi(): ICustomCatalogApi = retrofit.create(ICustomCatalogApi::class.java)
 }
-
